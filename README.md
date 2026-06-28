@@ -7,6 +7,12 @@
 
 ## English
 
+### Reading Path
+
+Equal System Manifesto (Entry)  
+→ Limit Theory of Meaning (Foundation)  
+→ Equal System Design (Institutional Framework)
+
 ### Overview
 
 This repository contains the complete theoretical framework of the **Equal System**, a social structure designed for the post-scarcity era.
@@ -43,7 +49,14 @@ This work is licensed under the MIT License.
 
 ---
 
+
 ## 中文
+
+### 阅读路径
+
+平等制宣言（入口）  
+→ 意义极限哲学论（底层逻辑）  
+→ 平等制设计（制度落点）
 
 ### 概述
 
