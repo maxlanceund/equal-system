@@ -30,10 +30,13 @@ The Equal System consists of two parallel layers:
 
 | File | Description |
 |------|-------------|
+| `manifesto-cn.md` | Equal System Manifesto (Chinese) |
+| `manifesto-en.md` | Equal System Manifesto (English) |
 | `meaning-limit-theory-cn.md` | Limit Theory of Meaning (Chinese) |
 | `meaning-limit-theory-en.md` | Limit Theory of Meaning (English) |
 | `equal-system-cn.md` | Equal System Design (Chinese) |
 | `equal-system-en.md` | Equal System Design (English) |
+| `equal-system-simple-v2.md` | Equal System (Simple Version) |
 
 ### License
 
@@ -66,10 +69,13 @@ This work is licensed under the MIT License.
 
 | 文件 | 说明 |
 |------|------|
+| `manifesto-cn.md` | 平等制宣言（中文版） |
+| `manifesto-en.md` | 平等制宣言（英文版） |
 | `meaning-limit-theory-cn.md` | 意义极限哲学论（中文版） |
 | `meaning-limit-theory-en.md` | 意义极限哲学论（英文版） |
 | `equal-system-cn.md` | 平等制设计（中文版） |
 | `equal-system-en.md` | 平等制设计（英文版） |
+| `equal-system-simple-v2.md` | 平等制设计（极简版） |
 
 ### 许可证
 
