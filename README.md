@@ -47,6 +47,7 @@ The Equal System consists of two parallel layers:
 
 This work is licensed under the MIT License.
 
+
 ---
 
 
@@ -93,5 +94,18 @@ This work is licensed under the MIT License.
 本作品采用 MIT 许可证。
 
 ---
+## 中文 / Chinese
+
+- 知乎文章：[你每天累死累活，到底为了什么？](https://zhuanlan.zhihu.com/p/2056146436161540323)
+- 爱发电：[https://afdian.com/a/3a2b8c](https://afdian.com/a/3a2b8c)
+
+## English
+
+- Zhihu Article: [Why do you exhaust yourself every day?](https://zhuanlan.zhihu.com/p/2056146436161540323)
+- AI Dian: [https://afdian.com/a/3a2b8c](https://afdian.com/a/3a2b8c)
+
+## 致谢 / Acknowledgments
+
+（等待第一位赞助者 / Waiting for the first sponsor）
 
 **Repository / 仓库地址**：https://github.com/maxlanceund/equal-system
