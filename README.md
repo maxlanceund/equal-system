@@ -109,3 +109,55 @@ This work is licensed under the MIT License.
 （等待第一位赞助者 / Waiting for the first sponsor）
 
 **Repository / 仓库地址**：https://github.com/maxlanceund/equal-system
+
+---
+
+**思想源流 / Intellectual Lineage**
+
+本理论站在以下四位的工作之上：
+
+This theory stands on the work of the following four thinkers:
+
+- **霍布斯 (Hobbes)**：提供了“生存竞争”作为社会底层逻辑的观察。
+- **马克思 (Marx)**：提供了“劳动异化”作为现代社会结构性病症的诊断。
+- **罗素 (Russell)**：提供了逻辑推导的方法——把复杂命题拆解到最小可验证单位，使推导链条可追踪、可检验。
+- **维特根斯坦 (Wittgenstein)**：提供了“语言边界”的警觉——区分可说的与不可说的，拒绝在不可验证前提上建立理论。
+
+> *Hobbes: observed "the war of all against all" as the underlying logic of society.*
+> *Marx: diagnosed "alienation of labor" as the structural illness of modern society.*
+> *Russell: provided the method of logical analysis——breaking complex propositions into their smallest verifiable units, making every step of the derivation traceable and testable.*
+> *Wittgenstein: provided the vigilance of "linguistic boundaries"——distinguishing what can be said from what cannot, refusing to build theory on unverifiable premises.*
+
+其中，马克思的影响是最大的。他让我看到了“劳动”作为社会结构性问题的核心位置，也让我意识到：如果只是描述世界，而不试图改变它，思想就还没有走完它的路。
+
+*Among them, Marx's influence is the greatest. He showed me the central position of "labor" as a structural problem of society——and made me realize that if a thought only describes the world without attempting to change it, it has not yet completed its journey.*
+
+但他们都停在了同一个地方：
+
+Yet they all stopped at the same point:
+
+**没有意识到“生存强制力”才是异化的根源，而技术（AI自动化、核聚变、太空资源开采）正在使这一强制力失去存在基础。**
+
+*They did not recognize that "survival compulsion" is the root of alienation——and that technology (AI automation, nuclear fusion, space resource extraction) is rendering that compulsion obsolete.*
+
+平等制是这四条线在技术条件下被拧到一起后的自然产物。
+
+*Equal System is what happens when these four lines are twisted together under the condition of technological abundance.*
+
+---
+
+*附记 / A note:*
+
+我唯一知道的就是我一无所知。
+死亡不是生命的终点——意义极限哲学论已经给出了答案：意义在区间内产生，在边界处归零。归零不是否定，是停止更新。
+
+*All I know is that I know nothing.*
+*Death is not the end of life——the Theory of Meaning Limit has already given the answer: meaning is generated within the interval, and zeros out at the boundary. Zeroing out is not negation; it is the cessation of updating.*
+
+我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
+
+*I also recognize that without Engels, Marx's influence might not have reached where it is today. He turned Marx's manuscripts into weapons. He is not in the methodological lineage of this theory——but he is in the condition lineage that made this theory possible.*
+
+—— 以此致敬五位跨越世纪的引路人
+
+*—— To the five guides across centuries*
