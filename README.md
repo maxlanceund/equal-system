@@ -1,27 +1,11 @@
-╔═══════════════════════════════════════════════════════════════╗
-║          Core Logic of the Limits of Meaning                 ║
-║                                                             ║
-║   Meaningful ⇔ ( t ∈ [0, T] ) ∧ ( Closed-loop Operation )  ║
-║                                                             ║
-║   t > T  →  Meaning Undefined (Not zero, but domain ends)   ║
-║                                                             ║
-║   Unverifiable → No cognitive investment                    ║
-║                                                             ║
-║   Philosophical E=mc² :                                     ║
-║   Effective Meaning = Closed-loop Operation within Interval ║
-╚═══════════════════════════════════════════════════════════════╝
-╔═══════════════════════════════════════════════════════════════╗
-║                    意义极限核心逻辑                          ║
-║                                                             ║
-║   意义有效 ⇔ ( t ∈ [0, T] ) ∧ ( 操作闭环完成 )             ║
-║                                                             ║
-║   t > T  →  意义无定义（非归零，是定义域终止）              ║
-║                                                             ║
-║   不可验证 → 不投入认知资源                                 ║
-║                                                             ║
-║  哲学版质能方程：                                            ║
-║  有效意义 = 区间内的闭环操作量                              ║
-╚═══════════════════════════════════════════════════════════════╝
+Meaning = ∮_Interval Closed-loop Op  |  Beyond = Undefined
+意义 = ∫_区间 闭环操作  |  边界外 = 无定义
+# 意义极限哲学论 / On the Limits of Meaning
+
+> **核心逻辑：** 意义 = ∫_区间 闭环操作 | 边界外 = 无定义
+> **Core Logic:** Meaning = ∮_Interval Closed-loop Op | Beyond = Undefined
+
+--- 以下为论文正文 ---
 
 # Equal System / 平等制
 
