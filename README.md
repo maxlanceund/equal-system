@@ -1,6 +1,3 @@
-||
-
-
 # Equal System / 平等制
 
 **A social structure design for the post-scarcity era**
