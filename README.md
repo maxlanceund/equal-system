@@ -1,6 +1,5 @@
-[ · ]        ‖
-意义极限论    平等制
-Theory       System
+||
+
 
 # Equal System / 平等制
 
