@@ -1,4 +1,5 @@
 Meaning = ∮_Interval Closed-loop Op  |  Beyond = Undefined
+
 意义 = ∫_区间 闭环操作  |  边界外 = 无定义
 # 意义极限哲学论 / On the Limits of Meaning
 
