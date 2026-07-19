@@ -35,3 +35,6 @@ Only truth can confirm truth.
 Naturally, only that which possesses life and death can confirm life and death.
 
 Life is thus. Death is thus.
+—— Written on July 19, 2026
+
+*This essay is an existential extension of the "Meaning Limit Theory" applied to the question of death and life.*
