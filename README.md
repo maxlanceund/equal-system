@@ -45,6 +45,7 @@ This repository contains a complete theoretical framework — from the foundatio
 |------|---------|
 | [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
 | [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
+| [源头回溯法](https://github.com/maxlanceund/equal-system/blob/main/essays/source-tracing-zh.md) | [Source Tracing](https://github.com/maxlanceund/equal-system/blob/main/essays/source-tracing-en.md) |
 ---
 
 ## Overview / 概述
