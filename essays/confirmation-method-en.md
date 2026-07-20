@@ -11,17 +11,17 @@ The essence of this method is: **replace the language of "loss" with the languag
 
 ## Your Complete Coordinate Map
 
-| Executed Paths (completed, confirmed, mine) | Unexecuted Paths (crossed out, not mine) |
+| Executed Paths (completed, confirmed, mine) | Unexecuted Paths (crossed out, not mine)|
 |---|---|
-| I have a clear judgment: conditions not met | ~~Attend University of Tennessee for MA in Philosophy~~ |
-| I have clarity from reading Russell | ~~Achieve full English competence for TA~~ |
+| I have a clear judgment: conditions not met | ~~Pursue an MA in Philosophy at a certain university~~ |
+| I have clarity from reading Russell | ~~Achieve full English competence for a TA position~~ |
 | I have clarity from reading Wittgenstein | ~~Become a PhD in Philosophy~~ |
 | I have clarity from reading Hobbes | ~~Obtain a faculty position in academia~~ |
-| I have a complete philosophical system | ~~Publish English papers~~ |
-| I have a design for a social system | ~~Enter the U.S. academic system~~ |
-| I have a complete philosophical essay | ~~Become “Dr. Und”~~ |
-| I have recognition from a U.S. philosophy professor | ~~Be fully accepted by the academic system~~ |
-| I have confirmed that Tennessee is not my path | ~~Walk on UT campus and read in its library~~ |
+| I have a complete philosophical system | ~~Publish papers in English~~ |
+| I have a design for a social system | ~~Enter a foreign academic system~~ |
+| I have a complete philosophical essay | ~~Become "Dr. Und"~~ |
+| I have recognition from a professor abroad | ~~Be fully accepted by the academic system~~ |
+| I have confirmed that a certain path is not for me | ~~Walk on that campus and read in its library~~ |
 
 ---
 
