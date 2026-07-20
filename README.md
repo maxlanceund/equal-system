@@ -36,6 +36,7 @@ This repository contains a complete theoretical framework — from the foundatio
 | 中文 | English |
 |------|---------|
 | [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
+| [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
 
 ### Philosophical Essays / 哲学随笔
 | 中文 | English |
