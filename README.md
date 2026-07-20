@@ -127,6 +127,17 @@ This theory stands on the work of the following thinkers:
 > 我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
 
 ---
+## What's Next / 下一步
+
+- 持续修订已有文档
+- 随着阅读与思考的深入，逐步扩展体系
+- 确认边界，继续在场
+
+---
+
+- Revise existing documents as thinking deepens
+- Expand the framework gradually with continued reading and reflection
+- Confirm the boundary, remain present
 
 ## License / 许可证
 
@@ -139,8 +150,3 @@ This work is licensed under the MIT License.
 **—— 以此致敬跨越世纪的引路人**
 
 
-## What's Next / 下一步
-
-- 持续修订已有文档
-- 随着阅读和思考的深入，逐步扩展体系
-- 确认边界，继续在场
