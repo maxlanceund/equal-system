@@ -11,7 +11,7 @@ The essence of this method is: **replace the language of "loss" with the languag
 
 ## Your Complete Coordinate Map
 
-| Executed Paths (completed, confirmed, mine) | ~~Unexecuted Paths (crossed out, not mine)~~ |
+| Executed Paths (completed, confirmed, mine) | Unexecuted Paths (crossed out, not mine) |
 |---|---|
 | I have a clear judgment: conditions not met | ~~Attend University of Tennessee for MA in Philosophy~~ |
 | I have clarity from reading Russell | ~~Achieve full English competence for TA~~ |
