@@ -2,13 +2,6 @@
 
 **A social structure design for the post-scarcity era**  
 **后稀缺时代的社会结构设计**
-> Philosophy begins with a question. Mine was simple: does meaning have a limit? And if so, how can it be proven?
->
-> ——This repository is my answer.
-
-> 哲学起源于疑问。我的疑问很简单：意义是否存在极限？如果存在，怎么证明？
->
-> ——这个仓库，就是我的回答。
 
 ---
 
