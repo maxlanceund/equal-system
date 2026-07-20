@@ -8,6 +8,7 @@
 ## Core Logic / 核心逻辑
 ---
 This repository contains a complete theoretical framework — from the foundational logic of meaning theory to the institutional design of social structures.
+
 本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到社会结构的制度设计。
 
 - [应用示例 / Applications](examples/applications.md)
