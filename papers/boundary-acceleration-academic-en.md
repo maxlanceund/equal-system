@@ -150,6 +150,23 @@ Response: The derivation does not require infinite density. It only requires tha
 **Objection 2: If the system has already released all signals before the boundary, boundary acceleration does not occur.**
 
 Response: Correct. This is precisely the conditionality of boundary acceleration. It is not a universal law, but a conditional structure. Its presence or absence is itself an observable signal — a smooth boundary means signals were already released in advance.
+## Falsifiability Condition
+
+Any testable theory must specify the conditions under which it would be falsified. Boundary acceleration is no exception.
+
+The theory is falsified if the following is observed:
+
+> **In a finite system with a clearly identifiable boundary, where the system still holds unreleased signals before the boundary, signal density does not rise before the boundary but instead continuously decreases to zero.**
+
+Specifically, if a system satisfies:
+1. The interval boundary is well-defined
+2. The system still holds residual signals before the boundary (i.e., `R(t) > 0` has already been established before the boundary)
+3. As the boundary approaches, signal density `D(t)` does not rise, but monotonically decreases or remains at a low level
+4. Zeroing occurs at a low signal density state
+
+Then the system constitutes a counterexample to boundary acceleration. If such counterexamples are confirmed to exist, the theory does not hold.
+
+To date, no such counterexamples have been observed in the finite systems examined (games, sexuality, relationships, projects, etc.). However, the theory remains open to future testing.
 
 
 ## 6. Conclusion
