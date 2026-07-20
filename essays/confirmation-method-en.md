@@ -6,7 +6,7 @@ Mark your paths in two dimensions: **Executed** and **Unexecuted (crossed out)**
 
 ## Your Complete Coordinate Map
 
-| Executed Paths (completed, confirmed, mine) | Unexecuted Paths (crossed out, not mine) |
+| Executed Paths (completed, confirmed, mine) | ~~Unexecuted Paths (crossed out, not mine)~~ |
 |---|---|
 | Completed Marx's collected works in 3 years of college | ~~Attend University of Tennessee for MA in Philosophy~~ |
 | Read Russell in 2 years after graduation | ~~Achieve full English competence for TA~~ |
@@ -16,7 +16,7 @@ Mark your paths in two dimensions: **Executed** and **Unexecuted (crossed out)**
 | Completed the Equal System design | ~~Enter the U.S. academic system~~ |
 | Completed the essay on the boundary of philosophy | ~~Become "Dr. Und"~~ |
 | Received email recognition from Prof. Garthoff | ~~Be fully accepted by the academic system~~ |
-| Declined Tennessee (actively chose not to go) | |
+| Confirmed mismatch with Tennessee (conditions not met, program not viable) | ~~Walk on UT campus and read in its library~~ |
 
 ---
 
