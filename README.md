@@ -1,4 +1,9 @@
-
+> 哲学起源于疑问。我的疑问很简单：意义是否存在极限？如果存在，怎么证明？
+>
+> Philosophy begins with a question. Mine was simple: does meaning have a limit? And if so, how can it be proven?
+>
+> ——这个仓库，就是我的回答。
+> ——This repository is my answer.
 # Equal System / 平等制
 
 **A social structure design for the post-scarcity era**  
