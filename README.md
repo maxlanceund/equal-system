@@ -45,7 +45,6 @@ This repository contains a complete theoretical framework — from the foundatio
 | [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
 | [确认法（路径坐标图法）](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-en.md) |
 | [银河](https://github.com/maxlanceund/equal-system/blob/main/essays/galaxy-zh.md) | [Galaxy](https://github.com/maxlanceund/equal-system/blob/main/essays/galaxy-en.md) |
-算了还是这个格式吧
 
 ## Overview / 概述
 
