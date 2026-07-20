@@ -13,34 +13,17 @@
 --- 
 ### Reading Path / 阅读路径
 
-**Entry / 入口**
-
 | 中文 | English |
 |------|---------|
+| **入口** | **Entry** |
 | [平等制宣言](manifesto-cn.md) | [Equal System Manifesto](manifesto-en.md) |
-
-**Foundation / 底层逻辑**
-
-| 中文 | English |
-|------|---------|
+| **底层逻辑** | **Foundation** |
 | [意义极限哲学论](meaning-limit-theory-cn.md) | [Limit Theory of Meaning](meaning-limit-theory-en.md) |
-
-**Institutional Framework / 制度落点**
-
-| 中文 | English |
-|------|---------|
+| **制度落点** | **Institutional Framework** |
 | [平等制设计](equal-system-cn.md) | [Equal System Design](equal-system-en.md) |
-
-**Academic Paper / 学术论文**
-
-| 中文 | English |
-|------|---------|
+| **学术论文** | **Academic Paper** |
 | [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
-
-**Essays / 随笔**
-
-| 中文 | English |
-|------|---------|
+| **哲学随笔** | **Philosophical Essays** |
 | [论死亡与生命](essays/death-and-life-cn.md) | [On Death and Life](essays/death-and-life-en.md) |
 | [哲学的边界](essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](essays/language-philosophy-boundary-en.md) |
 | [确认法](essays/confirmation-method-zh.md) | [Confirmation Method](essays/confirmation-method-en.md) |
