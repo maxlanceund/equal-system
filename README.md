@@ -2,6 +2,7 @@
 
 **A social structure design for the post-scarcity era**  
 **后稀缺时代的社会结构设计**
+
 ---
 
 ## Core Logic / 核心逻辑
