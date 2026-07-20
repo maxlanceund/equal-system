@@ -44,11 +44,9 @@ This repository contains a complete theoretical framework — from the foundatio
 | 中文 | English |
 |------|---------|
 | [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
+| [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
 ---
-## Essays
 
-- [哲学的边界](essays/language-philosophy-boundary-zh.md)（中文）
-- [The Boundary of Philosophy](essays/language-philosophy-boundary-en.md)（English）
 ## Overview / 概述
 
 ### English
