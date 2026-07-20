@@ -14,6 +14,76 @@
 ## Core Logic / 核心逻辑
 
 ---
+## 应用示例
+
+哲学不是用来读的，是用来用的。
+
+这套框架不是从理论到理论——它从真实的问题出发，也可以回到真实的问题。
+
+### 三岛由纪夫：把验证按钮放在边界之外
+
+三岛由纪夫追求完美的死亡，却死得狼狈。他把意义的确认放在了边界之外——后世评价、武士道复兴、民族精神觉醒。但他无法在活着的时候收到任何反馈信号。这不是道德失败，是结构失败。意义极限论指出了他错在哪里：他把验证按钮放在了自己的区间之外。
+
+### 梵高：闭环在活着的时候已经完成了
+
+梵高生前只卖出一幅画，死后才被世界认可。他画画的动作本身已经构成了闭环——他看到、他感受、他表达、他完成。后世的认可不是他意义的来源，只是他留下的因果痕迹。如果他活着的时候没有从绘画中获得反馈，他就不会继续画下去。他继续画，说明他在区间内已经收到了足够的反馈。意义在活着的时候已经完成，不需要死后追认。
+
+### 论文被拒：闭环完成，但外部信号未返回
+
+一篇论文被期刊拒绝，作者感到失落。不是因为他没有完成闭环——他已经完成了研究、写作、投稿。他收到了一个外部信号（退稿），但不是他预期的那种。失落不是意义失败，而是“预期与实际不匹配”的残余信号。闭环已经完成，只是反馈信号的方向与预期相反。
+
+### 确认法：用语言改变世界的边界
+
+维特根斯坦说：语言的边界就是世界的边界。当你用“失去”的语言描述一件事，你的世界就有一个“失去”的形状。当你用“确认”的语言描述同一件事，你的世界就有一个“完成”的形状。
+
+确认法是一个从本框架衍生出的日常操作工具——用“得到”替代“失去”，用“确认”替代“遗憾”，让你在当下确认自己的完整位置。
+
+### 银河：渺小与挥手
+
+于时间中我们渺小，在银河中我们孤独。那片星海，我没有机会亲眼去看，唯有挥手，是再见也是初见。
+
+这不是感慨，是确认。在有限区间内，你不需要抵达星海，只需要确认自己的位置，然后挥手——完成一个完整的动作。
+
+---
+
+## Applications
+
+Philosophy is not meant to be read. It is meant to be used.
+
+This framework does not go from theory to theory — it starts from real problems, and it can return to real problems.
+
+### Yukio Mishima: Placing the Verification Button Outside the Interval
+
+Yukio Mishima pursued a perfect death, but died in disgrace. He placed the confirmation of meaning outside his interval — in posterity's judgment, the revival of bushido, the awakening of the national spirit. But he could not receive any feedback signal while he was alive. This is not a moral failure; it is a structural failure. The Limit Theory of Meaning identifies exactly where he went wrong: he put the verification button beyond his own interval.
+
+### Van Gogh: The Loop Was Completed While Alive
+
+Van Gogh sold only one painting in his lifetime; he was recognized only after his death. The act of painting itself already constituted a closed loop — he saw, he felt, he expressed, he completed. Posthumous recognition is not the source of his meaning; it is merely a causal trace left behind. If he had not received feedback from painting while alive, he would not have continued. He continued, which means he had already received sufficient feedback within his interval. The meaning was completed during his lifetime; it does not require posthumous validation.
+
+### Paper Rejection: The Loop Is Complete, but the External Signal Has Not Returned as Expected
+
+A paper is rejected by a journal; the author feels disappointment. Not because the loop was incomplete — the research, writing, and submission were all completed. An external signal (a rejection) was received, but not the expected one. Disappointment is not a failure of meaning; it is a residual signal of "mismatch between expectation and reality." The loop is already closed; only the direction of the feedback signal differs from what was anticipated.
+
+### Confirmation Method: Using Language to Change the Boundary of Your World
+
+Wittgenstein said: the limits of my language mean the limits of my world. When you describe something with the language of "loss," your world takes the shape of a void. When you describe the same thing with the language of "confirmation," your world takes the shape of completion.
+
+The Confirmation Method is a daily operational tool derived from this framework — using "gain" instead of "loss," using "confirmation" instead of "regret," allowing you to confirm your complete position in the present.
+
+### Galaxy: Smallness and a Wave
+
+Small in time, alone in the galaxy. That sea of stars, I will never see with my own eyes. All I can do is wave — a farewell, and a first encounter.
+
+This is not a lament; it is a confirmation. Within a finite interval, you do not need to reach the sea of stars. You only need to confirm your position, and then wave — completing a full gesture.
+
+---
+
+> 哲学起源于疑问。我的疑问很简单：意义是否存在极限？如果存在，怎么证明？
+>
+> Philosophy begins with a question. Mine was simple: does meaning have a limit? And if so, how can it be proven?
+>
+> ——这个仓库，就是我的回答。
+> ——This repository is my answer.
 
 ## Reading Path / 阅读路径
 
