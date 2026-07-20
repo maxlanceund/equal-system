@@ -115,6 +115,31 @@ Otherwise, the signal cannot be fully released before `T`.
 
 **Therefore: boundary acceleration is a logical necessity of signal release within a finite interval — no external cases are needed to argue for it.**
 
+### Trigger Condition
+
+The original derivation demonstrated that if a system still holds residual signals at the boundary, signal density must rise before the boundary. However, it did not specify when the rise begins.
+
+Observation shows that boundary acceleration is not triggered by the boundary itself, but by the system recognizing a **validation signal**.
+
+A validation signal is an internal judgment that indicates:
+1. "The window has opened" — the system has obtained the conditions to operate
+2. "The conditions are mature" — the system has confirmed its position relative to the target
+
+Before the validation signal appears, signal density remains low. After the validation signal appears, the system enters a high-density state and continues to run until it reaches its peak at the boundary, then zeroes out.
+
+The complete structure of boundary acceleration is:
+
+```
+
+Validation signal appears → acceleration initiates → sustained operation → boundary approaches → peak → zeroing
+
+```
+
+This revision does not negate the original paper, but refines its "conditionality": boundary acceleration requires not only that the system still holds residual signals at the boundary, but also a validation signal to trigger the release process.
+
+**Corollary:** The appearance of a validation signal is a sufficient condition for acceleration to begin. If at any moment before the boundary the system recognizes a validation signal, acceleration will start and continue until the boundary, where it zeroes out.
+
+If the system never recognizes a validation signal throughout the entire interval, no acceleration will occur. The boundary may be smooth.
 
 ## 5. Objections and Responses
 
