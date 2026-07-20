@@ -9,6 +9,7 @@
 ---
 本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到社会结构的制度设计。
 
+- [应用示例 / Applications](examples/applications.md)
 ### Entry / 入口
 
 | 中文 | English |
