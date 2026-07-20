@@ -10,38 +10,26 @@
 本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到社会结构的制度设计。
 
 - [应用示例 / Applications](examples/applications.md)
-### Entry / 入口
+--- 
+### Reading Path / 阅读路径
 
-| 中文 | English |
-|------|---------|
-| [平等制宣言](manifesto-cn.md) | [Equal System Manifesto](manifesto-en.md) |
+**Entry / 入口**
+- [平等制宣言](manifesto-cn.md) · [Equal System Manifesto](manifesto-en.md)
 
-### Foundation / 底层逻辑
+**Foundation / 底层逻辑**
+- [意义极限哲学论](meaning-limit-theory-cn.md) · [Limit Theory of Meaning](meaning-limit-theory-en.md)
 
-| 中文 | English |
-|------|---------|
-| [意义极限哲学论](meaning-limit-theory-cn.md) | [Limit Theory of Meaning](meaning-limit-theory-en.md) |
+**Institutional Framework / 制度落点**
+- [平等制设计](equal-system-cn.md) · [Equal System Design](equal-system-en.md)
 
-### Institutional Framework / 制度落点
+**Academic Paper / 学术论文**
+- [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) · [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md)
 
-| 中文 | English |
-|------|---------|
-| [平等制设计](equal-system-cn.md) | [Equal System Design](equal-system-en.md) |
-
-### Academic Paper / 学术论文
-
-| 中文 | English |
-|------|---------|
-| [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
-
-### Philosophical Essays / 哲学随笔
-| 中文 | English |
-|------|---------|
-| [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
-| [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
-| [确认法（路径坐标图法）](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-en.md) |
-| [银河](https://github.com/maxlanceund/equal-system/blob/main/essays/galaxy-zh.md) | [Galaxy](https://github.com/maxlanceund/equal-system/blob/main/essays/galaxy-en.md) |
-
+**Essays / 随笔**
+- [论死亡与生命](essays/death-and-life-cn.md) · [On Death and Life](essays/death-and-life-en.md)
+- [哲学的边界](essays/language-philosophy-boundary-zh.md) · [The Boundary of Philosophy](essays/language-philosophy-boundary-en.md)
+- [确认法](essays/confirmation-method-zh.md) · [Confirmation Method](essays/confirmation-method-en.md)
+- [银河](essays/galaxy-zh.md) · [Galaxy](essays/galaxy-en.md)
 ---
 
 ## Overview / 概述
