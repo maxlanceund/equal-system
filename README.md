@@ -50,7 +50,7 @@ This repository contains a complete theoretical framework — from the foundatio
 
 | English | 中文 |
 |---------|------|
-| [001: Correlation between Acoustic Structure of Language and Normative Tendencies](./hypotheses/hypothesis-001_lingual-structure_en.md) | [001：语言声学结构与其承载的规范性倾向之间存在相关性](./hypotheses/hypothesis-001_lingual-structure_zh.md) |
+| [001: Acoustic Structure & Normative Tendencies](./hypotheses/hypothesis-001_lingual-structure_en.md) | [001：声学结构与规范倾向](./hypotheses/hypothesis-001_lingual-structure_zh.md) |
 
 ## Overview / 概述
 
