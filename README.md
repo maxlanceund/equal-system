@@ -130,8 +130,6 @@ This theory stands on the work of the following thinkers:
 
 ---
 
-
----
 ### Open Questions / 开放观点
 
 The following directions have been fully derived within the current framework and will not be further expanded:
@@ -161,5 +159,14 @@ This work is licensed under the MIT License.
 
 **— To the guides across centuries**  
 **—— 以此致敬跨越世纪的引路人**
+
+## License
+
+
+---
+
+Five years. Started here, stopped here.
+
+五年。始于此，止于此。
 
 
