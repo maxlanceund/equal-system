@@ -26,7 +26,26 @@ Each audio here documents the actual state of spoken practice. No edits, no reta
 
 ### 观察 / Observations
 
-- 2026-07-23：对比中英文发音后发现——中文是“直立”的（每个字带声调），英语是“平”的（靠重音和连读）。之前读得卡，是因为在用“直立”的肌肉记忆读“平”的语言。
+**2026-07-23**
+
+**中文是直的，英语是平的。**
+
+中文每个字自带声调，读出来像一根根竖起的柱子，整句话像城墙。英语没有声调，只靠重音和连读，读出来像波浪。
+
+之前读得卡，是因为在用“直立”的肌肉记忆，去读“平”的语言。
+
+TA 口语的秘诀：不是把每个字立正站好，而是把不重要的词压扁，把重要的词砸下去。
+### Observations
+
+**2026-07-23**
+
+**Chinese is upright. English is flat.**
+
+In Chinese, every syllable carries its own tone — each word stands like a vertical pillar, the whole sentence like a city wall. English has no tones, only stress and liaison. It flows like waves.
+
+I used to stumble because I was using "upright" muscle memory to speak a "flat" language.
+
+The secret to TA oral English: don't make every word stand at attention. Flatten the unimportant ones. Land hard on the important ones.
 
 ## 🔗 关联
 
