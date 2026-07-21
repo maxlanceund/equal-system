@@ -163,9 +163,7 @@ This work is licensed under the MIT License.
 
 
 ---
+Began with a question, stopped at the boundary.
 
-Five years. Started here, stopped here.
-
-五年。始于此，止于此。
 
 
