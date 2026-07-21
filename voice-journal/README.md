@@ -23,6 +23,7 @@ Each audio here documents the actual state of spoken practice. No edits, no reta
 ### Observations
 
 - 2026-07-22: Simple manifesto reading time reduced from 33s (2026-07-21) to 25s (2026-07-22). Same text, one day apart. Vocal motor pattern is consolidating — less cognitive dwell time per word, smoother transition between sound blocks.
+- - 2026-07-22: Final reading of the simple manifesto: 20s (consolidated). This sequence now requires no visual decoding — the vocal motor pattern is fully established.
   
 ### 听力摘录 / Listening Notes
 
