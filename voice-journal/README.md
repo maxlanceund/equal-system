@@ -15,7 +15,7 @@ Each audio here documents the actual state of spoken practice. No edits, no reta
 | 2026-07-21 | [2026-07-21.mp3](https://raw.githubusercontent.com/maxlanceund/equal-system/main/voice-journal/2026-07-21.mp3) |
 | 2026-07-22 | [2026-07-23_simple-manifesto.mp3](https://raw.githubusercontent.com/maxlanceund/equal-system/main/voice-journal/2026-07-23_simple-manifesto.mp3) | 平等制宣言（极简版） |
 | 2026-07-21 | [2026-07-23_first-original-sentence.mp3](https://raw.githubusercontent.com/maxlanceund/equal-system/main/voice-journal/2026-07-23_first-original-sentence.mp3) | 第一句自主生成的英文 |
-| 2026-07-2２| [2026-07-24_simple-manifesto-25s.mp3](https://raw.githubusercontent.com/maxlanceund/equal-system/main/voice-journal/2026-07-24_simple-manifesto-25s.mp3) |
+| 2026-07-2２| [2026-07-22_simple-manifesto-25s.mp3](https://raw.githubusercontent.com/maxlanceund/equal-system/main/voice-journal/2026-07-24_simple-manifesto-25s.mp3) |
 | （待补充） | |
 
 ---
