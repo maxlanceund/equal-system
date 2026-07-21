@@ -165,14 +165,6 @@ This work is licensed under the MIT License.
 ---
 Began with a question, stopped at the boundary.
 
-## 🎙️ 声音化石 / Voice Fossils
+## 🎙️ 学英语录音 / Learning English Recordings
 
-> 声学意义上的版本控制。  
-> Version control in the acoustic dimension.
-
-该目录收录口语练习的原始音频，作为思想外化的物质基底。不追求审美，只记录实然。  
-This directory archives raw audio of spoken practice, serving as the material substrate of externalized thought. No aesthetics, only what is.
-
-[→ 进入化石层 / Enter Fossil Layer](./voice-journal)
-
-
+[→ 进入 / Enter](./voice-journal)
