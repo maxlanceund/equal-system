@@ -129,18 +129,25 @@ This theory stands on the work of the following thinkers:
 > 我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
 
 ---
-## What's Next / 下一步
+### Open Questions / 开放观点
 
-- 持续修订已有文档
-- 随着阅读与思考的深入，逐步扩展体系
-- 确认边界，继续在场
+The following directions have been fully derived within the current framework and will not be further expanded:
+
+- **The operational logic of private property**: covered in *Signal, Exchange, and System Stability*
+- **Boundary responses of institutional forms**: signal distribution patterns under two institutional forms have been distinguished
+- **Preconditions of the Equal System**: technological elimination of subsistence scarcity as the activation condition, included in the institutional design
+
+The current boundary stops at the institutional level. Other directions of extension are outside the scope of this derivation.
 
 ---
 
-- Revise existing documents as thinking deepens
-- Expand the framework gradually with continued reading and reflection
-- Confirm the boundary, remain present
+以下方向已在当前框架内完成推导，不再展开：
 
+- **私有制的运行逻辑**：已覆盖信号、交换与制度稳定性的关系（见《信号、交换与制度稳定性》）
+- **制度形态的边界响应**：已区分两种制度形态下的信号分配模式（见同篇论文）
+- **平等制的前提条件**：技术消除生存稀缺作为启动条件，已写入制度设计
+
+当前边界停留于制度层面。其他方向的延伸，不在本次推导的范围之内。
 ## License / 许可证
 
 This work is licensed under the MIT License.  
