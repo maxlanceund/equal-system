@@ -20,7 +20,7 @@ Each recording here is not about "learning English well", but about forcing abst
 ---
 ## 📂 化石层位 / Fossil Layers
 
-| 2026-07-21 | [2026-07-21.mp3](https://github.com/maxlanceund/equal-system/blob/main/voice-journal/2026-07-21.mp3 |
+| 2026-07-21 | [2026-07-21.mp3]|| 2026-07-21 | [2026-07-21.mp3](https://raw.githubusercontent.com/maxlanceund/equal-system/main/voice-journal/2026-07-21.mp3) |
 ---
 
 ## 🔗 关联 / Related
