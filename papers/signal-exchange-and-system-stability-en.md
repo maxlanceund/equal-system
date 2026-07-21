@@ -9,18 +9,7 @@
 
 ## Introduction
 
-Why can a system with severely imbalanced internal fairness still maintain long-term stability? Political philosophy has long struggled to provide a complete answer to this question. This paper does not attempt to offer a moral or political evaluation. Instead, it proposes a structural explanatory framework, analyzing the sources of system stability from the perspective of signal distribution.
-
-The starting point of this paper is the *Limit Theory of Meaning*. The theory provides a basic structure: meaning is generated within a finite interval, zeroes out at the boundary, but motion does not cease. The task of this paper is to apply this structure to the institutional level—specifically, to private property as a signal distribution system.
-
-The Limit Theory of Meaning at the individual level states: "Meaning is generated within an interval, zeroes out at the boundary, but motion does not cease." This paper finds the corresponding statement at the institutional level: "The system maintains signal flow through exchange within the interval, releases adjustment signals at the boundary, and the core structure does not change."
-
-This paper is not an independent argument starting from scratch. It is an institutional analysis derived from the underlying logic of the Limit Theory of Meaning. It extends the theory from the boundary problem of individual meaning to the boundary problem of institutional stability. The direction of derivation is the same in both cases; only the level of application differs. This paper does not rely on external theories to support its argument—its support comes from the Limit Theory of Meaning itself, not from any institutional theory literature.
-
-The core thesis of this paper is: **The stability of private property does not depend on fairness, but on the continuity of exchange relations between nodes.** As long as marginal nodes continue to participate in labor, consumption, investment, and other exchange activities, the system can maintain its signal flow—even if signal distribution is heavily biased toward internal nodes.
-
-The structure of the paper is as follows: Chapter 2 establishes the analytical framework of signal distribution systems; Chapter 3 analyzes the mechanism of exchange continuity; Chapter 4 examines the function of state institutions as signal stabilizers; Chapter 5 discusses the continuity logic of private property; Chapter 6 assesses the structural flaws of the "replacement" narrative; Chapter 7 examines the relationship between system stability and fairness; Chapter 8 specifies testability and falsifiability conditions; Chapter 9 responds to possible objections; Chapter 10 provides an observational note; Chapter 11 concludes.
-
+This question is not new. Hobbes asked it, Marx asked it, and contemporary political philosophy continues to ask it in different forms. This paper does not respond to any of them directly. It offers a different entry point: what if the stability of a system does not depend on fairness at all, but on something more basic and more structural? The framework used here is drawn from the *Limit Theory of Meaning* — a theory developed independently and outlined elsewhere in this repository. The present paper simply extends it to the institutional level.
 
 ## The Signal Distribution System
 
@@ -199,14 +188,7 @@ The value of the above data is not to "prove" the thesis of this paper—philoso
 
 ## Conclusion
 
-Private property is a self-reinforcing system that maintains operation through signal distribution. It does not depend on fairness to sustain itself; it only needs to maintain exchange relations between nodes. The state of unfairness is a normal mode of private property's operation, and its long-term existence does not itself constitute a structural pressure that the system must prioritize addressing.
-
-Starting from the Limit Theory of Meaning, this paper extends the structure at the individual level—"meaning is generated within an interval, zeroes out at the boundary, but motion does not cease"—to the corresponding structure at the institutional level: "the system maintains signal flow through exchange within the interval, releases adjustment signals at the boundary, and the core structure does not change." The direction of derivation is consistent across both levels, with only the level of application differing.
-
-This paper's analytical framework distinguishes the core operational logic of private property from its institutional adjustment mechanisms at the boundary. It provides a testable structural explanation for understanding the phenomenon of the long-term coexistence of institutional stability and unfairness. The framework applies to private property operations across different institutional contexts and does not depend on judgments of any particular system's merits. The clarity of the falsifiability conditions ensures that this paper's thesis is one that can be engaged in discussion, rather than an untestable closed assertion. The observational note further demonstrates the identifiability of this structure in reality.
-
-This paper is not responding to an academic tradition—it is extending an existing framework: the Limit Theory of Meaning. It extends the theory from the boundary problem of individual meaning to the boundary problem of institutional stability.
-
+This paper is not a critique of private property, nor a defense of it. It is an attempt to describe how a system that distributes signals unequally can nevertheless remain stable — not because it is just, but because it is continuous. The argument does not claim that this is how things should be. It claims only that this is how they work. What to do about it belongs elsewhere.
 
 ## References
 
