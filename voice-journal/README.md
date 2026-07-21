@@ -47,6 +47,10 @@ I used to stumble because I was using "upright" muscle memory to speak a "flat" 
 
 The secret to TA oral English: don't make every word stand at attention. Flatten the unimportant ones. Land hard on the important ones.
 
+### Observations
+
+- 2026-07-2２: Simple manifesto reading time reduced from 33s to 25s (same text, one day apart). This suggests vocal motor pattern is consolidating — less cognitive dwell time per word, smoother transition between sound blocks.
+
 ## 🔗 关联
 
 - 主仓库：[equal-system](..)
