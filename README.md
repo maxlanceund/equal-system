@@ -160,7 +160,6 @@ This work is licensed under the MIT License.
 **— To the guides across centuries**  
 **—— 以此致敬跨越世纪的引路人**
 
-## License
 
 
 ---
