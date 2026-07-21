@@ -46,6 +46,10 @@ This repository contains a complete theoretical framework — from the foundatio
 | [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
 | [确认法（路径坐标图法）](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-en.md) |
 
+## Hypotheses / 猜想
+
+- [001: Correlation between Acoustic Structure of Language and Normative Tendencies](./hypotheses/hypothesis-001_lingual-structure_en.md) / [001：语言声学结构与其承载的规范性倾向之间存在相关性](./hypotheses/hypothesis-001_lingual-structure_zh.md)
+
 ## Overview / 概述
 
 ### English
