@@ -19,6 +19,10 @@ Each audio here documents the actual state of spoken practice. No edits, no reta
 | （待补充） | |
 
 ---
+### Observations
+
+- 2026-07-22: Simple manifesto reading time reduced from 33s (2026-07-21) to 25s (2026-07-22). Same text, one day apart. Vocal motor pattern is consolidating — less cognitive dwell time per word, smoother transition between sound blocks.
+  
 ### 听力摘录 / Listening Notes
 
 - 2026-07-23：从哲学课开头听懂第一句完整话语 —— “快绳似 big 快渗似”（The question is a big question）。
