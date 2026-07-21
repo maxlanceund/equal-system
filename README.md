@@ -132,6 +132,17 @@ This theory stands on the work of the following thinkers:
 
 
 ---
+### Open Questions / 开放观点
+
+The following directions have been fully derived within the current framework and will not be further expanded:
+
+- **The operational logic of private property**: covered in *Signal, Exchange, and System Stability*
+- **Boundary responses of institutional forms**: signal distribution patterns under two institutional forms have been distinguished
+- **Preconditions of the Equal System**: technological elimination of subsistence scarcity as the activation condition, included in the institutional design
+
+The current boundary stops at the institutional level. Other directions of extension are outside the scope of this derivation.
+
+---
 
 以下方向已在当前框架内完成推导，不再展开：
 
@@ -140,6 +151,7 @@ This theory stands on the work of the following thinkers:
 - **平等制的前提条件**：技术消除生存稀缺作为启动条件，已写入制度设计
 
 当前边界停留于制度层面。其他方向的延伸，不在本次推导的范围之内。
+
 ## License / 许可证
 
 This work is licensed under the MIT License.  
