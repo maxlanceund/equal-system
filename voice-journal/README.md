@@ -24,6 +24,10 @@ Each audio here documents the actual state of spoken practice. No edits, no reta
 - 2026-07-23（第一集开场）：听出完整短句轮廓 —— “We're going to be asking questions.”
 - 已建立关键词听觉锚点：Philosophy、Questions、Big question
 
+### 观察 / Observations
+
+- 2026-07-23：对比中英文发音后发现——中文是“直立”的（每个字带声调），英语是“平”的（靠重音和连读）。之前读得卡，是因为在用“直立”的肌肉记忆读“平”的语言。
+
 ## 🔗 关联
 
 - 主仓库：[equal-system](..)
