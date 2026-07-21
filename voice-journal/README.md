@@ -18,14 +18,12 @@ Each recording here is not about "learning English well", but about forcing abst
   Between **"Fo-la-se-fei"** and **Philosophy** lies the inertia of oral muscles.
 
 ---
-
 ## 📂 化石层位 / Fossil Layers
 
-| 日期 / Date | 内容 / Content | 备注 / Notes |
-|------------|---------------|-------------|
-| 2026-07-21 | 极简哲学稿（第一遍） / Minimal philosophy draft (1st take) | 结巴，但真实 / Stuttering, but real |
-| （待补充 / To be added） | | |
-
+| 日期 / Date | 文件 / File |
+|------------|-------------|
+| 2026-07-21 | [2026-07-21.mp3](https://raw.githubusercontent.com/你的用户名/equal-system/main/voice-journal/2026-07-21.mp3) |
+| （待补充 / To be added） | |
 ---
 
 ## 🔗 关联 / Related
