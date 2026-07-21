@@ -129,15 +129,7 @@ This theory stands on the work of the following thinkers:
 > 我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
 
 ---
-### Open Questions / 开放观点
 
-The following directions have been fully derived within the current framework and will not be further expanded:
-
-- **The operational logic of private property**: covered in *Signal, Exchange, and System Stability*
-- **Boundary responses of institutional forms**: signal distribution patterns under two institutional forms have been distinguished
-- **Preconditions of the Equal System**: technological elimination of subsistence scarcity as the activation condition, included in the institutional design
-
-The current boundary stops at the institutional level. Other directions of extension are outside the scope of this derivation.
 
 ---
 
