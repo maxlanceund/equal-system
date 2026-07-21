@@ -17,6 +17,9 @@ Each audio here documents the actual state of spoken practice. No edits, no reta
 | （待补充） | |
 
 ---
+### 听力摘录 / Listening Notes
+
+- 2026-07-23：从哲学课开头听懂第一句完整话语 —— “快绳似 big 快渗似”（The question is a big question）。
 
 ## 🔗 关联
 
