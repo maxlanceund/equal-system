@@ -1,7 +1,7 @@
 # Hypothesis 001: Correlation between Acoustic Structure of Language and Normative Tendencies It Carries
 
 **Proposer**: maxlanceund  
-**Date**: 2026-07-23  
+**Date**: 2026-07-21  
 **Source**: First-person observation of phonetic differences between Chinese and English
 
 ---
@@ -11,7 +11,7 @@
 In Chinese, every syllable carries its own tone, with clear boundaries, forming an "upright" block-like structure.  
 In English, words are compressed through liaison, weak forms, and stress, forming a "flat" wave-like structure.
 
-**Follow-up observation (2026-07-23)**:  
+**Follow-up observation (2026-07-21)**:  
 After reading English aloud for a while, returning to read my own *Equal System Manifesto* written in Chinese caused noticeable vocal fatigue. This seems to confirm the physiological energy difference between "upright Chinese" (precise tone control) and "flat English" (stress-driven undulation).
 
 ---
@@ -44,3 +44,15 @@ If so, could the "wave-like" rhythm of English serve as a supplement or challeng
 - Can this hypothesis be verified through cross-linguistic experiments?  
 - Does it intersect or diverge from the Sapir-Whorf hypothesis (language shapes thought)?  
 - Does the Equal System itself need to incorporate a "linguistic dimension" correction?
+
+---
+
+### Added Observation
+
+**2026-07-21**
+
+After two consecutive hours of reading English aloud, switching back to Chinese reading produced a distinct vocal resistance and fatigue.
+
+This further confirms the substantive physiological switching cost between "upright" and "flat" modes.
+
+— First-person experimental record
