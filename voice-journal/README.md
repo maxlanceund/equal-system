@@ -20,10 +20,7 @@ Each recording here is not about "learning English well", but about forcing abst
 ---
 ## 📂 化石层位 / Fossil Layers
 
-| 日期 / Date | 文件 / File |
-|------------|-------------|
 | 2026-07-21 | [2026-07-21.mp3](https://raw.githubusercontent.com/你的用户名/equal-system/main/voice-journal/2026-07-21.mp3) |
-| （待补充 / To be added） | |
 ---
 
 ## 🔗 关联 / Related
