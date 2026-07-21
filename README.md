@@ -164,7 +164,7 @@ This work is licensed under the MIT License.
 
 ---
 Began with a question, stopped at the boundary.
----
-## 🎙️ 学英语录音 / Learning English Recordings
+
+## Learning English Recordings/学英语录音
 
 [→ 进入 / Enter](./voice-journal)
