@@ -126,6 +126,11 @@
 
 ---
 
-**建议引用**：
+**建议引用（复制以下内容）**：
 
-Lanceund, M. (2026). *意义极限论* (1.0版). 平等制仓库. https://github.com/maxlanceund/equal-system/blob/main/papers/meaning-limit-theory-academic-cn.md
+```
+
+Lanceund, M. (2026). 意义极限论 (1.0版). 平等制仓库.
+https://github.com/maxlanceund/equal-system/blob/main/papers/meaning-limit-theory-academic-cn.md
+
+```
