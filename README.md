@@ -176,12 +176,13 @@ This work is licensed under the MIT License.
 本作品采用 MIT 许可证。
 
 ---
-
 **— To the guides across centuries**  
 **—— 以此致敬跨越世纪的引路人**
 
-**唯有真理可以确认真理。**  
+<div align="center">
+**唯有真理可以确认真理。**<br>
 **Only truth can confirm truth.**
+</div>
 
 ## Learning English Recordings/学英语录音
 
