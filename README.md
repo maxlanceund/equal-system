@@ -181,8 +181,8 @@ This work is licensed under the MIT License.
 ---
 
 <div align="center">
-**唯有真理可以确认真理。**<br>
-**Only truth can confirm truth.**
+唯有真理可以确认真理。<br>
+Only truth can confirm truth.
 </div>
 
 ## Learning English Recordings/学英语录音
