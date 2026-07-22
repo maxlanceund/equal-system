@@ -314,3 +314,14 @@
 - 美国食品援助体系（SNAP）相关数据
 - 中国养老金体系相关数据
 - ILO《Combating inequalities》报告
+
+---
+
+**建议引用（复制以下内容）**：
+
+```
+
+Lanceund, M. (2026). 信号、交换与制度稳定性——一个基于意义极限论的私有制分析 (1.0版). 平等制仓库.
+https://github.com/maxlanceund/equal-system/blob/main/papers/signal-exchange-and-system-stability-zh.md
+
+```
