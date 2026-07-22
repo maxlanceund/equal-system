@@ -180,11 +180,6 @@ This work is licensed under the MIT License.
 
 ---
 
-<div align="center">
-唯有真理可以确认真理。<br>
-Only truth can confirm truth.
-</div>
-
 ## Learning English 
 
 [→ 进入 / Enter](./voice-journal)
