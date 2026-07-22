@@ -188,3 +188,9 @@ Only truth can confirm truth.
 ## Learning English 
 
 [→ 进入 / Enter](./voice-journal)
+
+
+<div align="right">
+读到这里，你已经碰到了它的边界。剩下的，留给你自己了。<br>
+Having read this far, you have touched its boundary. What remains is yours.
+</div>
