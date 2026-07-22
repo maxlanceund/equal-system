@@ -123,3 +123,9 @@
 - Putnam, H. (1981). *Reason, Truth and History*. Cambridge: Cambridge University Press.
 - Quine, W. V. O. (1951). "Two Dogmas of Empiricism." *The Philosophical Review*, 60(1): 20–43.
 - Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*. London: Routledge.
+
+---
+
+**建议引用**：
+
+Lanceund, M. (2026). *意义极限论* (1.0版). 平等制仓库. https://github.com/maxlanceund/equal-system/blob/main/papers/meaning-limit-theory-academic-cn.md
