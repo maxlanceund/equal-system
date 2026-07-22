@@ -147,6 +147,7 @@ This theory stands on the work of the following thinkers:
 > I also recognize that without Engels, Marx's influence might not have reached where it is today. He turned Marx's manuscripts into weapons. He is not in the methodological lineage of this theory — but he is in the condition lineage that made this theory possible.
 >
 > 我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
+
 To the guides across centuries  
 以此致敬跨越世纪的引路人
 ---
