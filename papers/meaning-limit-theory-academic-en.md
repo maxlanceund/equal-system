@@ -123,3 +123,9 @@ What can be said, has been said here. The rest is consigned to silence.
 - Putnam, H. (1981). *Reason, Truth and History*. Cambridge: Cambridge University Press.
 - Quine, W. V. O. (1951). "Two Dogmas of Empiricism." *The Philosophical Review*, 60(1): 20–43.
 - Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*. London: Routledge.
+
+---
+
+**Suggested Citation**:
+
+Lanceund, M. (2026). *On the Limits of Meaning* (Version 1.0). Equal System Repository. https://github.com/maxlanceund/equal-system/blob/main/papers/meaning-limit-theory-academic-en.md
