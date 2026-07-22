@@ -126,6 +126,12 @@ What can be said, has been said here. The rest is consigned to silence.
 
 ---
 
-**Suggested Citation**:
+**Suggested Citation (copy the text below)**：
 
-Lanceund, M. (2026). *On the Limits of Meaning* (Version 1.0). Equal System Repository. https://github.com/maxlanceund/equal-system/blob/main/papers/meaning-limit-theory-academic-en.md
+```
+
+Lanceund, M. (2026). On the Limits of Meaning (Version 1.0). Equal System Repository.
+https://github.com/maxlanceund/equal-system/blob/main/papers/meaning-limit-theory-academic-en.md
+
+```
+```
