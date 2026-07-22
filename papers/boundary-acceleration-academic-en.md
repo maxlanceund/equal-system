@@ -187,4 +187,13 @@ This paper is a supplementary essay to the *Limit Theory of Meaning*, focusing o
 
 - Core concepts from the *Limit Theory of Meaning*: finite system, interval, zeroing, motion does not cease
 - Definition and derivation of signal density function
+---
+
+**Suggested Citation (copy the text below)**：
+
+```
+
+Lanceund, M. (2026). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 1.0). Equal System Repository.
+https://github.com/maxlanceund/equal-system/blob/main/papers/boundary-acceleration-academic-en.md
+
 ```
