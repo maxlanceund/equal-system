@@ -112,5 +112,15 @@ It appears across language, media, life, institutions, and relationships. It doe
 6. Foucault, M. (1969). *L'Archéologie du savoir*. Gallimard.
 7. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
 
+---
+
+**Suggested Citation (copy the text below)**：
+
+```
+
+Lanceund, M. (2026). The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media (Version 1.0). Equal System Repository.
+https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md
+
+```
 
 **License**: MIT
