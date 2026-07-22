@@ -112,5 +112,14 @@ https://github.com/maxlanceund/equal-system/tree/main/voice-journal
 6. Foucault, M. (1969). *L'Archéologie du savoir*. Gallimard.
 7. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
 
+---
 
+**建议引用（复制以下内容）**：
+
+```
+
+Lanceund, M. (2026). 有限区间原则：一个在生命、制度与媒介中重复出现的结构 (1.0版). 平等制仓库.
+https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md
+
+```
 **许可**：MIT
