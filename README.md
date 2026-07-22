@@ -193,6 +193,6 @@ Only truth can confirm truth.
 <br>
 <br>
 <div align="right">
-超出区间，不作称述。<br>
-Beyond the interval, no statement is made.
+意义归零，运动不灭。<br>
+Meaning zeroes out, motion does not cease.
 </div>
