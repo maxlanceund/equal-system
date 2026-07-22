@@ -115,10 +115,10 @@ This theory stands on the work of the following thinkers:
 
 | 思想家 | Contribution / 贡献 |
 |------------------|---------------------|
-| **霍布斯** | 提供了“生存竞争”作为社会底层逻辑的观察。 |
-| **马克思** | 提供了“劳动异化”作为现代社会结构性病症的诊断。 |
-| **罗素** | 提供了逻辑推导的方法 —— 把复杂命题拆解到最小可验证单位。 |
-| **维特根斯坦** | 提供了“语言边界”的警觉 —— 区分可说的与不可说的。 |
+| **霍布斯 / Hobbes** | 提供了“生存竞争”作为社会底层逻辑的观察。 / Provided the observation of "the war of all against all" as the underlying logic of society. |
+| **马克思 / Marx** | 提供了“劳动异化”作为现代社会结构性病症的诊断。 / Provided the diagnosis of "alienation of labor" as the structural illness of modern society. |
+| **罗素 / Russell** | 提供了逻辑推导的方法 —— 把复杂命题拆解到最小可验证单位。 / Provided the method of logical analysis — breaking complex propositions into verifiable units. |
+| **维特根斯坦 / Wittgenstein** | 提供了“语言边界”的警觉 —— 区分可说的与不可说的。 / Provided the vigilance of "linguistic boundaries" — distinguishing what can be said from what cannot. |
 
 > Among them, Marx's influence is the greatest. He showed me the central position of "labor" as a structural problem of society — and made me realize that if a thought only describes the world without attempting to change it, it has not yet completed its journey.
 >
@@ -183,7 +183,8 @@ This work is licensed under the MIT License.
 
 
 ---
-Began with a question, stopped at the boundary.
+唯有真理可以确认真理。  
+Only truth can confirm truth.
 
 ## Learning English Recordings/学英语录音
 
