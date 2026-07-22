@@ -3,6 +3,10 @@
 **A social structure design for the post-scarcity era**  
 **后稀缺时代的社会结构设计**
 
+**Version**: 1.0 (July 2026)  
+**Status**: Completed / 已完成  
+**Repository**: [github.com/maxlanceund/equal-system](https://github.com/maxlanceund/equal-system)
+
 ---
 
 ## Core Logic / 核心逻辑
@@ -33,6 +37,13 @@ This repository contains a complete theoretical framework — from the foundatio
 
 ### Academic Paper / 学术论文
 
+**Suggested Citation / 建议引用**:
+
+> Lanceund, M. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media*. Equal System Repository. https://github.com/maxlanceund/equal-system
+
+*(For other papers, please refer to the specific paper page.)*  
+*（其他论文请参阅各自文档页的引用信息。）*
+
 | 中文 | English |
 |------|---------|
 | [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
@@ -49,9 +60,9 @@ This repository contains a complete theoretical framework — from the foundatio
 
 ## Hypotheses / 猜想
 
-| English | 中文 |
-|---------|------|
-| [001: Acoustic Structure & Normative Tendencies](./hypotheses/hypothesis-001_lingual-structure_en.md) | [001：声学结构与规范倾向](./hypotheses/hypothesis-001_lingual-structure_zh.md) |
+| 中文 | English |
+|------|---------|
+| [001：声学结构与规范倾向](./hypotheses/hypothesis-001_lingual-structure_zh.md) | [001: Acoustic Structure & Normative Tendencies](./hypotheses/hypothesis-001_lingual-structure_en.md) |
 
 ## Overview / 概述
 
@@ -79,10 +90,12 @@ The Equal System consists of two parallel layers:
 
 平等制由两个并行的层次构成：
 
-| Layer / 层次 | Description / 说明 |
-|--------------|-------------------|
-| **Shared Subsistence Layer / 生存共有层** | Food, water, housing, basic healthcare, and education are provided automatically — no labor required, no competition, no application. / 食物、水、住房、基础医疗、教育由系统自动供给 —— 不需要劳动、不需要竞争、不需要申请。 |
-| **Private Property Layer / 私有财产层** | All goods, assets, and resources beyond subsistence remain within the sphere of private property. Private property is reoriented from "survival exchange" to "credentials for transcendent pursuits." / 超越生存层面的所有物品、资产、资源仍然属于私有财产范畴。私有财产的功能从"生存交换"转向"超越性资格的获取"。 |
+| 中文 | English |
+|------|---------|
+| **生存共有层** | **Shared Subsistence Layer** |
+| 食物、水、住房、基础医疗、教育由系统自动供给 —— 不需要劳动、不需要竞争、不需要申请。 | Food, water, housing, basic healthcare, and education are provided automatically — no labor required, no competition, no application. |
+| **私有财产层** | **Private Property Layer** |
+| 超越生存层面的所有物品、资产、资源仍然属于私有财产范畴。私有财产的功能从“生存交换”转向“超越性资格的获取”。 | All goods, assets, and resources beyond subsistence remain within the sphere of private property. Private property is reoriented from "survival exchange" to "credentials for transcendent pursuits." |
 
 ---
 
@@ -100,22 +113,22 @@ This theory stands on the work of the following thinkers:
 
 本理论站在以下四位思想家的工作之上：
 
-| Thinker / 思想家 | Contribution / 贡献 |
+| 思想家 | Contribution / 贡献 |
 |------------------|---------------------|
-| **Hobbes / 霍布斯** | Observed "the war of all against all" as the underlying logic of society. / 提供了"生存竞争"作为社会底层逻辑的观察。 |
-| **Marx / 马克思** | Diagnosed "alienation of labor" as the structural illness of modern society. / 提供了"劳动异化"作为现代社会结构性病症的诊断。 |
-| **Russell / 罗素** | Provided the method of logical analysis — breaking complex propositions into verifiable units. / 提供了逻辑推导的方法 —— 把复杂命题拆解到最小可验证单位。 |
-| **Wittgenstein / 维特根斯坦** | Provided the vigilance of "linguistic boundaries" — distinguishing what can be said from what cannot. / 提供了"语言边界"的警觉 —— 区分可说的与不可说的。 |
+| **霍布斯** | 提供了“生存竞争”作为社会底层逻辑的观察。 |
+| **马克思** | 提供了“劳动异化”作为现代社会结构性病症的诊断。 |
+| **罗素** | 提供了逻辑推导的方法 —— 把复杂命题拆解到最小可验证单位。 |
+| **维特根斯坦** | 提供了“语言边界”的警觉 —— 区分可说的与不可说的。 |
 
 > Among them, Marx's influence is the greatest. He showed me the central position of "labor" as a structural problem of society — and made me realize that if a thought only describes the world without attempting to change it, it has not yet completed its journey.
 >
-> 其中，马克思的影响是最大的。他让我看到了"劳动"作为社会结构性问题的核心位置 —— 也让我意识到：如果只是描述世界，而不试图改变它，思想就还没有走完它的路。
+> 其中，马克思的影响是最大的。他让我看到了“劳动”作为社会结构性问题的核心位置 —— 也让我意识到：如果只是描述世界，而不试图改变它，思想就还没有走完它的路。
 
 ### But they all stopped at the same point: / 但他们都停在了同一个地方：
 
 > They did not recognize that **"survival compulsion" is the root of alienation** — and that technology (AI automation, nuclear fusion, space resource extraction) is rendering that compulsion obsolete.
 >
-> 他们没有意识到 **"生存强制力"才是异化的根源** —— 而技术（AI自动化、核聚变、太空资源开采）正在使这一强制力失去存在基础。
+> 他们没有意识到 **“生存强制力”才是异化的根源** —— 而技术（AI自动化、核聚变、太空资源开采）正在使这一强制力失去存在基础。
 
 **Equal System is what happens when these four lines are twisted together under the condition of technological abundance.**
 
@@ -175,4 +188,3 @@ Began with a question, stopped at the boundary.
 ## Learning English Recordings/学英语录音
 
 [→ 进入 / Enter](./voice-journal)
-这是目前仓库主页看下增加什么让他像个独立学术研究的样子，还是修改那些你修改一下内容不变
