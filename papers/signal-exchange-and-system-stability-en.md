@@ -314,3 +314,14 @@ What to do about it belongs elsewhere.
 - Data on the U.S. Supplemental Nutrition Assistance Program (SNAP)
 - Data on China's pension system
 - ILO *Combating Inequalities* report
+
+---
+
+**Suggested Citation (copy the text below)**：
+
+```
+
+Lanceund, M. (2026). Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning (Version 1.0). Equal System Repository.
+https://github.com/maxlanceund/equal-system/blob/main/papers/signal-exchange-and-system-stability-en.md
+
+```
