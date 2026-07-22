@@ -3,6 +3,10 @@
 **A social structure design for the post-scarcity era**  
 **后稀缺时代的社会结构设计**
 
+**Version**: 1.0 (July 2026)  
+**Status**: Preprint / 预印本  
+**Repository**: [github.com/maxlanceund/equal-system](https://github.com/maxlanceund/equal-system)
+
 ---
 
 ## Core Logic / 核心逻辑
@@ -32,6 +36,13 @@ This repository contains a complete theoretical framework — from the foundatio
 | [平等制设计](equal-system-cn.md) | [Equal System Design](equal-system-en.md) |
 
 ### Academic Paper / 学术论文
+
+**Suggested Citation / 建议引用**:
+
+> Lanceund, M. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media*. Equal System Repository. https://github.com/maxlanceund/equal-system
+
+*(For other papers, please refer to the specific paper page.)*  
+*（其他论文请参阅各自文档页的引用信息。）*
 
 | 中文 | English |
 |------|---------|
@@ -175,3 +186,25 @@ Began with a question, stopped at the boundary.
 ## Learning English Recordings/学英语录音
 
 [→ 进入 / Enter](./voice-journal)
+
+---
+
+## Repository Metadata / 仓库元数据
+
+| 中文 | English |
+|------|---------|
+| **版本** | 1.0 (2026年7月) |
+| **状态** | 预印本 |
+| **许可证** | MIT |
+| **DOI** | *(待分配)* |
+| **仓库** | [github.com/maxlanceund/equal-system](https://github.com/maxlanceund/equal-system) |
+
+---
+
+## How to Cite This Repository / 如何引用本仓库
+
+**English**:  
+> Lanceund, M. (2026). *Equal System: A Social Structure Design for the Post-Scarcity Era* (Version 1.0) [Repository]. https://github.com/maxlanceund/equal-system
+
+**中文**：  
+> Lanceund, M. (2026). *平等制：后稀缺时代的社会结构设计* (1.0版) [仓库]. https://github.com/maxlanceund/equal-system
