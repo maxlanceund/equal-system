@@ -193,6 +193,6 @@ Only truth can confirm truth.
 <br>
 <br>
 <div align="right">
-读到这里，你已经碰到了它的边界。剩下的，留给你自己了。<br>
-Having read this far, you have touched its boundary. What remains is yours.
+超出区间，不作称述。<br>
+Beyond the interval, no statement is made.
 </div>
