@@ -189,5 +189,14 @@ R(t) = ∫ₜᵀ D(s) ds
 - 《意义极限论》中的有限系统、区间、归零、运动不停止等核心概念
 - 信号密度函数的定义与推导
 
+---
+
+**建议引用（复制以下内容）**：
 
 ```
+
+Lanceund, M. (2026). 边界加速：终点前的信号压缩与释放 (1.0版). 平等制仓库.
+https://github.com/maxlanceund/equal-system/blob/main/papers/boundary-acceleration-academic-cn.md
+
+```
+
