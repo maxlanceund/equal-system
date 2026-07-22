@@ -185,6 +185,6 @@ This work is licensed under the MIT License.
 Only truth can confirm truth.
 </div>
 
-## Learning English Recordings/学英语录音
+## Learning English Recordings
 
 [→ 进入 / Enter](./voice-journal)
