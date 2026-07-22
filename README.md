@@ -38,7 +38,7 @@ This repository contains a complete theoretical framework — from the foundatio
 | [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
 | [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
 | [信号、交换与制度稳定性（学术版）](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability (Academic Version)](papers/signal-exchange-and-system-stability-en.md) |
- [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) | [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) |
+ | [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
 
 ### Philosophical Essays / 哲学随笔
 | 中文 | English |
