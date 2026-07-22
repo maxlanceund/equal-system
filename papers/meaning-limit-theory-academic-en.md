@@ -134,4 +134,4 @@ Lanceund, M. (2026). On the Limits of Meaning (Version 1.0). Equal System Reposi
 https://github.com/maxlanceund/equal-system/blob/main/papers/meaning-limit-theory-academic-en.md
 
 ```
-```
+
