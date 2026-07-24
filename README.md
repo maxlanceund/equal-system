@@ -59,12 +59,12 @@ This repository contains a complete theoretical framework — from the foundatio
 | [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
 | [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
 | [确认法（路径坐标图法）](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-en.md) |
-
 ## Hypotheses / 猜想
 
 | 中文 | English |
 |------|---------|
 | [001：声学结构与规范倾向](./hypotheses/hypothesis-001_lingual-structure_zh.md) | [001: Acoustic Structure & Normative Tendencies](./hypotheses/hypothesis-001_lingual-structure_en.md) |
+| [002：感知者假说](./hypotheses/hypothesis-002_perceiver-hypothesis_zh.md) | [002: The Perceiver Hypothesis](./hypotheses/hypothesis-002_perceiver-hypothesis_en.md) |
 
 ---
 
