@@ -37,6 +37,7 @@ This repository contains a complete theoretical framework — from the foundatio
 |------|---------|
 | [平等制设计](equal-system-cn.md) | [Equal System Design](equal-system-en.md) |
 
+---
 ### Academic Paper / 学术论文
 
 **Suggested Citation / 建议引用**:
