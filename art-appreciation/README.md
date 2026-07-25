@@ -1,14 +1,4 @@
- Art Appreciation · Perceptual Notes/艺术鉴赏 · 感知笔记
-
----
-
-## 中文
-
-这个目录存放一些艺术鉴赏笔记 —— 不是美术史考据，也不是审美教育，只是基于个人感知的观看记录。
-
-目前收录了拉斐尔的三幅作品排名与分析。以后可能会补上安格尔、波提切利或其他人，但不会刻意填满。
-
-一切随感知发生。
+# Art Appreciation · Perceptual Notes / 艺术鉴赏 · 感知笔记
 
 ---
 
@@ -22,12 +12,23 @@ Everything happens as perception arrives.
 
 ---
 
-## 当前收录 / Current Entries
+## 中文
 
-- [拉斐尔 · 作品排名（中文）](./raphael-cn.md)
-- [Raphael · Works Ranking (English)](./raphael-en.md)
+这个目录存放一些艺术鉴赏笔记 —— 不是美术史考据，也不是审美教育，只是基于个人感知的观看记录。
+
+目前收录了拉斐尔的三幅作品排名与分析。以后可能会补上安格尔、波提切利或其他人，但不会刻意填满。
+
+一切随感知发生。
 
 ---
 
+## Current Entries / 当前收录
+
+| 中文 | English |
+|------|---------|
+| [拉斐尔 · 作品排名（中文）](./raphael-cn.md) | [Raphael · Works Ranking (English)](./raphael-en.md) |
+
+---
+
+> *Looking is not a conclusion — it is the path of the gaze.*  
 > *看画不是结论，是目光的路径。*
-> *Looking is not a conclusion — it is the path of the gaze.*
