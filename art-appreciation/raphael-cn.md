@@ -13,7 +13,12 @@
 
 ### #1 《雅典学院》
 
-<img src="./images/school_of_athens.jpg" alt="The School of Athens" width="600">
+<div align="center">
+  <img src="./images/school_of_athens.jpg" alt="The School of Athens" width="600">
+  <br>
+  <br>
+  <em>拉斐尔 · 《雅典学院》 · 1509-1511年</em>
+</div>
 
 **人类理性的至高殿堂。思想融入艺术的美学奇迹。**
 
@@ -23,7 +28,12 @@
 
 ### #2 《耶稣祝福》（Pax Vobiscum）
 
-<img src="./images/christ_blessing.jpg" alt="Christ Blessing" width="600">
+<div align="center">
+  <img src="./images/christ_blessing.jpg" alt="Christ Blessing" width="600">
+  <br>
+  <br>
+  <em>拉斐尔 · 《耶稣祝福》 · 约1505-1506年</em>
+</div>
 
 **神性目光的孤独深渊。不属于当下时空的惊雷之感。**
 
@@ -33,7 +43,12 @@
 
 ### #3 《与友人自画像》
 
-<img src="./images/self_portrait_friend.jpg" alt="Self-Portrait with a Friend" width="600">
+<div align="center">
+  <img src="./images/self_portrait_friend.jpg" alt="Self-Portrait with a Friend" width="600">
+  <br>
+  <br>
+  <em>拉斐尔 · 《与友人自画像》 · 约1518-1519年</em>
+</div>
 
 **完成之后的安放。从少年忧郁，到成熟归位。**
 
