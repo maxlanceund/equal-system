@@ -258,13 +258,13 @@ This work is licensed under the MIT License.
 
 ## Art Appreciation / 艺术鉴赏
 
-[中文版](./art-appreciation/raphael-cn.md) · [English](./art-appreciation/raphael-en.md)
+[→ 进入 / Enter](./art-appreciation)
 <br>
 <br>
 <br>
 <div align="right">
 **This is not the end. It is the boundary where the next question begins.** <br>
-**这不是终点。这是下一个问题开始的边界。** <br>
+这不是终点。这是下一个问题开始的边界。<br>
 <br>
 意义归零，运动不灭。<br>
 Meaning zeroes out, motion does not cease.
