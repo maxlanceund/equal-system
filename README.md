@@ -256,6 +256,9 @@ This work is licensed under the MIT License.
 
 [→ 进入 / Enter](./voice-journal)
 
+## Art Appreciation / 艺术鉴赏
+
+[中文版](./art-appreciation/raphael-cn.md) · [English](./art-appreciation/raphael-en.md)
 <br>
 <br>
 <br>
