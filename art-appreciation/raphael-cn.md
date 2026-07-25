@@ -13,7 +13,7 @@
 
 ### #1 《雅典学院》
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_School_of_Athens_%28Raphael%29.jpg/1280px-The_School_of_Athens_%28Raphael%29.jpg" alt="The School of Athens" width="600">
+<img src="./images/school_of_athens.jpg" alt="The School of Athens" width="600">
 
 **人类理性的至高殿堂。思想融入艺术的美学奇迹。**
 
@@ -23,7 +23,7 @@
 
 ### #2 《耶稣祝福》（Pax Vobiscum）
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Raffaello_Sanzio_-_Christ_Blessing_%28Pax_Vobiscum%29_-_WGA18639.jpg/1280px-Raffaello_Sanzio_-_Christ_Blessing_%28Pax_Vobiscum%29_-_WGA18639.jpg" alt="Christ Blessing" width="600">
+<img src="./images/christ_blessing.jpg" alt="Christ Blessing" width="600">
 
 **神性目光的孤独深渊。不属于当下时空的惊雷之感。**
 
@@ -33,7 +33,7 @@
 
 ### #3 《与友人自画像》
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Raffaello_Sanzio_-_Portrait_of_a_Man_with_a_Friend_-_Louvre.jpg/1280px-Raffaello_Sanzio_-_Portrait_of_a_Man_with_a_Friend_-_Louvre.jpg" alt="Self-Portrait with a Friend" width="600">
+<img src="./images/self_portrait_friend.jpg" alt="Self-Portrait with a Friend" width="600">
 
 **完成之后的安放。从少年忧郁，到成熟归位。**
 
