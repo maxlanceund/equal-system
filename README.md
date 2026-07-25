@@ -263,7 +263,7 @@ This work is licensed under the MIT License.
 <br>
 <br>
 <div align="right">
-**This is not the end. It is the boundary where the next question begins.** <br>
+This is not the end. It is the boundary where the next question begins. <br>
 这不是终点。这是下一个问题开始的边界。<br>
 <br>
 意义归零，运动不灭。<br>
