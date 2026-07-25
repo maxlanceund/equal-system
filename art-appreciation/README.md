@@ -1,5 +1,4 @@
- 
-#Art Appreciation · Perceptual Notes/艺术鉴赏 · 感知笔记
+ Art Appreciation · Perceptual Notes/艺术鉴赏 · 感知笔记
 
 ---
 
