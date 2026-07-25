@@ -48,8 +48,13 @@ Everything happens as perception arrives.
 
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="right">
-  <em>Looking is not a conclusion — it is the path of the gaze.</em>
+  <em>Shh. Quiet.</em>
   <br>
-  <em>看画不是结论，是目光的路径。</em>
+  <em>嘘。安静。</em>
 </p>
