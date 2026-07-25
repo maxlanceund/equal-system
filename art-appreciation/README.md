@@ -31,5 +31,11 @@ Everything happens as perception arrives.
 
 ---
 
+
+
+
+
+
+
 > *Looking is not a conclusion — it is the path of the gaze.*  
 > *看画不是结论，是目光的路径。*
