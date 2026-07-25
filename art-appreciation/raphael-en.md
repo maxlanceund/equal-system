@@ -13,7 +13,12 @@ Based on personal perception, the top three works by Raphael:
 
 ### #1 The School of Athens
 
-<img src="./images/school_of_athens.jpg" alt="The School of Athens" width="600">
+<div align="center">
+  <img src="./images/school_of_athens.jpg" alt="The School of Athens" width="600">
+  <br>
+  <br>
+  <em>Raphael · The School of Athens · 1509-1511</em>
+</div>
 
 **The highest temple of human reason. An aesthetic miracle where thought merges into art.**
 
@@ -23,7 +28,12 @@ He gathers the stars of ancient Greece — separated by centuries — into a sin
 
 ### #2 Christ Blessing (Pax Vobiscum)
 
-<img src="./images/christ_blessing.jpg" alt="Christ Blessing" width="600">
+<div align="center">
+  <img src="./images/christ_blessing.jpg" alt="Christ Blessing" width="600">
+  <br>
+  <br>
+  <em>Raphael · Christ Blessing · c.1505-1506</em>
+</div>
 
 **The lonely abyss of the divine gaze. A thunderbolt from outside the present time and space.**
 
@@ -33,7 +43,12 @@ The crown of thorns remains, the wound is not concealed. Those eyes pass beyond 
 
 ### #3 Self-Portrait with a Friend
 
-<img src="./images/self_portrait_friend.jpg" alt="Self-Portrait with a Friend" width="600">
+<div align="center">
+  <img src="./images/self_portrait_friend.jpg" alt="Self-Portrait with a Friend" width="600">
+  <br>
+  <br>
+  <em>Raphael · Self-Portrait with a Friend · c.1518-1519</em>
+</div>
 
 **Settlement after completion. From youthful melancholy to mature repose.**
 
