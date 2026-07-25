@@ -27,6 +27,7 @@ Everything happens as perception arrives.
 | 中文 | English |
 |------|---------|
 | [拉斐尔 · 作品排名（中文）](./raphael-cn.md) | [Raphael · Works Ranking (English)](./raphael-en.md) |
+| [安格尔 · 作品排名（中文）](./ingres-cn.md) | [Ingres · Works Ranking (English)](./ingres-en.md) |
 
 ---
 
