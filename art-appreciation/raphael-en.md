@@ -13,6 +13,8 @@ Based on personal perception, the top three works by Raphael:
 
 ### #1 The School of Athens
 
+<img src="./images/school_of_athens.jpg" alt="The School of Athens" width="600">
+
 **The highest temple of human reason. An aesthetic miracle where thought merges into art.**
 
 He gathers the stars of ancient Greece — separated by centuries — into a single hall, and lets Plato and Aristotle debate face to face. This is not about the manifestation of "God," but about the awakening of "Man" — geometry, philosophy, gaze, and discourse all converge under one vault. This is Raphael's declaration to the "world."
@@ -21,6 +23,8 @@ He gathers the stars of ancient Greece — separated by centuries — into a sin
 
 ### #2 Christ Blessing (Pax Vobiscum)
 
+<img src="./images/christ_blessing.jpg" alt="Christ Blessing" width="600">
+
 **The lonely abyss of the divine gaze. A thunderbolt from outside the present time and space.**
 
 The crown of thorns remains, the wound is not concealed. Those eyes pass beyond you, looking toward eternity. He neither examines nor judges — he simply "is" there — and that gaze silences all words. This is Raphael's question to "eternity."
@@ -28,6 +32,8 @@ The crown of thorns remains, the wound is not concealed. Those eyes pass beyond 
 ---
 
 ### #3 Self-Portrait with a Friend
+
+<img src="./images/self_portrait_friend.jpg" alt="Self-Portrait with a Friend" width="600">
 
 **Settlement after completion. From youthful melancholy to mature repose.**
 
