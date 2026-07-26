@@ -71,7 +71,7 @@ This repository contains a complete theoretical framework — from the foundatio
 
 | 中文 | English |
 |------|---------|
-| [感知者-系统信号不匹配模型（版本 1.0）](./hypotheses/perceiver-warning-model_cn.md) | [Perceiver-System Signal Mismatch Model (Version 1.0)](./hypotheses/perceiver-warning-model_en.md) |
+| [感知者信号模型：系统为何忽视预警？](./hypotheses/perceiver-warning-model_cn.md) | [Perceiver Signal Model: Why Systems Ignore Warnings?](./hypotheses/perceiver-warning-model_en.md) |
 ---
 
 ## Overview / 概述
