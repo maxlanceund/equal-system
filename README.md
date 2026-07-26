@@ -67,6 +67,11 @@ This repository contains a complete theoretical framework — from the foundatio
 | [001：声学结构与规范倾向](./hypotheses/hypothesis-001_lingual-structure_zh.md) | [001: Acoustic Structure & Normative Tendencies](./hypotheses/hypothesis-001_lingual-structure_en.md) |
 | [002：感知者假说](./hypotheses/hypothesis-002_perceiver-hypothesis_zh.md) | [002: The Perceiver Hypothesis](./hypotheses/hypothesis-002_perceiver-hypothesis_en.md) |
 
+## Related Mathematical Models / 相关数学模型
+
+| 中文 | English |
+|------|---------|
+| [感知者-系统信号不匹配模型（版本 1.0）](./hypotheses/perceiver-warning-model_cn.md) | [Perceiver-System Signal Mismatch Model (Version 1.0)](./hypotheses/perceiver-warning-model_en.md) |
 ---
 
 ## Overview / 概述
