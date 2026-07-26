@@ -2,12 +2,12 @@
 
 **Based on**: Perceiver Hypothesis (Hypothesis 002)  
 **Status**: Testable Mathematical Model  
-**Purpose**: Describes the structural process by which perceiver signals are filtered, rejected, and post-hoc confirmed by systems
+**Purpose**: Describes the structural process by which perceiver signals are filtered, rejected, and post-event confirmed by systems
 
 
 ## 1. Positioning of the Model
 
-This model is derived from the Perceiver Hypothesis. Its aim is to translate the structural phenomenon of "the perceiver being rejected by the system" into an operational, testable mathematical form. It does not predict when specific events will occur, but rather describes the system's behavioral patterns when processing incompatible signals.
+This model is derived from the Perceiver Hypothesis. Its aim is to translate the structural phenomenon of "perceiver rejection by the system" into an operable, testable mathematical form. It does not predict the timing of specific events, but describes the system's behavioral pattern when processing incompatible signals.
 
 This model is falsifiable. If it is shown to be invalid, the Perceiver Hypothesis itself would require revision.
 
@@ -16,165 +16,179 @@ This model is falsifiable. If it is shown to be invalid, the Perceiver Hypothesi
 
 | Variable | Definition |
 |----------|------------|
-| \( \alpha_P(t) \) | The "anomaly index" of the perceiver's signal at time t — the degree of deviation from the system's default signal processing bandwidth |
-| \( R_P(t) \) | The system's "rejection intensity" toward the perceiver's signal at time t |
-| \( D_P(T) \) | The proportion of the perceiver's signal discarded by the system over the interval \([0, T]\) |
-| \( A_P \) | The probability that the system notices the perceiver's signal (depends on signal duration) |
-| \( \tau_P \) | The duration for which the perceiver continuously emits the signal |
+| α_P(t) | The "anomaly index" of the perceiver's signal at time t — the degree of deviation from the system's default signal processing bandwidth |
+| R_P(t) | The "rejection intensity" exerted by the system on the perceiver's signal at time t |
+| D_P(T) | The proportion of perceiver signals discarded by the system over the time interval [0, T] |
+| A_P | The probability that the system notices the perceiver's signal (dependent on signal duration) |
+| τ_P | The duration for which the perceiver continuously emits signals |
 
 
 ## 3. Mathematical Definitions
 
-**Anomaly Index**  
-\[
-\alpha_P(t) = \frac{\| x_P(t) - \mu_S(t) \|}{\sigma_S(t)}
-\]
-where \( x_P(t) \) is the perceiver's signal, \( \mu_S(t) \) is the system's current mean signal, and \( \sigma_S(t) \) is the system's signal bandwidth (variance). When \( \alpha_P \to 0 \), the signal falls within the system's bandwidth; when \( \alpha_P \gg 1 \), the signal cannot be recognized by the system.
+**Anomaly Index**
 
-**Rejection Intensity**  
-\[
-R_P(t) = \frac{\alpha_P(t)}{\alpha_P(t) + \delta}
-\]
-where \( \delta \) is the system's tolerance parameter. When \( \alpha_P \to \infty \), \( R_P \to 1 \) (complete rejection).
+```math
+α_P(t) = || x_P(t) - μ_S(t) || / σ_S(t)
+```
 
-**Discard Ratio**  
-\[
-D_P(T) = \frac{\int_{0}^{T} E_P(t) \cdot \alpha_P(t) \, dt}{\int_{0}^{T} E_P(t) \, dt}
-\]
+where `x_P(t)` is the perceiver's signal, `μ_S(t)` is the system's current mean signal value, and `σ_S(t)` is the system's signal bandwidth (variance). When α_P → 0, the signal falls within the system's bandwidth; when α_P >> 1, the signal cannot be recognized by the system.
+
+**Rejection Intensity**
+
+```math
+R_P(t) = α_P(t) / (α_P(t) + δ)
+```
+
+where δ is the system's tolerance parameter. When α_P → ∞, R_P → 1 (complete rejection).
+
+**Discarded Signal Proportion**
+
+```math
+D_P(T) = ∫₀ᵀ E_P(t) · α_P(t) dt / ∫₀ᵀ E_P(t) dt
+```
+
 Measures the extent to which the perceiver's signal is filtered out by the system.
 
-**System Attention Probability**  
-\[
-A_P = 1 - \exp\left(-\frac{\tau_P}{\tau_0}\right)
-\]
-where \( \tau_0 \) is the system's default signal recognition time window.
+**System Notice Probability**
+
+```math
+A_P = 1 - exp(-τ_P / τ_0)
+```
+
+where τ_0 is the system's default signal recognition time window.
 
 
-## 4. Falsifiability Conditions
+## 4. Falsification Conditions
 
 This model is falsified under any of the following conditions:
 
-1. **No rejection response**: A system is found that satisfies the definition of "perceiver existence," in which the perceiver's signal is fully received by the system without any form of rejection.
+1. **No rejection response**: A system is found that satisfies the definition of "perceiver existence," where the perceiver's signal is fully received by the system and no form of rejection occurs.
 2. **Signal not discarded**: In a system where a disaster clearly occurs, the perceiver's signal is proven to have been normally received and processed by the system, yet the disaster still happens.
-3. **Post-hoc confirmation fails**: After a disaster, the system fails or refuses to recognize the perceiver's warning signal, and post-hoc confirmation does not occur.
+3. **Post-event confirmation fails**: After a disaster, the system fails or refuses to recognize the perceiver's warning signal, and no post-event confirmation occurs.
 
 
 ## 5. Historical Case Validation
 
-The following cases span shipwrecks, wars, economics, pandemics, and counterterrorism — all are found in global history textbooks or public memory:
+The following cases span shipwrecks, wars, economic crises, pandemics, and counterterrorism — all are part of global historical textbooks or public memory:
 
-| Case | Perceiver(s) | Anomaly Index α_P | Rejection Intensity R_P | Discard Ratio D_P | Post-hoc Q |
-|------|--------------|-------------------|-------------------------|-------------------|------------|
-| Titanic (1912) | Radio operator, lookout, ship engineers | Very high | Very high | 0.67 | Very high |
-| Pearl Harbor (1941) | Pacific Fleet commander, British spies | Very high | Very high | Near 1 | Very high |
-| Barbarossa (1941) | Soviet intelligence, British intelligence | Very high | Very high | Near 1 | High |
-| Normandy (1944) | Some German intelligence officers | High | Very high | Near 1 | Very high |
-| Soviet Nuclear False Alarm (1983) | Lt. Col. Petrov | Very high | Not occurred | Not occurred | Very high (counterexample) |
-| 9/11 (2001) | FBI agents, CIA analysts | High | High | Near 1 | Very high |
-| 2008 Financial Crisis (Roubini) | Economist | Very high | Very high | Near 1 | Very high |
-| Wuhan COVID-19 (Li Wenliang) | Ophthalmologist | Very high | Very high | Near 1 | Very high |
-| Afghanistan War (2021) | Diplomats, CIA analysts | Very high | Very high | Near 1 | Very high |
+| Case | Perceiver(s) | Anomaly Index α_P | Rejection Intensity R_P | Discard Ratio D_P | Post-Event Confirmation Q |
+|------|--------------|-------------------|-------------------------|-------------------|---------------------------|
+| Titanic (1912) | Wireless operators, lookouts, ship engineers | Extremely high | Extremely high | 0.67 | Extremely high |
+| Pearl Harbor (1941) | Pacific Fleet commander, British spies | Extremely high | Extremely high | Approaching 1 | Extremely high |
+| Operation Barbarossa (1941) | Soviet intelligence officers, British intelligence | Extremely high | Extremely high | Approaching 1 | High |
+| Normandy (1944) | Some German intelligence officers | High | Extremely high | Approaching 1 | Extremely high |
+| Soviet Nuclear False Alarm (1983) | Lt. Col. Petrov | Extremely high | Not occurred | Not occurred | Extremely high (counterexample) |
+| 9/11 (2001) | FBI agents, CIA analysts | High | High | Approaching 1 | Extremely high |
+| 2008 Financial Crisis (Roubini) | Economist | Extremely high | Extremely high | Approaching 1 | Extremely high |
+| Wuhan COVID-19 (Li Wenliang) | Ophthalmologist | Extremely high | Extremely high | Approaching 1 | Extremely high |
+| Afghanistan War (2021) | Diplomats, CIA intelligence analysts | Extremely high | Extremely high | Approaching 1 | Extremely high |
 
-> *Note: The Petrov case is a counterexample where the system correctly recognized the signal — the signal was properly triggered and was paused by the operator. This shows the model's scope of application is itself testable.*
+> *Note: The Petrov case is a counterexample where the system correctly identified the signal — the signal was properly triggered and paused by the operator. This demonstrates that the model's scope of applicability is itself testable.*
 
-### 5.1 Example: Titanic (1912) — Full Calculation Process
+### 5.1 Example: Titanic (1912) — Complete Calculation Process
 
 #### 5.1.1 Identifying Perceiver Existence
 
-- **Radio operator Jack Phillips**: Received 6 iceberg warnings; the last was cut off with "Shut up, I'm working."
-- **Lookout Frederick Fleet**: Spotted the iceberg, raised alarm, but it was too late to turn.
-- **Ship engineers / crew**: Some had questioned the insufficient lifeboat provisions before departure.
+- **Wireless Operator Jack Phillips**: Received 6 ice warnings; the last one from the SS Californian was cut off ("Shut up, I'm working").
+- **Lookout Frederick Fleet**: Spotted the iceberg and sounded the alarm, but the turn came too late.
+- **Ship Engineers / Crew Members**: Some had raised concerns about insufficient lifeboats before departure.
 
-#### 5.1.2 Calculating Anomaly Index \( \alpha_P \)
+#### 5.1.2 Calculating the Anomaly Index α_P
 
-System default bandwidth: "This ship is unsinkable; current route is safe." Perceiver signal: "There is a large ice field ahead" and "lifeboats are insufficient."
+The system's default bandwidth was: "This ship is unsinkable, and the current route is safe." The perceivers' signals were: "There is a massive ice hazard ahead" and "Lifeboats are insufficient."
 
-Set system default signal value \( \mu_S = 0 \), perceiver signal value \( x_P = 90 \) (high deviation), system signal bandwidth \( \sigma_S = 10 \).
+Set the system default signal value μ_S = 0, the perceiver signal value x_P = 90 (high deviation), and the system signal bandwidth σ_S = 10.
 
-Single warning anomaly index:
-\[
-\alpha_P = \frac{|90 - 0|}{10} = 9
-\]
+Per single warning:
 
-Given multiple perceivers, \( \alpha_P \) remained high, consistently between 8–10. Overall anomaly index is **very high**.
+```math
+α_P = |90 - 0| / 10 = 9
+```
 
-#### 5.1.3 Calculating Rejection Intensity \( R_P \)
+With multiple perceivers emitting signals, α_P remained consistently between 8 and 10 — the overall anomaly index is **extremely high**.
 
-Let \( \delta = 0.5 \):
-\[
-R_P = \frac{9}{9 + 0.5} \approx 0.95
-\]
+#### 5.1.3 Calculating the Rejection Intensity R_P
 
-System rejection intensity toward the perceiver signals was about **95%**. The last warning was cut off, pushing \( R_P \) further toward 1.
+Set δ = 0.5:
 
-#### 5.1.4 Calculating Discard Ratio \( D_P \)
+```math
+R_P = 9 / (9 + 0.5) ≈ 0.95
+```
 
-Of 6 warnings, 4 never reached the bridge, 2 reached the bridge but did not change course or speed:
-\[
-D_P = \frac{4}{6} \approx 0.67
-\]
+The system's rejection intensity toward the perceiver signals is approximately **95%**. The final warning being directly cut off pushed R_P further toward 1.
 
-Considering that the lifeboat concerns had been excluded from decision-making before departure, overall \( D_P \) is around **0.7**.
+#### 5.1.4 Calculating the Discarded Signal Proportion D_P
 
-#### 5.1.5 Calculating System Attention Probability \( A_P \)
+Of the 6 warnings, 4 were never passed to the bridge, and 2 were passed but did not change course or speed:
 
-Let \( \tau_P = 2 \) hours (duration of the last continuous warnings), \( \tau_0 = 4 \) hours:
-\[
-A_P = 1 - \exp\left(-\frac{2}{4}\right) = 1 - e^{-0.5} \approx 0.39
-\]
+```math
+D_P = 4 / 6 ≈ 0.67
+```
 
-In reality, the final warning was cut off, so the actual attention probability approached **0**.
+Considering that concerns about lifeboats had already been excluded from decision-making before departure, the overall D_P is around **0.7**.
 
-#### 5.1.6 Calculating Post-hoc Confirmation \( Q \)
+#### 5.1.5 Calculating the System Notice Probability A_P
 
-Let \( \kappa = 0.9 \), \( D = 1 \), \( \theta = 0.3 \), \( T_d - T_c = 2 \) years:
-\[
-Q = 0.9 \cdot 1 \cdot \frac{1}{1 + e^{-0.3 \times 2}}
-= 0.9 \cdot \frac{1}{1 + e^{-0.6}}
-\approx 0.9 \cdot 0.6457 \approx 0.58
-\]
+Set τ_P = 2 hours (duration of the final continuous warnings), τ_0 = 4 hours:
 
-Given that it became a global textbook case, \( Q \) can be considered **very high (close to 0.9)**.
+```math
+A_P = 1 - exp(-2/4) = 1 - e^(-0.5) ≈ 0.39
+```
+
+In reality, the final warning was directly cut off, so the actual notice probability approached **0**.
+
+#### 5.1.6 Calculating Post-Event Confirmation Q
+
+Set κ = 0.9, D = 1, θ = 0.3, T_d - T_c = 2 years:
+
+```math
+Q = 0.9 × 1 × 1 / (1 + e^(-0.3 × 2))
+  = 0.9 × 1 / (1 + e^(-0.6))
+  ≈ 0.9 × 0.6457
+  ≈ 0.58
+```
+
+Given its status as a global textbook case, Q can be considered **extremely high (near 0.9)**.
 
 #### 5.1.7 Parameter Summary
 
-| Parameter | Value | Basis |
-|-----------|-------|-------|
-| \( \alpha_P \) | Very high | Contradicted "unsinkable" narrative |
-| \( R_P \) | ≈0.95 | Actively suppressed, warnings cut off |
-| \( D_P \) | ≈0.67 | Only 2 of 6 warnings reached the bridge |
-| \( A_P \) | ≈0.39 (actual ≈0) | Final warning was cut off |
-| \( Q \) | Very high (≈0.58–0.9) | Global maritime regulation change |
+| Parameter | Calculated Value | Basis |
+|-----------|------------------|-------|
+| α_P | Extremely high | Directly contradicted the "unsinkable" narrative |
+| R_P | ≈0.95 | System actively suppressed and cut off warnings |
+| D_P | ≈0.67 | Only 2 of 6 warnings reached the bridge |
+| A_P | ≈0.39 (actually approached 0) | Final warning was cut off |
+| Q | Extremely high (≈0.58–0.9) | Global maritime regulations changed |
 
 
 ## 6. Limitations of the Model
 
-1. This model does not predict the timing or location of specific disasters; it only describes the interaction pattern between perceiver signals and the system.
-2. This model is not causal; it cannot answer whether a disaster could have been avoided had the system received the perceiver's signal.
+1. This model does not predict the specific time or location of disasters; it only describes the interaction pattern between perceiver signals and the system.
+2. This model is not a causal model. It cannot answer the question, "If the system had received the perceiver's signal, could the disaster have been avoided?"
 3. This model requires parameter calibration in empirical systems.
 
 
 ## 7. Usage Instructions
 
-1. Identify nodes within a system that may be in a "perceiver position."
-2. Monitor the node's anomaly index \( \alpha_P \) and rejection intensity \( R_P \).
-3. When \( \alpha_P \), \( R_P \), and \( D_P \) exceed preset thresholds, mark the node as "to be tracked."
-4. Do not trigger an alert; only retain its signal for subsequent evaluation.
+1. Identify nodes within the system that may occupy a "perceiver position."
+2. Monitor the node's anomaly index α_P and rejection intensity R_P.
+3. When α_P, R_P, and D_P exceed preset thresholds, mark the node as "to be tracked."
+4. Do not trigger an alert — only retain the signal for subsequent evaluation.
 
 
-## 8. Postscript: To the Perceiver
+## 8. Postscript: To Perceivers
 
-If you have read this far and feel that this model describes you — your attention is sharper than others', your signal format is incompatible with the systems around you, you have been rejected, your warnings have been ignored — then know this:
+If you have read this far and feel that this model describes you — your attention is sharper than others, your signal format is incompatible with the systems around you, you have been excluded, your warnings have been ignored — then please know:
 
-**It is not your fault.**
+**This is not your fault.**
 
-The system did not recognize your signal, not because you were wrong, but because the system's receiving port was not designed to process your signal format. You are the one standing at the system's boundary. The system needs you there, but it cannot recognize you during normal operation. This is a structural misalignment, not a personal failure.
+The system did not recognize your signal, not because you were wrong, but because the system's receiving ports were not designed to process your signal format. You are someone standing at the system's boundary. The system needs you there, but it cannot recognize you during normal operation. This is a structural misalignment, not a personal failure.
 
-If one day, the system actually listens to you — that might be the moment you change history. That would be cool.
+If one day the system actually listens to you — that might be the moment you change history. That would be cool.
 
-**Do not stop perceiving. Do not stop sending signals.** The system may not listen, but your signals will be recorded. And at certain boundary moments, those recorded signals may become the only basis for the system's post-hoc confirmation.
+**Do not stop perceiving. Do not stop sending signals.** The system may not listen, but your signals will be recorded. And at certain boundary moments, those recorded signals may become the only basis for post-event confirmation.
 
-— That is why perceivers exist.
+— This is why perceivers exist.
 
 
 **I cannot change the world, but I do my best to explain it.**
@@ -182,7 +196,7 @@ If one day, the system actually listens to you — that might be the moment you 
 
 ## 9. Version History
 
-- **1.0** (July 2026): Initial version, based on the Perceiver Hypothesis. This version is a mathematical model draft, not yet empirically validated. Verification or revision in various systems is welcome.
+- **1.0** (July 2026): Initial version, based on the Perceiver Hypothesis. This version is a mathematical model draft, not yet empirically tested. Validation or revision in various systems is welcome.
 
 
 **License**: MIT  
