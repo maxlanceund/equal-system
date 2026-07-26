@@ -242,7 +242,7 @@ This theory stands on the work of the following thinkers:
 
 <br>
 
-| 思想家 | Contribution / 贡献 |
+| Thinker / 思想家 | Contribution / 贡献 |
 | :--- | :--- |
 | **霍布斯 / Hobbes** | 提供了“生存竞争”作为社会底层逻辑的观察。 / Provided the observation of "the war of all against all" as the underlying logic of society. |
 | **马克思 / Marx** | 提供了“劳动异化”作为现代社会结构性病症的诊断。 / Provided the diagnosis of "alienation of labor" as the structural illness of modern society. |
