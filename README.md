@@ -1,3 +1,4 @@
+```markdown
 # Equal System / 平等制
 
 **A social structure design for the post-scarcity era**  
@@ -5,18 +6,53 @@
 
 <br>
 
-**Version** 1.0 (July 2026) · **Status** 基础框架已完成 / 问题域持续扩张中 · **Current Phase** 从“制度设计”转向“观察者机制”的底层追问
+> **Philosophical Origin / 哲学起点**  
+> *Does meaning have a limit? If so, what is it?*  
+> *意义是否存在极限？如果有，这个极限是什么？*
+>
+> This question is where everything begins. From it, I derived the **Limit Theory of Meaning** — which then led to the institutional design of the **Equal System**.
+>
+> 这是所有思考的起点。由此，我推导出 **意义极限哲学论** —— 进而延伸出 **平等制** 的制度设计。
 
 <br>
-<hr>
+
+**Version** 1.0 (July 2026) · **Status** Basic framework complete / Problem domain expanding · **Current Phase** From institutional design to the deeper question of observer mechanics
+
 <br>
 
-## Core Logic / 核心逻辑
+## The Architecture of This System / 体系结构速览
 
-This repository contains a complete theoretical framework — from the foundational logic of meaning theory to the institutional design of social structures.
+**English version:**
 
-本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到社会结构的制度设计。
+```
 
+Philosophical inquiry: Does meaning have a limit?
+↓
+Limit Theory of Meaning (foundational logic)
+↓
+Equal System (institutional design: Shared Subsistence + Private Property)
+↓
+Academic Papers · Philosophical Essays · Hypotheses · Mathematical Models (elaboration & validation)
+↓
+Open questions: The Observer's Position (current phase)
+
+```
+
+**中文版：**
+
+```
+
+哲学追问：意义是否存在极限？
+↓
+意义极限哲学论（底层逻辑）
+↓
+平等制（制度设计：生存共有层 + 私有财产层）
+↓
+学术论文 · 哲学随笔 · 猜想 · 数学模型（展开与验证）
+↓
+开放问题：观察者的位置（当前阶段）
+
+```
 <br>
 <hr>
 <br>
