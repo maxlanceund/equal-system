@@ -1,8 +1,14 @@
-# Perceiver-System Signal Mismatch Model (Version 1.0)
+# Perceiver Signal Model: Why Systems Ignore Warnings?
 
 **Based on**: Perceiver Hypothesis (Hypothesis 002)  
 **Status**: Testable Mathematical Model  
 **Purpose**: Describes the structural process by which perceiver signals are filtered, rejected, and post-event confirmed by systems
+
+> **Introduction**
+>
+> This document is not a tool for predicting when disasters will happen. It describes a recurring pattern in how systems behave. It tries to answer one simple question: why are some warning signals persistently ignored?
+>
+> If you are not a math-savvy reader, feel free to skip the formulas at first. Start from Section 5 "Historical Case Validation" and Section 8 "Postscript," and return to the math later if needed.
 
 
 ## 1. Positioning of the Model
