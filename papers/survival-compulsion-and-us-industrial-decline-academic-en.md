@@ -166,6 +166,7 @@ Attributing blame to China is both an evasion of reality and a disregard for the
 **The real way forward is not to find a scapegoat, but to face one's own structural issues directly.**
 
 <br>
+
 ### References
 
 1. National Bureau of Statistics of China. (2025). *2025 National Enterprise Employee Working Hours Data*.
@@ -215,3 +216,7 @@ The data has already shown that Chinese workers receive very little of the value
 ```text
 Lanceund, M. (2026). Survival Compulsion and U.S. Industrial Decline (Academic Version) (1.0版). 平等制仓库.
 https://github.com/maxlanceund/equal-system/blob/main/papers/survival-compulsion-and-us-industrial-decline-academic-en.md
+```
+
+<br>
+<hr>
