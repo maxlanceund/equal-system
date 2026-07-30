@@ -1,10 +1,9 @@
 **Suggested Citation / 建议引用**:
-> Lanceund, M. (2026). *生存强制力、外部归因与美国工业衰退——一个全球生产网络下的政治哲学分析*. Equal System Repository. https://github.com/maxlanceund/equal-system
+> Lanceund, M. (2026). *生存强制力与美国工业衰退（学术版）*. Equal System Repository. https://github.com/maxlanceund/equal-system
 
 ---
 
-# 生存强制力、外部归因与美国工业衰退
-## ——一个全球生产网络下的政治哲学分析
+# 生存强制力与美国工业衰退（学术版）
 
 <br>
 
@@ -198,4 +197,4 @@
 <hr>
 <br>
 
-**English Version**: [Survival Compulsion, External Attribution, and U.S. Industrial Decline](./survival-compulsion-us-industrial-decline-en.md)
+**English Version**: [Survival Compulsion and U.S. Industrial Decline (Academic Version)](./survival-compulsion-and-us-industrial-decline-academic-en.md)
