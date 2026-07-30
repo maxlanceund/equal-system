@@ -211,5 +211,9 @@
 
 <br>
 
-**Suggested Citation / 建议引用**:
-> Lanceund, M. (2026). *生存强制力与美国工业衰退（学术版）*. Equal System Repository. https://github.com/maxlanceund/equal-system
+**建议引用（复制以下内容）**：
+
+```text
+Lanceund, M. (2026). 生存强制力与美国工业衰退（学术版）(1.0版). 平等制仓库.
+https://github.com/maxlanceund/equal-system/blob/main/papers/survival-compulsion-and-us-industrial-decline-academic-cn.md
+```
