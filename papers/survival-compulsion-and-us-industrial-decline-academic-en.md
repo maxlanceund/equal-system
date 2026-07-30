@@ -166,7 +166,6 @@ Attributing blame to China is both an evasion of reality and a disregard for the
 **The real way forward is not to find a scapegoat, but to face one's own structural issues directly.**
 
 <br>
-
 ### References
 
 1. National Bureau of Statistics of China. (2025). *2025 National Enterprise Employee Working Hours Data*.
