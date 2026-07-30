@@ -111,7 +111,7 @@ This repository contains a complete theoretical framework — from the foundatio
 | [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
 | [信号、交换与制度稳定性（学术版）](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability (Academic Version)](papers/signal-exchange-and-system-stability-en.md) |
 | [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
-| [生存强制力、外部归因与美国工业衰退](papers/survival-compulsion-us-industrial-decline-cn.md) | [Survival Compulsion, External Attribution, and U.S. Industrial Decline](papers/survival-compulsion-us-industrial-decline-en.md) |
+| [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
 <br>
 <hr>
 <br>
