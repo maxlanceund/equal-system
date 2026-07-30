@@ -354,6 +354,13 @@ They are the reason this repository exists as a living document.
 > I also recognize that without Engels, Marx's influence might not have reached where it is today. He turned Marx's manuscripts into weapons. He is not in the methodological lineage of this theory — but he is in the condition lineage that made this theory possible.
 >
 > 我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
+<br>
+
+> When Marx wrote about Germany, I was a student. When Marx wrote about France, I was a colleague.
+>
+> 马克思写德国的时候，我是学生。马克思写法国的时候，我是同行。
+
+<br>
 
 <br>
 
