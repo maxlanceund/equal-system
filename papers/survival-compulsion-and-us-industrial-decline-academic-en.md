@@ -1,10 +1,9 @@
 **Suggested Citation**:
-> Lanceund, M. (2026). *Survival Compulsion, External Attribution, and U.S. Industrial Decline: A Political-Philosophical Analysis Under Global Production Networks*. Equal System Repository. https://github.com/maxlanceund/equal-system
+> Lanceund, M. (2026). *Survival Compulsion and U.S. Industrial Decline (Academic Version)*. Equal System Repository. https://github.com/maxlanceund/equal-system
 
 ---
 
-# Survival Compulsion, External Attribution, and U.S. Industrial Decline
-## ——A Political-Philosophical Analysis Under Global Production Networks
+# Survival Compulsion and U.S. Industrial Decline (Academic Version)
 
 <br>
 
@@ -198,4 +197,4 @@ Attributing blame to China is both an evasion of reality and a disregard for the
 <hr>
 <br>
 
-**中文版本**: [生存强制力、外部归因与美国工业衰退](./survival-compulsion-us-industrial-decline-cn.md)
+**中文版本**: [生存强制力与美国工业衰退（学术版）](./survival-compulsion-and-us-industrial-decline-academic-cn.md)
