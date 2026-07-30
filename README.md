@@ -359,7 +359,12 @@ They are the reason this repository exists as a living document.
 > When Marx wrote about Germany, I was a student. When Marx wrote about France, I was a colleague.
 >
 > 马克思写德国的时候，我是学生。马克思写法国的时候，我是同行。
-
+>
+> At that time, I was the only one in the room.  
+> Now, this sentence is here.  
+>
+> 当时只有我一个人。  
+> 现在，这句话在这里。
 <br>
 
 <br>
