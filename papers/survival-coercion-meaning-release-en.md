@@ -493,15 +493,13 @@ Once that door opens, the old system's coercive force will be invalidated. Any a
 
 ### 8.6 Falsifiability Conditions
 
-The core judgment of this paper—"the old system is approaching its boundary, and its coercion is being released"—is testable. If the following conditions are observed within 20 years, this paper's conclusions will be falsified:
+If any of the following occurs within 5 years, the core judgment of this paper is invalidated:
 
-1. **Marriage and fertility rates continuously rise back above replacement level.** If the old system were truly "zeroing out," its execution rate would not rebound. If more people re-enter the old system, it would indicate that coercion remains effective.
-
-2. **"Not marrying" and "not bearing children" once again become survival risks that cannot be absorbed by social structures.** If social institutions regress so that women must obtain survival resources through marriage and men must secure old-age support through childbearing, it would indicate that the old system's coercion has not been dismantled, only temporarily weakened.
-
-3. **Technological alternatives are systematically prohibited or marginalized.** If artificial wombs, gene editing, and similar technologies are globally banned, unable to serve as optional reproductive paths, it would indicate that the old system has reconsolidated its boundaries through political means.
-
-If any of these conditions holds, this paper's description is wrong. If they are not observed, this paper's framework continues to hold.
+1. Fertility rates rise significantly, with young people actively choosing to have children.
+2. Marriage rates rise significantly, with young people actively choosing to marry.
+3. The trend of women's independence reverses, and willingness to return to traditional family roles increases markedly.
+4. Reproductive alternative technologies—such as artificial wombs and gene editing—are globally banned.
+5. Social pressure to marry and bear children noticeably declines and no longer constitutes a source of anxiety.
 
 
 ### 8.7 Closing
