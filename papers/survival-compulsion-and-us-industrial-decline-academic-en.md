@@ -178,6 +178,7 @@ If any of the following occurs within 5 years, the core conclusion of this paper
 1. U.S. manufacturing employment shows a sustained and significant recovery, and this recovery cannot be explained by a decline in automation rates or a shift to services, but is primarily driven by manufacturing reshoring.
 
 2. Chinese manufacturing workers' wages show a sustained and significant increase, reaching 50% or more of U.S. wages for equivalent positions, while China's manufacturing export competitiveness does not decline during the same period.
++    Note: If wages rise but export competitiveness shows a measurable decline, this does not constitute a falsification — it is the natural result of rising costs. Only if wages rise while export competitiveness simultaneously rises or remains stable would the "Survival Compulsion" explanation be invalidated.
 
 3. Chinese labor rights—working hours, social security, and working conditions—show systemic improvement, while manufacturing jobs and competitiveness are not significantly affected during the same period.
 
