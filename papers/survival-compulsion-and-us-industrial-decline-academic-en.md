@@ -164,6 +164,26 @@ Chinese workers have not stolen anyone's jobs. They are exchanging their blood a
 Attributing blame to China is both an evasion of reality and a disregard for the sacrifices of Chinese laborers.
 
 **The real way forward is not to find a scapegoat, but to face one's own structural issues directly.**
+<br>
+
+### VI. Falsifiability Conditions
+
+This paper's core argument has two levels:
+
+- **External attribution is wrong**: The primary cause of U.S. industrial decline is not the rise of Chinese manufacturing.
+- **Survival Compulsion is real**: Chinese workers' low wages stem from a lack of alternative survival paths.
+
+If any of the following occurs within 5 years, the core conclusion of this paper is invalidated:
+
+1. U.S. manufacturing employment shows a sustained and significant recovery, and this recovery cannot be explained by a decline in automation rates or a shift to services, but is primarily driven by manufacturing reshoring.
+
+2. Chinese manufacturing workers' wages show a sustained and significant increase, reaching 50% or more of U.S. wages for equivalent positions, while China's manufacturing export competitiveness does not decline during the same period.
+
+3. Chinese labor rights—working hours, social security, and working conditions—show systemic improvement, while manufacturing jobs and competitiveness are not significantly affected during the same period.
+
+4. Chinese manufacturing workers' wages rise while U.S. manufacturing employment simultaneously recovers—i.e., "rising Chinese worker wages" and "returning U.S. manufacturing jobs" occur at the same time, and this cannot be explained by inflation or exchange rate fluctuations.
+
+If any of these conditions occurs, the judgment that "Chinese workers' competitiveness comes from Survival Compulsion" no longer holds. If they are not observed, this paper's framework remains valid.
 
 <br>
 
