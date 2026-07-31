@@ -248,6 +248,7 @@ This theory stands on the work of the following thinkers:
 | **马克思 / Marx** | 提供了“劳动异化”作为现代社会结构性病症的诊断。 / Provided the diagnosis of "alienation of labor" as the structural illness of modern society. |
 | **罗素 / Russell** | 提供了逻辑推导的方法 —— 把复杂命题拆解到最小可验证单位。 / Provided the method of logical analysis — breaking complex propositions into verifiable units. |
 | **维特根斯坦 / Wittgenstein** | 提供了“语言边界”的警觉 —— 区分可说的与不可说的。 / Provided the vigilance of "linguistic boundaries" — distinguishing what can be said from what cannot. |
+| 生存强制力与意义的释放 | [中文](papers/survival-coercion-meaning-release-cn.md) · [English](papers/survival-coercion-meaning-release-en.md) | 2026-07 |
 
 <br>
 
