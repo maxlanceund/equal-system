@@ -9,9 +9,9 @@
 > *Does meaning have a limit? If so, what is it?*  
 > *意义是否存在极限？如果有，这个极限是什么？*
 >
-> This question is where everything begins. From it, I derived the **Limit Theory of Meaning** — which then led to the institutional design of the **Equal System**.
+> This question is where everything begins. From it, I derived the **Limit Theory of Meaning** — which then led to the identification of **The Imperative** — and finally to the institutional design of the **Equal System**.
 >
-> 这是所有思考的起点。由此，我推导出 **意义极限哲学论** —— 进而延伸出 **平等制** 的制度设计。
+> 这是所有思考的起点。由此，我推导出 **意义极限哲学论** —— 进而识别出 **命令体** —— 最终延伸出 **平等制** 的制度设计。
 
 <br>
 
@@ -27,6 +27,8 @@
 Philosophical inquiry: Does meaning have a limit?
 ↓
 Limit Theory of Meaning (foundational logic)
+↓
+The Imperative (the structure that tries to extend meaning beyond the interval)
 ↓
 Equal System (institutional design: Shared Subsistence + Private Property)
 ↓
@@ -44,6 +46,8 @@ Open questions: The Observer's Position (current phase)
 ↓
 意义极限哲学论（底层逻辑）
 ↓
+命令体（试图将意义延伸到区间之外的结构）
+↓
 平等制（制度设计：生存共有层 + 私有财产层）
 ↓
 学术论文 · 哲学随笔 · 猜想 · 数学模型（展开与验证）
@@ -58,9 +62,36 @@ Open questions: The Observer's Position (current phase)
 
 ## Core Logic / 核心逻辑
 
-This repository contains a complete theoretical framework — from the foundational logic of meaning theory to the institutional design of social structures.
+This repository contains a complete theoretical framework — from the foundational logic of meaning theory, through the identification of The Imperative, to the institutional design of social structures.
 
-本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到社会结构的制度设计。
+本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到命令体的识别，再到社会结构的制度设计。
+
+<br>
+
+**The logical chain of six papers:**
+**六篇论文的逻辑递进：**
+
+```
+
+Limit Theory of Meaning
+意义极限论
+↓
+Limited-Interval Principle
+有限区间原则
+↓
+Boundary Acceleration
+边界加速
+↓
+Signal, Exchange & System Stability          Survival Compulsion & Release of Meaning          Survival Compulsion & U.S. Industrial Decline
+私有制分析                                     意义释放                                          工业衰退
+↘                            ↓                            ↗
+The Imperative
+命令体
+↓
+Equal System
+平等制
+
+```
 
 <br>
 <hr>
