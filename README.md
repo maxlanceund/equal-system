@@ -112,12 +112,19 @@ Equal System — 平等制
 
 <br>
 
+### Identification / 识别层
+
+| 中文 | English |
+| :--- | :--- |
+| [命令体与康德](imperative-and-kant-cn.md) | [The Imperative and Kant](imperative-and-kant-en.md) |
+
+<br>
+
 ### Institutional Framework / 制度落点
 
 | 中文 | English |
 | :--- | :--- |
 | [平等制设计](equal-system-cn.md) | [Equal System Design](equal-system-en.md) |
-
 <br>
 <hr>
 <br>
