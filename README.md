@@ -116,7 +116,7 @@ Equal System — 平等制
 
 | 中文 | English |
 | :--- | :--- |
-| [命令体与康德](imperative-and-kant-cn.md) | [The Imperative and Kant](imperative-and-kant-en.md) |
+[命令体与康德](papers/imperative-and-kant-cn.md) | [The Imperative and Kant](papers/imperative-and-kant-en.md)
 
 <br>
 
