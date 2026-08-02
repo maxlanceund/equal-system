@@ -70,43 +70,36 @@ The six academic papers form a logical progression — from the foundational que
 六篇学术论文构成一条完整的逻辑递进链 —— 从意义的底层问题，到识别出那个试图将意义延伸到边界之外的结构。
 
 <br>
-
 ```
+flowchart LR
+    subgraph Foundation[底层逻辑]
+        A[意义极限论<br>Limit Theory of Meaning]
+        B[有限区间原则<br>Limited-Interval Principle]
+        C[边界加速<br>Boundary Acceleration]
+    end
 
-┌───────────────────┐    ┌───────────────────────┐    ┌───────────────────┐
-│   Signal, Exchange │    │  Survival Compulsion  │    │ Survival Compulsion│
-│   & System         │    │  & the Release of     │    │ & U.S. Industrial  │
-│   Stability        │    │  Meaning              │    │ Decline            │
-│   信号、交换与      │    │  生存强制力与          │    │ 生存强制力与       │
-│   制度稳定性        │    │  意义的释放           │    │ 美国工业衰退       │
-│   System stability │    │  The old system is    │    │ U.S. decline is    │
-│   depends on       │    │  being dismantled    │    │ not caused by      │
-│   exchange         │    │  by technology.      │    │ China.             │
-│   continuity.      │    │  旧系统正在被技术拆除。│    │ 美国衰退不是中国    │
-│   系统稳定依赖      │    │                       │    │ 造成的。            │
-│   交换的连续性。    │    │                       │    │                     │
-└───────────────────┘    └───────────────────────┘    └───────────────────┘
-│
-▼
-┌─────────────────────────────────────┐
-│          The Imperative              │
-│             命令体                    │
-│   A structural entity parasitic on   │
-│   human society — identified,        │
-│   named, and contained.              │
-│   一个寄生在人类社会中的结构性存在    │
-│   —— 被识别、被命名、被收容。        │
-└─────────────────┬───────────────────┘
-│
-▼
-┌─────────────────────────────────────┐
-│           Equal System              │
-│             平等制                   │
-│   Institutional response to         │
-│   dismantle survival compulsion.    │
-│   拆除生存强制力的制度回应。          │
-└─────────────────────────────────────┘
+    subgraph Application[应用展开]
+        D[私有制分析<br>Signal, Exchange & System Stability]
+        E[意义释放<br>Survival Compulsion & Release of Meaning]
+        F[工业衰退<br>Survival Compulsion & U.S. Industrial Decline]
+    end
 
+    subgraph Core[核心识别]
+        G[命令体<br>The Imperative]
+    end
+
+    subgraph Response[制度回应]
+        H[平等制<br>Equal System]
+    end
+
+    A --> B --> C
+    C --> D
+    C --> E
+    C --> F
+    D --> G
+    E --> G
+    F --> G
+    G --> H
 ```
 
 <br>
