@@ -9,15 +9,18 @@
 > *Does meaning have a limit? If so, what is it?*  
 > *意义是否存在极限？如果有，这个极限是什么？*
 >
-> This question is where everything begins. From it, I derived the **Limit Theory of Meaning** — which then led to the institutional design of the **Equal System**.
+> This question is where everything begins. From it, I derived the **Limit Theory of Meaning** — which then led to the identification of **The Imperative** — and finally to the institutional design of the **Equal System**.
 >
-> 这是所有思考的起点。由此，我推导出 **意义极限哲学论** —— 进而延伸出 **平等制** 的制度设计。
+> 这是所有思考的起点。由此，我推导出 **意义极限哲学论** —— 进而识别出 **命令体** —— 最终延伸出 **平等制** 的制度设计。
 
 <br>
 
 **Version** 1.0 (July 2026) · **Status** Basic framework complete / Problem domain expanding · **Current Phase** From institutional design to the deeper question of observer mechanics
 
 版本 1.0 (2026年7月) · 状态：基础框架已完成 / 问题域持续扩张中 · 当前阶段：从“制度设计”转向“观察者机制”的底层追问
+
+---
+
 ## The Architecture of This System / 体系结构速览
 
 **English version:**
@@ -27,6 +30,8 @@
 Philosophical inquiry: Does meaning have a limit?
 ↓
 Limit Theory of Meaning (foundational logic)
+↓
+The Imperative (the structure that tries to extend meaning beyond the interval)
 ↓
 Equal System (institutional design: Shared Subsistence + Private Property)
 ↓
@@ -44,6 +49,8 @@ Open questions: The Observer's Position (current phase)
 ↓
 意义极限哲学论（底层逻辑）
 ↓
+命令体（试图将意义延伸到区间之外的结构）
+↓
 平等制（制度设计：生存共有层 + 私有财产层）
 ↓
 学术论文 · 哲学随笔 · 猜想 · 数学模型（展开与验证）
@@ -56,11 +63,79 @@ Open questions: The Observer's Position (current phase)
 <hr>
 <br>
 
+## The Logical Chain / 逻辑递进
+
+The six academic papers form a logical progression — from the foundational question of meaning to the identification of the structure that tries to extend it beyond its bounds.
+
+六篇学术论文构成一条完整的逻辑递进链 —— 从意义的底层问题，到识别出那个试图将意义延伸到边界之外的结构。
+
+<br>
+
+```
+
+┌───────────────────┐    ┌───────────────────────┐    ┌───────────────────┐
+│   Signal, Exchange │    │  Survival Compulsion  │    │ Survival Compulsion│
+│   & System         │    │  & the Release of     │    │ & U.S. Industrial  │
+│   Stability        │    │  Meaning              │    │ Decline            │
+│   信号、交换与      │    │  生存强制力与          │    │ 生存强制力与       │
+│   制度稳定性        │    │  意义的释放           │    │ 美国工业衰退       │
+│   System stability │    │  The old system is    │    │ U.S. decline is    │
+│   depends on       │    │  being dismantled    │    │ not caused by      │
+│   exchange         │    │  by technology.      │    │ China.             │
+│   continuity.      │    │  旧系统正在被技术拆除。│    │ 美国衰退不是中国    │
+│   系统稳定依赖      │    │                       │    │ 造成的。            │
+│   交换的连续性。    │    │                       │    │                     │
+└───────────────────┘    └───────────────────────┘    └───────────────────┘
+│
+▼
+┌─────────────────────────────────────┐
+│          The Imperative              │
+│             命令体                    │
+│   A structural entity parasitic on   │
+│   human society — identified,        │
+│   named, and contained.              │
+│   一个寄生在人类社会中的结构性存在    │
+│   —— 被识别、被命名、被收容。        │
+└─────────────────┬───────────────────┘
+│
+▼
+┌─────────────────────────────────────┐
+│           Equal System              │
+│             平等制                   │
+│   Institutional response to         │
+│   dismantle survival compulsion.    │
+│   拆除生存强制力的制度回应。          │
+└─────────────────────────────────────┘
+
+```
+
+<br>
+
+*(See the papers section below for the full text of each paper.)*  
+*（每篇论文的全文请参阅下方论文列表。）*
+
+<br>
+<hr>
+<br>
+
 ## Core Logic / 核心逻辑
 
-This repository contains a complete theoretical framework — from the foundational logic of meaning theory to the institutional design of social structures.
+This repository contains a complete theoretical framework — from the foundational logic of meaning theory, through the identification of The Imperative, to the institutional design of social structures.
 
-本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到社会结构的制度设计。
+本仓库包含一套完整的理论体系 —— 从意义理论的底层逻辑，到命令体的识别，再到社会结构的制度设计。
+
+<br>
+
+**The logical chain:**  
+**逻辑链条：**
+
+> Meaning has a limit → It only has definition within finite intervals →  
+> The structure that tries to extend meaning beyond the interval is **The Imperative** →  
+> The Equal System is the institutional response to dismantle it.
+
+> 意义有极限 → 它只在有限区间内有定义 →  
+> 试图将意义延伸到区间之外的结构是 **命令体** →  
+> 平等制是拆除它的制度回应。
 
 <br>
 <hr>
@@ -76,11 +151,12 @@ This repository contains a complete theoretical framework — from the foundatio
 
 <br>
 
-### Foundation / 底层逻辑
+### Core Concepts / 核心概念
 
 | 中文 | English |
 | :--- | :--- |
 | [意义极限哲学论](meaning-limit-theory-cn.md) | [Limit Theory of Meaning](meaning-limit-theory-en.md) |
+| [命令体：寄生在人类社会中的结构性存在](imperative-cn.md) | [The Imperative: A Structural Entity Parasitic on Human Society](imperative-en.md) |
 
 <br>
 
@@ -94,7 +170,24 @@ This repository contains a complete theoretical framework — from the foundatio
 <hr>
 <br>
 
-## Academic Paper / 学术论文
+## Academic Papers / 学术论文
+
+The six academic papers that elaborate and validate the framework:
+
+六篇展开与验证该框架的学术论文：
+
+<br>
+
+| # | 中文 | English |
+| :--- | :--- | :--- |
+| 1 | [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
+| 2 | [有限区间原则（学术版）](papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](papers/limited-interval-principle_en.md) |
+| 3 | [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
+| 4 | [信号、交换与制度稳定性（学术版）](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability (Academic Version)](papers/signal-exchange-and-system-stability-en.md) |
+| 5 | [生存强制力与意义的释放（学术版）](papers/survival-coercion-meaning-release-cn.md) | [The Release of Survival Coercion and Meaning (Academic Version)](papers/survival-coercion-meaning-release-en.md) |
+| 6 | [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
+
+<br>
 
 **Suggested Citation / 建议引用**:
 
@@ -104,17 +197,6 @@ This repository contains a complete theoretical framework — from the foundatio
 *（其他论文请参阅各自文档页的引用信息。）*
 
 <br>
-
-| 中文 | English |
-| :--- | :--- |
-| [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
-| [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
-| [信号、交换与制度稳定性（学术版）](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability (Academic Version)](papers/signal-exchange-and-system-stability-en.md) |
-| [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
-| [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
-| [生存强制力与意义的释放（学术版）](papers/survival-coercion-meaning-release-cn.md) | [The Release of Survival Coercion and Meaning (Academic Version)](papers/survival-coercion-meaning-release-en.md) |
-
-<br>
 <hr>
 <br>
 
@@ -122,9 +204,9 @@ This repository contains a complete theoretical framework — from the foundatio
 
 | 中文 | English |
 | :--- | :--- |
-| [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
-| [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
-| [确认法（路径坐标图法）](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-en.md) |
+| [论死亡与生命](essays/death-and-life-cn.md) | [On Death and Life](essays/death-and-life-en.md) |
+| [哲学的边界](essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](essays/language-philosophy-boundary-en.md) |
+| [确认法（路径坐标图法）](essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](essays/confirmation-method-en.md) |
 
 <br>
 <hr>
@@ -146,62 +228,6 @@ This repository contains a complete theoretical framework — from the foundatio
 | 中文 | English |
 | :--- | :--- |
 | [感知者信号模型：系统为何忽视预警？](./hypotheses/perceiver-warning-model_cn.md) | [Perceiver Signal Model: Why Systems Ignore Warnings?](./hypotheses/perceiver-warning-model_en.md) |
-
-<br>
-<hr>
-<br>
-
-## Overview / 概述
-
-### English
-
-This repository contains the complete theoretical framework of the Equal System, a social structure designed for the post-scarcity era.
-
-The framework is derived from the **Limit Theory of Meaning**, which states that:
-
-> Meaning is a signal generated by finite systems within finite intervals. When external conditions change, the structure of meaning changes accordingly — and so must the institutions that govern society.
-
-<br>
-
-### 中文
-
-本仓库包含一套完整的理论体系 —— **平等制**，一个为后稀缺时代设计的社会结构框架。
-
-该体系从 **意义极限哲学论** 推导而来，其核心命题是：
-
-> 意义是有限系统在有限区间内产生的信号。当外部条件发生变化时，意义的结构会随之改变 —— 因此，制度也必须随之调整。
-
-<br>
-<hr>
-<br>
-
-## Current Reflection / 当前反思
-
-The institutional design of the Equal System is complete.  
-But a deeper question has emerged from the act of writing it:
-
-> If the system inevitably produces "observers" who stand at its boundary —  
-> and if those observers are structurally unable to integrate —  
-> then what is the observer's relationship to the system they are describing?
-
-This repository is no longer just a design document.  
-It is also a record of the observer's position.
-
-**The theory is closed. The questions are not.**
-
----
-
-平等制的制度设计已经完成。  
-但在写作过程中，一个更深层的问题浮现了出来：
-
-> 如果系统不可避免地会在边界上产生“观察者” ——  
-> 而如果这些观察者从结构上无法被系统接纳 ——  
-> 那么观察者与他所描述的系统之间，到底是什么关系？
-
-本仓库不再只是一份设计文档。  
-它也是观察者位置的记录。
-
-**理论已经闭合。问题还没有。**
 
 <br>
 <hr>
@@ -251,7 +277,6 @@ This theory stands on the work of the following thinkers:
 | **罗素 / Russell** | 提供了逻辑推导的方法 —— 把复杂命题拆解到最小可验证单位。 / Provided the method of logical analysis — breaking complex propositions into verifiable units. |
 | **维特根斯坦 / Wittgenstein** | 提供了“语言边界”的警觉 —— 区分可说的与不可说的。 / Provided the vigilance of "linguistic boundaries" — distinguishing what can be said from what cannot. |
 
-
 <br>
 
 > Among them, Marx's influence is the greatest. He showed me the central position of "labor" as a structural problem of society — and made me realize that if a thought only describes the world without attempting to change it, it has not yet completed its journey.
@@ -271,6 +296,38 @@ This theory stands on the work of the following thinkers:
 **Equal System is what happens when these four lines are twisted together under the condition of technological abundance.**
 
 **平等制是这四条线在技术条件下被拧到一起后的自然产物。**
+
+<br>
+<hr>
+<br>
+
+## Current Reflection / 当前反思
+
+The institutional design of the Equal System is complete.  
+But a deeper question has emerged from the act of writing it:
+
+> If the system inevitably produces "observers" who stand at its boundary —  
+> and if those observers are structurally unable to integrate —  
+> then what is the observer's relationship to the system they are describing?
+
+This repository is no longer just a design document.  
+It is also a record of the observer's position.
+
+**The theory is closed. The questions are not.**
+
+---
+
+平等制的制度设计已经完成。  
+但在写作过程中，一个更深层的问题浮现了出来：
+
+> 如果系统不可避免地会在边界上产生“观察者” ——  
+> 而如果这些观察者从结构上无法被系统接纳 ——  
+> 那么观察者与他所描述的系统之间，到底是什么关系？
+
+本仓库不再只是一份设计文档。  
+它也是观察者位置的记录。
+
+**理论已经闭合。问题还没有。**
 
 <br>
 <hr>
@@ -357,6 +414,7 @@ They are the reason this repository exists as a living document.
 > I also recognize that without Engels, Marx's influence might not have reached where it is today. He turned Marx's manuscripts into weapons. He is not in the methodological lineage of this theory — but he is in the condition lineage that made this theory possible.
 >
 > 我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
+
 <br>
 
 > When Marx wrote about Germany, I was a student. When Marx wrote about France, I was a colleague.
@@ -368,7 +426,6 @@ They are the reason this repository exists as a living document.
 >
 > 当时只有我一个人。  
 > 现在，这句话在这里。
-<br>
 
 <br>
 
@@ -408,3 +465,4 @@ This work is licensed under the MIT License.
 This is not the end. It is the boundary where the next question begins. <br>
 这不是终点。这是下一个问题开始的边界。
 </div>
+```
