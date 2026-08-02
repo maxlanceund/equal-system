@@ -72,24 +72,21 @@ This repository contains a complete theoretical framework — from the foundatio
 **六篇论文的逻辑递进：**
 
 ```
-
-Limit Theory of Meaning
-意义极限论
-↓
-Limited-Interval Principle
-有限区间原则
-↓
-Boundary Acceleration
-边界加速
-↓
-Signal, Exchange & System Stability          Survival Compulsion & Release of Meaning          Survival Compulsion & U.S. Industrial Decline
-私有制分析                                     意义释放                                          工业衰退
-↘                            ↓                            ↗
-The Imperative
-命令体
-↓
-Equal System
-平等制
+Limit Theory of Meaning — 意义极限论
+    ↓
+Limited-Interval Principle — 有限区间原则
+    ↓
+Boundary Acceleration — 边界加速
+    ↓
+┌─────────────────────────────────────────────────────┐
+│  Signal, Exchange & System Stability  — 私有制分析 │
+│  Survival Compulsion & Release of Meaning — 意义释放 │
+│  Survival Compulsion & U.S. Industrial Decline — 工业衰退 │
+└─────────────────────────────────────────────────────┘
+    ↓
+The Imperative — 命令体
+    ↓
+Equal System — 平等制
 
 ```
 
