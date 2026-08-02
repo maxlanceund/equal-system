@@ -124,7 +124,7 @@ Equal System — 平等制
 
 | 中文 | English |
 | :--- | :--- |
-| [平等制设计](equal-system-cn.md) | [Equal System Design](equal-system-en.md) |
+| [平等制设计](equal-system-cn.md ) | [Equal System Design](equal-system-en.md) |
 <br>
 <hr>
 <br>
