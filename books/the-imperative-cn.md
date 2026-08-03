@@ -27,10 +27,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 1 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 训狗不只是比喻
@@ -49,10 +50,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 2 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 它在哪些地方出现
@@ -75,10 +77,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 3 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 一个古老的东西
@@ -93,10 +96,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 4 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 命令体的化身
@@ -117,10 +121,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 5 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 看见它之后
@@ -135,10 +140,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 6 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 沉默之中
@@ -155,10 +161,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 7 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 开始批判
@@ -177,10 +184,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 8 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 必须服从与服从自己
@@ -195,10 +203,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 9 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 代价
@@ -217,10 +226,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 10 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 荒原
@@ -237,10 +247,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 11 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 漫长的战栗
@@ -257,10 +268,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 12 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 夺回
@@ -277,10 +289,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 13 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 该听谁的？
@@ -305,10 +318,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 14 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
 
 ## 沉默
@@ -319,7 +333,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 
 <br><br>
-<hr style="border:0.5px solid #ddd; width:30%; margin:0 auto;">
-<p align="center" style="font-size:0.8em; color:#888; margin-top:8px;">
+<p align="left" style="font-size:0.8em; color:#888;">
 第 15 章 · 共 15 章
 </p>
+<br>
+<hr style="border:0.5px solid #ddd; width:30%; margin:0;">
