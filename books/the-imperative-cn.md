@@ -35,7 +35,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 1 章 · 共 15 章
+第 1 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -58,7 +58,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 2 章 · 共 15 章
+第 2 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -85,7 +85,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 3 章 · 共 15 章
+第 3 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -104,7 +104,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 4 章 · 共 15 章
+第 4 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -129,7 +129,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 5 章 · 共 15 章
+第 5 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -148,7 +148,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 6 章 · 共 15 章
+第 6 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -169,7 +169,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 7 章 · 共 15 章
+第 7 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -192,7 +192,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 8 章 · 共 15 章
+第 8 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -211,7 +211,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 9 章 · 共 15 章
+第 9 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -234,7 +234,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 10 章 · 共 15 章
+第 10 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -255,7 +255,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 11 章 · 共 15 章
+第 11 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -276,7 +276,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 12 章 · 共 15 章
+第 12 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -297,7 +297,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 13 章 · 共 15 章
+第 13 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -326,7 +326,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 14 章 · 共 15 章
+第 14 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
@@ -341,7 +341,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
-第 15 章 · 共 15 章
+第 15 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
