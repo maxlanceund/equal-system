@@ -1,21 +1,34 @@
 ---
-title: "The Imperative: An Observation Record"
+title: "The Imperative"
 author: "maxlanceund"
 version: "1.0"
 date: "August 2026"
-type: "observation-record"
+type: "containment-record"
 repository: "https://github.com/maxlanceund/equal-system"
 ---
 
+> ---
+> **Containment Record · The Imperative**
+> 
+> | Designation | IMPERATIVE-01 |
+> | :--- | :--- |
+> | Class | Neutralized · Unrestricted |
+> | Status | Observation Terminated · Archived |
+> | Nature | Philosophical Anomaly · Structural Identification |
+> | Relations | Limit Theory of Meaning · The Imperative and Kant · Equal System |
+> | Core Question | Has your entire life been shaped by instructions? |
+> 
+> **Abstract**: The Imperative is a structural entity that maintains obedience by controlling the means of survival. It does not require the subject to understand the meaning of its commands — only to execute them. The structure has entered its boundary acceleration phase, with signal density reaching historical peaks. This record is based on the observer's complete tracking and containment process of the structure.
+> 
+> *Archived: August 2026*
+> ---
 
-# Observation Record · The Imperative
 
+## The Training Entrance
 
-| Observation Target | The Imperative |
-| :--- | :--- |
-| Observation Period | 2026 |
-| Record Type | Philosophical Observation · Containment Summary |
-| Core Question | Has your entire life been shaped by instructions? |
+Have you ever felt like your entire life has been following instructions?
+…
+
 
 
 ## The Training Entrance
