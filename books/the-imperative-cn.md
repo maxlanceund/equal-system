@@ -50,7 +50,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;训狗，就是理解它的入口。
 
 
----
+<br><hr><br>
+
 
 ## 第二章：训狗不只是比喻
 
@@ -85,7 +86,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你不是被说服的。你只是被放置进去的。
 
 
----
+<br><hr><br>
+
 
 ## 第三章：它在哪些地方出现
 
@@ -94,6 +96,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;它发生在学校、公司、婚姻、媒体、社交圈子——它发生在你生活的几乎每一个角落。
 
 &emsp;&emsp;它用的方式都一样：给你一套指令，控制你的生存资源，让你相信“不服从就活不下去”。
+
+<br>
 
 &emsp;&emsp;**在学校里。**
 
@@ -107,6 +111,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 &emsp;&emsp;你还没意识到自己可以选择，它已经让你习惯了服从。
 
+<br>
+
 &emsp;&emsp;**在公司里。**
 
 &emsp;&emsp;你工作后可能听过这句话：“你不加班，就会被淘汰。”
@@ -114,6 +120,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你加班，即使你不理解它的意义，即使你知道它正在消耗你——你依然做。因为你怕。怕失去位置，怕无法生存。
 
 &emsp;&emsp;公司不关心你加班的理由。它只关心你服从的事实。
+
+<br>
 
 &emsp;&emsp;**在婚姻和家庭里。**
 
@@ -123,6 +131,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 &emsp;&emsp;训狗不只用一种方式出现。它每次都换一件衣服，让你以为这次不一样。但真正不变的，是那个让你在还没来得及问“为什么”之前，就已经开始执行的结构。
 
+<br>
+
 &emsp;&emsp;**在消费里。**
 
 &emsp;&emsp;你有没有过这种感觉——你本来只是想买一件东西，结果看到“限时优惠”“仅剩3件”“倒计时”，然后你立刻下单了？
@@ -130,6 +140,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你不是真的需要它。你只是被那个倒计时推了一下。
 
 &emsp;&emsp;那是训狗。它通过“稀缺”和“紧迫感”训练你：不买你就亏了。你服从了。
+
+<br>
 
 &emsp;&emsp;**在社交媒体上。**
 
@@ -139,6 +151,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 &emsp;&emsp;那不是你在关心那件事本身。那是你在服从一个隐形的训练：你发出去之后，就会开始等待那些数字回来确认你的位置。
 
+<br>
+
 &emsp;&emsp;**在职场上。**
 
 &emsp;&emsp;你参加一个会议，你有一个想法，但你没有说。因为你看到其他人都在点头，你怕你的想法会被否定。
@@ -146,7 +160,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你服从了“大多数人的声音比你的声音更正确”这个指令——你还没有说出你的想法，你已经替自己否决了它。
 
 
----
+<br><hr><br>
+
 
 ## 第四章：一个古老的东西
 
@@ -169,7 +184,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;下一章说。
 
 
----
+<br><hr><br>
+
 
 ## 第五章：命令体的化身
 
@@ -181,6 +197,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 &emsp;&emsp;当你的父母催你结婚的时候，你听到的不只是他们的声音。你听到的是那个更老的东西——它借用了他们的嘴。
 
+<br>
+
 &emsp;&emsp;“我怕你孤单”——你真的相信那是全部吗？
 
 &emsp;&emsp;仔细听，真正的声音是：“你必须结婚。”不是“我希望你幸福”，而是“你如果不结婚，你就是不正常的”。
@@ -191,6 +209,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 &emsp;&emsp;他们不是坏人。他们只是在一个旧系统里待得太久，已经分不清哪些声音是自己的，哪些声音是系统留下的。
 
+<br>
+
 &emsp;&emsp;不只在东亚。在西方，它可能不是催你结婚，而是催你成功。它不是父母的脸，是老板的脸。“你必须在这个年纪做到这个位置”“你不加班就会被淘汰”——同样的话，换了一个包装。
 
 &emsp;&emsp;它可能是一个数字。你的粉丝，点赞数，阅读量。你发完一条消息，开始等那些数字回来找你——你已经在服从它的指令了。
@@ -200,7 +220,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;那个声音，可能不是你自己的。
 
 
----
+<br><hr><br>
+
 
 ## 第六章：看见它之后
 
@@ -223,7 +244,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;在沉默里，你会问一个你以前不会问的问题：这是我想要的，还是别人替我选的？
 
 
----
+<br><hr><br>
+
 
 ## 第七章：沉默之中
 
@@ -248,7 +270,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;沉默之中，你没有答案。但你在场。
 
 
----
+<br><hr><br>
+
 
 ## 第八章：开始批判
 
@@ -267,7 +290,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;看见它之后，你只是不能再假装它不存在了。
 
 
----
+<br><hr><br>
+
 
 ## 第九章：必须服从与服从自己
 
@@ -288,7 +312,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你现在站在那道分界线上。
 
 
----
+<br><hr><br>
+
 
 ## 第十章：代价
 
@@ -307,7 +332,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;那些代价是真实的。它们会在你最不设防的时候涌上来。而你唯一能做的，就是继续走。
 
 
----
+<br><hr><br>
+
 
 ## 第十一章：荒原
 
@@ -328,7 +354,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;然后你站在那里，你开始感觉到：脚下的地面有什么东西在动。
 
 
----
+<br><hr><br>
+
 
 ## 第十二章：漫长的战栗
 
@@ -343,7 +370,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你还在战栗。但你不再害怕它了。
 
 
----
+<br><hr><br>
+
 
 ## 第十三章：夺回
 
@@ -364,7 +392,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你继续走你自己的路。
 
 
----
+<br><hr><br>
+
 
 ## 第十四章：该听谁的？
 
@@ -393,7 +422,8 @@ repository: "https://github.com/maxlanceund/equal-system"
 &emsp;&emsp;你现在可以走向你的区间了。你可以去读《意义极限论》，那里写着完整的答案。
 
 
----
+<br><hr><br>
+
 
 ## 第十五章：沉默
 
