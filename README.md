@@ -165,12 +165,13 @@ Equal System — 平等制
 <br>
 <hr>
 <br>
-
 ## Containment Records / 收容记录
 
 | 中文 | English |
 | :--- | :--- |
-| [命令体](books/the-imperative-cn.md) | [The Imperative](books/the-imperative-en.md) |
+| [命令体 · IMPERATIVE-01](books/the-imperative-cn.md) | [The Imperative · IMPERATIVE-01](books/the-imperative-en.md) |
+| [哲学恐惧 · PHIL-01](books/philosophical-dread-cn.md) | [Philosophical Dread · PHIL-01](books/philosophical-dread-en.md) |
+
 <br>
 <hr>
 <br>
