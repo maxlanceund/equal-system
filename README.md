@@ -153,6 +153,7 @@ Equal System — 平等制
 <hr>
 <br>
 
+
 ## Philosophical Essays / 哲学随笔
 
 | 中文 | English |
@@ -164,6 +165,7 @@ Equal System — 平等制
 <br>
 <hr>
 <br>
+
 ## Philosophical Anomalies / 哲学异常
 
 | 中文 | English |
