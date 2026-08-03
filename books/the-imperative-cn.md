@@ -3,12 +3,19 @@ title: "命令体"
 author: "maxlanceund"
 version: "1.0"
 date: "2026年8月"
-type: "book"
-license: "MIT"
+type: "observation-record"
 repository: "https://github.com/maxlanceund/equal-system"
 ---
 
-# 命令体
+
+# 观察记录 · 命令体
+
+
+| 观察对象 | 命令体 |
+| :--- | :--- |
+| 观察周期 | 2026年 |
+| 记录性质 | 哲学观察 · 收容摘要 |
+| 核心问题 | 你的一生是否在服从指令？ |
 
 
 ## 训狗入口
@@ -338,3 +345,9 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
+
+
+<br><br>
+<p align="left" style="font-size:0.8em; color:#888;">
+记录结束 · 归档于 2026年8月
+</p>
