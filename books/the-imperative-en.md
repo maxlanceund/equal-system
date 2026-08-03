@@ -27,13 +27,6 @@ repository: "https://github.com/maxlanceund/equal-system"
 ## The Training Entrance
 
 Have you ever felt like your entire life has been following instructions?
-…
-
-
-
-## The Training Entrance
-
-Have you ever felt like your entire life has been following instructions?
 
 When you were a child, you listened to your parents. In school, you listened to your teachers. At work, you listened to your boss. When you got married, you listened to your partner. When you get old, you will listen to your children. Your life is filled with "musts" — you must get married, must have children, must support your family, must succeed.
 
