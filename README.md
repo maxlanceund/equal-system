@@ -171,6 +171,9 @@ Equal System — 平等制
 | 中文 | English |
 | :--- | :--- |
 | [观察记录：命令体](books/the-imperative-cn.md) | [Observation Record: The Imperative](books/the-imperative-en.md) |
+<br>
+<hr>
+<br>
 
 ## Hypotheses / 猜想
 
