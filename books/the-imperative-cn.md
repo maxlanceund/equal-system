@@ -11,7 +11,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 # 命令体
 
 
-## 第一章：训狗入口
+## 训狗入口
 
 你有没有觉得，你的一生好像总是在服从指令？
 
@@ -33,7 +33,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第二章：训狗不只是比喻
+## 训狗不只是比喻
 
 你可能觉得把人类比作狗有点过分。你可能会想：“我不是狗，我有选择。”
 
@@ -55,7 +55,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第三章：它在哪些地方出现
+## 它在哪些地方出现
 
 训狗不只发生在你家里。它发生在学校、公司、婚姻、媒体、社交圈子——它发生在你生活的几乎每一个角落。它用的方式都一样：给你一套指令，控制你的生存资源，让你相信“不服从就活不下去”。
 
@@ -81,7 +81,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第四章：一个古老的东西
+## 一个古老的东西
 
 你有没有想过：在你出生之前，那个结构就已经在那里了？
 
@@ -99,7 +99,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第五章：命令体的化身
+## 命令体的化身
 
 那个共同的东西，不是一个机构，不是一个人。它是一个结构——一个通过控制生存来维持服从的结构。我称它为命令体。
 
@@ -123,7 +123,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第六章：看见它之后
+## 看见它之后
 
 当你开始认出命令体的时候，你不会立刻变得自由。你只会先注意到一件事：那些你以前以为是自己想做的事，其实不是你选的。
 
@@ -141,7 +141,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第七章：沉默之中
+## 沉默之中
 
 你停下来了。不是“休息一下”的那种停——是“不知道该往哪走”的那种停。
 
@@ -161,7 +161,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第八章：开始批判
+## 开始批判
 
 你现在可以看清楚了。那些你以为“自然”的东西，其实不是自然的。那些你以为“必须”的东西，其实不是必须的。它们只是被重复了太久，让你以为它们从未被设计过。
 
@@ -183,7 +183,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第九章：必须服从与服从自己
+## 必须服从与服从自己
 
 康德说：人应该用自己的理性为自己立法。意思是：你的准则不应该来自外部，而应该来自你自己的判断。
 
@@ -201,7 +201,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第十章：代价
+## 代价
 
 选择服从自己，不是一次性的决定。是一个持续失去的过程。
 
@@ -223,7 +223,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第十一章：荒原
+## 荒原
 
 你走过了那些代价。你不被理解，被追赶，困惑过，怀疑过，想过回去。但你没有，你继续走。
 
@@ -243,7 +243,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第十二章：漫长的战栗
+## 漫长的战栗
 
 你站在那里的时候，能感觉到有什么东西在动——不是风，不是声音——是一种持续的、从地底传来的颤动。它不会让你倒下，也不会让你惊慌。但它就在那里。
 
@@ -263,7 +263,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第十三章：夺回
+## 夺回
 
 命令体现在就站在你面前。你不再颤抖，你不再害怕它说话。
 
@@ -283,7 +283,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第十四章：该听谁的？
+## 该听谁的？
 
 命令体已经被你看见了。你已经走进了它的房间，拿回了自己的东西。你已经不再需要听从它的指令了。但当你不再听它的之后，你发现了一个问题：那我现在该听谁的？
 
@@ -311,7 +311,7 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 
 
-## 第十五章：沉默
+## 沉默
 
 能说的已经说完了。其余部分，归于沉默。
 
