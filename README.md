@@ -6,7 +6,8 @@
 <br>
 
 **Philosophical Origin / 哲学起点**  
-> *Does meaning have a limit? If so, what is it?*  
+> *Does meaning have a limit? If so, what is it?*
+
 > *意义是否存在极限？如果有，这个极限是什么？*
 
 <br>
