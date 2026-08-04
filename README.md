@@ -463,5 +463,5 @@ This work is licensed under the MIT License.
 <br>
 
 <div align="right">
-⟐ [0,T] ⟐
+■
 </div>
