@@ -1,4 +1,4 @@
-# Equal System / 平 等 制
+# Equal System  /  平等制
 
 **A social structure design for the post-scarcity era**  
 
