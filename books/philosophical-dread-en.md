@@ -33,6 +33,22 @@ This subsystem bears indirect tax burdens through consumption, but cannot track 
 
 These three subsystems form a tacit arrangement that requires no negotiation: the system gives corporations space, and corporations remain silent; the system gives civil servants security, and civil servants maintain its operations; the public provides fuel, and does not ask where the fuel goes.
 
+## Structural Schematic
+
+```
+
+████████████████████████████████    ← Civil Service System
+████████████████████████████████        Assets undisclosed · Highest resource guarantee
+████████████████            ← Corporate System
+████████████████                Silent conduct · Policy-concession resources
+██████              ← General Public
+██████                  Indirect taxation · Untraceable
+
+```
+
+**Key:**  
+The size of the blocks indicates the proportion of resources allocated to each tier. The top tier is the largest, the middle tier is smaller, and the bottom tier is the smallest. Arrows indicate the direction of resource flow upward.
+
 ## Additional Observations
 
 **Observation Log A (2026-08-03)**
