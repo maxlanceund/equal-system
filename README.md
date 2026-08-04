@@ -182,9 +182,7 @@ Equal System — 平等制
 | PHIL-01 | [哲学恐惧](books/containment-PHIL-01-zh.md) | [Philosophical Dread](books/containment-PHIL-01-en.md) | Observation |
 | HIR-01 | [历史调查报告：中国不能发展资本主义](books/investigation-HIR-01-zh.md) | [Historical Investigation: Why China Cannot Develop Capitalism](books/investigation-HIR-01-en.md) | Historical Tracing |
 
-- IMPERATIVE = 命令体识别 · Identification of The Imperative  
-- PHIL = 哲学结构观察 · Philosophical Structural Observation  
-- HIR = 历史调查报告 · Historical Investigation Report
+
 
 <br>
 <hr>
