@@ -1,6 +1,6 @@
 # Equal System  /  平等制
 
-**Survival → Meaning / 生存 → 意义**  
+**From Survival Guarantee to the Limit of Meaning / 从生存保障到意义极限**  
 
 
 <br>
