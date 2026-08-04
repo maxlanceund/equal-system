@@ -1,6 +1,6 @@
 # Equal System  /  平等制
 
-**A social structure design for the post-scarcity era**  
+**Survival → Meaning / 生存 → 意义**  
 
 
 <br>
