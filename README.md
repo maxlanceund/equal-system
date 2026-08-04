@@ -1,7 +1,7 @@
 # Equal System  /  平等制
 
 **From Survival Guarantee to the Limit of Meaning / 从生存保障到意义极限**  
-
+**Author**: Max Und
 
 
 <br>
@@ -22,7 +22,7 @@
 > *And I am inside this interval too. The framework includes the one who built it. This is not a flaw. It is the condition of any signal produced by a finite system.*
 >
 > *而我也在这个区间之内。框架包含了搭建它的人。这不是一个漏洞。这是任何有限系统产生信号的前提条件。*
-**Author**: Max Und
+
 <br>
 
 
