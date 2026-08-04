@@ -14,7 +14,7 @@
 
 > This question is where everything begins. From it, I derived the **Limit Theory of Meaning** — which then led to the identification of **The Imperative** — and finally to the institutional design of the **Equal System**.
 > 
-> 这是所有思考的起点。由此，我推导出 **意义极限哲学论**  进而识别出 **命令体** 最终延伸出 **平等制** 的制度设计。
+> 这是所有思考的起点。由此，我推导出 **意义极限哲学论** — 进而识别出 — **命令体** — 最终延伸出 — **平等制** 的制度设计。
 
 <br>
 
