@@ -1,3 +1,5 @@
+> **Status: Falsified** · This hypothesis has been rejected by the author and is no longer an open question. This document is retained only as a record of the derivation process.
+
 # Hypothesis 002: The Perceiver Hypothesis
 
 **Version**: 1.3 (July 2026)  
