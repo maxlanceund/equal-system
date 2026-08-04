@@ -15,8 +15,7 @@
 
 <br>
 
-Status: Framework complete · Open for external dialogue
-状态：框架已完整 · 对外开放对话
+
 ## The Architecture of This System / 体系结构速览
 
 **English version:**
