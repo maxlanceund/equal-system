@@ -2,7 +2,6 @@
 
 **From Survival Guarantee to the Limit of Meaning / 从生存保障到意义极限**  
 
-
 **Author**: Max Und
 
 
