@@ -15,9 +15,8 @@
 
 <br>
 
-**Version** 1.0 (July 2026) · **Status** Basic framework complete / Problem domain expanding · **Current Phase** From institutional design to the deeper question of observer mechanics
-
-版本 1.0 (2026年7月) · 状态：基础框架已完成 / 问题域持续扩张中 · 当前阶段：从“制度设计”转向“观察者机制”的底层追问
+Status: Framework complete · Open for external dialogue
+状态：框架已完整 · 对外开放对话
 ## The Architecture of This System / 体系结构速览
 
 **English version:**
