@@ -472,5 +472,5 @@ This work is licensed under the MIT License.
 <br>
 
 <div align="right">
-■
+
 </div>
