@@ -22,37 +22,38 @@
 
 
 <br>
+
 ## The Architecture of This System / 体系结构速览
 
-<br>
-
 **English version:**
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'fontSize': '13px', 'primaryColor': '#fff','primaryTextColor': '#000','primaryBorderColor': '#666','lineColor': '#999'}, 'flowchart': {'nodeSpacing': 80, 'rankSpacing': 120}}}%%
-flowchart TD
-    A["Philosophical Inquiry:<br>Does meaning have a limit?"] --> B["Limit Theory of Meaning"]
-    B --> C{Branch}
-    C -->|Social Philosophy| D["The Imperative"]
-    D --> E["Equal System"]
-    C -->|Natural Philosophy| F["Scientific Observations"]
-    E --> G["Academic Papers ·<br>Philosophical Essays ·<br>Containment Records ·<br>Hypotheses"]
-    F --> G
-    G --> H["Open Questions:<br>The Observer's Position"]
+```
+
+Philosophical Inquiry: Does meaning have a limit?
+↓
+Limit Theory of Meaning
+├── Social Philosophy Branch → The Imperative → Equal System
+└── Natural Philosophy Branch → Scientific Observations
+↓
+Academic Papers · Philosophical Essays · Containment Records · Hypotheses
+↓
+Open Questions: The Observer's Position
+
 ```
 <br>
 
 **中文版：**
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'fontSize': '13px', 'primaryColor': '#fff','primaryTextColor': '#000','primaryBorderColor': '#666','lineColor': '#999'}, 'flowchart': {'nodeSpacing': 80, 'rankSpacing': 120}}}%%
-flowchart TD
-    A["哲学追问：<br>意义是否存在极限？"] --> B["意义极限论"]
-    B --> C{分支}
-    C -->|社会哲学| D["命令体"]
-    D --> E["平等制"]
-    C -->|自然哲学| F["科学观测"]
-    E --> G["学术论文 ·<br>哲学随笔 ·<br>收容记录 ·<br>猜想"]
-    F --> G
-    G --> H["开放问题：<br>观察者的位置"]
+```
+
+哲学追问：意义是否存在极限？
+↓
+意义极限论
+├── 社会哲学分支 → 命令体 → 平等制
+└── 自然哲学分支 → 科学观测
+↓
+学术论文 · 哲学随笔 · 收容记录 · 猜想
+↓
+开放问题：观察者的位置
+
 ```
 <br>
 
