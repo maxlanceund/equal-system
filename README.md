@@ -415,12 +415,6 @@ That's what open source means.
 
 ---
 
-**These questions are not answered here.**  
-They are the reason this repository exists as a living document.
-
-**这些问题在这里没有被回答。**  
-它们是本仓库作为一个活文档存在的原因。
-
 <br>
 <hr>
 <br>
