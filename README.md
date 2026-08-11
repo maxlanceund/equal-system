@@ -40,7 +40,7 @@ Academic Papers · Philosophical Essays · Hypotheses · Mathematical Models
 Open questions: The Observer's Position (current phase)
 
 ```
-<p align="center"><sub>*— For explorations in natural philosophy, see the "Scientific Observations" section below.*</sub></p>
+<p align="center"><sub>— For explorations in natural philosophy, see the "Scientific Observations" section below.</sub></p>
 <br>
 
 **中文版：**
@@ -59,7 +59,7 @@ Open questions: The Observer's Position (current phase)
 开放问题：观察者的位置（当前阶段）
 
 ```
-<p align="center"><sub>*—— 关于自然哲学方向的探索，详见下方「科学观测」板块。*</sub></p>
+<p align="center"><sub>—— 关于自然哲学方向的探索，详见下方「科学观测」板块。</sub></p>
 <br>
 
 <br>
