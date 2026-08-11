@@ -199,13 +199,12 @@ Equal System — 平等制
 
 <br>
 
-| English | 中文 |
+
+| 中文 | English |
 | :--- | :--- |
-| [Quantum Decoherence Dream: A Topological Reading](scientific-observations/quantum-decoherence-dream-en.md) | [量子退相干梦境：一种拓扑学解读](scientific-observations/quantum-decoherence-dream-cn.md) |
-| [Observer and Measurement: A Phenomenological Inquiry](scientific-observations/observer-measurement-en.md) | [观测者与测量：现象学考察](scientific-observations/observer-measurement-cn.md) |
-| [Dark Matter and Invisibility: Cognitive Limits](scientific-observations/dark-matter-invisibility-en.md) | [暗物质与不可见性：认知限度](scientific-observations/dark-matter-invisibility-cn.md) |
-
-
+| [量子退相干梦境](scientific-observations/quantum-decoherence-dream-cn.md) | [Quantum Decoherence Dream](scientific-observations/quantum-decoherence-dream-en.md) |
+| [观测者与测量](scientific-observations/observer-measurement-cn.md) | [Observer and Measurement](scientific-observations/observer-measurement-en.md) |
+| [暗物质与认知限度](scientific-observations/dark-matter-invisibility-cn.md) | [Dark Matter and Cognitive Limits](scientific-observations/dark-matter-invisibility-en.md) |
 
 <br>
 <hr>
