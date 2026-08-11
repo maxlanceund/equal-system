@@ -483,7 +483,10 @@ This work is licensed under the MIT License.
 <br>
 
 
-
+<p align="right">
+<strong>吾心不移</strong><br>
+<em>My heart does not waver.</em>
+</p>
 
 
 
