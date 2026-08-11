@@ -28,64 +28,31 @@
 
 **English version:**
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
-    'primaryColor': '#1a237e',
-    'primaryTextColor': '#e8eaf6',
-    'primaryBorderColor': '#5c6bc0',
-    'lineColor': '#9fa8da',
-    'secondaryColor': '#4a148c',
-    'tertiaryColor': '#f9a825'
-}}}%%
-graph TD
-    A[Philosophical Inquiry: Does meaning have a limit?] --> B[Limit Theory of Meaning]
+%%{init: {'theme': 'base', 'themeVariables': {'fontSize': '13px', 'primaryColor': '#fff','primaryTextColor': '#000','primaryBorderColor': '#666','lineColor': '#999'}, 'flowchart': {'nodeSpacing': 80, 'rankSpacing': 120}}}%%
+flowchart TD
+    A["Philosophical Inquiry:<br>Does meaning have a limit?"] --> B["Limit Theory of Meaning"]
     B --> C{Branch}
-    C -->|Social Philosophy| D[The Imperative]
-    D --> E[Equal System]
-    C -->|Natural Philosophy| F[Scientific Observations]
-    E --> G[Academic Papers · Essays · Records · Hypotheses]
+    C -->|Social Philosophy| D["The Imperative"]
+    D --> E["Equal System"]
+    C -->|Natural Philosophy| F["Scientific Observations"]
+    E --> G["Academic Papers ·<br>Philosophical Essays ·<br>Containment Records ·<br>Hypotheses"]
     F --> G
-    G --> H[Open Questions: The Observer's Position]
-
-    classDef social fill:#0d47a1,stroke:#42a5f5,stroke-width:2px,color:#e3f2fd;
-    classDef natural fill:#4a148c,stroke:#ab47bc,stroke-width:2px,color:#f3e5f5;
-    classDef merge fill:#f57f17,stroke:#fbc02d,stroke-width:2px,color:#fff8e1;
-    classDef root fill:#004d40,stroke:#26a69a,stroke-width:2px,color:#e0f2f1;
-    class A,B root;
-    class D,E social;
-    class F natural;
-    class G,H merge;
+    G --> H["Open Questions:<br>The Observer's Position"]
 ```
-
 <br>
 
 **中文版：**
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
-    'primaryColor': '#1a237e',
-    'primaryTextColor': '#e8eaf6',
-    'primaryBorderColor': '#5c6bc0',
-    'lineColor': '#9fa8da',
-    'secondaryColor': '#4a148c',
-    'tertiaryColor': '#f9a825'
-}}}%%
-graph TD
-    A[哲学追问：意义是否存在极限？] --> B[意义极限论]
+%%{init: {'theme': 'base', 'themeVariables': {'fontSize': '13px', 'primaryColor': '#fff','primaryTextColor': '#000','primaryBorderColor': '#666','lineColor': '#999'}, 'flowchart': {'nodeSpacing': 80, 'rankSpacing': 120}}}%%
+flowchart TD
+    A["哲学追问：<br>意义是否存在极限？"] --> B["意义极限论"]
     B --> C{分支}
-    C -->|社会哲学| D[命令体]
-    D --> E[平等制]
-    C -->|自然哲学| F[科学观测]
-    E --> G[学术论文 · 哲学随笔 · 收容记录 · 猜想]
+    C -->|社会哲学| D["命令体"]
+    D --> E["平等制"]
+    C -->|自然哲学| F["科学观测"]
+    E --> G["学术论文 ·<br>哲学随笔 ·<br>收容记录 ·<br>猜想"]
     F --> G
-    G --> H[开放问题：观察者的位置]
-
-    classDef social fill:#0d47a1,stroke:#42a5f5,stroke-width:2px,color:#e3f2fd;
-    classDef natural fill:#4a148c,stroke:#ab47bc,stroke-width:2px,color:#f3e5f5;
-    classDef merge fill:#f57f17,stroke:#fbc02d,stroke-width:2px,color:#fff8e1;
-    classDef root fill:#004d40,stroke:#26a69a,stroke-width:2px,color:#e0f2f1;
-    class A,B root;
-    class D,E social;
-    class F natural;
-    class G,H merge;
+    G --> H["开放问题：<br>观察者的位置"]
 ```
 <br>
 
