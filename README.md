@@ -27,17 +27,20 @@
 
 **English version:**
 ```
-
 Philosophical Inquiry: Does meaning have a limit?
 ↓
 Limit Theory of Meaning
-├── Social Philosophy Branch → The Imperative → Equal System
-└── Natural Philosophy Branch → Scientific Observations
+↓
+Social Philosophy Branch
+└── The Imperative
+    └── Equal System
+↓
+Natural Philosophy Branch
+└── Scientific Observations
 ↓
 Academic Papers · Philosophical Essays · Containment Records · Hypotheses
 ↓
 Open Questions: The Observer's Position
-
 ```
 <br>
 
@@ -47,8 +50,13 @@ Open Questions: The Observer's Position
 哲学追问：意义是否存在极限？
 ↓
 意义极限论
-├── 社会哲学分支 → 命令体 → 平等制
-└── 自然哲学分支 → 科学观测
+↓
+社会哲学分支
+└── 命令体
+    └── 平等制
+↓
+自然哲学分支
+└── 科学观测
 ↓
 学术论文 · 哲学随笔 · 收容记录 · 猜想
 ↓
