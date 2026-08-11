@@ -175,12 +175,13 @@ c_1 \psi_1 + c_2 \psi_2
 
 [7] 吴健雄，安布勒，海沃德，霍普斯，哈德森. 贝塔衰变中宇称守恒的实验检验. Physical Review，1957，105(4)：1413–1415.
 
+
+
 ---
 
-本文档的原始版本及后续更新均保存在以下开源仓库中：
+**本文档的原始版本及后续更新均保存在以下地址：**
 
-https://github.com/maxlanceund/equal-system
+[https://github.com/maxlanceund/equal-system/blob/main/scientific-observations/quantum-decoherence-dream-cn.md](https://github.com/maxlanceund/equal-system/blob/main/scientific-observations/quantum-decoherence-dream-cn.md)
 
 本作品采用 MIT 许可证。欢迎基于理性框架的批评与重建。
-
 
