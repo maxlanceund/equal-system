@@ -23,7 +23,6 @@
 
 <br>
 
-
 ## The Architecture of This System / 体系结构速览
 
 **English version:**
@@ -34,13 +33,21 @@ Philosophical inquiry: Does meaning have a limit?
 ↓
 Limit Theory of Meaning (foundational logic)
 ↓
-The Imperative (the structure that tries to extend meaning beyond the interval)
-↓
-Equal System (institutional design: Shared Subsistence + Private Property)
-↓
-Academic Papers · Philosophical Essays · Hypotheses · Mathematical Models (elaboration & validation)
-↓
-Open questions: The Observer's Position (current phase)
+┌─────────────────────────┴─────────────────────────┐
+│                                                     │
+▼                                                     ▼
+Social Philosophy Branch                     Natural Philosophy Branch
+The Imperative → Equal System                Scientific Observations
+(institutional design)                       (epistemology & quantum intuition)
+│                                                     │
+└─────────────────────────┬─────────────────────────┘
+                          ▼
+        Academic Papers · Philosophical Essays ·
+         Scientific Observations · Containment Records ·
+              Hypotheses · Mathematical Models
+                          ▼
+            Open questions: The Observer's Position
+                       (current phase)
 
 ```
 
@@ -52,13 +59,20 @@ Open questions: The Observer's Position (current phase)
 ↓
 意义极限哲学论（底层逻辑）
 ↓
-命令体（试图将意义延伸到区间之外的结构）
-↓
-平等制（制度设计：生存共有层 + 私有财产层）
-↓
-学术论文 · 哲学随笔 · 猜想 · 数学模型（展开与验证）
-↓
-开放问题：观察者的位置（当前阶段）
+┌─────────────────────────┴─────────────────────────┐
+│                                                     │
+▼                                                     ▼
+社会哲学分支                                   自然哲学分支
+命令体 → 平等制                              科学观测
+（制度设计）                                （认知论与量子直觉）
+│                                                     │
+└─────────────────────────┬─────────────────────────┘
+                          ▼
+        学术论文 · 哲学随笔 · 科学观测 ·
+          收容记录 · 猜想 · 数学模型
+                          ▼
+            开放问题：观察者的位置
+                  （当前阶段）
 
 ```
 
