@@ -199,18 +199,16 @@ Equal System — 平等制
 
 <br>
 
-
 ## Scientific Observations / 科学观测
 
-> 科学观测是自然哲学与认知论的交叉实验场。每篇文本从具体的科学命题（量子力学、观测者效应、认知边界）出发，采用隐喻拓扑学与现象学还原作为分析工具。不寻求实验验证，但遵循严格的逻辑自洽性。所有文本均在 MIT 许可证下开源。
+> Scientific Observations is a series of natural philosophy writings that begin with intuitive experience and attempt to construct logically self-consistent mappings onto physical concepts. They do not seek empirical validation, but remain answerable to existing physical knowledge.
 >
-> *Scientific Observations serve as an experimental ground where natural philosophy meets epistemology. Each text begins with a concrete scientific proposition—quantum mechanics, observer effects, or cognitive boundaries—and employs metaphorical topology and phenomenological reduction as analytical tools. No experimental validation is sought, but strict logical coherence is maintained. All texts are open-sourced under the MIT license.*
+> 科学观测是一组自然哲学写作，以直觉经验为起点，试图在物理概念上构建逻辑自洽的映射。它不寻求实证验证，但接受现有物理知识的约束。
 
 | 中文 | English |
 | :--- | :--- |
 | [烟雾鲨鱼与虎鲸](scientific-observations/quantum-decoherence-dream-cn.md) | [Smoke Shark and Stranded Whale](scientific-observations/quantum-decoherence-dream-en.md) |
-| [观测者与测量](scientific-observations/observer-measurement-cn.md) | [Observer and Measurement](scientific-observations/observer-measurement-en.md) |
-| [暗物质与认知限度](scientific-observations/dark-matter-invisibility-cn.md) | [Dark Matter and Cognitive Limits](scientific-observations/dark-matter-invisibility-en.md) |
+| [眼见不为实](scientific-observations/seeing-is-not-believing-cn.md) | [Seeing Is Not Believing](scientific-observations/seeing-is-not-believing-en.md) |
 <br>
 <hr>
 <br>
