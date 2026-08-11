@@ -188,7 +188,27 @@ Equal System — 平等制
 | PHIL-01 | [哲学恐惧](books/containment-PHIL-01-zh.md) | [Philosophical Dread](books/containment-PHIL-01-en.md) | Observation |
 | HIR-01 | [历史调查报告：中国不能发展资本主义](books/investigation-HIR-01-zh.md) | [Historical Investigation: Why China Cannot Develop Capitalism](books/investigation-HIR-01-en.md) | Historical Tracing |
 
+<br>
+<hr>
+<br>
 
+## Scientific Observations / 科学观测
+
+> Scientific Observation Records serve as an experimental ground where natural philosophy meets epistemology. Each text begins with a specific scientific proposition—quantum mechanics, observer effects, or cognitive boundaries—and employs metaphorical topology and phenomenological reduction as analytical tools. No experimental validation is sought, but strict logical coherence is maintained. All texts are open-sourced under the MIT license.
+>
+> 科学观测是自然哲学与认知论的交叉实验场。每篇文本从具体的科学命题（量子力学、观测者效应、认知边界）出发，采用隐喻拓扑学与现象学还原作为分析工具。不寻求实验验证，但遵循严格的逻辑自洽性。所有文本均在 MIT 许可证下开源。
+
+<br>
+
+| English | 中文 |
+| :--- | :--- |
+| [Quantum Decoherence Dream: A Topological Reading](scientific-observations/quantum-decoherence-dream-en.md) | [量子退相干梦境：一种拓扑学解读](scientific-observations/quantum-decoherence-dream-cn.md) |
+| [Observer and Measurement: A Phenomenological Inquiry](scientific-observations/observer-measurement-en.md) | [观测者与测量：现象学考察](scientific-observations/observer-measurement-cn.md) |
+| [Dark Matter and Invisibility: Cognitive Limits](scientific-observations/dark-matter-invisibility-en.md) | [暗物质与不可见性：认知限度](scientific-observations/dark-matter-invisibility-cn.md) |
+
+<br>
+<hr>
+<br>
 
 <br>
 <hr>
