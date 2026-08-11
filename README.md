@@ -39,7 +39,7 @@ Academic Papers · Philosophical Essays · Hypotheses · Mathematical Models
 ↓
 Open questions: The Observer's Position (current phase)
 
-> <small>*— For explorations in natural philosophy, see the "Scientific Observations" section below.*</small>
+<small> *— For explorations in natural philosophy, see the "Scientific Observations" section below.* </small>
 
 ```
 <br>
