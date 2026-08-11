@@ -485,6 +485,12 @@ This work is licensed under the MIT License.
 <br>
 <br>
 
+<br>
+---
 
-Drop
+**“我放下了哲学，因为它发现我比它更懒。”**
+
+> *“I dropped philosophy. It realized I was lazier than it.”*
+
+---
 
