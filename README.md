@@ -202,10 +202,9 @@ Equal System — 平等制
 
 | 中文 | English |
 | :--- | :--- |
-| [量子退相干梦境](scientific-observations/quantum-decoherence-dream-cn.md) | [Quantum Decoherence Dream](scientific-observations/quantum-decoherence-dream-en.md) |
-| [观测者与测量](scientific-observations/observer-measurement-cn.md) | [Observer and Measurement](scientific-observations/observer-measurement-en.md) |
+| [烟雾鲨鱼与虎鲸](scientific-observations/smoke-shark-whale-cn.md) | [Smoke Shark and Stranded Whale](scientific-observations/smoke-shark-whale-en.md) |
+| [眼见不为实](scientific-observations/seeing-is-not-believing-cn.md) | [Seeing Is Not Believing](scientific-observations/seeing-is-not-believing-en.md) |
 | [暗物质与认知限度](scientific-observations/dark-matter-invisibility-cn.md) | [Dark Matter and Cognitive Limits](scientific-observations/dark-matter-invisibility-en.md) |
-
 <br>
 <hr>
 <br>
