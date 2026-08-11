@@ -83,7 +83,7 @@ Upon measurement, the wavefunction "collapses" to a particular eigenstate, with 
 
 The "white mist" in the dream—without fixed boundaries, without determined position, switching between "diffusing" and "condensing"—is precisely a perceptual mapping of the wavefunction. It is not matter, but potential; not entity, but rule.
 
-3.2 The Double-Slit Interference Experiment
+### 3.2 The Double-Slit Interference Experiment
 
 The double-slit experiment is one of the most iconic experiments in quantum mechanics. A beam of electrons passes through two slits and forms an interference pattern on a screen behind them. When the path is not observed, each electron appears to pass through both slits simultaneously, interfering with itself and producing alternating bright and dark fringes (wave-like behavior). When detectors are placed at the slits to determine which path the electron took, the interference pattern immediately disappears, and the electrons behave as particles, passing through only one slit.
 
@@ -103,7 +103,7 @@ The fringe spacing is on the order of millimeters.
 
 Key conclusion: The act of observation changes the system's evolutionary path. When unobserved, the electron is a wave (probability cloud); when observed, it is a particle (determinacy). The smoke shark in the dream, in its "diffuse" state, corresponds to the unobserved wavefunction; in the instant it "condenses" and devours, it corresponds to measurement collapse. No blood, no wound—because measurement is not violent cutting, but rule enforcement.
 
-3.3 Decoherence
+### 3.3 Decoherence
 
 Decoherence is the process by which a quantum system loses its coherence with its environment.
 
@@ -117,7 +117,7 @@ The environment has an enormous number of degrees of freedom (about 10²³ parti
 
 The whale "stranded" on the reef, completely still, is precisely the macroscopic determinacy after decoherence. It has left the "probability ocean" where quantum states reside and become irreversibly entangled with the macroscopic environment. The shark devouring the whale is the probability cloud reclaiming a frozen determinacy—determinacy is not "killed," but "revoked."
 
-3.4 "Ferocity" and Parity Non-Conservation
+### 3.4 "Ferocity" and Parity Non-Conservation
 
 The key in the dream: the shark has dense teeth, and devours without blood, without wound, without struggle. This is not biological predation, but "erasure" at the level of rules. What is ferocity without blood?
 
@@ -127,7 +127,7 @@ There is precedent in the history of physics: in 1954, Yang and Mills proposed g
 
 The shark is "ferocious" but "without blood"—perhaps this is precisely the perceptual mapping of "compulsion without physical violence." It does not tear, does not destroy; it merely executes the rule, "erasing" the determined state from the probability domain. The dense teeth are the symbol of "rule executed."
 
-3.5 Teeth and the Execution of Rules
+### 3.5 Teeth and the Execution of Rules
 
 The most unsettling detail in the dream: the teeth exist, yet produce no wound. In everyday experience, the function of teeth is to tear, cut, and cause trauma. But here, the teeth are merely a symbol—a visual marker of "necessity."
 
@@ -139,7 +139,7 @@ The compulsory nature of the Born rule is exactly that kind of "having teeth but
 
 It creates no new particles, consumes no energy, does not change the Hamiltonian—it merely forces a choice of outcome. Wavefunction collapse is accompanied by no radiation, no heat, no measurable energy exchange. It is an "operation at the information layer," locking in one outcome from a superposition of possibilities. The shark does not eat the whale's flesh; it eats the whale's "determinacy" itself.
 
-4. The Observer's Position
+## 4. The Observer's Position
 
 The structure in the dream: the observer stands on the shore, watching the shark devour, without participating, without panic, without intervention, without movement.
 
@@ -149,7 +149,7 @@ This dream offers a different observer position: neither actively intervening no
 
 The observer does not necessarily have to "do" anything. Being present itself is part of the measurement—provided that you are present.
 
-5. Conclusion
+## 5. Conclusion
 
 An essay that begins with a dream cannot and should not claim to have solved any physics problem. But it may have done one thing: it has translated the most abstract parts of quantum mechanics—wavefunction superposition, decoherence timescales, the compulsion of observation—into perceptible images.
 
@@ -159,7 +159,7 @@ The work of Yang, Lee, and Wu revealed a left-right asymmetry in the physical wo
 
 I stood on the shore, neither devoured nor departed. After the dream ended, I remained standing there. The observer's position is never inside the rules.
 
-References
+## References
 
 [1] Feynman, R. P., Leighton, R. B., & Sands, M. The Feynman Lectures on Physics, Vol. III. Addison-Wesley, 1965.
 
