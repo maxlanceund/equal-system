@@ -27,7 +27,16 @@
 <br>
 
 **English version:**
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {
+    'primaryColor': '#1a237e',
+    'primaryTextColor': '#e8eaf6',
+    'primaryBorderColor': '#5c6bc0',
+    'lineColor': '#9fa8da',
+    'secondaryColor': '#4a148c',
+    'tertiaryColor': '#f9a825'
+}}}%%
 graph TD
     A[Philosophical Inquiry: Does meaning have a limit?] --> B[Limit Theory of Meaning]
     B --> C{Branch}
@@ -38,10 +47,10 @@ graph TD
     F --> G
     G --> H[Open Questions: The Observer's Position]
 
-    classDef social fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
-    classDef natural fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px;
-    classDef merge fill:#fff9c4,stroke:#f9a825,stroke-width:2px;
-    classDef root fill:#e0f7fa,stroke:#00695c,stroke-width:2px;
+    classDef social fill:#0d47a1,stroke:#42a5f5,stroke-width:2px,color:#e3f2fd;
+    classDef natural fill:#4a148c,stroke:#ab47bc,stroke-width:2px,color:#f3e5f5;
+    classDef merge fill:#f57f17,stroke:#fbc02d,stroke-width:2px,color:#fff8e1;
+    classDef root fill:#004d40,stroke:#26a69a,stroke-width:2px,color:#e0f2f1;
     class A,B root;
     class D,E social;
     class F natural;
@@ -51,7 +60,16 @@ graph TD
 <br>
 
 **中文版：**
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {
+    'primaryColor': '#1a237e',
+    'primaryTextColor': '#e8eaf6',
+    'primaryBorderColor': '#5c6bc0',
+    'lineColor': '#9fa8da',
+    'secondaryColor': '#4a148c',
+    'tertiaryColor': '#f9a825'
+}}}%%
 graph TD
     A[哲学追问：意义是否存在极限？] --> B[意义极限论]
     B --> C{分支}
@@ -62,16 +80,15 @@ graph TD
     F --> G
     G --> H[开放问题：观察者的位置]
 
-    classDef social fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
-    classDef natural fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px;
-    classDef merge fill:#fff9c4,stroke:#f9a825,stroke-width:2px;
-    classDef root fill:#e0f7fa,stroke:#00695c,stroke-width:2px;
+    classDef social fill:#0d47a1,stroke:#42a5f5,stroke-width:2px,color:#e3f2fd;
+    classDef natural fill:#4a148c,stroke:#ab47bc,stroke-width:2px,color:#f3e5f5;
+    classDef merge fill:#f57f17,stroke:#fbc02d,stroke-width:2px,color:#fff8e1;
+    classDef root fill:#004d40,stroke:#26a69a,stroke-width:2px,color:#e0f2f1;
     class A,B root;
     class D,E social;
     class F natural;
     class G,H merge;
 ```
-
 <br>
 
 <br>
