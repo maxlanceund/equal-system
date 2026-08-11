@@ -22,59 +22,41 @@
 
 
 <br>
-
 ## The Architecture of This System / 体系结构速览
+
+<br>
 
 **English version:**
 
-```
+| | |
+| :--- | :--- |
+| **Social Philosophy Branch** | **Natural Philosophy Branch** |
+| The Imperative | Scientific Observations |
+| ↓ | ↓ |
+| Equal System | Epistemology & Quantum Intuition |
+| | |
+| | |
+| **Academic Papers · Philosophical Essays · Containment Records · Hypotheses** | |
+| | |
+| **Open Questions: The Observer's Position** | |
 
-Philosophical inquiry: Does meaning have a limit?
-↓
-Limit Theory of Meaning (foundational logic)
-↓
-┌─────────────────────────┴─────────────────────────┐
-│                                                     │
-▼                                                     ▼
-Social Philosophy Branch                     Natural Philosophy Branch
-The Imperative → Equal System                Scientific Observations
-(institutional design)                       (epistemology & quantum intuition)
-│                                                     │
-└─────────────────────────┬─────────────────────────┘
-                          ▼
-        Academic Papers · Philosophical Essays ·
-         Scientific Observations · Containment Records ·
-              Hypotheses · Mathematical Models
-                          ▼
-            Open questions: The Observer's Position
-                       (current phase)
-
-```
+<br>
 
 **中文版：**
 
-```
+| | |
+| :--- | :--- |
+| **社会哲学分支** | **自然哲学分支** |
+| 命令体 | 科学观测 |
+| ↓ | ↓ |
+| 平等制 | 认知论与量子直觉 |
+| | |
+| | |
+| **学术论文 · 哲学随笔 · 收容记录 · 猜想** | |
+| | |
+| **开放问题：观察者的位置** | |
 
-哲学追问：意义是否存在极限？
-↓
-意义极限哲学论（底层逻辑）
-↓
-┌─────────────────────────┴─────────────────────────┐
-│                                                     │
-▼                                                     ▼
-社会哲学分支                                   自然哲学分支
-命令体 → 平等制                              科学观测
-（制度设计）                                （认知论与量子直觉）
-│                                                     │
-└─────────────────────────┬─────────────────────────┘
-                          ▼
-        学术论文 · 哲学随笔 · 科学观测 ·
-          收容记录 · 猜想 · 数学模型
-                          ▼
-            开放问题：观察者的位置
-                  （当前阶段）
-
-```
+<br>
 
 <br>
 <hr>
