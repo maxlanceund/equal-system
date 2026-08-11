@@ -27,7 +27,6 @@
 <br>
 
 **English version:**
-
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
     'primaryColor': '#1a237e',
@@ -60,7 +59,6 @@ graph TD
 <br>
 
 **中文版：**
-
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
     'primaryColor': '#1a237e',
