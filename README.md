@@ -205,9 +205,7 @@ Equal System — 平等制
 | [Observer and Measurement: A Phenomenological Inquiry](scientific-observations/observer-measurement-en.md) | [观测者与测量：现象学考察](scientific-observations/observer-measurement-cn.md) |
 | [Dark Matter and Invisibility: Cognitive Limits](scientific-observations/dark-matter-invisibility-en.md) | [暗物质与不可见性：认知限度](scientific-observations/dark-matter-invisibility-cn.md) |
 
-<br>
-<hr>
-<br>
+
 
 <br>
 <hr>
