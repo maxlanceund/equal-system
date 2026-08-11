@@ -485,6 +485,6 @@ This work is licensed under the MIT License.
 <br>
 <br>
 
-<div align="right">
+
 Drop
-</div>
+
