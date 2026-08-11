@@ -191,13 +191,8 @@ Equal System — 平等制
 <hr>
 <br>
 
-## Scientific Observations / 科学观测
 
-> Scientific Observation Records serve as an experimental ground where natural philosophy meets epistemology. Each text begins with a specific scientific proposition—quantum mechanics, observer effects, or cognitive boundaries—and employs metaphorical topology and phenomenological reduction as analytical tools. No experimental validation is sought, but strict logical coherence is maintained. All texts are open-sourced under the MIT license.
->
-> 科学观测是自然哲学与认知论的交叉实验场。每篇文本从具体的科学命题（量子力学、观测者效应、认知边界）出发，采用隐喻拓扑学与现象学还原作为分析工具。不寻求实验验证，但遵循严格的逻辑自洽性。所有文本均在 MIT 许可证下开源。
 
-<br>
 
 ## Scientific Observations / 科学观测
 
@@ -209,6 +204,7 @@ Equal System — 平等制
 | :--- | :--- |
 | [烟雾鲨鱼与虎鲸](scientific-observations/quantum-decoherence-dream-cn.md) | [Smoke Shark and Stranded Whale](scientific-observations/quantum-decoherence-dream-en.md) |
 | [眼见不为实](scientific-observations/seeing-is-not-believing-cn.md) | [Seeing Is Not Believing](scientific-observations/seeing-is-not-believing-en.md) |
+
 <br>
 <hr>
 <br>
