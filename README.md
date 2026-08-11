@@ -487,14 +487,12 @@ This work is licensed under the MIT License.
 <br>
 <br>
 
--
 
 
-What you see is not the truth.
 
-<br>
+> What you see is not the truth.
 
-眼见不为实。
+> 眼见不为实。
 
 ---
 
