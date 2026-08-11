@@ -27,34 +27,50 @@
 <br>
 
 **English version:**
+```
+graph TD
+    A[Philosophical Inquiry: Does meaning have a limit?] --> B[Limit Theory of Meaning]
+    B --> C{Branch}
+    C -->|Social Philosophy| D[The Imperative]
+    D --> E[Equal System]
+    C -->|Natural Philosophy| F[Scientific Observations]
+    E --> G[Academic Papers · Essays · Records · Hypotheses]
+    F --> G
+    G --> H[Open Questions: The Observer's Position]
 
-| | |
-| :--- | :--- |
-| **Social Philosophy Branch** | **Natural Philosophy Branch** |
-| The Imperative | Scientific Observations |
-| ↓ | ↓ |
-| Equal System | Epistemology & Quantum Intuition |
-| | |
-| | |
-| **Academic Papers · Philosophical Essays · Containment Records · Hypotheses** | |
-| | |
-| **Open Questions: The Observer's Position** | |
+    classDef social fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
+    classDef natural fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px;
+    classDef merge fill:#fff9c4,stroke:#f9a825,stroke-width:2px;
+    classDef root fill:#e0f7fa,stroke:#00695c,stroke-width:2px;
+    class A,B root;
+    class D,E social;
+    class F natural;
+    class G,H merge;
+```
 
 <br>
 
 **中文版：**
+```
+graph TD
+    A[哲学追问：意义是否存在极限？] --> B[意义极限论]
+    B --> C{分支}
+    C -->|社会哲学| D[命令体]
+    D --> E[平等制]
+    C -->|自然哲学| F[科学观测]
+    E --> G[学术论文 · 哲学随笔 · 收容记录 · 猜想]
+    F --> G
+    G --> H[开放问题：观察者的位置]
 
-| | |
-| :--- | :--- |
-| **社会哲学分支** | **自然哲学分支** |
-| 命令体 | 科学观测 |
-| ↓ | ↓ |
-| 平等制 | 认知论与量子直觉 |
-| | |
-| | |
-| **学术论文 · 哲学随笔 · 收容记录 · 猜想** | |
-| | |
-| **开放问题：观察者的位置** | |
+    classDef social fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
+    classDef natural fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px;
+    classDef merge fill:#fff9c4,stroke:#f9a825,stroke-width:2px;
+    classDef root fill:#e0f7fa,stroke:#00695c,stroke-width:2px;
+    class A,B root;
+    class D,E social;
+    class F natural;
+    class G,H merge;
+```
 
 <br>
 
