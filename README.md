@@ -27,37 +27,19 @@
 
 **English version:**
 ```
-Philosophical Inquiry: Does meaning have a limit?
-                    ↓
-Limit Theory of Meaning
-                    ↓
-        ────────────────
-        ↓               ↓
-Social Philosophy       Natural Philosophy
-(The Imperative ·        (Scientific
- Equal System)            Observations)
-        ↓               ↓
-        ────────────────
-                    ↓
-Academic Papers · Philosophical Essays ·
-Containment Records · Hypotheses
-                    ↓
-Open Questions: The Observer's PositionPhilosophical Inquiry: Does meaning have a limit?
-                    ↓
-Limit Theory of Meaning
-                    ↓
-        ────────────────
-        ↓               ↓
-Social Philosophy       Natural Philosophy
-(The Imperative ·        (Scientific
- Equal System)            Observations)
-        ↓               ↓
-        ────────────────
-                    ↓
-Academic Papers · Philosophical Essays ·
-Containment Records · Hypotheses
-                    ↓
-Open Questions: The Observer's Position
+Philosophical inquiry: Does meaning have a limit?
+↓
+Limit Theory of Meaning (foundational logic)
+↓
+The Imperative (the structure that tries to extend meaning beyond the interval)
+↓
+Equal System (institutional design: Shared Subsistence + Private Property)
+↓
+Academic Papers · Philosophical Essays · Hypotheses · Mathematical Models
+↓
+Open questions: The Observer's Position (current phase)
+
+*—— For explorations in natural philosophy, see the "Scientific Observations" section below.*
 ```
 <br>
 
@@ -66,18 +48,17 @@ Open Questions: The Observer's Position
 
 哲学追问：意义是否存在极限？
 ↓
-意义极限论
+意义极限论（底层逻辑）
 ↓
-社会哲学分支
-└── 命令体
-    └── 平等制
+命令体（试图将意义延伸到区间之外的结构）
 ↓
-自然哲学分支
-└── 科学观测
+平等制（制度设计：生存共有层 + 私有财产层）
 ↓
-学术论文 · 哲学随笔 · 收容记录 · 猜想
+学术论文 · 哲学随笔 · 猜想 · 数学模型
 ↓
-开放问题：观察者的位置
+开放问题：观察者的位置（当前阶段）
+
+*—— 关于自然哲学方向的探索，详见下方「科学观测」板块。*
 
 ```
 <br>
