@@ -41,7 +41,7 @@ Open questions: The Observer's Position (current phase)
 
 ```
 
-<sub> — For explorations in natural philosophy, see the "Scientific Observations" section below. </sub>
+<sub> —  For explorations in natural philosophy, see the "Scientific Observations" section below. </sub>
 
 **中文版：**
 ```
