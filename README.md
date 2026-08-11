@@ -469,7 +469,7 @@ This work is licensed under the MIT License.
 <hr>
 <br>
 
-## Learning English
+## Learning English / 学英语
 
 [→ 进入 / Enter](./voice-journal)
 
@@ -489,7 +489,6 @@ This work is licensed under the MIT License.
 
 
 
-<br>
 
 
 
