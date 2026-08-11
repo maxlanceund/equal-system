@@ -28,18 +28,35 @@
 **English version:**
 ```
 Philosophical Inquiry: Does meaning have a limit?
-↓
+                    ↓
 Limit Theory of Meaning
-↓
-Social Philosophy Branch
-└── The Imperative
-    └── Equal System
-↓
-Natural Philosophy Branch
-└── Scientific Observations
-↓
-Academic Papers · Philosophical Essays · Containment Records · Hypotheses
-↓
+                    ↓
+        ────────────────
+        ↓               ↓
+Social Philosophy       Natural Philosophy
+(The Imperative ·        (Scientific
+ Equal System)            Observations)
+        ↓               ↓
+        ────────────────
+                    ↓
+Academic Papers · Philosophical Essays ·
+Containment Records · Hypotheses
+                    ↓
+Open Questions: The Observer's PositionPhilosophical Inquiry: Does meaning have a limit?
+                    ↓
+Limit Theory of Meaning
+                    ↓
+        ────────────────
+        ↓               ↓
+Social Philosophy       Natural Philosophy
+(The Imperative ·        (Scientific
+ Equal System)            Observations)
+        ↓               ↓
+        ────────────────
+                    ↓
+Academic Papers · Philosophical Essays ·
+Containment Records · Hypotheses
+                    ↓
 Open Questions: The Observer's Position
 ```
 <br>
