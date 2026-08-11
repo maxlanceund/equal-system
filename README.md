@@ -486,7 +486,7 @@ This work is licensed under the MIT License.
 
 
 
-What you see is not the truth.
+
 
 
 <br>
