@@ -59,7 +59,7 @@ Open questions: The Observer's Position (current phase)
 开放问题：观察者的位置（当前阶段）
 
 ```
-<sub> —— 关于自然哲学方向的探索，详见下方「科学观测」板块。 </sub>
+<sub> — 关于自然哲学方向的探索，详见下方「科学观测」板块。 </sub>
 
 <br>
 <hr>
