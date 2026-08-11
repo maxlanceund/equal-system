@@ -27,7 +27,7 @@
 <br>
 
 **English version:**
-```
+```mermaid
 graph TD
     A[Philosophical Inquiry: Does meaning have a limit?] --> B[Limit Theory of Meaning]
     B --> C{Branch}
@@ -51,7 +51,7 @@ graph TD
 <br>
 
 **中文版：**
-```
+```mermaid
 graph TD
     A[哲学追问：意义是否存在极限？] --> B[意义极限论]
     B --> C{分支}
