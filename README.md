@@ -153,7 +153,7 @@ Equal System — 平等制
 | [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
 | [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
 | [生存强制力与意义的释放（学术版）](papers/survival-coercion-meaning-release-cn.md) | [The Release of Survival Coercion and Meaning (Academic Version)](papers/survival-coercion-meaning-release-en.md) |
-
+| [存在性确认与性别不对称（学术版）](papers/existential-confirmation-cn.md) | [Existential Confirmation and Gender Asymmetry (Academic Version)](papers/existential-confirmation-en.md) |
 <br>
 <hr>
 <br>
