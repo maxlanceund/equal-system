@@ -8,6 +8,8 @@
 
 ## Introduction
 
+*This is not a critique of Shenzhen. It is a record of what it felt like to live there, and what that living taught me.*
+
 I stood on a footbridge in Shenzhen, watching the traffic flow beneath me.
 
 The cars were like a glowing river, flowing endlessly, without source or destination. I watched them, and a strange yet familiar feeling suddenly rose in my heart.
@@ -112,7 +114,7 @@ Power should be the *server*, not the *master*. Property came first; property ne
 
 I spent a long time constructing a framework I call the "Equality System."
 
-Its core logic is: the necessities of survival (food, water, shelter) are automatically supplied, but require **"active confirmation"**—you must press a button, sign your name, or scan your fingerprint to confirm your need.
+Its core logic is: the necessities of survival (food, water, shelter) are automatically supplied, but require **"active confirmation"** —you must press a button, sign your name, or scan your fingerprint to confirm your need.
 
 This "confirmation" itself is a minimal form of labor, solving the problem of "feeling empty without work."
 
@@ -237,3 +239,9 @@ But I know this:
 And I have already touched that eternal thing.
 
 That is enough.
+
+<br>
+
+---
+
+<br>
