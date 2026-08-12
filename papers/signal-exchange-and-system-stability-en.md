@@ -2,7 +2,7 @@
 title: "Signal, Exchange, and System Stability — An Analysis of Private Property Based on the Limit Theory of Meaning"
 author: "Lanceund, M."
 version: "2.0 (Final)"
-date: "2026-08-12"
+date: "2026-07"
 repository: "https://github.com/maxlanceund/equal-system"
 license: "CC BY-NC 4.0"
 keywords: [signal distribution, exchange continuity, private property, system stability, limit theory of meaning, fairness rupture]
