@@ -27,9 +27,12 @@
 
 **English version:**
 ```
+
 Philosophical inquiry: Does meaning have a limit?
 ↓
-Limit Theory of Meaning (foundational logic)
+Uncertainty Subsumption (foundational logic)
+↓
+Limit Theory of Meaning (middle-layer logic)
 ↓
 The Imperative (the structure that tries to extend meaning beyond the interval)
 ↓
@@ -48,7 +51,9 @@ Open questions: The Observer's Position (current phase)
 
 哲学追问：意义是否存在极限？
 ↓
-意义极限论（底层逻辑）
+不确定性吞没（底层逻辑）
+↓
+意义极限论（中层逻辑）
 ↓
 命令体（试图将意义延伸到区间之外的结构）
 ↓
@@ -73,24 +78,27 @@ This repository contains a complete theoretical framework — from the foundatio
 
 <br>
 
-**The logical chain of six papers:**
-**六篇论文的逻辑递进：**
+**The logical chain of eight papers:**
+**八篇论文的逻辑递进：**
 
 ```
+
+Uncertainty Subsumption — 不确定性吞没（底层）
+↓
 Limit Theory of Meaning — 意义极限论
-    ↓
+↓
 Limited-Interval Principle — 有限区间原则
-    ↓
+↓
 Boundary Acceleration — 边界加速
-    ↓
+↓
 ┌─────────────────────────────────────────────────────┐
 │  Signal, Exchange & System Stability  — 私有制分析 │
-│  Survival Compulsion & Release of Meaning — 意义释放 │
 │  Survival Compulsion & U.S. Industrial Decline — 工业衰退 │
+│  Existential Confirmation & Gender Asymmetry — 谁是父亲？ │
 └─────────────────────────────────────────────────────┘
-    ↓
+↓
 The Imperative — 命令体
-    ↓
+↓
 Equal System — 平等制
 
 ```
@@ -147,12 +155,12 @@ Equal System — 平等制
 
 | 中文 | English |
 | :--- | :--- |
+| [不确定性吞没（学术版）](papers/uncertainty-subsumption-cn.md) | [Uncertainty Subsumption (Academic Version)](papers/uncertainty-subsumption-en.md) |
 | [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
 | [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
 | [信号、交换与制度稳定性（学术版）](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability (Academic Version)](papers/signal-exchange-and-system-stability-en.md) |
 | [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
 | [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
-| [生存强制力与意义的释放（学术版）](papers/survival-coercion-meaning-release-cn.md) | [The Release of Survival Coercion and Meaning (Academic Version)](papers/survival-coercion-meaning-release-en.md) |
 | [存在性确认与性别不对称（学术版）](papers/existential-confirmation-cn.md) | [Existential Confirmation and Gender Asymmetry (Academic Version)](papers/existential-confirmation-en.md) |
 <br>
 <hr>
@@ -503,8 +511,4 @@ This work is licensed under the MIT License.
 <strong>吾心不移</strong><br>
 <em>My heart does not waver.</em>
 </p>
-
-
-
-
----
+```
