@@ -3,10 +3,7 @@
 <div align="center">
   <img src="../art-appreciation/images/1786713004404.png" width="300" />
 </div>
-
-画完了。放好了。
-
-不必记住这张脸。记住你读到这些字时，心里安静下来的那一瞬间就够了。
+。
 
 ---
 
