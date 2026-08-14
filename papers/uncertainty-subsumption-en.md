@@ -231,6 +231,21 @@ The two are not contradictory, but operate at different levels. The foundational
 
 Thus, this paper provides the physical foundation for *The Limit Theory of Meaning*: the boundary is not accidental, but a necessity of the direction of entropy increase.
 
+
+Thus, this paper provides the physical foundation for The Limit Theory of Meaning: the boundary is not accidental, but a necessity of the direction of entropy increase.
+
+However, this derivation, in completing its own construction, unavoidably touches upon a boundary question it cannot resolve: if all certainty is borrowed, then who or what executed the first borrowing—the operation by which the universe borrowed the first certainty from uncertainty at t = 0? Who is that initial observer?
+
+This paper has no answer to this question.
+
+The answer lies outside the range of this framework. I cannot determine whether it exists, what it is, or even whether the designation "it" is itself legitimate. Any attempt to answer would immediately borrow a certainty, turning the answer into an identifiable object—and thus falling into the very cycle this theory describes.
+
+Therefore, I do not answer this question. Not because it is "unknowable"—that itself would be a certainty claim, and I have no intention of locking it. But because I simply do not have an answer. I leave it beyond the boundary: undefined, unlocked, unreturned.
+
+"Uncertainty Subsumption" completes its final operation here: it describes the full cycle of certainty's production, locking, and return—and then, at the boundary, recognizes itself as one more borrowed certainty. This paper itself is a loan. It will eventually be forgotten, reclaimed by entropy, subsumed by uncertainty. But within its finite interval, it accurately described the structure in which it found itself.
+
+What can be said has been said. The rest is left to silence.
+
 ---
 
 Certainty is borrowed. Uncertainty is where it is returned. The observer stands between the two—neither outside nor inside, but confirming that the entire process is occurring.
