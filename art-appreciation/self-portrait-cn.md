@@ -3,7 +3,6 @@
 <div align="center">
   <img src="../art-appreciation/images/1786713004404.png" width="300" />
 </div>
-。
 
 ---
 
