@@ -4,7 +4,7 @@
 
 **Author**: Lanceund, M.
 
-**Status**: Stable / 稳定版
+**Status**: Stable 
 
 <br>
 
