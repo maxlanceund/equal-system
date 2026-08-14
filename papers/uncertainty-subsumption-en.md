@@ -225,12 +225,9 @@ The observer's "presence" itself is part of the process of uncertainty subsumpti
 
 ## VII. Conclusion: The Place of This Paper
 
-*The Limit Theory of Meaning* deals with "how certainty operates within boundaries"—that is a middle-layer structure. *Uncertainty Subsumption* deals with "why certainty is returned"—that is the foundational structure.
+The Limit Theory of Meaning deals with "how certainty operates within boundaries"—that is a middle-layer structure. Uncertainty Subsumption deals with "why certainty is returned"—that is the foundational structure.
 
-The two are not contradictory, but operate at different levels. The foundational structure explains why the middle-layer structure must have boundaries. The "return to zero" in *The Limit Theory of Meaning* is not a sudden disappearance, but the moment when certainty is returned to uncertainty. The boundary is where certainty must be returned, not an arbitrary endpoint. The connection lies in the concept of "boundary" in *The Limit Theory of Meaning*: the boundary is not arbitrarily drawn, but is the position where certainty must be returned. Without uncertainty subsumption, boundaries would not need to exist.
-
-Thus, this paper provides the physical foundation for *The Limit Theory of Meaning*: the boundary is not accidental, but a necessity of the direction of entropy increase.
-
+The two are not contradictory, but operate at different levels. The foundational structure explains why the middle-layer structure must have boundaries. The "return to zero" in The Limit Theory of Meaning is not a sudden disappearance, but the moment when certainty is returned to uncertainty. The boundary is where certainty must be returned, not an arbitrary endpoint. The connection lies in the concept of "boundary" in The Limit Theory of Meaning: the boundary is not arbitrarily drawn, but is the position where certainty must be returned. Without uncertainty subsumption, boundaries would not need to exist.
 
 Thus, this paper provides the physical foundation for The Limit Theory of Meaning: the boundary is not accidental, but a necessity of the direction of entropy increase.
 
@@ -238,17 +235,13 @@ However, this derivation, in completing its own construction, unavoidably touche
 
 This paper has no answer to this question.
 
-The answer lies outside the range of this framework. I cannot determine whether it exists, what it is, or even whether the designation "it" is itself legitimate. Any attempt to answer would immediately borrow a certainty, turning the answer into an identifiable object—and thus falling into the very cycle this theory describes.
+The answer lies outside the scope of this framework. I cannot determine whether it exists, what it is, or even whether the designation "it" is itself legitimate. Any attempt to answer would immediately borrow a certainty, turning the answer into an identifiable object—and thus falling into the very cycle this theory describes.
 
-Therefore, I do not answer this question. Not because it is "unknowable"—that itself would be a certainty claim, and I have no intention of locking it. But because I simply do not have an answer. I leave it beyond the boundary: undefined, unlocked, unreturned.
+Therefore, I do not answer this question. Not because it is "unknowable"—that itself would be a certainty claim, and I have no intention of locking it. Rather, I simply do not have an answer. I leave it beyond the boundary: undefined, unlocked, unreturned.
 
 "Uncertainty Subsumption" completes its final operation here: it describes the full cycle of certainty's production, locking, and return—and then, at the boundary, recognizes itself as one more borrowed certainty. This paper itself is a loan. It will eventually be forgotten, reclaimed by entropy, subsumed by uncertainty. But within its finite interval, it accurately described the structure in which it found itself.
 
 What can be said has been said. The rest is left to silence.
-
----
-
-Certainty is borrowed. Uncertainty is where it is returned. The observer stands between the two—neither outside nor inside, but confirming that the entire process is occurring.
 
 ## Acknowledgments
 
@@ -297,8 +290,6 @@ The author declares that there are no conflicts of interest that could affect th
 The core message this paper attempts to convey is: **Certainty is not an inherent property of the world, but a temporary state borrowed by finite systems from uncertainty during operation. Once the operation is complete, this state is returned to uncertainty.**
 
 This paper is the foundational structure paper of the **Equal System** philosophical framework, providing the physical-philosophical foundation for *The Limit Theory of Meaning* and *Boundary Acceleration*. It answers the question "Why must certainty return to zero?" and points out that the boundary is not arbitrary, but a necessity of the direction of entropy increase.
-
-What can be said has been said. The rest is left to silence.
 
 ---
 
