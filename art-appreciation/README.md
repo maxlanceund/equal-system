@@ -34,7 +34,7 @@ Everything happens as perception arrives.
 
 | 中文 | English |
 |------|---------|
-| [自画像 —— 放好了](./self-portrait-cn.md) | [Self-Portrait — Laid Down](./self-portrait-en.md) |
+| [自画像 ](./self-portrait-cn.md) | [Self-Portrait ](./self-portrait-en.md) |
 
 ---
 
