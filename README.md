@@ -82,25 +82,23 @@ This repository contains a complete theoretical framework — from the foundatio
 **八篇论文的逻辑递进：**
 
 ```
-
 Uncertainty Subsumption — 不确定性吞没（底层）
-↓
+    ↓
 Limit Theory of Meaning — 意义极限论
-↓
+    ↓
 Limited-Interval Principle — 有限区间原则
-↓
+    ↓
 Boundary Acceleration — 边界加速
-↓
-┌─────────────────────────────────────────────────────┐
-│  Signal, Exchange & System Stability  — 私有制分析 │
+    ↓
+┌─────────────────────────────────────────────────────────────┐
+│  Signal, Exchange & System Stability  — 私有制分析        │
 │  Survival Compulsion & U.S. Industrial Decline — 工业衰退 │
-│  Existential Confirmation & Gender Asymmetry — 谁是父亲？ │
-└─────────────────────────────────────────────────────┘
-↓
+│  Existential Confirmation and Gender Asymmetry — 存在性确认与性别不对称 │
+└─────────────────────────────────────────────────────────────┘
+    ↓
 The Imperative — 命令体
-↓
+    ↓
 Equal System — 平等制
-
 ```
 
 <br>
