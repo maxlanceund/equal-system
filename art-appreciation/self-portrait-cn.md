@@ -1,6 +1,9 @@
+
 # 自画像 —— 放好了
 
-![](../art-appreciation/images/1786713004404.png)
+<div align="center">
+  <img src="../art-appreciation/images/1786713004404.png" width="300" />
+</div>
 
 画完了。放好了。
 
