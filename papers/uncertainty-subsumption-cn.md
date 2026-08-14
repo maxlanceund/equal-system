@@ -1,13 +1,11 @@
-| Item | Content |
-|------|---------|
-| 标题 | 不确定性吞没：确定性的产生、锁定与释放 |
-| 作者 | Lanceund, M. |
-| 版本 | 1.0 |
-| 日期 | 2026-08-14 |
-| 仓库 | [https://github.com/maxlanceund/equal-system](https://github.com/maxlanceund/equal-system) |
-| 许可 | CC BY-NC 4.0 |
-| 关键词 | 不确定性吞没，确定性，熵增，观测者，有限区间 |
-
+---
+title: "不确定性吞没：确定性的产生、锁定与释放"
+author: "Lanceund, M."
+version: "1.0"
+date: "2026-08-14"
+repository: "https://github.com/maxlanceund/equal-system"
+license: "CC BY-NC 4.0"
+keywords: [不确定性吞没, 确定性, 熵增, 观测者, 有限区间]
 ---
 
 # 不确定性吞没：确定性的产生、锁定与释放
