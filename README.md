@@ -506,7 +506,6 @@ This work is licensed under the MIT License.
 
 
 <p align="right">
-<strong>吾心不移</strong><br>
-<em>My heart does not waver.</em>
+<strong> My heart does not waver. </strong><br>
+<em>吾心不移</em>
 </p>
-```
