@@ -1,14 +1,16 @@
 # 善，美德与正义的无定义
 
-title: "善，美德与正义的无定义"
-author: "Lanceund, M."
-version: "1.0"
-date: "2026-08-15"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [善, 美德, 正义, 方向信号, 不确定性吞没, 无定义]
+| 项目 | 内容 |
+|------|------|
+| **标题** | 善，美德与正义的无定义 |
+| **作者** | Lanceund, M. |
+| **版本** | 1.0 |
+| **日期** | 2026-08-15 |
+| **Repository** | https://github.com/maxlanceund/equal-system |
+| **License** | CC BY-NC 4.0 |
+| **Keywords** | `善` · `美德` · `正义` · `方向信号` · `不确定性吞没` · `无定义` |
+
 > **核心论点**：善、美德与正义不是可以被定义的确定性对象。它们是系统在操作窗口中锁定的方向性信号：指向系统自身的维持与操作延续，而不是固定的内容。本文不提供它们的定义，只描述它们如何运作、如何变化、如何失效，以及如何被重新凝聚。
----
 
 ## 摘要
 
