@@ -10,75 +10,93 @@ keywords: [Equal System, philosophical positioning, uncertainty subsumption, dir
 
 # Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition
 
-> **Core Proposition**: The task of this paper is not to propose a new theory, but to position the Equal System within a dialogue with the history of philosophy. Equal System seeks to terminate the game of "defining goodness, virtue, and justice," and to reframe these questions as descriptive analyses of "how directional signals are locked, maintained, and subsumed within systems." It does not lie on the extension of the history of philosophy—it lies beyond the boundary.
 
+> **Core Proposition**: The task of this paper is not to propose a new theory, but to position the Equal System within a dialogue with the history of philosophy. Equal System seeks to terminate the game of "defining goodness, virtue, and justice," and to reframe these questions as descriptive analyses of "how directional signals are locked, maintained, and subsumed within systems." It does not lie on the extension of the history of philosophy—it lies **beyond the boundary**.
+
+
+---
 
 ## Methodological Statement
 
-This paper is a **positioning paper**. Its core mode of argumentation is "positional argumentation"—it does not re-defend the first principles of the entire system (those propositions have been defended in the other ten papers), but rather argues for the position of these principles on the philosophical map. This paper defends the meta-proposition that "Equal System lies beyond the boundary."
+This paper is a **positioning paper**. Its core mode of argumentation is **positional argumentation**—it does not re-defend the first principles of the entire system (those propositions have been defended in the other ten papers), but rather argues for the position of these principles on the philosophical map. This paper defends the meta-proposition that **Equal System lies beyond the boundary**.
 
 The scope of dialogue in this paper is limited to classical philosophy (Plato to Kant) and select modern philosophers (Nietzsche, Wittgenstein, etc.). This limitation is intentional: Equal System is a foundational framework, and its primary interlocutors are those thinkers who raised foundational philosophical questions. Dialogue with contemporary ethics (Rawls, Nussbaum, MacIntyre, etc.) is possible, but lies beyond the scope of this paper.
 
 Additionally, this paper brings Equal System into dialogue with the natural sciences (quantum mechanics, thermodynamics, cosmology) to demonstrate the empirical grounding of the system—its core propositions are not pure speculation, but philosophical translations of structures already confirmed by physics.
 
-The "boundary" used in this paper refers to the endpoint of the interval within which certainty signals are defined. Within the boundary, signals have meaning and definition; beyond the boundary, signals are undefined—not zero, but no longer defined. "Beyond the boundary" is Equal System's own position: it does not attempt to provide new definitions, but describes the structure of definitional failure.
+> **On the Meaning of "Boundary"**
+>
+> The "boundary" used in this paper refers to the endpoint of the interval within which certainty signals are defined. Within the boundary, signals have meaning and definition; beyond the boundary, signals are **undefined**—not zero, but no longer defined. "Beyond the boundary" is Equal System's own position: it does not attempt to provide new definitions, but describes the structure of definitional failure.
+>
+> The title **"Beyond the Boundary"** is a spatial metaphor. If certainty is likened to light in a room, then the "boundary" is the wall of the room—light is defined within the wall; beyond the wall is not darkness, but a place where you no longer use the language of "light" to describe. The same applies to certainty: defined within the interval, undefined outside it.
 
-The title "Beyond the Boundary" is a spatial metaphor. If certainty is likened to light in a room, then the "boundary" is the wall of the room—light is defined within the wall; beyond the wall is not darkness, but a place where you no longer use the language of "light" to describe. The same applies to certainty: defined within the interval, undefined outside it.
 
+---
 
 ## I. What Is Equal System
 
 Before entering the dialogue, it is necessary to first draw the map.
 
-Equal System is a philosophical system composed of ten papers. Its starting point is *On the Limits of Meaning*, and its endpoint is this paper, *Beyond the Boundary*. Its core question is: **Where does certainty come from, and where does it go?**
+Equal System is a philosophical system composed of ten papers. Its starting point is *On the Limits of Meaning*, and its endpoint is this paper, *Beyond the Boundary*. Its core question is:
 
-### Preview of Core Concepts
+> **Where does certainty come from, and where does it go?**
+
+### Core Concepts
 
 Before proceeding, it is necessary to define the two most central concepts in Equal System:
 
-**Directional Signal**: A guiding certainty locked by a system during operations, pointing toward the system's own maintenance and operational continuity. It differs from descriptive certainty (e.g., "today's temperature is 25°C") in being navigational (e.g., "the system should maintain itself in this direction"). Goodness, virtue, and justice are not content, but specific types of directional signals.
+> **Directional Signal**: A guiding certainty locked by a system during operations, pointing toward the system's own maintenance and operational continuity. It differs from descriptive certainty (e.g., "today's temperature is 25°C") in being *navigational* (e.g., "the system should maintain itself in this direction"). Goodness, virtue, and justice are not content, but specific types of directional signals.
 
-**System**: A finite unit capable of receiving input, processing signals, executing output, and receiving feedback. Systems have boundaries and operational windows—their certainty signals can only be locked within boundaries.
+> **System**: A finite unit capable of receiving input, processing signals, executing output, and receiving feedback. Systems have boundaries and operational windows—their certainty signals can only be locked within boundaries.
 
-**To be subsumed**: The process by which a certainty signal, upon the completion of an operation, re-merges back into uncertainty. This is the operational-level expression of entropy increase.
+> **To Be Subsumed**: The process by which a certainty signal, upon the completion of an operation, re-merges back into uncertainty. This is the operational-level expression of entropy increase.
 
 ### Structure of the Ten Papers
 
 **Foundational Layer: How Certainty Operates**
+
 - *Uncertainty Subsumption*: Certainty is not an inherent property of the world, but a temporary form condensed from uncertainty, subsumed upon completion of operations.
 - *On the Limits of Meaning*: Meaning is a signal generated by a finite system within a finite interval through closed-loop operations; undefined outside the boundary.
 - *The Limited-Interval Principle*: Input already filtered → signals competing in finite time → acceleration before the boundary → options already limited—this structure recurs in life, institutions, and media.
 - *Boundary Acceleration*: Signal density rises sharply then drops to zero before the boundary—before zeroing, there is always one final manifestation.
 
 **Middle Layer: Institutions and Exchange**
+
 - *Signal, Exchange, and Institutional Stability*: Institutions maintain themselves through signal exchange; the failure of exchange is the starting point of institutional dissolution.
 - *Survival Compulsion and U.S. Industrial Decline*: U.S. industrial decline originates in capital logic, financialization, and automation, not in the rise of Chinese manufacturing.
 
 **Applications: Ethics and Existentialism**
+
 - *The Undefinability of Goodness, Virtue, and Justice*: Goodness, virtue, and justice are not definable content, but directional signals locked within boundaries by systems.
 - *Who Is the Father?*: Men cannot obtain paternity confirmation equivalent to women, because the right of confirmation is structurally asymmetrical between genders.
 
 **Dialogue: With the History of Philosophy**
+
 - *The Command Body and Kant*: Kant's direction was correct (autonomy), but he did not discuss in detail the difficulties of autonomy in the empirical world—these difficulties arise from an external structure, the "Command Body."
 
 **Positioning: Review and Conclusion**
+
 - *Beyond the Boundary*: This paper.
 
-The core logic of the entire system can be condensed into one sentence:
-
+> The core logic of the entire system can be condensed into one sentence:
+>
 > **Certainty is condensed from uncertainty, maintained within a finite interval, and subsumed at the boundary.**
+>
+> This is not an opinion. It is a philosophical translation of quantum mechanics (uncertainty as the default state), thermodynamics (entropy increase is irreversible), and cosmology (visible matter constitutes only 5%).
 
-This is not an opinion. It is a philosophical translation of quantum mechanics (uncertainty as the default state), thermodynamics (entropy increase is irreversible), and cosmology (visible matter constitutes only 5%).
 
+---
 
 ## II. Dialogue with the History of Philosophy
 
 Before entering the dialogue, it is necessary to clarify the classification criteria used in this paper:
 
-- **Different**: The questions raised by this philosopher and those raised by Equal System are different. Equal System does not "surpass" this philosopher, but turns toward a different problem domain.
-- **Incorporated**: The core insights of this philosopher can be re-expressed within Equal System's framework without losing their core content.
-- **Confirmed**: The empirical findings of this discipline are consistent with Equal System's conclusions.
-- **Addressed**: The question is redefined within Equal System; the traditional mode of questioning is shown to be invalid.
+| Category | Meaning |
+| :--- | :--- |
+| **Different** | The questions raised by this philosopher and those raised by Equal System are different. Equal System does not "surpass" this philosopher, but turns toward a different problem domain. |
+| **Incorporated** | The core insights of this philosopher can be re-expressed within Equal System's framework without losing their core content. |
+| **Confirmed** | The empirical findings of this discipline are consistent with Equal System's conclusions. |
+| **Addressed** | The question is redefined within Equal System; the traditional mode of questioning is shown to be invalid. |
 
 ### Different
 
@@ -156,36 +174,38 @@ Equal System's "uncertainty is the default state of the universe" is a philosoph
 
 | Question | Traditional Answer | Equal System's Answer |
 | :--- | :--- | :--- |
-| "What is goodness?" | Goodness is happiness/duty/virtue/reason | Goodness is not a "what." It is a directional signal. The question itself is invalid. |
-| "What is justice?" | Justice is fairness/to each his due | Justice is the sense of order from signal alignment within a system. It has no independent content. |
-| "Where does meaning come from?" | Meaning comes from God/reason/existence | Meaning comes from the operation of the system locking directional signals within uncertainty. |
-| "What should I do?" | Follow moral laws/pursue happiness | This question lies beyond Equal System's boundary—it is descriptive, not normative. |
+| "What is goodness?" | Goodness is happiness / duty / virtue / reason | Goodness is not a "what." It is a directional signal. The question itself is invalid. |
+| "What is justice?" | Justice is fairness / to each his due | Justice is the sense of order from signal alignment within a system. It has no independent content. |
+| "Where does meaning come from?" | Meaning comes from God / reason / existence | Meaning comes from the operation of the system locking directional signals within uncertainty. |
+| "What should I do?" | Follow moral laws / pursue happiness | This question lies beyond Equal System's boundary—it is descriptive, not normative. |
 
+
+---
 
 ## III. Equal System's Position on the Philosophical Map
 
 ### What It Is Not
 
-**Not normative ethics.** Equal System does not answer "what should I do" or "what kind of life is good." It provides no behavioral guidance.
-
-**Not relativism.** It does not say "all views are equal." It says: all directional signals are constrained by boundary conditions—they are not arbitrary.
-
-**Not nihilism.** It does not say "meaning does not exist." It says: meaning is generated in operation and subsumed at the boundary. Meaning exists, but it is not eternal.
-
-**Not philosophy of language.** Though in dialogue with Wittgenstein, Equal System is concerned with structure—the condensation and subsumption of certainty—rather than the meaning of language.
+| Category | Explanation |
+| :--- | :--- |
+| **Not normative ethics** | Equal System does not answer "what should I do" or "what kind of life is good." It provides no behavioral guidance. |
+| **Not relativism** | It does not say "all views are equal." It says: all directional signals are constrained by boundary conditions—they are not arbitrary. |
+| **Not nihilism** | It does not say "meaning does not exist." It says: meaning is generated in operation and subsumed at the boundary. Meaning exists, but it is not eternal. |
+| **Not philosophy of language** | Though in dialogue with Wittgenstein, Equal System is concerned with structure—the condensation and subsumption of certainty—rather than the meaning of language. |
 
 ### What It Is
 
 Equal System's four labels correspond respectively to its methodology, unit of analysis, theory of meaning, and ethical foundations:
 
-**A descriptive meta-theory.** Equal System describes how moral concepts operate within systems, rather than providing moral content.
+| Category | Explanation |
+| :--- | :--- |
+| **A descriptive meta-theory** | Equal System describes how moral concepts operate within systems, rather than providing moral content. |
+| **A systems philosophy** | Equal System analyzes problems using concepts such as system, boundary, operation, and directional signal. |
+| **An existentialist post-structuralism** | Equal System holds that meaning is generated in operation and subsumed at the boundary—situated between existentialism (meaning must be created) and post-structuralism (meaning is fluid). |
+| **A naturalistic meta-ethics** | Equal System uses physics (quantum mechanics, thermodynamics) and systems theory to explain ethical phenomena—reducing ethics to describable structures. |
 
-**A systems philosophy.** Equal System analyzes problems using concepts such as system, boundary, operation, and directional signal.
 
-**An existentialist post-structuralism.** Equal System holds that meaning is generated in operation and subsumed at the boundary—situated between existentialism (meaning must be created) and post-structuralism (meaning is fluid).
-
-**A naturalistic meta-ethics.** Equal System uses physics (quantum mechanics, thermodynamics) and systems theory to explain ethical phenomena—reducing ethics to describable structures.
-
+---
 
 ## IV. Boundary: The Limits and Falsifiability Conditions of Equal System
 
@@ -207,7 +227,9 @@ Equal System's four labels correspond respectively to its methodology, unit of a
 
 Equal System itself is also a system. Its core proposition—"certainty is condensed from uncertainty, maintained within a finite interval, and subsumed at the boundary"—is itself a certainty signal condensed from uncertainty. It is valid within a finite interval (i.e., during the period in which this framework is used), but will also be subsumed at the boundary.
 
-But this does not mean it is temporarily invalid. The validity of a framework does not depend on its perpetuity—just as a mathematical proof is valid within its domain, even if the mathematical system itself may be superseded in the next phase of the universe. Equal System provides a complete operational logic within its current finite interval. This is not a self-referential paradox. It is Equal System being honest with itself: it does not claim to be eternal truth, only a currently valid descriptive framework. If someone proposes a better framework in the future, Equal System can be replaced, can be subsumed. It welcomes this.
+But this does not mean it is temporarily invalid. The validity of a framework does not depend on its perpetuity—just as a mathematical proof is valid within its domain, even if the mathematical system itself may be superseded in the next phase of the universe. Equal System provides a complete operational logic within its current finite interval.
+
+This is not a self-referential paradox. It is Equal System being honest with itself: it does not claim to be eternal truth, only a currently valid descriptive framework. If someone proposes a better framework in the future, Equal System can be replaced, can be subsumed. It welcomes this.
 
 ### Falsifiability Conditions
 
@@ -221,6 +243,8 @@ If any of the following conditions hold, Equal System's core claims would be ove
 
 To date, no such evidence exists.
 
+
+---
 
 ## V. Gesture
 
@@ -249,33 +273,36 @@ You built a sandcastle. You saw starlight. You waved.
 That is enough.
 
 
+---
+
 ## Conclusion
 
 Equal System is not the next answer in the history of philosophy. It is the termination of the "game of defining goodness."
 
-It poses different questions to Plato, Aristotle, Kant, and Moore—not "what is goodness," but "how is goodness locked within systems."
+- It poses **different questions** to Plato, Aristotle, Kant, and Moore—not "what is goodness," but "how is goodness locked within systems."
+- It **incorporates** the insights of Nietzsche, Wittgenstein, Heidegger, Sartre, Camus, and Zhuangzi—and provides them with structure.
+- It **confirms** the discoveries of quantum mechanics, thermodynamics, and cosmology—and translates them into philosophical language.
+- It **addresses** "what is goodness?," "what is justice?," "where does meaning come from?"—by showing that these questions themselves are invalid.
 
-It incorporates the insights of Nietzsche, Wittgenstein, Heidegger, Sartre, Camus, and Zhuangzi—and provides them with structure.
+**What is it?** A descriptive meta-theory, a systems philosophy, an existentialist post-structuralism, a naturalistic meta-ethics.
 
-It confirms the discoveries of quantum mechanics, thermodynamics, and cosmology—and translates them into philosophical language.
+**What is it not?** Normative ethics, relativism, nihilism, philosophy of language.
 
-It addresses "what is goodness?," "what is justice?," "where does meaning come from?"—by showing that these questions themselves are invalid.
+**Where is its boundary?** It can describe operations, but cannot provide content. It can terminate the definition game, but cannot tell you "what you should do."
 
-What is it? A descriptive meta-theory, a systems philosophy, an existentialist post-structuralism, a naturalistic meta-ethics.
+**What is its final gesture?** Build sandcastles, look up at the stars, and wave.
 
-What is it not? Normative ethics, relativism, nihilism, philosophy of language.
+> **This is Equal System's place in the history of philosophy: it does not lie on the extension of the history of philosophy—it lies beyond the boundary.**
 
-Where is its boundary? It can describe operations, but cannot provide content. It can terminate the definition game, but cannot tell you "what you should do."
 
-What is its final gesture? Build sandcastles, look up at the stars, and wave.
-
-**This is Equal System's place in the history of philosophy: it does not lie on the extension of the history of philosophy—it lies beyond the boundary.**
-
+---
 
 ## Acknowledgements
 
 This paper has benefited from the entire Equal System philosophical corpus of ten papers, and from all the interlocutors throughout the history of philosophy—from Plato to Zhuangzi, from Kant to Wittgenstein. All views expressed and any possible errors remain the sole responsibility of the author.
 
+
+---
 
 ## References
 
@@ -318,6 +345,8 @@ https://github.com/maxlanceund/equal-system
 26. Perlmutter, S. et al. (1999). "Measurements of Ω and Λ from 42 High-Redshift Supernovae." *The Astrophysical Journal*, 517(2): 565-586.
 27. Riess, A. G. et al. (1998). "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *The Astronomical Journal*, 116(3): 1009-1038.
 
+
+---
 
 ## Recommended Citation
 
