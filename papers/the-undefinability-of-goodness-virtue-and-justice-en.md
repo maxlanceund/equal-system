@@ -1,26 +1,20 @@
+---
+title: "The Undefinability of Goodness, Virtue, and Justice"
+author: "Lanceund, M."
+version: "1.0"
+date: "2026-08-15"
+repository: "https://github.com/maxlanceund/equal-system"
+license: "CC BY-NC 4.0"
+keywords: [goodness, virtue, justice, directional signal, uncertainty subsumption, undefinability]
+---
+
 # The Undefinability of Goodness, Virtue, and Justice
 
-| Field | Content |
-|-------|---------|
-| **Title** | The Undefinability of Goodness, Virtue, and Justice |
-| **Author** | Lanceund, M. |
-| **Version** | 1.0 |
-| **Date** | 2026-08-15 |
-| **Repository** | https://github.com/maxlanceund/equal-system |
-| **License** | CC BY-NC 4.0 |
-| **Keywords** | Goodness, Virtue, Justice, Directional Signal, Uncertainty Submersion, Undefinability |
-
----
-
 > **Core Thesis**: Goodness, virtue, and justice are not definable objects of certainty. They are directional signals locked by systems within operational windows—pointing toward the system's own maintenance and operational continuity, rather than fixed content. This paper does not provide definitions for them. It only describes how they operate, how they change, how they fail, and how they are reconstituted.
-
----
 
 ## Abstract
 
 Goodness, virtue, and justice are core objects of traditional ethics, yet all historical attempts to define them have failed to reach consensus. This paper does not attempt to provide new definitions. Instead, it argues that these concepts are undefinable because they are not lockable objects of certainty in themselves. Drawing on the framework of *Uncertainty Submersion*, this paper contends that goodness, virtue, and justice are directional signals locked by systems within operational windows—they point toward the system's own maintenance and operational continuity, rather than fixed content. Their content shifts with changes in the system's boundary conditions, and their validity ceases when operations terminate. This paper presents six cross-civilizational historical counterexamples and six positive examples, demonstrating both the different contents these concepts condense into across different systems, and the clear boundaries they possess even in well-functioning systems. Falsifiability conditions are explicitly stated to maintain the framework's testability. This paper offers no definitions, only descriptions of operational trajectories.
-
-What can be said has been said. The rest is left to silence.
 
 ---
 
@@ -153,77 +147,59 @@ Justice is not a state the system "attains," but the signal-aligned order that e
 
 To test the above claim, this section provides six cross-civilizational historical counterexamples. In each case, "justice" was formally locked and executed by the system's operational nodes—not "distorted" or "abused." If justice were universally definable, these cases should share a common content. They do not.
 
-**Counterexample 1: Nazi Germany (1933–1945)**  
-- Directional Signal: Survival and expansion of the Aryan race  
-- Justice: Elimination of "inferior races," preservation of racial purity  
-- Virtue: Absolute obedience to the Führer, racial loyalty, sacrifice of the individual for the collective
+**Counterexample 1: Nazi Germany (1933–1945)**
+Its directional signal was "the survival and expansion of the Aryan race." Under this framework, "justice" was locked as the elimination of "inferior races" and the preservation of racial purity; "virtue" was manifested as absolute obedience to the Führer, racial loyalty, and the sacrifice of the individual for the collective.
 
-**Counterexample 2: Japanese Militarism (1931–1945)**  
-- Directional Signal: Greater East Asia Co-Prosperity + Emperor's divinity  
-- Justice: Liberation of Asia, establishment of a Japan-centric hierarchical order  
-- Virtue: Emperor worship, self-sacrifice for the empire, martial spirit
+**Counterexample 2: Japanese Militarism (1931–1945)**
+Its directional signal was a compound of "Greater East Asia Co-Prosperity" and "the divinity of the Emperor." "Justice" was locked as the liberation of Asia and the establishment of a Japan-centric hierarchical order; "virtue" was manifested as Emperor worship, self-sacrifice for the empire, and martial spirit.
 
-**Counterexample 3: Medieval Europe (c. 1000–1400)**  
-- Directional Signal: God's will and the Church's salvation  
-- Justice: Inquisition, Crusades—elimination of unbelievers, preservation of unified faith  
-- Virtue: Religious devotion, obedience to the Church, purification of the soul through asceticism
+**Counterexample 3: Medieval Europe (c. 1000–1400)**
+Its directional signal was "God's will and the Church's salvation." "Justice" was locked as the Inquisition and the Crusades—the elimination of unbelievers and the preservation of unified faith; "virtue" was manifested as religious devotion, obedience to the Church, and the purification of the soul through asceticism. Within this system, burning heretics was seen as "saving souls from eternal hell"—a direct expression of justice and goodness.
 
-**Counterexample 4: Ancient Rome (c. 200 BC–400 AD)**  
-- Directional Signal: Rome's eternity and expansion  
-- Justice: Order under Roman law—slavery as "natural," conquest as "civilizing mission"  
-- Virtue: Patriotism, obedience to authority, martial valor, family loyalty
+**Counterexample 4: Ancient Rome (c. 200 BC–400 AD)**
+Its directional signal was "Rome's eternity and expansion." "Justice" was locked as order under Roman law—slavery was seen as "natural," and conquest as a "civilizing mission"; "virtue" was manifested as patriotism, obedience to authority, martial valor, and family loyalty.
 
-**Counterexample 5: Colonial Americas (c. 1500–1800)**  
-- Directional Signal: Christianization + expansion of European civilization  
-- Justice: Conquest and conversion of indigenous peoples—framed as "saving souls"  
-- Virtue: Missionary zeal, pioneer spirit, "civilizing" the indigenous
+**Counterexample 5: Colonial Americas (c. 1500–1800)**
+Its directional signal was a compound of "Christianization" and "the expansion of European civilization." "Justice" was locked as the conquest and conversion of indigenous peoples—framed as "saving souls"; "virtue" was manifested as missionary zeal, pioneer spirit, and the responsibility to "civilize" the indigenous.
 
-**Counterexample 6: Stalinist Soviet Union (c. 1930–1953)**  
-- Directional Signal: Dictatorship of the proletariat + socialist construction  
-- Justice: Suppression of "class enemies"—purges of Trotskyists, kulaks, traitors—framed as necessary for protecting revolutionary gains  
-- Virtue: Loyalty to the Party, sacrifice of the individual for the collective, exposure of the "disloyal"
+**Counterexample 6: Stalinist Soviet Union (c. 1930–1953)**
+Its directional signal was "the dictatorship of the proletariat" and "socialist construction." "Justice" was locked as the suppression of "class enemies"—the purges of Trotskyists, kulaks, and traitors—framed as necessary for protecting revolutionary gains; "virtue" was manifested as loyalty to the Party, the sacrifice of the individual for the collective, and the exposure of the "disloyal."
+
+### V.2.1 Conclusion of the Counterexamples
+
+The six counterexamples collectively point to one conclusion: when a system's directional signal is locked onto specific content such as racial supremacy, religious fanaticism, imperial expansion, or class dictatorship, "justice" is likewise condensed into operational directives aligned with that directional signal. These operational directives—genocide, purges, repression, conquest—are labeled "justice" within the system and receive institutionalized execution.
+
+The significance of the counterexamples lies not in proving that "justice does not exist," but in proving that "the content of justice is entirely determined by the directional signal, rather than by some transhistorical truth." If justice were universally definable, then Nazi Germany's justice and ancient Rome's justice should share a common core. They do not. Their only commonality is that each system believed it was executing justice.
 
 ### V.3 Six Historical Positive Examples
 
 This section provides six examples of well-functioning or widely recognized "just" systems, demonstrating that even in these systems, goodness, justice, and virtue remain products locked by directional signals with clear boundaries—not eternal definitions.
 
-**Positive Example 1: Athenian Democracy (c. 500–400 BC)**  
-- Directional Signal: City-state autonomy + maintenance of the citizen-community  
-- Justice: Equality before the law for citizens, participation in public affairs, freedom of speech  
-- Virtue: Civic responsibility, public deliberation, moderation  
-- Boundary: Justice did not apply to slaves, women, or non-citizens—the directional signal defined the scope of justice's application.
+**Positive Example 1: Athenian Democracy (c. 500–400 BC)**
+Its directional signal was "city-state autonomy and the maintenance of the citizen-community." "Justice" was locked as equality before the law for citizens, participation in public affairs, and freedom of speech; "virtue" was manifested as civic responsibility, public deliberation, and moderation. But justice did not apply to slaves, women, or non-citizens—the directional signal directly delineated the scope of justice's application.
 
-**Positive Example 2: Early Roman Republic (c. 500–200 BC)**  
-- Directional Signal: Republican system + balance of citizenship rights and duties  
-- Justice: Gradual expansion of Roman law, protection of plebeian rights, separation of powers  
-- Virtue: Patriotism, integrity, public service  
-- Boundary: Only Roman citizens enjoyed full legal protection; non-citizens were excluded.
+**Positive Example 2: Early Roman Republic (c. 500–200 BC)**
+Its directional signal was "the republican system and the balance of citizenship rights and duties." "Justice" was locked as the gradual expansion of Roman law, the protection of plebeian rights, and the separation of powers; "virtue" was manifested as patriotism, integrity, and public service. But only Roman citizens enjoyed full legal protection; non-citizens were excluded.
 
-**Positive Example 3: Tang Dynasty's Zhenguan Reign (c. 627–650 AD)**  
-- Directional Signal: Stability and prosperity under centralized rule  
-- Justice: Equal-field system securing peasant livelihoods, civil service examinations providing mobility, relatively fair law  
-- Virtue: Loyalty, integrity, people-oriented governance  
-- Boundary: Justice presupposed the maintenance of the Li-Tang ruling order—not individual absolute freedom.
+**Positive Example 3: The Tang Dynasty's Zhenguan Reign (c. 627–650 AD)**
+Its directional signal was "stability and prosperity under centralized rule." "Justice" was locked as the equal-field system securing peasant livelihoods, the civil service examinations providing mobility, and relatively fair law; "virtue" was manifested as loyalty, integrity, and people-oriented governance. But justice presupposed the maintenance of the Li-Tang ruling order—not individual absolute freedom.
 
-**Positive Example 4: Development of British Parliamentarism (c. 1688–1900)**  
-- Directional Signal: Representative government + rule of law  
-- Justice: Constitutional monarchy, judicial independence, gradual expansion of suffrage  
-- Virtue: Rule of law, liberty, public responsibility  
-- Boundary: Suffrage expanded gradually from propertied men to non-propertied men to women—each expansion was a re-locking of the directional signal under changing boundary conditions.
+**Positive Example 4: The Development of British Parliamentarism (c. 1688–1900)**
+Its directional signal was "representative government and the rule of law." "Justice" was locked as constitutional monarchy, judicial independence, and the gradual expansion of suffrage; "virtue" was manifested as the rule of law, liberty, and public responsibility. Suffrage expanded gradually from propertied men to non-propertied men to women—each expansion was a re-locking of the directional signal under changing boundary conditions.
 
-**Positive Example 5: Modern Nordic Welfare States (c. 1945–present)**  
-- Directional Signal: Social welfare + equality + universal security  
-- Justice: Universal healthcare, free education, high-tax high-welfare redistribution system  
-- Virtue: Social responsibility, trust, inclusivity  
-- Boundary: This system depends on high taxation, high trust, relatively homogeneous historical-cultural backgrounds, and open global markets. When boundary conditions shift (immigration, aging, economic fluctuations), the content of justice is being readjusted.
+**Positive Example 5: Modern Nordic Welfare States (c. 1945–present)**
+Its directional signal was "social welfare, equality, and universal security." "Justice" was locked as universal healthcare, free education, and a high-tax high-welfare redistribution system; "virtue" was manifested as social responsibility, trust, and inclusivity. But this system depends on high taxation, high trust, relatively homogeneous historical-cultural backgrounds, and open global markets. When boundary conditions shift (immigration, aging, economic fluctuations), the content of justice is being readjusted.
 
-**Positive Example 6: People's Republic of China since Reform and Opening (c. 1978–present)**  
-- Directional Signal: Economic development + social stability + national rejuvenation  
-- Justice: Poverty eradication, common prosperity, rule of law, equal emphasis on stability and development  
-- Virtue: Diligence, dedication, collectivism, patriotism  
-- Boundary: Justice is being locked in real-time under current boundary conditions; its content evolves with system conditions and is not an external eternal standard.
+**Positive Example 6: The People's Republic of China since Reform and Opening (c. 1978–present)**
+Its directional signal is "economic development, social stability, and national rejuvenation." "Justice" is locked as poverty eradication, common prosperity, the rule of law, and equal emphasis on stability and development; "virtue" is manifested as diligence, dedication, collectivism, and patriotism. Justice is being locked in real-time under current boundary conditions; its content evolves with system conditions and is not an external eternal standard.
 
-### V.4 Implications of the Six Cases
+### V.3.1 Conclusion of the Positive Examples
+
+The six positive examples point to the opposite conclusion: even in well-functioning systems that are widely recognized as "just," the content of justice still possesses boundaries. Athenian justice did not apply to slaves, the Zhenguan Reign's justice presupposed the maintenance of the Li-Tang ruling order, and Nordic welfare-state justice depends on specific economic and trust conditions.
+
+The significance of the positive examples lies in proving that the "boundary" of justice is not the exception, but the norm. Justice without boundaries has never appeared in history. Every system locks the content of justice within its own boundaries, and re-locks it as boundary conditions change.
+
+### V.4 Comprehensive Implications
 
 The counterexamples and positive examples together show that whether the system is "distorted" or "well-functioning," goodness, justice, and virtue are not independently definable content but projections of directional signals within specific boundaries. The counterexamples show that content can shift drastically with deviations in the directional signal; the positive examples show that even in healthy systems, content has clear boundaries of application. Every example demonstrates: these concepts have never been universal. They are always directional markers within system operations.
 
@@ -255,7 +231,7 @@ The core claims of this paper can be falsified under the following conditions: i
 
 ---
 
-## VII. Conclusion: Silence
+## VII. Conclusion
 
 Goodness, virtue, and justice are not definable objects of certainty. They are directional signals locked by systems during operations, pointing toward the system's own maintenance and operational continuity. Their content shifts with boundary conditions, and their validity ceases with the termination of operations.
 
@@ -264,8 +240,6 @@ This paper does not provide definitions for them. It only describes how they ope
 This paper's posture is itself an operation: not locking, not defining, not preserving.
 
 **Goodness has no definition, only trajectory. Certainty has no eternity, only operation.**
-
-**What can be said has been said. The rest is left to silence.**
 
 ---
 
