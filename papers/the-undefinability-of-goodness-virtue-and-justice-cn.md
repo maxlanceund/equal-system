@@ -8,7 +8,7 @@
 | **日期** | 2026-08-15 |
 | **Repository** | https://github.com/maxlanceund/equal-system |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | [善, 美德, 正义, 方向信号, 不确定性吞没, 无定义] |
+| **Keywords** | 善, 美德, 正义, 方向信号, 不确定性吞没, 无定义 |
 
 ---
 
