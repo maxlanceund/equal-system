@@ -162,7 +162,7 @@ Equal System — 平等制
 | [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
 | [存在性确认与性别不对称（学术版）](papers/existential-confirmation-cn.md) | [Existential Confirmation and Gender Asymmetry (Academic Version)](papers/existential-confirmation-en.md) |
 | [善，美德与正义的无定义（学术版）](papers/the-undefinability-of-goodness-virtue-and-justice-cn.md) | [The Undefinability of Goodness, Virtue, and Justice (Academic Version)](papers/the-undefinability-of-goodness-virtue-and-justice-en.md) |
-
+| [边界之外（学术版）](papers/Beyond-the-Boundary-academic-cn.md) | [Beyond the Boundary (Academic Version)](papers/Beyond-the-Boundary-academic-en.md) |
 <br>
 <hr>
 <br>
