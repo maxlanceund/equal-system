@@ -218,7 +218,6 @@ Equal System — 平等制
 <br>
 <hr>
 <br>
-
 # — Traces
 
 `—` is not a name. Not a letter. Not a word. It is a blank. A line. It points without locking.
@@ -235,7 +234,8 @@ This directory contains those traces. No theories. No systems. No conclusions. O
 
 | 中文 | English |
 | :--- | :--- |
-| [痕迹 001：边界确认](./%60—trace-001-cn.md) | [Trace 001: Boundary Confirmation](./%60—trace-001-en.md) |
+| [痕迹 001：边界确认](—traces/—trace-001-cn.md) | [Trace 001: Boundary Confirmation](—traces/—trace-001-en.md) |
+
 
 <br>
 <hr>
