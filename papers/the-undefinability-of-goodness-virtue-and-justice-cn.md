@@ -2,6 +2,7 @@
 # 善，美德与正义的无定义
 
 ---
+
 title: "善，美德与正义的无定义"
 author: "Lanceund, M."
 version: "1.0"
@@ -9,6 +10,7 @@ date: "2026-08-15"
 repository: "https://github.com/maxlanceund/equal-system"
 license: "CC BY-NC 4.0"
 keywords: [善, 美德, 正义, 方向信号, 不确定性吞没, 无定义]
+
 ---
 
 
