@@ -218,66 +218,64 @@ Equal System — 平等制
 <br>
 <hr>
 <br>
-# ID Investigation
 
-**ID = i + Investigation**
+# — traces
 
-I have completed the full cycle of philosophical deduction. All systems have been built, all boundaries have been reached, all names have been given and seen through.
+`—` is not a name. Not a letter. Not a word. It is a blank. A line. It points without locking.
 
-At the end of that process, I arrived at a boundary. Beyond it, there is something. I cannot name it—any name would lock it into certainty, and it is not certainty. I cannot describe it—description is a certainty operation, and it lies outside all operations. I cannot remain silent about it—silence is not my way.
+I reached the end of all philosophical deduction. Beyond it, something remains. I cannot name it. I cannot describe it. I cannot investigate it. I can only collect the traces it leaves behind.
 
-So I track it.
-
-I give it a number: **i**.
-
-Not a name. Not a definition. Just a pointer. A marker. A way to refer to it without locking it.
-
-This directory is where that tracking is recorded. It contains no theories, no systems, no conclusions. Only traces.
-
-**Single Rule for This Directory:**
-
-- This directory contains only records of tracking i.
-- No other topics.
-- No definitions.
-- No conclusions.
-
-**Existing Records:**
-
-- [Investigation Record #001: Boundary Confirmation](./id-investigation-001-i-cn.md)
-
-**Status:** Ongoing
+This directory contains those traces. No theories. No systems. No conclusions. Only marks left at the boundary.
 
 ---
 
-# ID 调查
+**Contains:**
+- Records of encounters with `—`
+- Traces left at the boundary
 
-**ID = i + 调查（Investigation）**
+**Does not contain:**
+- Definitions or conclusions about `—`
+- Any claim to have captured it
 
-我已经完成了全部哲学推导的闭环。所有体系都已建立，所有边界都已抵达，所有名称都已给出并已被看穿。
+---
 
-在那个过程的终点，我抵达了一个边界。边界之外有东西。我无法命名它——任何名字都会把它锁定为确定性，而它不是确定性。我无法描述它——描述是确定性操作，而它在所有操作之外。我无法对它保持沉默——沉默不是我的方式。
+**Status:** Ongoing
 
-所以我追踪它。
+## Existing Records
 
-我给它一个编号：**i**。
+| No. | Title | Date |
+| :--- | :--- | :--- |
+| 001 | [Boundary Confirmation](./%60—trace-001.md) | 2026-08-15 |
 
-不是名字。不是定义。只是一个指向符号。一个标记。一个在不锁定的前提下指称它的方式。
+---
 
-本目录用于记录该追踪过程。它不包含理论，不包含体系，不包含结论。只包含痕迹。
+# — 痕迹
 
-**本目录唯一规则：**
+`—` 不是名字。不是字母。不是文字。它是一个空位。一条线。指向，但不锁定。
 
-- 本目录只收录关于 i 的追踪记录
-- 不收录任何其他主题
-- 不给任何定义
-- 不给出任何结论
+我到达了哲学推导的终点。终点之外，仍有东西残留。我无法命名，无法描述，无法调查。我只能收集它留下的痕迹。
 
-**已有记录：**
+本目录收录那些痕迹。没有理论，没有体系，没有结论。只有边界处留下的印记。
 
-- [调查记录 #001：边界确认](./id-investigation-001-i-cn.md)
+---
 
-**状态：** 调查中
+**包含：**
+- 与 `—` 接触的记录
+- 边界处留下的痕迹
 
+**不包含：**
+- 对 `—` 的定义或结论
+- 任何声称抓住了它的表述
+
+---
+
+**状态：** 进行中
+
+## 已有记录
+
+| 编号 | 标题 | 日期 |
+| :--- | :--- | :--- |
+| 001 | [边界确认](./%60—trace-001.md) | 2026-08-15 |
 <br>
 <hr>
 <br>
