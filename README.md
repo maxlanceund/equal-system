@@ -161,6 +161,7 @@ Equal System — 平等制
 | [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
 | [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
 | [存在性确认与性别不对称（学术版）](papers/existential-confirmation-cn.md) | [Existential Confirmation and Gender Asymmetry (Academic Version)](papers/existential-confirmation-en.md) |
+
 <br>
 <hr>
 <br>
@@ -174,7 +175,7 @@ Equal System — 平等制
 | [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
 | [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
 | [确认法（路径坐标图法）](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-en.md) |
-
+| [善，美德与正义的无定义（学术版）](papers/the-undefinability-of-goodness-virtue-and-justice-cn.md) | [The Undefinability of Goodness, Virtue, and Justice (Academic Version)](papers/the-undefinability-of-goodness-virtue-and-justice-en.md) |
 <br>
 <hr>
 <br>
