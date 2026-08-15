@@ -235,8 +235,7 @@ This directory contains those traces. No theories. No systems. No conclusions. O
 | 中文 | English |
 | :--- | :--- |
 | [痕迹 001：边界确认](—traces/—trace-001-cn.md) | [Trace 001: Boundary Confirmation](—traces/—trace-001-en.md) |
-
-
+| [痕迹 002：宇宙作为有限区间](—traces/—trace-002-cn.md) | [Trace 002: The Universe as a Finite Interval](—traces/—trace-002-en.md) |
 <br>
 <hr>
 <br>
