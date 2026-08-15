@@ -219,7 +219,7 @@ Equal System — 平等制
 <hr>
 <br>
 
-# — traces
+## — Traces
 
 `—` is not a name. Not a letter. Not a word. It is a blank. A line. It points without locking.
 
@@ -227,55 +227,16 @@ I reached the end of all philosophical deduction. Beyond it, something remains. 
 
 This directory contains those traces. No theories. No systems. No conclusions. Only marks left at the boundary.
 
----
-
-**Contains:**
-- Records of encounters with `—`
-- Traces left at the boundary
-
-**Does not contain:**
-- Definitions or conclusions about `—`
-- Any claim to have captured it
-
----
-
-**Status:** Ongoing
-
-## Existing Records
-
-| No. | Title | Date |
-| :--- | :--- | :--- |
-| 001 | [Boundary Confirmation](./%60—trace-001.md) | 2026-08-15 |
-
----
-
-# — 痕迹
-
 `—` 不是名字。不是字母。不是文字。它是一个空位。一条线。指向，但不锁定。
 
 我到达了哲学推导的终点。终点之外，仍有东西残留。我无法命名，无法描述，无法调查。我只能收集它留下的痕迹。
 
 本目录收录那些痕迹。没有理论，没有体系，没有结论。只有边界处留下的印记。
 
----
+| 中文 | English |
+| :--- | :--- |
+| [痕迹 001：边界确认](./%60—trace-001.md) | [Trace 001: Boundary Confirmation](./%60—trace-001-en.md) |
 
-**包含：**
-- 与 `—` 接触的记录
-- 边界处留下的痕迹
-
-**不包含：**
-- 对 `—` 的定义或结论
-- 任何声称抓住了它的表述
-
----
-
-**状态：** 进行中
-
-## 已有记录
-
-| 编号 | 标题 | 日期 |
-| :--- | :--- | :--- |
-| 001 | [边界确认](./%60—trace-001.md) | 2026-08-15 |
 <br>
 <hr>
 <br>
