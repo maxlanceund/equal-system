@@ -530,6 +530,6 @@ This work is licensed under the MIT License.
 
 
 <p align="right">
-<strong> My heart does not waver. </strong><br>
-<em>吾心不移</em>
+<strong> Fall of a Leaf. </strong><br>
+<em>秋之落叶</em>
 </p>
