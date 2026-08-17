@@ -63,4 +63,12 @@ Montesquieu says plants and beasts obey natural law, therefore natural law must 
 ## Ⅶ The Dual Nature of Man and the Triple Constraint
 
 A:
-As physical beings, humans are governed by invariable laws like other matter. As intelligent beings, they continually violate the laws set by God. ... Such a being may forget its creator at any moment; religion reminds them through laws. Such a being may forget itself at any moment; philosophers remind them through morality. They come into the world to live in society, but may forget others; legislators remind them through political and c
+As physical beings, humans are governed by invariable laws like other matter. As intelligent beings, they continually violate the laws set by God. ... Such a being may forget its creator at any moment; religion reminds them through laws. Such a being may forget itself at any moment; philosophers remind them through morality. They come into the world to live in society, but may forget others; legislators remind them through political and civil laws.
+
+B:
+Montesquieu says that philosophers can remind people, legislators can constrain people, and God can also remind people. But the first two are real; God is not. He places something non-existent alongside real things, pretending they are equally effective. People do need law and reminders. But those things grew out of human life itself ─ they were not given by God.
+
+
+<p align="right">── Volume I · Ⅶ entries</p>
+
+</div>
