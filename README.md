@@ -181,6 +181,16 @@ Equal System — 平等制
 <hr>
 <br>
 
+## Annotations / 注解
+
+| 中文 | English |
+| :--- | :--- |
+| [《论法的精神》注解（第一卷）](annotations/l-esprit-des-lois-annotated-cn.md) | [Annotations on *The Spirit of the Laws* (Vol. I)](annotations/l-esprit-des-lois-annotated-en.md) |
+
+<br>
+<hr>
+<br>
+
 ## Containment Records / 收容记录
 
 > 收容记录是对运行中的结构进行的三种操作：**识别**（命令体）、**观察**（哲学恐惧）、**溯源**（历史调查）。
