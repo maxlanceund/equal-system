@@ -176,6 +176,7 @@ Equal System — 平等制
 | [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
 | [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
 | [她消失在天堂门口](essays/she-disappeared-at-the-gate-of-heaven-cn.md) | [She Disappeared at the Gate of Heaven](essays/she-disappeared-at-the-gate-of-heaven-en.md) |
+| [许空](essays/xu-kong-cn.md) | [Xǔ Kōng](essays/xu-kong-en.md) |
 | [聊红楼梦](essays/on-the-dream-of-red-mansions-cn.md) | [Reflections on the Dream of Red Mansions](essays/on-the-dream-of-red-mansions-en.md) |
 | [确认法（路径坐标图法）](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-zh.md) | [Confirmation Method (Path Coordinate Map)](https://github.com/maxlanceund/equal-system/blob/main/essays/confirmation-method-en.md) |
 
