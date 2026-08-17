@@ -2,9 +2,10 @@
 
 # 《论法的精神》注解 · 第三卷
 
-**导航：[第一卷](l-esprit-des-lois-annotated-vol1-cn.md) · [第二卷](l-esprit-des-lois-annotated-vol2-cn.md) · [第三卷](l-esprit-des-lois-annotated-vol3-cn.md) · [第四卷](l-esprit-des-lois-annotated-vol4-cn.md)**
+**导航：[第一卷](l-esprit-des-lois-annotated-vol1-cn.md) / [第二卷](l-esprit-des-lois-annotated-vol2-cn.md) / [第三卷](l-esprit-des-lois-annotated-vol3-cn.md) / [第四卷](l-esprit-des-lois-annotated-vol4-cn.md)**
 
----
+<br>
+
 A 孟德斯鸠  
 B Lanceund
 
