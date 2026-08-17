@@ -2,6 +2,10 @@
 
 # Annotations on *The Spirit of the Laws* · Volume IV
 
+**Navigation: [Volume I](l-esprit-des-lois-annotated-vol1-en.md) / [Volume II](l-esprit-des-lois-annotated-vol2-en.md) / [Volume III](l-esprit-des-lois-annotated-vol3-en.md) / [Volume IV](l-esprit-des-lois-annotated-vol4-en.md)**
+
+<br>
+
 A Montesquieu  
 B Lanceund
 
