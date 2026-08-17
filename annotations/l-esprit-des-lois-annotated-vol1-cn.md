@@ -1,3 +1,7 @@
+<style>
+body { font-size: 1.05rem; line-height: 1.9; }
+</style>
+
 # 《论法的精神》注解 · 第一卷
 
 ● 孟德斯鸠  
