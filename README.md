@@ -188,6 +188,7 @@ Equal System — 平等制
 | [《论法的精神》注解（第一卷）](annotations/l-esprit-des-lois-annotated-vol1-cn.md) | [Annotations on *The Spirit of the Laws* (Vol. I)](annotations/l-esprit-des-lois-annotated-vol1-en.md) |
 | [《论法的精神》注解（第二卷）](annotations/l-esprit-des-lois-annotated-vol2-cn.md) | [Annotations on *The Spirit of the Laws* (Vol. II)](annotations/l-esprit-des-lois-annotated-vol2-en.md) |
 | [《论法的精神》注解（第三卷）](annotations/l-esprit-des-lois-annotated-vol3-cn.md) | [Annotations on *The Spirit of the Laws* (Vol. III)](annotations/l-esprit-des-lois-annotated-vol3-en.md) |
+| [《论法的精神》注解（第四卷）](annotations/l-esprit-des-lois-annotated-vol4-cn.md) | [Annotations on *The Spirit of the Laws* (Vol. IV)](annotations/l-esprit-des-lois-annotated-vol4-en.md) |
 
 <br>
 <hr>
