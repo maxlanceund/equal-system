@@ -1,8 +1,8 @@
 ---
 title: "The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media"
 author: "Lanceund, M."
-version: "2.0 (Final)"
-date: "2026-07"
+version: "3.0 (Revised)"
+date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
 license: "CC BY-NC 4.0"
 keywords: [limited-interval principle, signal competition, boundary acceleration, system structure, limit theory of meaning, formal constraints]
@@ -10,7 +10,9 @@ keywords: [limited-interval principle, signal competition, boundary acceleration
 
 # The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media
 
-> **Core Thesis**: This paper identifies a recurrent structure in language acquisition, short-video attention competition, life courses, marriage, work, death, domestic violence, wealth, and politics — input is pre-screened, signals compete within a finite time window, acceleration occurs before the boundary, and choices are already limited. This structure does not depend on specific content, only on the formal constraints of the system. This paper names it the "Limited-Interval Principle" and demonstrates why it takes the same logical form across these different domains.
+> **Core Thesis**: This paper identifies a recurrent structure in language acquisition, short-video attention competition, life courses, and institutional processes — input is pre-screened, signals compete within a finite time window, acceleration occurs before the boundary, and choices are already limited. This structure does not depend on specific content, only on the formal constraints of the system. This paper names it the "Limited-Interval Principle" and demonstrates why it takes the same logical form across these different domains.
+
+---
 
 ## Abstract
 
@@ -18,17 +20,21 @@ This paper identifies a recurrent structure in language acquisition and short-vi
 
 **Keywords**: limited-interval principle · signal competition · boundary acceleration · system structure · limit theory of meaning · formal constraints
 
+---
+
 ## Literature Positioning and Scholarly Dialogue
 
-Before proceeding to the formal analysis, it is necessary to clarify this paper's position within the existing scholarly landscape. The core observation of this paper — that finite systems present a structure of signal density increase before the boundary — engages with the following intellectual traditions:
+The core observation of this paper — that finite systems present a structure of signal density increase before the boundary — engages with the following intellectual traditions:
 
-1. **Systems theory tradition** (Luhmann, 1984): understands social systems as self-reproducing through communicative operations. This paper's concept of "signal" functionally corresponds to Luhmann's "communication," but this paper places greater emphasis on the system's **formal constraints** (finite time, finite options, finite signal capacity), rather than the system's self-referentiality.
+1. **Systems theory tradition** (Luhmann, 1984): understands social systems as self-reproducing through communicative operations. Luhmann (1984, S. 35-45) defines the system's boundary as the point where communicative connectivity ceases. This paper's concept of "finite interval" formally corresponds to Luhmann's system boundary — both refer to the termination point of system operations. However, Luhmann focuses on how systems maintain themselves through communication, rather than the pattern of signal density change as the system approaches its boundary. This paper's contribution lies in supplementing Luhmann's boundary concept with a formal description of "pre-boundary signal dynamics."
 
-2. **Archaeology of knowledge tradition** (Foucault, 1969): concerns the conditions and boundaries of discourse formation. This paper's "input pre-screened" structurally corresponds to Foucault's "rules of discourse formation" — both attend to the a priori conditions of "what can be said, seen, and chosen." However, this paper's unit of analysis is not discourse, but the formal structure shared by any finite system (language, media, life, institutions).
+2. **Archaeology of knowledge tradition** (Foucault, 1969): concerns the conditions and boundaries of discourse formation. Foucault's "rules of discourse formation" reveal the a priori conditions of "what can be said," which structurally correspond to this paper's "input pre-screened." However, this paper's unit of analysis is not discourse, but the formal structure shared by any finite system (language, media, life, institutions). This paper does not engage Foucault's specific arguments about the power-knowledge relationship, but merely aligns with his observation of "pre-filtering of input" at a structural level.
 
-3. **Philosophy of language tradition** (Wittgenstein, 1953): concerns how meaning in language games emerges from specific use. This paper's "meaning is defined only within the interval" shares the same intuition as Wittgenstein's "meaning is use" — meaning does not extend beyond the specific context in which it is produced. However, this paper further argues that this "context" itself can be formally described as a structure of four features.
+3. **Philosophy of language tradition** (Wittgenstein, 1953): concerns how meaning in language games emerges from specific use. This paper's "meaning is defined only within the interval" shares the same intuition as Wittgenstein's "meaning is use" — meaning does not extend beyond the specific context in which it is produced. However, this paper further argues that this "context" itself can be formally described as a structure of four features, and identifies its recurrence across multiple independent domains.
 
-This paper's contribution lies in integrating observations dispersed across these three traditions — system boundaries, conditions of discourse formation, and the context-dependence of meaning — into a unified formal structure, and demonstrating its recurrence across multiple independent domains.
+This paper's contribution lies in integrating observations dispersed across these three traditions — system boundaries, conditions of discourse formation, and the context-dependence of meaning — into a unified formal structure, and identifying its manifestations across multiple independent domains.
+
+---
 
 ## Theoretical Framework and Methodological Statement
 
@@ -42,7 +48,7 @@ Before proceeding, it is necessary to strictly define the core concepts used in 
 
 **Signal competition**: within a finite interval, different signals (information, attention, resources, choices) compete within limited time and capacity, and only some signals can be processed or transmitted by the system.
 
-**Boundary acceleration**: as the system approaches the boundary of the interval, if there are still unreleased signals, signal density will first rise sharply and then return to zero. Geometrically, this appears as a spike.
+**Boundary acceleration**: as the system approaches the boundary of the interval, if there are still unreleased signals, signal density will first rise sharply and then return to zero. Geometrically, this appears as a spike. (For detailed derivation, see *Boundary Acceleration*, Lanceund, 2026b.)
 
 **Options limited**: at the boundary of the interval, the available choices have already contracted to a narrower range than within the interval.
 
@@ -53,9 +59,11 @@ The methodological path adopted in this paper lies between **formal analysis** a
 The types of evidence used in this paper include:
 
 1. **Conceptual definitions**: strict definitions of core concepts such as finite interval, signal competition, and boundary acceleration.
-2. **Case descriptions**: structural descriptions of vocal cord reading, short-video algorithms, life courses, marriage, work, and other cases.
+2. **Case descriptions**: structural descriptions of vocal cord reading, short-video algorithms, life courses, and other cases.
 3. **Formal mappings**: tables demonstrating the correspondence of the four-feature structure across different cases.
 4. **Falsifiability conditions**: proposing testable conditions under which the core thesis would be falsified.
+
+---
 
 ## I. Introduction: Two Phenomena, One Structure
 
@@ -68,6 +76,8 @@ These two phenomena seem unrelated. But they share the same underlying structure
 
 This structure consists of four parts: input is pre-screened; signals compete within a finite time window; acceleration occurs before the boundary; and your choices are already limited.
 
+---
+
 ## II. Four Features
 
 **Input is pre-screened.** The text you read is not written by you — it is given. The videos you see are not the platform's entire inventory — they are ranked by an algorithm. What you can access has already been filtered by someone else.
@@ -78,6 +88,8 @@ This structure consists of four parts: input is pre-screened; signals compete wi
 
 **Your choices are already limited.** You can choose to read faster or slower, but you cannot change the text. You can choose which video to watch, but you cannot determine the composition of your feed.
 
+---
+
 ## III. Case Study 1: Vocal Cords
 
 > *My idea is simple. Equality does not mean giving everyone the same things…*
@@ -86,14 +98,15 @@ Reading this passage over two days:
 
 33s → 25s → 21s → 20s.
 
-Full data (including audio recordings) at:  
-https://github.com/maxlanceund/equal-system/tree/main/voice-journal
-
 The time decrease is not because you "memorized it." It is because your vocal cords switched from "bouncing word by word" to "gliding through the whole sentence." The system automatically found a more efficient way.
 
 In this case: the text is given (input pre-screened); two reading styles compete (upright vs flat); reading accelerates until stabilizing around 20 seconds (boundary acceleration); you can choose your reading style but not the text (options limited).
 
 Note: Chinese can be read flat, and English can be read upright. The distinction here is not that "Chinese is always upright and English is always flat," but that the vocal cords can actively choose different vocal patterns when facing different texts. The time compression process is the vocal cords converging from a high-energy mode to a low-energy mode.
+
+> **Full data (including audio recordings) at**: https://github.com/maxlanceund/equal-system/tree/main/voice-journal
+
+---
 
 ## IV. Case Study 2: Short-Video Platforms
 
@@ -105,6 +118,8 @@ In this case: the content pool is algorithmically filtered (input pre-screened);
 
 Note: This does not mean "every video has conflict in the first three seconds." It means that, across a large volume of content, higher-signal-density content is more likely to be recommended to you.
 
+---
+
 ## V. The Same Structure
 
 | Feature | Vocal Cords | Short-Video Platform |
@@ -114,18 +129,20 @@ Note: This does not mean "every video has conflict in the first three seconds." 
 | Boundary acceleration | End-of-sentence emphasis | Opening signal maximized |
 | Options limited | Choose reading style, not text | Choose video, not feed |
 
-### Extended Cases
+### Extended Observations
 
-The following cases are not metaphors — they are direct mappings of the same four-feature structure:
+The following cases are preliminary observations, not final conclusions. They suggest that this structure may hold in more domains — but this paper does not claim to have proven this.
 
-| Feature | Birth | Marriage | Work | Death | Domestic Violence | Wealth | Politics |
-|---------|-------|----------|------|-------|-------------------|--------|----------|
-| Input pre-screened | Genes, family, era, country fixed | Who you meet filtered by culture, class, geography, age | Tasks, roles, KPIs given | Lifespan, health history, medical access fixed | Upbringing, economic dependence, legal protection fixed | Initial assets, class channels fixed | Candidates and issues pre-filtered by institutions, media, interest groups |
-| Signal competition | Competition for nutrients and space in the womb | Ongoing negotiation of energy, resources, emotional security between partners | Tasks, messages, meetings compete for attention | Immune system vs pathogens, organ failure | Cycles of stability and conflict, control and resistance | Allocation of resources across consumption, investment, saving, risk | Policy issues, fiscal resources, public attention compete within limited windows |
-| Boundary acceleration | Sharp rise in contractions, heart rate, hormones before delivery | Wedding preparation sprint, or sharp escalation before breakdown | Overtime before deadlines, intensive preparation before presentations | Sharp fluctuations in heart rate, blood pressure, consciousness before death | Escalation when victim attempts to leave, or emergency mode after reporting | Wealth sprint before retirement, rapid liquidation or debt acceleration before crisis | Surge in advertising and policy promises before election day |
-| Options limited | Birthplace, nationality, initial language, family class fixed, unchangeable | Exit costs high after entry, choice range sharply narrowed | Limited task options, cannot opt out of work | Choices narrowed to accepting or refusing limited interventions | Economic dependence, social stigma, lengthy legal processes severely narrow options | Most people trapped in "labor-for-income" channel, few have access to other channels | Can choose candidates or policy options, but cannot change institutional framework or agenda setting |
+| Feature | Birth | Life Course | Institutions (Work/Wealth/Politics) | Relationships (Marriage/Domestic Violence) |
+|---------|-------|-------------|-------------------------------------|---------------------------------------------|
+| Input pre-screened | Genes, family, era, country fixed | Birth conditions, early environment, educational path fixed | Tasks, KPIs, institutional frameworks given | Who you meet filtered by culture, class, geography |
+| Signal competition | Competition for nutrients and space in the womb | Health vs disease, opportunities vs risks continuously compete | Tasks, messages, meetings compete for attention | Cycles of stability and conflict, control and resistance |
+| Boundary acceleration | Sharp rise in contractions, heart rate before delivery | Sharp changes in system functions at end of life | Signal concentration before deadlines, retirement, elections | Signal density increase before weddings or breakdowns |
+| Options limited | Birthplace, nationality, initial language fixed | Options gradually narrow with age | Limited task options, cannot opt out of work | Exit costs high, options severely narrowed |
 
-The above cases are examples, not an exhaustive list. This structure may also hold in other domains — its validity does not depend on these specific cases, but on whether the system's formal constraints satisfy the four conditions.
+The above cases are preliminary observations, not an exhaustive list. Whether this structure actually holds in these domains requires further research to test.
+
+---
 
 ## VI. Falsifiability Conditions
 
@@ -139,6 +156,8 @@ If the core thesis of this paper is to hold, it must be open to challenge — th
 
 In the cases observed so far, this structure holds. If a counterexample is found in another system, then it is not a universal structure. But to date, no counterexamples have been observed.
 
+---
+
 ## VII. Conclusion
 
 The structure identified in this paper is: input is pre-screened → signals compete within a finite time window → acceleration occurs before the boundary → your choices are already limited.
@@ -147,29 +166,37 @@ It appears across language, media, life, institutions, and relationships. It doe
 
 The universality of this structure means that: regardless of the system's content — as long as you face a finite interval, this four-step structure appears. It is not a feature of any particular culture, nor of any particular era, but a formal feature of finite systems themselves.
 
-This paper itself is written according to the same principle: short sentences, direct statements, no detours, no self-explanation — use one word fewer whenever possible.
+The structural description provided in this paper is at the formal level. It does not explain why this structure appears, nor does it answer the question of how it operates in each specific case — these are questions for future research. The contribution of this paper is to abstract this structure from concrete cases and name it the "Limited-Interval Principle," enabling subsequent research to identify it, test it, and revise it across different domains.
+
+---
 
 ## Acknowledgments
 
-This paper was completed independently by the author without external peer review. The author also served as the reviewer. All views expressed and any possible errors remain the sole responsibility of the author.
+This paper has benefited from the inspiration of the Equal System philosophical framework. All views expressed and any possible errors remain the sole responsibility of the author.
+
+---
 
 ## Data Availability Statement
 
 The voice data used in this paper (vocal cords case study) has been publicly stored in the voice-journal directory of the Equal System repository and is available for verification. Observations of short-video platforms are based on publicly observable platform phenomena and do not involve proprietary data.
 
+---
+
 ## Conflict of Interest Statement
 
 The author declares that there are no conflicts of interest that could affect the research conclusions or academic judgment of this paper. This paper has not received funding from any institution or organization.
+
+---
 
 ## References
 
 ### Equal System Series Papers
 
-1. Lanceund, M. (2026a). *The Limit Theory of Meaning: A Verifiability Framework*. Equal System Repository.
+1. Lanceund, M. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository.
 
-2. Lanceund, M. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Endpoint*. Equal System Repository.
+2. Lanceund, M. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.0). Equal System Repository.
 
-3. Lanceund, M. (2026c). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning*. Equal System Repository.
+3. Lanceund, M. (2026c). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.0). Equal System Repository.
 
 ### Voice Data
 
@@ -191,10 +218,8 @@ The core message this paper attempts to convey is: **regardless of the system's 
 
 This paper is one of the foundational papers of the **Equal System** philosophical framework. The core concept of the "Limited-Interval Principle" provides the interval structure for *The Limit Theory of Meaning*, the pre-boundary dynamic framework for *Boundary Acceleration*, and the starting point for institutional analysis in *Signal, Exchange, and System Stability*.
 
-What can be said has been said. The rest is left to silence.
-
 ---
 
 **Suggested Citation (APA format):**
 
-Lanceund, M. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Lanceund, M. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
