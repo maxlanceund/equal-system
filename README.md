@@ -212,7 +212,6 @@ Equal System — 平等制
 | 编号 / ID | 中文 | English | 类型 / Type |
 | :--- | :--- | :--- | :--- |
 | IMPERATIVE-01 | [命令体](books/containment-IMPERATIVE-01-zh.md) | [The Imperative](books/containment-IMPERATIVE-01-en.md) | Identification |
-| PHIL-01 | [哲学恐惧](books/containment-PHIL-01-zh.md) | [Philosophical Dread](books/containment-PHIL-01-en.md) | Observation |
 | HIR-01 | [历史调查报告：中国不能发展资本主义](books/investigation-HIR-01-zh.md) | [Historical Investigation: Why China Cannot Develop Capitalism](books/investigation-HIR-01-en.md) | Historical Tracing |
 
 <br>
