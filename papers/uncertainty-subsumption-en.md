@@ -122,7 +122,7 @@ Certainty is not an ontological property of the world. It is an intermediate sta
 
 ---
 
-III. Operation Ends, Certainty Is Returned
+## III. Operation Ends, Certainty Is Returned
 
 Certainty is produced for the sake of completing an operation. But once the operation is complete, certainty is no longer needed.
 
@@ -154,7 +154,7 @@ That is, the signal returns to zero at the boundary. But before returning to zer
 
 ---
 
-IV. Methodological Note: The Relationship Between Entropy and Uncertainty Subsumption
+## IV. Methodological Note: The Relationship Between Entropy and Uncertainty Subsumption
 
 Before proceeding, it is necessary to clarify a key methodological point.
 
@@ -168,7 +168,7 @@ With this clarification, we may proceed to discuss the implications of entropy w
 
 ---
 
-V. Entropy Is the Macroscopic Expression of Return
+## V. Entropy Is the Macroscopic Expression of Return
 
 The second law of thermodynamics states: the entropy of an isolated system always increases.
 
@@ -196,7 +196,7 @@ These three phases constitute a complete closed loop.
 
 ---
 
-VI. Uncertainty Subsumption: A Definition
+## VI. Uncertainty Subsumption: A Definition
 
 Uncertainty subsumption refers to precisely this process:
 
@@ -223,7 +223,7 @@ Falsifiability: The core claim of this paper can be falsified by the following c
 
 ---
 
-VII. The Observer: An Operational Definition
+## VII. The Observer: An Operational Definition
 
 In this framework, the observer is defined as any finite system capable of completing closed-loop operations, thereby producing determinate signals and registering the process of their return to uncertainty.
 
@@ -241,7 +241,7 @@ This definition avoids entanglement with philosophy of mind while remaining comp
 
 ---
 
-VIII. Conclusion: Boundary and Silence
+## VIII. Conclusion: Boundary and Silence
 
 The Limit Theory of Meaning (Lanceund, 2026a) deals with "how certainty operates within boundaries"—that is a middle-layer structure. Uncertainty Subsumption deals with "why certainty is returned"—that is the foundational structure.
 
@@ -263,25 +263,25 @@ What can be said has been said. The rest is left to silence.
 
 ---
 
-Acknowledgments
+## Acknowledgments
 
 This paper has benefited from the inspiration of the Equal System philosophical framework. All views expressed and any possible errors remain the sole responsibility of the author.
 
 ---
 
-Data Availability Statement
+## Data Availability Statement
 
 This paper is a theoretical work and does not involve the collection or analysis of empirical data. All arguments in the text can be independently verified within the framework of this paper.
 
 ---
 
-Conflict of Interest Statement
+## Conflict of Interest Statement
 
 The author declares that there are no conflicts of interest that could affect the research conclusions or academic judgment of this paper. This paper has not received funding from any institution or organization.
 
 ---
 
-References
+## References
 
 1. Atkins, P. (2018). Physical Chemistry (11th ed.). Oxford University Press.
 2. Perlmutter, S. et al. (1999). Measurements of Ω and Λ from 42 High-Redshift Supernovae. The Astrophysical Journal, 517(2): 565-586.
@@ -294,7 +294,7 @@ References
 
 ---
 
-Final Note
+## Final Note
 
 The core message this paper attempts to convey is: Certainty is not an inherent property of the world, but a temporary state drawn by finite systems from uncertainty during operation. Once the operation is complete, this state is returned to uncertainty.
 
