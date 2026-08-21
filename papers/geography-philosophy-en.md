@@ -1,6 +1,6 @@
 ---
 title: "Geography as Philosophical Constraint: A Theory of Directional Signals"
-author: "Lanceund, M."
+author: "Zhong, Er."
 version: "1.0"
 date: "2026-08-18"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -599,4 +599,4 @@ The historical data used in this paper all come from publicly available statisti
 
 ## Suggested Citation
 
-Lanceund, M. (2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er.(2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.0). Equal System Repository. https://github.com/maxlanceund/equal-system
