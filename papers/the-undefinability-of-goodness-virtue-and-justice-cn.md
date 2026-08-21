@@ -1,6 +1,6 @@
 ---
 title: "善、美德与正义的操作化描述——一种非本质主义的理解框架"
-author: "Lanceund, M."
+author: "钟二"
 version: "2.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -334,4 +334,4 @@ keywords: [善, 美德, 正义, 方向信号, 不确定性吞没, 操作化描�
 
 ## 建议引用
 
-Lanceund, M. (2026). *善、美德与正义的操作化描述——一种非本质主义的理解框架* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *善、美德与正义的操作化描述——一种非本质主义的理解框架* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
