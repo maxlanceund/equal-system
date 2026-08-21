@@ -1,6 +1,6 @@
 ---
 title: "Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy"
-author: "Lanceund, M."
+author: "Zhong, Er."
 version: "2.0 (Final)"
 date: "2026-08-12"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -379,4 +379,4 @@ What can be said has been said. The rest is silence.
 
 **Suggested Citation (APA format):**
 
-Lanceund, M. (2026). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er. (2026). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
