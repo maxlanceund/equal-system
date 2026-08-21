@@ -1,6 +1,6 @@
 ---
 title: "The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media"
-author: "Lanceund, M."
+author: "Zhong, Er."
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -222,4 +222,4 @@ This paper is one of the foundational papers of the **Equal System** philosophic
 
 **Suggested Citation (APA format):**
 
-Lanceund, M. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
