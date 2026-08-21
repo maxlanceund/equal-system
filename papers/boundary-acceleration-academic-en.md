@@ -1,6 +1,6 @@
 ---
 title: "Boundary Acceleration: Signal Compression and Release Before the Boundary"
-author: "Lanceund, M."
+author: "Zhong, Er."
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -295,4 +295,4 @@ This paper is one of the foundational papers of the **Equal System** philosophic
 
 **Suggested Citation (APA format):**
 
-Lanceund, M. (2026). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er. (2026). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
