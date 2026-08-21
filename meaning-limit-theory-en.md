@@ -1,6 +1,6 @@
 # Limit Theory of Meaning
 
-**Author**: maxlanceund  
+**Author**: Zhong, Er  
 **License**: MIT  
 **Version**: 1.0 (Revised)  
 **Date**: August 2026  
@@ -219,4 +219,3 @@ This framework is based on a personal path of thought, not on external experimen
 
 **License**: MIT  
 **Repository**: https://github.com/maxlanceund/equal-system
-```
