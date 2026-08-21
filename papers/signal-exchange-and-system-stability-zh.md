@@ -1,6 +1,6 @@
 ---
 title: "信号、交换与制度稳定性——一个基于意义极限论的私有制分析"
-author: "Lanceund, M."
+author: "钟二"
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -350,4 +350,4 @@ keywords: [信号分配, 交换连续性, 私有制, 制度稳定性, 意义极�
 
 **建议引用（APA格式）：**
 
-Lanceund, M. (2026). *信号、交换与制度稳定性——一个基于意义极限论的私有制分析* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *信号、交换与制度稳定性——一个基于意义极限论的私有制分析* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
