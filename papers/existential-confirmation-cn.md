@@ -1,6 +1,6 @@
 ---
 title: "谁是父亲？——存在性确认、性别不对称与人类亲密关系中的确定性幻想"
-author: "Lanceund, M."
+author: "钟二"
 version: "2.0 (Final)"
 date: "2026-08-12"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -378,4 +378,4 @@ keywords: [存在性确认, 性别不对称, 确认焦虑, 存在主义, 不确�
 
 **建议引用（APA格式）**：
 
-Lanceund, M. (2026). *谁是父亲？——存在性确认、性别不对称与人类亲密关系中的确定性幻想* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *谁是父亲？——存在性确认、性别不对称与人类亲密关系中的确定性幻想* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
