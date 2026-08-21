@@ -1,6 +1,6 @@
 ---
 title: "生存强制力与美国工业衰退：一种政治经济学的因果重构"
-author: "Lanceund, M."
+author: "钟二"
 version: "4.1 (Final)"
 date: "2026-08-02"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -321,4 +321,4 @@ Autor, Dorn 和 Hanson (2016) 的经典研究确实证明了中国进口冲击�
 
 **建议引用（APA格式）**：
 
-Lanceund, M. (2026). *生存强制力与美国工业衰退：一种政治经济学的因果重构* (Version 4.1). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *生存强制力与美国工业衰退：一种政治经济学的因果重构* (Version 4.1). Equal System Repository. https://github.com/maxlanceund/equal-system
