@@ -1,6 +1,6 @@
 ---
 title: "Survival Compulsion and U.S. Industrial Decline: A Political Economy Causal Reconstruction"
-author: "Lanceund, M."
+author: "Zhong, Er.."
 version: "4.1 (Final)"
 date: "2026-08-02"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -321,4 +321,4 @@ What can be said has been said. The rest is left to silence.
 
 **Suggested Citation (APA Format)**:
 
-Lanceund, M. (2026). *Survival Compulsion and U.S. Industrial Decline: A Political Economy Causal Reconstruction* (Version 4.1). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er. (2026). *Survival Compulsion and U.S. Industrial Decline: A Political Economy Causal Reconstruction* (Version 4.1). Equal System Repository. https://github.com/maxlanceund/equal-system
