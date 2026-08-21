@@ -1,6 +1,6 @@
 ---
 title: "地理哲学论"
-author: "Lanceund, M."
+author: "钟二"
 version: "6.9"
 date: "2026-08-18"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -598,5 +598,4 @@ keywords: [地理哲学, 方向信号, 生存强制力, 命令体, 系统边界,
 
 
 ## 建议引用
-
-Lanceund, M. (2026). *地理哲学论* (Version 6.9). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *地理哲学论* (Version 6.9). Equal System Repository. https://github.com/maxlanceund/equal-system
