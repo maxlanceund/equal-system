@@ -1,6 +1,6 @@
 ---
 title: "Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition"
-author: "Lanceund, M."
+author: "Zhong, Er."
 version: "1.7"
 date: "2026-08-16"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -350,4 +350,4 @@ https://github.com/maxlanceund/equal-system
 
 ## Recommended Citation
 
-Lanceund, M. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
