@@ -1,6 +1,6 @@
 ---
 title: "论意义的界限：一个可证实主义框架"
-author: "Lanceund, M."
+author: "钟二"
 version: "3.0 (Revised)"
 date: "2026年8月"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -256,9 +256,9 @@ keywords: [意义, 可证实主义, 界限, 经验区间, 闭环操作, 维特�
 
 ### Equal System 系列论文（未发表手稿，仅作内部参考）
 
-1. Lanceund, M. (2026a). *边界加速：终点前的信号压缩与释放*. Equal System Repository.
+1. 钟二. (2026a). *边界加速：终点前的信号压缩与释放*. Equal System Repository.
 
-2. Lanceund, M. (2026b). *有限区间原则：一个在生命、制度与媒介中重复出现的结构*. Equal System Repository.
+2. 钟二. (2026b). *有限区间原则：一个在生命、制度与媒介中重复出现的结构*. Equal System Repository.
 
 ### 学术文献
 
@@ -294,4 +294,4 @@ keywords: [意义, 可证实主义, 界限, 经验区间, 闭环操作, 维特�
 
 **建议引用（APA格式）：**
 
-Lanceund, M. (2026). *论意义的界限：一个可证实主义框架* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二. (2026). *论意义的界限：一个可证实主义框架* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
