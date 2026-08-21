@@ -1,6 +1,6 @@
 ---
 title: "有限区间原则：一个在生命、制度与媒介中重复出现的结构"
-author: "Lanceund, M."
+author: "钟二"
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -222,4 +222,4 @@ keywords: [有限区间原则, 信号竞争, 边界加速, 系统结构, 意义�
 
 **建议引用（APA格式）：**
 
-Lanceund, M. (2026). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
