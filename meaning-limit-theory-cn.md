@@ -1,6 +1,6 @@
 # 意义极限论
 
-**作者**：maxlanceund  
+**作者**：钟二  
 **许可证**：MIT  
 **版本**：1.0（修订版）  
 **日期**：2026年8月
@@ -206,4 +206,3 @@ $$
 
 **许可证**：MIT  
 **仓库**：https://github.com/maxlanceund/equal-system
-```
