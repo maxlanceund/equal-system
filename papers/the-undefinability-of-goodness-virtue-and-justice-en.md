@@ -1,6 +1,6 @@
 ---
 title: "An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework"
-author: "Lanceund, M."
+author: "Zhong, Er."
 version: "2.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -334,4 +334,4 @@ The author declares no conflicts of interest that could affect the research conc
 
 ## Recommended Citation
 
-Lanceund, M. (2026). *An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er. (2026). *An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
