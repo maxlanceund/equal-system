@@ -1,6 +1,6 @@
 ---
 title: "边界之外：Equal System 与哲学传统的对话"
-author: "Lanceund, M."
+author: "钟二"
 version: "1.7"
 date: "2026-08-16"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -348,4 +348,4 @@ https://github.com/maxlanceund/equal-system
 
 ## 建议引用
 
-Lanceund, M. (2026). *边界之外：Equal System 与哲学传统的对话* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *边界之外：Equal System 与哲学传统的对话* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
