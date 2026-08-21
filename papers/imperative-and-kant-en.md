@@ -1,6 +1,6 @@
 ---
 title: "The Command Body and Kant: Toward the Empirical Path to Autonomy"
-author: "Lanceund, M."
+author: "Zhong, Er"
 version: "2.0"
 date: "2026-08-07"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -201,12 +201,12 @@ Together, they form the complete picture.
 ## References
 
 1. Kant, I. (1785). *Groundwork of the Metaphysics of Morals*.
-2. Lanceund, M. (2026a). *Limit Theory of Meaning: A Verificationist Framework*. Equal System Repository.
-3. Lanceund, M. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Endpoint*. Equal System Repository.
-4. Lanceund, M. (2026c). *The Finite Interval Principle: A Structure Recurring in Life, Institutions, and Media*. Equal System Repository.
-5. Lanceund, M. (2026d). *Survival Compulsion and the Release of Meaning*. Equal System Repository.
+2. Zhong, E. (2026a). *Limit Theory of Meaning: A Verificationist Framework*. Equal System Repository.
+3. Zhong, E. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Endpoint*. Equal System Repository.
+4. Zhong, E. (2026c). *The Finite Interval Principle: A Structure Recurring in Life, Institutions, and Media*. Equal System Repository.
+5. Zhong, E. (2026d). *Survival Compulsion and the Release of Meaning*. Equal System Repository.
 
 
 **Suggested Citation**:
 
-Lanceund, M. (2026). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, E. (2026). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
