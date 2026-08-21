@@ -1,6 +1,6 @@
 ---
 title: "On the Limits of Meaning: A Verificationist Framework"
-author: "Lanceund, M."
+author: "Zhong, Er."
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -296,4 +296,4 @@ What can be said has been said. The rest is left to silence.
 
 **Suggested Citation (APA format):**
 
-Lanceund, M. (2026). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Er.(2026). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
