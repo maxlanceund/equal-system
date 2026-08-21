@@ -1,6 +1,6 @@
 ---
 title: "边界加速：终点前的信号压缩与释放"
-author: "Lanceund, M."
+author: "钟二"
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -293,4 +293,4 @@ keywords: [边界加速, 信号密度, 归零, 运动重组, 有限区间, 意�
 
 **建议引用（APA格式）：**
 
-Lanceund, M. (2026). *边界加速：终点前的信号压缩与释放* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟二 (2026). *边界加速：终点前的信号压缩与释放* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
