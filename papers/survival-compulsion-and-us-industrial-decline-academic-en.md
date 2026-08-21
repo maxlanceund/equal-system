@@ -1,6 +1,6 @@
 ---
 title: "Survival Compulsion and U.S. Industrial Decline: A Political Economy Causal Reconstruction"
-author: "Zhong, Er.."
+author: "Zhong, Er."
 version: "4.1 (Final)"
 date: "2026-08-02"
 repository: "https://github.com/maxlanceund/equal-system"
