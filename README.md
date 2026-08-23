@@ -2,9 +2,7 @@
 
 **From Survival Guarantee to the Limit of Meaning / 从生存保障到意义极限**  
 
-**Author**: Zhong Er
-
-**作者**:钟二
+**Author**: Zhong Er / 钟二
 
 **Status**: Stable 
 
