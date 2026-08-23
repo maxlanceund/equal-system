@@ -1,6 +1,6 @@
 ---
 title: "On the Limits of Meaning: A Verificationist Framework"
-author: "Zhong, Er."
+author: "Zhong Shanzhen"
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -258,9 +258,9 @@ The author declares that there are no conflicts of interest that could affect th
 
 ### Equal System Series Papers (Unpublished Manuscripts, Internal Reference Only)
 
-1. Lanceund, M. (2026a). *Boundary Acceleration: Signal Compression and Release Before the Boundary*. Equal System Repository.
+1. Zhong, Shanzhen. (2026a). *Boundary Acceleration: Signal Compression and Release Before the Boundary*. Equal System Repository.
 
-2. Lanceund, M. (2026b). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media*. Equal System Repository.
+2. Zhong, Shanzhen. (2026b). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media*. Equal System Repository.
 
 ### Academic Literature
 
@@ -296,4 +296,4 @@ What can be said has been said. The rest is left to silence.
 
 **Suggested Citation (APA format):**
 
-Zhong, Er.(2026). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
