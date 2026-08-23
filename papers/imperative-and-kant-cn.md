@@ -209,4 +209,4 @@ keywords: [命令体, 康德, 定言命令, 自律, 他律, 生存强制力, 时
 
 **建议引用**：
 
-钟二. (2026). *命令体与康德：走向自律的经验之路* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟善真. (2026). *命令体与康德：走向自律的经验之路* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
