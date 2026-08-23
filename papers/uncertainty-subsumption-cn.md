@@ -1,6 +1,6 @@
 ---
 title: "不确定性吞没：确定性的产生、锁定与释放"
-author: "钟二"
+author: "钟善真"
 version: "2.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -290,8 +290,8 @@ S = k_B \ln W
 4. Wheeler, J. A., & Zurek, W. H. (1983). 量子理论与测量. 普林斯顿大学出版社.
 5. Wittgenstein, L. (1922). 逻辑哲学论. 伦敦：Routledge.
 6. Zurek, W. H. (2003). 退相干、指针态与量子经典过渡. 现代物理评论, 75(3): 715-775.
-7. 钟二. (2026a). 意义极限论：一个可证实主义框架 (Version 3.0). Equal System Repository.
-8. 钟二. (2026b). 边界加速：终点前的信号压缩与释放 (Version 1.0). Equal System Repository.
+7. 钟善真 (2026a). 意义极限论：一个可证实主义框架 (Version 3.0). Equal System Repository.
+8. 钟善真 (2026b). 边界加速：终点前的信号压缩与释放 (Version 1.0). Equal System Repository.
 
 ---
 
@@ -307,4 +307,4 @@ S = k_B \ln W
 
 建议引用（APA格式）：
 
-钟二. (2026). 不确定性吞没：确定性的产生、锁定与释放 (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟善真 (2026). 不确定性吞没：确定性的产生、锁定与释放 (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
