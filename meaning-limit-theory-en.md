@@ -1,4 +1,3 @@
-
 ---
 title: "Limit Theory of Meaning"
 author: "Zhong Shanzhen"
