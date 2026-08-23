@@ -1,6 +1,6 @@
 ---
 title: "The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media"
-author: "Zhong, Er."
+author: "Zhong Shanzhen"
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -48,7 +48,7 @@ Before proceeding, it is necessary to strictly define the core concepts used in 
 
 **Signal competition**: within a finite interval, different signals (information, attention, resources, choices) compete within limited time and capacity, and only some signals can be processed or transmitted by the system.
 
-**Boundary acceleration**: as the system approaches the boundary of the interval, if there are still unreleased signals, signal density will first rise sharply and then return to zero. Geometrically, this appears as a spike. (For detailed derivation, see *Boundary Acceleration*, Lanceund, 2026b.)
+**Boundary acceleration**: as the system approaches the boundary of the interval, if there are still unreleased signals, signal density will first rise sharply and then return to zero. Geometrically, this appears as a spike. (For detailed derivation, see *Boundary Acceleration*, Zhong, Shanzhen, 2026b.)
 
 **Options limited**: at the boundary of the interval, the available choices have already contracted to a narrower range than within the interval.
 
@@ -192,15 +192,15 @@ The author declares that there are no conflicts of interest that could affect th
 
 ### Equal System Series Papers
 
-1. Lanceund, M. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository.
+1. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository.
 
-2. Lanceund, M. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.0). Equal System Repository.
+2. Zhong, Shanzhen. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.0). Equal System Repository.
 
-3. Lanceund, M. (2026c). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.0). Equal System Repository.
+3. Zhong, Shanzhen. (2026c). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.0). Equal System Repository.
 
 ### Voice Data
 
-4. Lanceund, M. (2026). *Phonetic Observations and Voice Journal*. Equal System Repository, /voice-journal & /hypotheses/hypothesis-001.
+4. Zhong, Shanzhen. (2026). *Phonetic Observations and Voice Journal*. Equal System Repository, /voice-journal & /hypotheses/hypothesis-001.
 
 ### Academic Literature
 
@@ -222,4 +222,4 @@ This paper is one of the foundational papers of the **Equal System** philosophic
 
 **Suggested Citation (APA format):**
 
-Zhong, Er. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
