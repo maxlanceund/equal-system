@@ -201,10 +201,10 @@ keywords: [命令体, 康德, 定言命令, 自律, 他律, 生存强制力, 时
 ## 参考文献
 
 1. 康德，伊曼努尔。《道德形而上学奠基》。1785。
-2. 钟二. (2026a). *意义极限论：一个可证实主义框架*. Equal System Repository.
-3. 钟二. (2026b). *边界加速：终点前的信号压缩与释放*. Equal System Repository.
-4. 钟二. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构*. Equal System Repository.
-5. 钟二. (2026d). *生存强制力与意义的释放*. Equal System Repository.
+2. 钟善真. (2026a). *意义极限论：一个可证实主义框架*. Equal System Repository.
+3. 钟善真. (2026b). *边界加速：终点前的信号压缩与释放*. Equal System Repository.
+4. 钟善真. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构*. Equal System Repository.
+5. 钟善真. (2026d). *生存强制力与意义的释放*. Equal System Repository.
 
 
 **建议引用**：
