@@ -1,6 +1,6 @@
 ---
 title: "Signal, Exchange, and System Stability — An Analysis of Private Property Based on the Limit Theory of Meaning"
-author: "Zhong, Er."
+author: "Zhong Shanzhen"
 version: "3.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -31,7 +31,7 @@ Hayek (1944, 1960), on the other hand, argued that private property systems have
 
 This paper does not attempt to judge "who is right" between Marx and Hayek. Their theoretical aims differ — Marx is concerned with whether the system will be replaced, Hayek with whether the system should be interfered with — while this paper is concerned with a different set of questions: what structure does the operational stability of a private property system under persistent unfairness depend on? Where does the resilience of this structure come from? What role do boundary adjustment signals play?
 
-The framework of this paper comes from the Limit Theory of Meaning (Lanceund, 2026): treating the system as a signal-exchange system and analyzing its stability structure. This framework requires neither the assumption that "unfairness necessarily leads to collapse" (Marx), nor the assumption that "the market automatically regulates everything" (Hayek). It asks only one question: **what structure does the stability of the system depend on?** This analytical level differs from both Marx and Hayek, and can be tested independently of either theoretical framework.
+The framework of this paper comes from the Limit Theory of Meaning (Zhong Shanzhen, 2026): treating the system as a signal-exchange system and analyzing its stability structure. This framework requires neither the assumption that "unfairness necessarily leads to collapse" (Marx), nor the assumption that "the market automatically regulates everything" (Hayek). It asks only one question: **what structure does the stability of the system depend on?** This analytical level differs from both Marx and Hayek, and can be tested independently of either theoretical framework.
 
 ---
 
@@ -328,7 +328,7 @@ The author declares that there are no conflicts of interest that could affect th
 
 ### Equal System Philosophical Framework
 
-- Lanceund, M. (2026). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository.
+- Zhong, Shanzhen. (2026). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository.
 
 ### Theoretical Texts
 
@@ -350,4 +350,4 @@ This paper does not critique private property, nor does it defend it. It merely 
 
 **Suggested Citation (APA format):**
 
-Zhong, Er. (2026). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
