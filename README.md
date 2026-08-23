@@ -163,6 +163,7 @@ Equal System — 平等制
 | [善，美德与正义的无定义（学术版）](papers/the-undefinability-of-goodness-virtue-and-justice-cn.md) | [The Undefinability of Goodness, Virtue, and Justice (Academic Version)](papers/the-undefinability-of-goodness-virtue-and-justice-en.md) |
 | [边界之外（学术版）](papers/Beyond-the-Boundary-academic-cn.md) | [Beyond the Boundary (Academic Version)](papers/Beyond-the-Boundary-academic-en.md) |
 | [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
+| [“国强”与“民松”之间（学术版）](papers/Guoqiang_Minsong_cn.md) | [Between a Strong Nation and Its Tired People (Academic Version)](papers/Guoqiang_Minsong_en.md) |
 <br>
 <hr>
 <br>
