@@ -1,6 +1,6 @@
 ---
 title: "边界之外：Equal System 与哲学传统的对话"
-author: "Zhong, Shanzhen"
+author: "钟善真"
 version: "1.7"
 date: "2026-08-16"
 repository: "https://github.com/maxlanceund/equal-system"
