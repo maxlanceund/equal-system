@@ -1,6 +1,6 @@
 ---
 title: "Uncertainty Subsumption: The Production, Locking, and Release of Certainty"
-author: "Zhong, Er"
+author: "Zhong Shanzhen"
 version: "2.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -289,8 +289,8 @@ The author declares that there are no conflicts of interest that could affect th
 4. Wheeler, J. A., & Zurek, W. H. (1983). Quantum Theory and Measurement. Princeton University Press.
 5. Wittgenstein, L. (1922). Tractatus Logico-Philosophicus. London: Routledge.
 6. Zurek, W. H. (2003). Decoherence, Pointer States, and the Quantum-Classical Transition. Reviews of Modern Physics, 75(3): 715-775.
-7. Zhong, E. (2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
-8. Zhong, E. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 1.0). Equal System Repository.
+7. Zhong，Shanzhen.(2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
+8. Zhong，Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 1.0). Equal System Repository.
 
 ---
 
@@ -306,4 +306,4 @@ What can be said has been said. The rest is left to silence.
 
 Suggested Citation (APA format):
 
-Zhong, E. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong，Shanzhen.(2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
