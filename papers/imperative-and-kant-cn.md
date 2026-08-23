@@ -1,6 +1,6 @@
 ---
 title: "命令体与康德：走向自律的经验之路"
-author: "钟二"
+author: "钟善真"
 version: "2.0"
 date: "2026-08-07"
 repository: "https://github.com/maxlanceund/equal-system"
