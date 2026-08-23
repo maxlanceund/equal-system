@@ -1,6 +1,6 @@
 ---
 title: "Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition"
-author: "Zhong, Er."
+author: "Zhong, Shanzhen"
 version: "1.7"
 date: "2026-08-16"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -311,16 +311,16 @@ This paper has benefited from the entire Equal System philosophical corpus of te
 All Equal System series papers are accessible via the following repository:  
 https://github.com/maxlanceund/equal-system
 
-1. Lanceund, M. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 2.0).
-2. Lanceund, M. (2026b). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 1.0).
-3. Lanceund, M. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 2.0).
-4. Lanceund, M. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 2.0).
-5. Lanceund, M. (2026e). *Signal, Exchange, and Institutional Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 1.0).
-6. Lanceund, M. (2026f). *Survival Compulsion and U.S. Industrial Decline: A Causal Reconstruction in Political Economy* (Version 4.1).
-7. Lanceund, M. (2026g). *The Undefinability of Goodness, Virtue, and Justice* (Version 1.6).
-8. Lanceund, M. (2026h). *Who Is the Father?—Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.0).
-9. Lanceund, M. (2026i). *The Command Body and Kant: Toward an Empirical Path to Autonomy* (Version 2.0).
-10. Lanceund, M. (2026j). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7).
+1. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 2.0).
+2. Zhong, Shanzhen. (2026b). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 1.0).
+3. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 2.0).
+4. Zhong, Shanzhen. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 2.0).
+5. Zhong, Shanzhen. (2026e). *Signal, Exchange, and Institutional Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 1.0).
+6. Zhong, Shanzhen. (2026f). *Survival Compulsion and U.S. Industrial Decline: A Causal Reconstruction in Political Economy* (Version 4.1).
+7. Zhong, Shanzhen. (2026g). *The Undefinability of Goodness, Virtue, and Justice* (Version 1.6).
+8. Zhong, Shanzhen. (2026h). *Who Is the Father?—Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.0).
+9. Zhong, Shanzhen. (2026i). *The Command Body and Kant: Toward an Empirical Path to Autonomy* (Version 2.0).
+10. Zhong, Shanzhen. (2026j). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7).
 
 ### Philosophical Works
 
@@ -350,4 +350,4 @@ https://github.com/maxlanceund/equal-system
 
 ## Recommended Citation
 
-Zhong, Er. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
