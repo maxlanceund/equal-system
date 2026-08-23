@@ -1,6 +1,6 @@
 ---
 title: "Geography as Philosophical Constraint: A Theory of Directional Signals"
-author: "Zhong, Er."
+author: "Zhong, Shanzhen"
 version: "1.0"
 date: "2026-08-18"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -589,14 +589,14 @@ The historical data used in this paper all come from publicly available statisti
 10. National Bureau of Statistics of China. (2020). *China Population Statistical Yearbook*.
 11. NOAA National Centers for Environmental Information. (2025). Climate Data for Scandinavia.
 12. Food and Agriculture Organization of the United Nations (FAO). (2023). *Near East Water Resources Report*.
-13. Lanceund, M. (2026a). *Uncertainty Submersion: The Production, Locking, and Release of Certainty*. Equal System Repository.
-14. Lanceund, M. (2026b). *On the Limits of Meaning: A Verifiable Framework*. Equal System Repository.
-15. Lanceund, M. (2026c). *The Finite Interval Principle: A Recurring Structure in Life, Institutions, and Media*. Equal System Repository.
-16. Lanceund, M. (2026d). *Survival Compulsion and American Industrial Decline: A Causal Reconstruction of Political Economy*. Equal System Repository.
-17. Lanceund, M. (2026e). *The Command Body and Kant: Toward an Empirical Path to Autonomy*. Equal System Repository.
-18. Lanceund, M. (2026f). *The Undefinability of Good, Virtue, and Justice*. Equal System Repository.
+13. Zhong, Shanzhen. (2026a). *Uncertainty Submersion: The Production, Locking, and Release of Certainty*. Equal System Repository.
+14. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verifiable Framework*. Equal System Repository.
+15. Zhong, Shanzhen. (2026c). *The Finite Interval Principle: A Recurring Structure in Life, Institutions, and Media*. Equal System Repository.
+16. Zhong, Shanzhen. (2026d). *Survival Compulsion and American Industrial Decline: A Causal Reconstruction of Political Economy*. Equal System Repository.
+17. Zhong, Shanzhen. (2026e). *The Command Body and Kant: Toward an Empirical Path to Autonomy*. Equal System Repository.
+18. Zhong, Shanzhen. (2026f). *The Undefinability of Good, Virtue, and Justice*. Equal System Repository.
 
 
 ## Suggested Citation
 
-Zhong, Er.(2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.0). Equal System Repository. https://github.com/maxlanceund/equal-system
