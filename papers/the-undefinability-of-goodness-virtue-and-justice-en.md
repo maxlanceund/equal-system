@@ -1,6 +1,6 @@
 ---
 title: "An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework"
-author: "Zhong, Er."
+author: "Zhong Shanzhen"
 version: "2.0 (Revised)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -26,9 +26,9 @@ This paper does not provide substantive definitions (i.e., fixed-content identif
 
 This paper's dialogue partner is G.E. Moore's core argument in *Principia Ethica* (1903): Moore argued that "good" is an indefinable, simple property, and that any attempt to define "good" in terms of other concepts commits the "naturalistic fallacy." This paper agrees with the conclusion that "good is indefinable," but differs in reasoning: Moore held that "good" is indefinable because it is a simple, non-natural property; this paper holds that "good" is indefinable because it is itself a directional signal—its content shifts with boundary conditions and cannot be fixed in any definition.
 
-This paper does not attempt to refute the natural law tradition (Aquinas, 1274) or contemporary realist positions (Boyd, 1988), as they operate at a different theoretical level: they are normative (answering "what is good"), while this paper is descriptive (answering "how goodness is identified within systems"). The contribution of this paper lies in applying the foundational framework of *Uncertainty Subsumption* (Lanceund, 2026a)—the condensation, maintenance, and subsumption of certainty from uncertainty—to the core concepts of ethics, providing an observational framework that does not depend on "the essence of goodness."
+This paper does not attempt to refute the natural law tradition (Aquinas, 1274) or contemporary realist positions (Boyd, 1988), as they operate at a different theoretical level: they are normative (answering "what is good"), while this paper is descriptive (answering "how goodness is identified within systems"). The contribution of this paper lies in applying the foundational framework of *Uncertainty Subsumption* (Zhong Shanzhen, 2026a)—the condensation, maintenance, and subsumption of certainty from uncertainty—to the core concepts of ethics, providing an observational framework that does not depend on "the essence of goodness."
 
-This paper is an **applied ethics** paper within the Equal System series. It sits above *Uncertainty Subsumption* (foundational: how certainty condenses and is submerged) (Lanceund, 2026a) and *The Limit Theory of Meaning* (middle layer: how certainty operates within boundaries) (Lanceund, 2026b), applying the foundational framework to the core concepts of ethics.
+This paper is an **applied ethics** paper within the Equal System series. It sits above *Uncertainty Subsumption* (foundational: how certainty condenses and is submerged) (Zhong Shanzhen, 2026a) and *The Limit Theory of Meaning* (middle layer: how certainty operates within boundaries) (Zhong Shanzhen, 2026b), applying the foundational framework to the core concepts of ethics.
 
 ---
 
@@ -81,7 +81,7 @@ This thesis consists of three levels:
 
 ### Methodological Statement
 
-The method adopted in this paper is a combination of **structural correspondence** and **historical observation**. Specifically, this paper does not provide new definitions, nor does it attempt to derive the content of goodness from first principles. The work of this paper is: to apply the framework of *Uncertainty Subsumption* (Lanceund, 2026a)—certainty condensing from uncertainty, being maintained, and being submerged—to the core concepts of ethics, identifying their nature as directional signals rather than objects of certainty. The historical observations in this paper are used only to demonstrate the condensation and transformation trajectories of directional signals under different boundary conditions, and do not constitute verification of any definition.
+The method adopted in this paper is a combination of **structural correspondence** and **historical observation**. Specifically, this paper does not provide new definitions, nor does it attempt to derive the content of goodness from first principles. The work of this paper is: to apply the framework of *Uncertainty Subsumption* (Zhong Shanzhen, 2026a)—certainty condensing from uncertainty, being maintained, and being submerged—to the core concepts of ethics, identifying their nature as directional signals rather than objects of certainty. The historical observations in this paper are used only to demonstrate the condensation and transformation trajectories of directional signals under different boundary conditions, and do not constitute verification of any definition.
 
 ---
 
@@ -305,7 +305,7 @@ This paper's posture is itself an operation: not locking, not defining, not pres
 
 ## Acknowledgements
 
-This paper has benefited from the foundational framework of *Uncertainty Subsumption* (Lanceund, 2026a), and from those directional signals in history that were defined and then failed. The argumentative structure of this paper has been influenced by the Equal System philosophical system. All views and possible errors are the sole responsibility of the author.
+This paper has benefited from the foundational framework of *Uncertainty Subsumption* (Zhong Shanzhen, 2026a), and from those directional signals in history that were defined and then failed. The argumentative structure of this paper has been influenced by the Equal System philosophical system. All views and possible errors are the sole responsibility of the author.
 
 ---
 
@@ -325,8 +325,8 @@ The author declares no conflicts of interest that could affect the research conc
 
 1. Aquinas, T. (1274). *Summa Theologiae*.
 2. Boyd, R. (1988). "How to Be a Moral Realist." In *Essays on Moral Realism*, ed. G. Sayre-McCord. Ithaca: Cornell University Press.
-3. Lanceund, M. (2026a). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.0). Equal System Repository.
-4. Lanceund, M. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository.
+3. Zhong, Shanzhen. (2026a). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.0). Equal System Repository.
+4. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 3.0). Equal System Repository.
 5. Moore, G. E. (1903). *Principia Ethica*. Cambridge: Cambridge University Press.
 6. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*. London: Routledge.
 
@@ -334,4 +334,4 @@ The author declares no conflicts of interest that could affect the research conc
 
 ## Recommended Citation
 
-Zhong, Er. (2026). *An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
