@@ -1,6 +1,6 @@
 ---
 title: "边界之外：Equal System 与哲学传统的对话"
-author: "Zhong Shanzhen"
+author: "Zhong, Shanzhen"
 version: "1.7"
 date: "2026-08-16"
 repository: "https://github.com/maxlanceund/equal-system"
@@ -311,16 +311,16 @@ Equal System 不是哲学史的下一个答案。它是"定义善的游戏"的�
 所有 Equal System 系列论文均可通过以下仓库访问：  
 https://github.com/maxlanceund/equal-system
 
-1. Zhong, Shanzhen. (2026a). *论意义的界限：一个可证实主义框架* (Version 2.0).
-2. Zhong, Shanzhen. (2026b). *不确定性吞没：确定性的产生、锁定与释放* (Version 1.0).
-3. Zhong, Shanzhen. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 2.0).
-4. Zhong, Shanzhen. (2026d). *边界加速：终点前的信号压缩与释放* (Version 2.0).
-5. Zhong, Shanzhen. (2026e). *信号、交换与制度稳定性——一个基于意义极限论的私有制分析* (Version 1.0).
-6. Zhong, Shanzhen. (2026f). *生存强制力与美国工业衰退：一种政治经济学的因果重构* (Version 4.1).
-7. Zhong, Shanzhen. (2026g). *善、美德与正义的无定义* (Version 1.6).
-8. Zhong, Shanzhen. (2026h). *谁是父亲？——存在性确认、性别不对称与人类亲密关系中的确定性幻想* (Version 2.0).
-9. Zhong, Shanzhen. (2026i). *命令体与康德：走向自律的经验之路* (Version 2.0).
-10. Zhong, Shanzhen. (2026j). *边界之外：Equal System 与哲学传统的对话* (Version 1.7).
+1. 钟善真. (2026a). *论意义的界限：一个可证实主义框架* (Version 2.0).
+2. 钟善真. (2026b). *不确定性吞没：确定性的产生、锁定与释放* (Version 1.0).
+3. 钟善真. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 2.0).
+4. 钟善真. (2026d). *边界加速：终点前的信号压缩与释放* (Version 2.0).
+5. 钟善真. (2026e). *信号、交换与制度稳定性——一个基于意义极限论的私有制分析* (Version 1.0).
+6. 钟善真. (2026f). *生存强制力与美国工业衰退：一种政治经济学的因果重构* (Version 4.1).
+7. 钟善真. (2026g). *善、美德与正义的无定义* (Version 1.6).
+8. 钟善真. (2026h). *谁是父亲？——存在性确认、性别不对称与人类亲密关系中的确定性幻想* (Version 2.0).
+9. 钟善真. (2026i). *命令体与康德：走向自律的经验之路* (Version 2.0).
+10. 钟善真. (2026j). *边界之外：Equal System 与哲学传统的对话* (Version 1.7).
 
 ### 哲学原著
 
@@ -348,4 +348,4 @@ https://github.com/maxlanceund/equal-system
 
 ## 建议引用
 
-Zhong, Shanzhen. (2026). *边界之外：Equal System 与哲学传统的对话* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟善真. (2026). *边界之外：Equal System 与哲学传统的对话* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
