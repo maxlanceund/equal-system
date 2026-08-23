@@ -545,7 +545,4 @@ This work is licensed under the MIT License.
 <br>
 
 
-<p align="right">
-<strong> Fall of a Leaf. </strong><br>
-<em>秋之落叶</em>
-</p>
+
