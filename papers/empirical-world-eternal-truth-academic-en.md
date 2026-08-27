@@ -146,6 +146,8 @@ This paper's response is layered:
 
 ## I. Introduction: Empirical World, Eternal Truth — That Comma
 
+Every day, the sun rises — in everyday life, we see the process of the sun rising. And this is true, without a doubt. In physics, this is called the rotation of the Earth. In phenomenology, this is called phenomenological intuition. They all constitute truths of this world — truths of the empirical world. But if they are all correct, why do they present three different cross-sections?
+
 In everyday language, "truth" and "eternal" are frequently bound together. "Eternal truth"—the phrase sounds solemn, profound, as if pointing to something unchanging beyond time. Throughout the history of philosophy, countless systems have attempted to fill this phrase with content: Plato's Forms, the Christian God, Hegel's Absolute Spirit, and various versions of "historical laws."
 
 But when we turn our gaze from the history of philosophy to everyday cognition—consider a concrete empirical proposition such as "water boils at 100 degrees Celsius under standard atmospheric pressure"—how do we judge that it is "eternally" true? Can we, in the present, complete the verification of "eternal"?
