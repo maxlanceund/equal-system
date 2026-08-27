@@ -164,7 +164,7 @@ Equal System — 平等制
 | [边界之外（学术版）](papers/Beyond-the-Boundary-academic-cn.md) | [Beyond the Boundary (Academic Version)](papers/Beyond-the-Boundary-academic-en.md) |
 | [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
 | [国强与民松（学术版）](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong (Academic Version)](papers/Guoqiang_Minsong_en.md) |
-| [经验世界，永恒真理 （学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
+| [经验世界，永恒真理  （学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
 <br>
 <hr>
 <br>
