@@ -142,6 +142,26 @@ This paper's response is layered:
 
 **Scope Statement**: The conclusions of this paper apply only to the "eternal" assertion of empirical synthetic propositions in their temporal dimension. They do not apply to analytic truths of logic and mathematics. The argument depends on the epistemological premise that "decidability is a necessary condition for cognitive accessibility"; if that premise is rejected, the conclusions do not apply.
 
+### Note: The Basic Structure of the World
+
+Before entering the argument on verification procedures, it is necessary to first establish the basic structure of "this world" — it is constituted by two attributes: change and changelessness.
+
+I have identified four possible combinatorial states:
+
+| No. | State | Nature |
+| :--- | :--- | :--- |
+| 1 | Change only | Pure flux, no constancy |
+| 2 | Changelessness only | Pure constancy, no flux |
+| 3 | Both change and changelessness | The actual state of the empirical world |
+| 4 | Neither change nor changelessness | Unknowable, indistinguishable, unverifiable |
+
+The fourth state — neither change nor changelessness — is definable in logic but inaccessible in experience. It does not fall within the domain of the empirical world. Only in this state could "eternal truth" possibly exist, because no accessible verification procedure can enter this state. The empirical world (i.e., the third state) cannot accommodate the super-empirical attribute of "eternal truth."
+
+Therefore, the undecidability of "eternal truth" in the empirical world — which this paper argues — has its foundation in this: the basic structure of the empirical world does not support the existence of such an attribute. This is not a problem of verification procedures; this is a problem of the structure of the world.
+
+> This note is supplementary and does not affect the independence of the main argument. The reader may skip this note and proceed directly to the main text without loss of comprehension.
+
+
 ---
 
 ## I. Introduction: Empirical World, Eternal Truth — That Comma
