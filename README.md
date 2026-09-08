@@ -154,8 +154,8 @@ Equal System — 平等制
 | 中文 | English |
 | :--- | :--- |
 | [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
-| [不确定性吞没（学术版）](papers/uncertainty-subsumption-cn.md) | [Uncertainty Subsumption (Academic Version)](papers/uncertainty-subsumption-en.md) |
 | [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
+| [不确定性吞没（学术版）](papers/uncertainty-subsumption-cn.md) | [Uncertainty Subsumption (Academic Version)](papers/uncertainty-subsumption-en.md) |
 | [信号、交换与制度稳定性（学术版）](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability (Academic Version)](papers/signal-exchange-and-system-stability-en.md) |
 | [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
 | [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
