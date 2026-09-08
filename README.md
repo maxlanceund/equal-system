@@ -176,7 +176,6 @@ Equal System — 平等制
 
 | 中文 | English |
 | :--- | :--- |
-| [真理永恒的推导过程](https://github.com/maxlanceund/equal-system/blob/main/essays/the-road-to-meaning-cn.md) | [The Derivation Process of Eternal Truth](https://github.com/maxlanceund/equal-system/blob/main/essays/the-road-to-meaning-en.md) |
 | [论死亡与生命](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-cn.md) | [On Death and Life](https://github.com/maxlanceund/equal-system/blob/main/essays/death-and-life-en.md) |
 | [哲学的边界](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-zh.md) | [The Boundary of Philosophy](https://github.com/maxlanceund/equal-system/blob/main/essays/language-philosophy-boundary-en.md) |
 | [她消失在天堂门口](essays/she-disappeared-at-the-gate-of-heaven-cn.md) | [She Disappeared at the Gate of Heaven](essays/she-disappeared-at-the-gate-of-heaven-en.md) |
