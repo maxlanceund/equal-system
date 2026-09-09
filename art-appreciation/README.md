@@ -29,13 +29,12 @@ Everything happens as perception arrives.
 | [拉斐尔 · 作品排名（中文）](./raphael-cn.md) | [Raphael · Works Ranking (English)](./raphael-en.md) |
 | [安格尔 · 作品排名（中文）](./ingres-cn.md) | [Ingres · Works Ranking (English)](./ingres-en.md) |
 
-
 ## Self-Portrait / 自画像
 
 | 中文 | English |
 |------|---------|
-| [自画像 ](./self-portrait-cn.md) | [Self-Portrait ](./self-portrait-en.md) |
-
+| [自画像 ①](./self-portrait-cn.md) | [Self-Portrait ①](./self-portrait-en.md) |
+| [自画像 ②](./self-portrait-2-cn.md) | [Self-Portrait ②](./self-portrait-2-en.md) |
 ---
 
 <br>
