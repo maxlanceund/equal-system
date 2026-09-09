@@ -167,7 +167,7 @@ Equal System — 平等制
 | [紧绷即底气（学术版）](papers/paper_resilience_zh.md) | [Resilience in Tension (Academic Version)](papers/paper_resilience_en.md) |
 | [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
 | [经验世界，永恒真理（学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
-
+| [拒绝哲学论（学术版）](papers/The_Philosophy_of_Refusal-cn.md) | [The Philosophy of Refusal (Academic Version)](papers/The_Philosophy_of_Refusal-en.md) |
 <br>
 <hr>
 <br>
