@@ -1,23 +1,5 @@
 # Equal System  /  平等制
 
-> **Current Status Statement (September 10, 2026)**
->
-> The "Equal System" philosophical framework in this repository is undergoing a fundamental theoretical revision.
->
-> After prolonged reflection, the author has come to recognize: "Equal System" is not a realizable institutional blueprint, but an idealistic illusion. It attempted to exchange "guaranteed survival" for capital's self-restraint, but capital logic will not permit "shared survival" to exist.
->
-> This repository retains the name "Equal System" as a form of self-mockery and reminder of the author's earlier presumptuousness. The papers, manifestos, and institutional designs in this repository should not be understood as completed theory, but as an ongoing process of self-criticism.
->
-> ---
->
-> **当前状态声明（2026年9月10日）**
->
-> 本仓库的“平等制哲学体系”正在经历一次根本性的理论修正。
->
-> 经过长期推演，作者已认识到：“平等制”不是一个可以落地的制度蓝图，而是一个理想主义幻觉。它试图用“生存保障”换取资本的自我约束，但资本逻辑不会允许“生存共有”存在。
->
-> 本仓库保留“平等制”这一名称，作为对作者本人早年自以为是的一种自嘲与提醒。仓库中的论文、宣言与制度设计，不应被理解为已完成的理论，而应被理解为一次正在进行的自我批评过程。
-
 <br>
 
 **Philosophical Origin / 哲学起点**  
@@ -33,6 +15,27 @@
 
 <br>
 
+---
+
+**Current Status Statement (September 10, 2026)**
+
+The "Equal System" philosophical framework in this repository is undergoing a fundamental theoretical revision.
+
+After prolonged reflection, the author has come to recognize: "Equal System" is not a realizable institutional blueprint, but an idealistic illusion. It attempted to exchange "guaranteed survival" for capital's self-restraint, but capital logic will not permit "shared survival" to exist.
+
+This repository retains the name "Equal System" as a form of self-mockery and reminder of the author's earlier presumptuousness. The papers, manifestos, and institutional designs in this repository should not be understood as completed theory, but as an ongoing process of self-criticism.
+
+---
+
+**当前状态声明（2026年9月10日）**
+
+本仓库的“平等制哲学体系”正在经历一次根本性的理论修正。
+
+经过长期推演，作者已认识到：“平等制”不是一个可以落地的制度蓝图，而是一个理想主义幻觉。它试图用“生存保障”换取资本的自我约束，但资本逻辑不会允许“生存共有”存在。
+
+本仓库保留“平等制”这一名称，作为对作者本人早年自以为是的一种自嘲与提醒。仓库中的论文、宣言与制度设计，不应被理解为已完成的理论，而应被理解为一次正在进行的自我批评过程。
+
+---
 
 <br>
 
