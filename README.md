@@ -19,21 +19,25 @@
 
 **Current Status Statement (September 10, 2026)**
 
-The "Equal System" philosophical framework in this repository is undergoing a fundamental theoretical revision.
+The academic papers and philosophical derivations in this repository remain valid.
 
-After prolonged reflection, the author has come to recognize: "Equal System" is not a realizable institutional blueprint, but an idealistic illusion. It attempted to exchange "guaranteed survival" for capital's self-restraint, but capital logic will not permit "shared survival" to exist.
+However, two documents are hereby declared obsolete: *The Equal System Manifesto* and *The Equal System Design*. They were written during a period when the author believed "Equal System" could be realized as an institutional blueprint. That belief has since been recognized as an idealistic illusion.
 
-This repository retains the name "Equal System" as a form of self-mockery and reminder of the author's earlier presumptuousness. The papers, manifestos, and institutional designs in this repository should not be understood as completed theory, but as an ongoing process of self-criticism.
+"Equal System" attempted to exchange "guaranteed survival" for capital's self-restraint, but capital logic will not permit "shared survival" to exist. The author no longer holds this position.
+
+This repository retains the name "Equal System" as a form of self-mockery and reminder. All other philosophical and academic work in this repository is unaffected by this revision.
 
 ---
 
 **当前状态声明（2026年9月10日）**
 
-本仓库的“平等制哲学体系”正在经历一次根本性的理论修正。
+本仓库中的学术论文与哲学推导，均无问题，继续有效。
 
-经过长期推演，作者已认识到：“平等制”不是一个可以落地的制度蓝图，而是一个理想主义幻觉。它试图用“生存保障”换取资本的自我约束，但资本逻辑不会允许“生存共有”存在。
+但有两篇文章在此宣布作废：《平等制宣言》与《平等制设计》。它们写作于作者相信“平等制”可以落地为制度蓝图的时期。这个信念，现已被认定为理想主义幻觉。
 
-本仓库保留“平等制”这一名称，作为对作者本人早年自以为是的一种自嘲与提醒。仓库中的论文、宣言与制度设计，不应被理解为已完成的理论，而应被理解为一次正在进行的自我批评过程。
+“平等制”曾试图用“生存保障”换取资本的自我约束，但资本逻辑不会允许“生存共有”存在。作者不再持有这一立场。
+
+本仓库保留“平等制”这一名称，作为对作者本人早期自以为是的一种自嘲与提醒。仓库中所有其他的哲学与学术工作，不受本次修正影响。
 
 ---
 
