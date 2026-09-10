@@ -27,7 +27,7 @@
 >
 > This repository retains the name "Equal System" as a form of self-mockery and reminder. All other philosophical and academic work in this repository is unaffected by this revision.
 
----
+
 
 **当前状态声明（2026年9月10日）**
 
