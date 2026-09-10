@@ -23,6 +23,19 @@ This paper, drawing from the framework of the Limit Theory of Meaning, defines t
 
 ---
 
+## Theoretical Positioning Statement 
+
+This paper does not claim to surpass Marx. It operates within Marx's framework.
+
+Marx answered: why capitalism must eventually perish.
+This paper attempts to answer: why capitalism has not yet perished, and under what conditions it will.
+
+The two questions are not opposed. They are two links in the same chain. The "signal-exchange" framework used here—continuity of exchange, signal distribution, peripheral nodes, adjustment signals—is a restatement, in more modern language, of a mechanism Marx had already identified: capital survives by sustaining the continuity of exchange, and when it itself breaks that continuity, Marx returns to the foreground.
+
+This paper is not a refutation of Marx. It is a brick laid beneath his edifice.
+
+---
+
 ## Literature Positioning: Why a Signal-Exchange Framework?
 
 Marx (1867) advanced a classic thesis in *Capital*: the internal unfairness of private property would eventually lead to structural collapse of the system, to be replaced by a higher form of social organization. This thesis has been tested in multiple institutional experiments throughout the 20th century — but the results do not uniformly support Marx's prediction. Some private property systems (e.g., the Nordic welfare states) have maintained long-term stability while preserving the core structure of private property, by releasing adjustment signals (high taxes, high welfare) — they did not move toward collapse as Marx predicted.
