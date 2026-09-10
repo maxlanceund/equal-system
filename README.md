@@ -19,25 +19,25 @@
 
 **Current Status Statement (September 10, 2026)**
 
-> The academic papers and philosophical derivations in this repository remain valid.
+The academic papers and philosophical derivations in this repository remain valid.
 
-> However, two documents are hereby declared obsolete: *The Equal System Manifesto* and *The Equal System Design*. They were written during a period when the author believed "Equal System" could be realized as an institutional blueprint. That belief has since been recognized as an idealistic illusion.
+However, two documents are hereby declared obsolete: *The Equal System Manifesto* and *The Equal System Design*. They were written during a period when the author believed "Equal System" could be realized as an institutional blueprint. That belief has since been recognized as an idealistic illusion.
 
-> "Equal System" attempted to exchange "guaranteed survival" for capital's self-restraint, but capital logic will not permit "shared survival" to exist. The author no longer holds this position.
+"Equal System" attempted to exchange "guaranteed survival" for capital's self-restraint, but capital logic will not permit "shared survival" to exist. The author no longer holds this position.
 
-> This repository retains the name "Equal System" as a form of self-mockery and reminder. All other philosophical and academic work in this repository is unaffected by this revision.
+This repository retains the name "Equal System" as a form of self-mockery and reminder. All other philosophical and academic work in this repository is unaffected by this revision.
 
 
 
 **当前状态声明（2026年9月10日）**
 
-> 本仓库中的学术论文与哲学推导，均无问题，继续有效。
+本仓库中的学术论文与哲学推导，均无问题，继续有效。
 
-> 但有两篇文章在此宣布作废：《平等制宣言》与《平等制设计》。它们写作于作者相信“平等制”可以落地为制度蓝图的时期。这个信念，现已被认定为理想主义幻觉。
+但有两篇文章在此宣布作废：《平等制宣言》与《平等制设计》。它们写作于作者相信“平等制”可以落地为制度蓝图的时期。这个信念，现已被认定为理想主义幻觉。
 
-> “平等制”曾试图用“生存保障”换取资本的自我约束，但资本逻辑不会允许“生存共有”存在。作者不再持有这一立场。
+“平等制”曾试图用“生存保障”换取资本的自我约束，但资本逻辑不会允许“生存共有”存在。作者不再持有这一立场。
 
-> 本仓库保留“平等制”这一名称，作为对作者本人早期自以为是的一种自嘲与提醒。仓库中所有其他的哲学与学术工作，不受本次修正影响。
+本仓库保留“平等制”这一名称，作为对作者本人早期自以为是的一种自嘲与提醒。仓库中所有其他的哲学与学术工作，不受本次修正影响。
 
 
 <br>
