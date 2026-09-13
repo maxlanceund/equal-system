@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Subsumption: The Production, Locking, and Release of Certainty"
 author: "Zhong Shanzhen"
-version: "2.0 (Revised)"
+version: "2.1 (Sharpened)"
 date: "2026-08"
 repository: "https://github.com/maxlanceund/equal-system"
 license: "CC BY-NC 4.0"
@@ -24,19 +24,15 @@ Certainty is the exception, not the default. Physics has shown across three scal
 
 ## Literature Positioning and Scholarly Dialogue
 
-Before proceeding to the formal analysis, it is necessary to clarify this paper's position within the existing scholarly landscape.
+On the origin and destination of certainty, the existing literature primarily contains two paths. **The physics path** (thermodynamics, quantum mechanics, cosmology) describes the inevitable evolution of determinate structures toward indeterminacy (Atkins, 2018; Wheeler & Zurek, 1983; Perlmutter et al., 1999; Riess et al., 1998). **The philosophy path** (epistemology, phenomenology, philosophy of language) tends to treat "uncertainty" as a cognitive defect rather than as the world's foundational state.
 
-On the origin and destination of certainty, the existing literature primarily contains two paths:
+Wittgenstein, in the *Tractatus Logico-Philosophicus* (1922), drew a boundary between what can be said and what cannot be said, but he did not explain why the boundary exists. This paper does not attempt to answer him; it only describes, at the operational level, a similar structure: the boundary is not the end of logic, but the position where certainty is returned to uncertainty.
 
-1. **The physics path** (thermodynamics, quantum mechanics, cosmology): The second law of thermodynamics describes the inevitable evolution of determinate structures toward indeterminacy (Atkins, 2018, Ch. 3); quantum decoherence describes how superpositions produce observational certainty through interaction with the environment, and how that certainty is then returned to indeterminacy (Wheeler & Zurek, 1983; Zurek, 2003); dark matter and dark energy in cosmology indicate that observable, determinate matter constitutes only a small fraction of the universe's total mass-energy (Perlmutter et al., 1999; Riess et al., 1998)—the vast majority consists of invisible components. This is not certainty being returned, but certainty never having been locked in.
+The contribution of this paper lies in integrating structures already confirmed by physics—entropy increase, decoherence, dark energy dominance—into a unified philosophical description, named "uncertainty subsumption." Certainty is not an achievement of cognition, but a product of operation; uncertainty is not a failure of cognition, but the default state.
 
-2. **The philosophy path** (epistemology, phenomenology, philosophy of language): From Kant's epistemological framework to Wittgenstein's linguistic boundaries, philosophy has persistently asked: "How do we know what we know?" But the philosophical tradition has tended to treat "uncertainty" as a cognitive defect rather than as the world's foundational state.
+**Key Logical Position**: This paper does not treat physics as a judge, nor as a prey. Physics is a manifestation of the same structure at the physical level. It likewise requires maintenance and has boundaries, and therefore likewise falls within the range of uncertainty subsumption. This applies to this paper itself as well.
 
-Wittgenstein, in the *Tractatus Logico-Philosophicus* (1922), drew a boundary between what can be said and what cannot be said—propositions can describe facts, but ethics, aesthetics, and meaning itself fall outside that boundary, consigned to silence. But he did not explain why the boundary exists. He stopped at "must remain silent," without asking further: after silence, what is the boundary itself? The "uncertainty subsumption" framework proposed in this paper can answer this question: the boundary is not the end of logic, but the position where certainty is returned to uncertainty. Wittgenstein's "silence" is not the end, but the zeroing of signal at the boundary.
-
-The contribution of this paper lies in integrating structures already confirmed by physics—entropy increase, decoherence, dark energy dominance—into a unified philosophical description, named "uncertainty subsumption." It argues that certainty is not an achievement of cognition, but a product of operation; uncertainty is not a failure of cognition, but the default state.
-
-This paper is the **foundational structure** paper of the Equal System series. It sits beneath *The Limit Theory of Meaning* (middle layer: how certainty operates within boundaries) (Zhong, 2026a) and *Boundary Acceleration* (middle layer: the dynamics of certainty's release) (Zhong, 2026b), providing them with a physical-philosophical foundation.
+This paper is the **foundational structure** paper of the Equal System series, providing a physical-philosophical foundation for *The Limit Theory of Meaning* (Zhong, 2026a) and *Boundary Acceleration* (Zhong, 2026b).
 
 ---
 
@@ -140,9 +136,9 @@ Formally, the second law of thermodynamics can be stated as: the entropy change 
 
 where S is the system's entropy. The equality corresponds to reversible processes (an idealized limit), and the inequality corresponds to irreversible processes—that is, all real processes (Atkins, 2018, Ch. 3). This inequality expresses the inevitable direction of certainty's return: once certainty is produced, unless it is continuously maintained by external operation, it will be returned to uncertainty.
 
-The boundary is that position—the position where certainty must be returned. The Limit Theory of Meaning (Zhong, 2026a) describes how certainty operates within boundaries: it is defined within the interval and returns to zero at the boundary. But The Limit Theory of Meaning did not explain "why it must return to zero." The answer is here: because the nature of certainty is temporary. It is not "destroyed," but "returned."
+The boundary is that position—the position where certainty must be returned. *The Limit Theory of Meaning* (Zhong, 2026a) describes how certainty operates within boundaries: it is defined within the interval and returns to zero at the boundary. But *The Limit Theory of Meaning* did not explain "why it must return to zero." The answer is here: because the nature of certainty is temporary. It is not "destroyed," but "returned."
 
-Boundary Acceleration (Zhong, 2026b) describes the increase in signal density before certainty is returned. Let D(t) be the signal density (the amount of identifiable signal carried by the system at time t), and T be the boundary time. Then:
+*Boundary Acceleration* (Zhong, 2026b) describes the increase in signal density before certainty is returned. Let D(t) be the signal density (the amount of identifiable signal carried by the system at time t), and T be the boundary time. Then:
 
 ```math
 D(T) = 0
@@ -150,7 +146,7 @@ D(T) = 0
 
 (Equation 4)
 
-That is, the signal returns to zero at the boundary. But before returning to zero, signal density undergoes a sharp increase—this is the dynamic process that certainty must pass through before being returned at the boundary. Not because it is "struggling," but because it must complete its return within a finite window. (For detailed derivation, see Boundary Acceleration, Section III.)
+That is, the signal returns to zero at the boundary. But before returning to zero, signal density undergoes a sharp increase—this is the dynamic process that certainty must pass through before being returned at the boundary. Not because it is "struggling," but because it must complete its return within a finite window. (For detailed derivation, see *Boundary Acceleration*, Section III.)
 
 ---
 
@@ -227,7 +223,7 @@ Falsifiability: The core claim of this paper can be falsified by the following c
 
 In this framework, the observer is defined as any finite system capable of completing closed-loop operations, thereby producing determinate signals and registering the process of their return to uncertainty.
 
-The observer is not a "person," nor is it "consciousness"—it may be a measuring apparatus, a biological organism, or any system satisfying the closed-loop definition. The "measuring apparatus" in quantum mechanics (Wheeler & Zurek, 1983) is an instance of an observer; the "finite system" defined in The Limit Theory of Meaning (Zhong, 2026a) is another instance.
+The observer is not a "person," nor is it "consciousness"—it may be a measuring apparatus, a biological organism, or any system satisfying the closed-loop definition. The "measuring apparatus" in quantum mechanics (Wheeler & Zurek, 1983) is an instance of an observer; the "finite system" defined in *The Limit Theory of Meaning* (Zhong, 2026a) is another instance.
 
 The observer's key properties are:
 
@@ -243,23 +239,9 @@ This definition avoids entanglement with philosophy of mind while remaining comp
 
 ## VIII. Conclusion: Boundary and Silence
 
-The Limit Theory of Meaning (Zhong, 2026a) deals with "how certainty operates within boundaries"—that is a middle-layer structure. Uncertainty Subsumption deals with "why certainty is returned"—that is the foundational structure.
+*The Limit Theory of Meaning* deals with "how certainty operates within boundaries"—that is the middle layer. *Uncertainty Subsumption* deals with "why certainty is returned"—that is the foundation. The boundary is not arbitrarily drawn, but is the position where certainty must be returned.
 
-The two are not contradictory, but operate at different levels. The foundational structure explains why the middle-layer structure must have boundaries. The "return to zero" in The Limit Theory of Meaning is not a sudden disappearance, but the moment when certainty is returned to uncertainty. The boundary is where certainty must be returned, not an arbitrary endpoint. The connection lies in the concept of "boundary" in The Limit Theory of Meaning: the boundary is not arbitrarily drawn, but is the position where certainty must be returned. Without uncertainty subsumption, boundaries would not need to exist.
-
-Thus, this paper provides the physical foundation for The Limit Theory of Meaning: the boundary is not accidental, but a necessity of the direction of entropy increase.
-
-However, this derivation, in completing its own construction, unavoidably touches upon a boundary question it cannot resolve: if all certainty is drawn from uncertainty, then who or what performed the first drawing—the operation by which the universe drew the first certainty from uncertainty at t = 0?
-
-This paper has no answer to this question. But a crucial logical distinction must be made here:
-
-"I have no answer" is not a dissolution of the question, nor is it a silent presupposition of some "trigger" beyond the question. It is merely an honest boundary marking: this question lies outside the range of this framework.
-
-The very formulation "the first drawing" already presupposes that "drawing" is an event with a traceable origin—and that presupposition is itself a determinate assertion. This framework does not address questions outside itself. I therefore leave it beyond the boundary: undefined, unlocked, unreturned.
-
-"Uncertainty Subsumption" completes its final operation here: it describes the full cycle of certainty's production, locking, and return—and then, at the boundary, recognizes itself as one more drawn form of certainty. This paper itself is a temporary drawing. It will eventually be forgotten, reclaimed by entropy increase, subsumed by uncertainty. But within its finite interval, it accurately described the structure in which it found itself.
-
-What can be said has been said. The rest is left to silence.
+Physics is not the core of this paper. The core of this paper is: we can never be certain whether our own certainty is certain. Because uncertainty is the true foundation of the world. It is stripping away all certainty—stripping away what we call physics, stripping away what we call everything. All. Without exception.
 
 ---
 
@@ -289,8 +271,8 @@ The author declares that there are no conflicts of interest that could affect th
 4. Wheeler, J. A., & Zurek, W. H. (1983). Quantum Theory and Measurement. Princeton University Press.
 5. Wittgenstein, L. (1922). Tractatus Logico-Philosophicus. London: Routledge.
 6. Zurek, W. H. (2003). Decoherence, Pointer States, and the Quantum-Classical Transition. Reviews of Modern Physics, 75(3): 715-775.
-7. Zhong，Shanzhen.(2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
-8. Zhong，Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 1.0). Equal System Repository.
+7. Zhong, Shanzhen. (2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
+8. Zhong, Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 1.0). Equal System Repository.
 
 ---
 
@@ -298,7 +280,7 @@ The author declares that there are no conflicts of interest that could affect th
 
 The core message this paper attempts to convey is: Certainty is not an inherent property of the world, but a temporary state drawn by finite systems from uncertainty during operation. Once the operation is complete, this state is returned to uncertainty.
 
-This paper is the foundational structure paper of the Equal System philosophical framework, providing the physical-philosophical foundation for The Limit Theory of Meaning and Boundary Acceleration. It answers the question "Why must certainty return to zero?" and points out that the boundary is not arbitrary, but a necessity of the direction of entropy increase.
+This paper is the foundational structure paper of the Equal System philosophical framework, providing the physical-philosophical foundation for *The Limit Theory of Meaning* and *Boundary Acceleration*. It answers the question "Why must certainty return to zero?" and points out that the boundary is not arbitrary, but a necessity of the direction of entropy increase.
 
 What can be said has been said. The rest is left to silence.
 
@@ -306,4 +288,4 @@ What can be said has been said. The rest is left to silence.
 
 Suggested Citation (APA format):
 
-Zhong，Shanzhen.(2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.1). Equal System Repository. https://github.com/maxlanceund/equal-system
