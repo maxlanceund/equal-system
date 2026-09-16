@@ -36,7 +36,7 @@ The Imperative (the structure that tries to extend meaning beyond the interval)
 ↓
 Equal System (institutional design: Shared Subsistence + Private Property)
 ↓
-Academic Papers · Philosophical Essays · Hypotheses · Mathematical Models
+Academic Papers · Philosophical Essays  · Mathematical Models
 ↓
 Open questions: The Observer's Position (current phase)
 
@@ -57,7 +57,7 @@ Open questions: The Observer's Position (current phase)
 ↓
 平等制（制度设计：生存共有层 + 私有财产层）
 ↓
-学术论文 · 哲学随笔 · 猜想 · 数学模型
+学术论文 · 哲学随笔  · 数学模型
 ↓
 开放问题：观察者的位置（当前阶段）
 
@@ -196,24 +196,6 @@ Equal System — 平等制
 | [《论法的精神》注解（第三卷）](annotations/l-esprit-des-lois-annotated-vol3-cn.md) | [Annotations on *The Spirit of the Laws* (Vol. III)](annotations/l-esprit-des-lois-annotated-vol3-en.md) |
 | [《论法的精神》注解（第四卷）](annotations/l-esprit-des-lois-annotated-vol4-cn.md) | [Annotations on *The Spirit of the Laws* (Vol. IV)](annotations/l-esprit-des-lois-annotated-vol4-en.md) |
 
-<br>
-<hr>
-<br>
-
-## Containment Records / 收容记录
-
-> 收容记录是对运行中的结构进行的三种操作：**识别**（命令体）、**观察**（哲学恐惧）、**溯源**（历史调查）。
->
-> Containment records perform three operations on active structures: **identification** (The Imperative), **observation** (Philosophical Dread), and **historical tracing** (Historical Investigation).
-
-> `IMPERATIVE` = 命令体识别 · Identification of The Imperative  
-> `PHIL` = 哲学结构观察 · Philosophical Structural Observation  
-> `HIR` = 历史调查报告 · Historical Investigation Report
-
-| 编号 / ID | 中文 | English | 类型 / Type |
-| :--- | :--- | :--- | :--- |
-| IMPERATIVE-01 | [命令体](books/containment-IMPERATIVE-01-zh.md) | [The Imperative](books/containment-IMPERATIVE-01-en.md) | Identification |
-| HIR-01 | [历史调查报告：中国不能发展资本主义](books/investigation-HIR-01-zh.md) | [Historical Investigation: Why China Cannot Develop Capitalism](books/investigation-HIR-01-en.md) | Historical Tracing |
 
 <br>
 <hr>
@@ -233,27 +215,6 @@ Equal System — 平等制
 | [烟雾鲨鱼与虎鲸](scientific-observations/quantum-decoherence-dream-cn.md) | [Smoke Shark and Stranded Whale](scientific-observations/quantum-decoherence-dream-en.md) |
 | [眼见不为实](scientific-observations/seeing-is-not-believing-cn.md) | [Seeing Is Not Believing](scientific-observations/seeing-is-not-believing-en.md) |
 
-<br>
-<hr>
-<br>
-# — Traces
-
-`—` is not a name. Not a letter. Not a word. It is a blank. A line. It points without locking.
-
-I reached the end of all philosophical deduction. Beyond it, something remains. I cannot name it. I cannot describe it. I cannot investigate it. I can only collect the traces it leaves behind.
-
-This directory contains those traces. No theories. No systems. No conclusions. Only marks left at the boundary.
-
-`—` 不是名字。不是字母。不是文字。它是一个空位。一条线。指向，但不锁定。
-
-我到达了哲学推导的终点。终点之外，仍有东西残留。我无法命名，无法描述，无法调查。我只能收集它留下的痕迹。
-
-本目录收录那些痕迹。没有理论，没有体系，没有结论。只有边界处留下的印记。
-
-| 中文 | English |
-| :--- | :--- |
-| [痕迹 001：边界确认](—traces/—trace-001-cn.md) | [Trace 001: Boundary Confirmation](—traces/—trace-001-en.md) |
-| [痕迹 002：宇宙作为有限区间](—traces/—trace-002-cn.md) | [Trace 002: The Universe as a Finite Interval](—traces/—trace-002-en.md) |
 <br>
 <hr>
 <br>
@@ -303,67 +264,6 @@ The framework is derived from the **Limit Theory of Meaning**, which states that
 <hr>
 <br>
 
-## Current Reflection / 当前反思
-
-The institutional design of the Equal System is complete.  
-But a deeper question has emerged from the act of writing it:
-
-> If the system inevitably produces "observers" who stand at its boundary —  
-> and if those observers are structurally unable to integrate —  
-> then what is the observer's relationship to the system they are describing?
-
-This repository is no longer just a design document.  
-It is also a record of the observer's position.
-
-**The theory is closed. The questions are not.**
-
----
-
-平等制的制度设计已经完成。  
-但在写作过程中，一个更深层的问题浮现了出来：
-
-> 如果系统不可避免地会在边界上产生“观察者” ——  
-> 而如果这些观察者从结构上无法被系统接纳 ——  
-> 那么观察者与他所描述的系统之间，到底是什么关系？
-
-本仓库不再只是一份设计文档。  
-它也是观察者位置的记录。
-
-**理论已经闭合。问题还没有。**
-
-<br>
-<hr>
-<br>
-
-## Core Structure / 核心结构
-
-The Equal System consists of two parallel layers:
-
-平等制由两个并行的层次构成：
-
-<br>
-
-| 中文 | English |
-| :--- | :--- |
-| **生存共有层** | **Shared Subsistence Layer** |
-| 食物、水、住房、基础医疗、教育由系统自动供给 —— 不需要劳动、不需要竞争、不需要申请。 | Food, water, housing, basic healthcare, and education are provided automatically — no labor required, no competition, no application. |
-| **私有财产层** | **Private Property Layer** |
-| 超越生存层面的所有物品、资产、资源仍然属于私有财产范畴。私有财产的功能从“生存交换”转向“超越性资格的获取”。 | All goods, assets, and resources beyond subsistence remain within the sphere of private property. Private property is reoriented from "survival exchange" to "credentials for transcendent pursuits." |
-
-<br>
-<hr>
-<br>
-
-## Key Principles / 核心原则
-
-1. **Subsistence rights are non-tradable. / 生存保障权不可交易。**
-2. **Private property rights are inviolable. / 私有财产权不可侵犯。**
-3. **Subsistence and transcendence are separated. / 生存与超越分离。**
-
-<br>
-<hr>
-<br>
-
 ## Intellectual Lineage / 思想源流
 
 This theory stands on the work of the following thinkers:
@@ -399,85 +299,6 @@ This theory stands on the work of the following thinkers:
 **Equal System is what happens when these four lines are twisted together under the condition of technological abundance.**
 
 **平等制是这四条线在技术条件下被拧到一起后的自然产物。**
-
-<br>
-<hr>
-<br>
-
-## Open Questions (Ongoing) / 开放问题（持续更新）
-
-The following questions are **not answered** by the current framework. They are the next layer:
-
-以下问题 **尚未被当前框架回答**。它们是下一层：
-
-<br>
-
----
-
-### 1. The Observer's Position / 观察者的位置
-
-If the Equal System (or any stable system) requires "external sensors" (hunters/perceivers) to detect environmental anomalies — but structurally excludes them — then:
-
-如果平等制（或任何稳定系统）需要“外部传感器”（捕猎者/感知者）来检测环境异常 —— 但在结构上却排斥他们 —— 那么：
-
-- How does the system maintain its sensing capability without destroying its internal stability?  
-  系统如何在不破坏自身内部稳定性的前提下，维持其感知能力？
-
-- What is the minimal survival guarantee that the system must provide to its observers?  
-  系统必须为其观察者提供的最低生存保障是什么？
-
-<br>
-
----
-
-### 2. The Cost of Sensing / 感知的代价
-
-The observer's attention automatically projects onto living systems, causing disturbances (butterfly effects). The only known mitigation is to anchor attention on inanimate objects.
-
-观察者的注意力会自动投射到生命系统上，引发扰动（蝴蝶效应）。目前已知的唯一缓解方法，是将注意力锚定在无生命物体上。
-
-- Is this a permanent constraint, or are there other forms of calibration?  
-  这是一个永久的限制，还是存在其他形式的校准方式？
-
-- Can the observer train their attention to reduce the "signal power" without losing sensitivity?  
-  观察者能否通过训练来降低注意力的“信号功率”，同时不损失敏感度？
-
-<br>
-
----
-
-### 3. The Evolution of the Hunter / 捕猎者的进化
-
-If hunters are randomly generated by the system's "noise margin" — and if this mechanism persists even in post-scarcity conditions — then:
-
-如果捕猎者是由系统的“噪声容限”随机产生的 —— 而如果这种机制即使在物质极大丰富之后仍然持续存在 —— 那么：
-
-- Is the hunter a genetic trait, or a structural byproduct of any sufficiently complex social system?  
-  捕猎者是一种遗传特征，还是任何足够复杂的社会系统的结构性副产物？
-
-- Will the Equal System (which removes survival compulsion) reduce or increase the frequency of hunter emergence?  
-  平等制（它消除了生存强制力）会减少还是增加捕猎者出现的频率？
-
-<br>
-
-
----
-
-English：
-
-Open Questions (Archived)
-These questions are no longer actively pursued. Not answered, but set aside.
-They are left here for whoever comes next.
-That's what open source means.
-
-中文：
-
-开放问题（已归档）
-这些问题不再追了。不是解决了，是放下了。
-留给后来者。
-这本身就是开源的意义。
-
-
 
 <br>
 <hr>
