@@ -17,9 +17,7 @@
 
 ---
 
-**Current Status Statement (September 10, 2026)**
-
-The academic papers and philosophical derivations in this repository remain valid.
+**Current Status Statement **
 
 However, two documents are hereby declared obsolete: *The Equal System Manifesto* and *The Equal System Design*. They were written during a period when the author believed "Equal System" could be realized as an institutional blueprint. That belief has since been recognized as an idealistic illusion.
 
@@ -29,9 +27,7 @@ This repository retains the name "Equal System" as a form of self-mockery and re
 
 <br>
 
-**当前状态声明（2026年9月10日）**
-
-本仓库中的学术论文与哲学推导，均无问题，继续有效。
+**当前状态声明**
 
 但有两篇文章在此宣布作废：《平等制宣言》与《平等制设计》。它们写作于作者相信“平等制”可以落地为制度蓝图的时期。这个信念，现已被认定为理想主义幻觉。
 
