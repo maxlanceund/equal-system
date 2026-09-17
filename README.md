@@ -166,7 +166,8 @@ Equal System — 平等制
 | [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
 | [经验世界，永恒真理（学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
 | [拒绝哲学论（学术版）](papers/The_Philosophy_of_Refusal-cn.md) | [The Philosophy of Refusal (Academic Version)](papers/The_Philosophy_of_Refusal-en.md) |
-| [哲学家死亡的缺失感](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers](papers/death-of-philosophers-en.md) |
+| [哲学家死亡的缺失感（学术版）](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers (Academic Version)](papers/death-of-philosophers-en.md) |
+
 
 <br>
 <hr>
