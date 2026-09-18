@@ -176,8 +176,8 @@ Equal System — 平等制
 ## Monograph / 专著
 
 <p align="center">
-  <img src="art-appreciation/images/1789706435403.png" width="180">
-  <img src="art-appreciation/images/cover.png" width="180">
+  <img src="art-appreciation/images/1789706435403.png" height="260">
+  <img src="art-appreciation/images/cover.png" height="260">
 </p>
 
 | 中文 | English |
@@ -187,6 +187,10 @@ Equal System — 平等制
 > **English**: A work of critical reasoning, not a policy paper, not an academic treatise, not a casual essay. It begins with a lychee in ancient Rome and traces a chain of logic through Power Illusion, correction failure, free markets, openness, and the warning of Hayek.
 > 
 > **中文**：一部思辨性著作，不是政策文件，不是学术专著，也不是随笔。从唐朝长安的一颗荔枝出发，沿着一条逻辑链，追问权力幻觉、纠错失灵、自由市场、开放与哈耶克的警告。
+
+<br>
+<hr>
+<br>
 
 
 ## Philosophical Essays / 哲学随笔
