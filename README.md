@@ -173,6 +173,21 @@ Equal System — 平等制
 <hr>
 <br>
 
+## Monograph / 专著
+
+<p align="center">
+  <img src="art-appreciation/images/1789706435403.png" width="180">
+  <img src="art-appreciation/images/cover.png" width="180">
+</p>
+
+| 中文 | English |
+| :--- | :--- |
+| [从长安的荔枝到哈耶克的警告 (EPUB)](https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub) | [The Weight of a Lychee: To Hayek's Warning (EPUB)](https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub) |
+
+> **English**: A work of critical reasoning, not a policy paper, not an academic treatise, not a casual essay. It begins with a lychee in ancient Rome and traces a chain of logic through Power Illusion, correction failure, free markets, openness, and the warning of Hayek.
+> 
+> **中文**：一部思辨性著作，不是政策文件，不是学术专著，也不是随笔。从唐朝长安的一颗荔枝出发，沿着一条逻辑链，追问权力幻觉、纠错失灵、自由市场、开放与哈耶克的警告。
+
 
 ## Philosophical Essays / 哲学随笔
 
