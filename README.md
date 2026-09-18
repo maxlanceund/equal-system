@@ -175,14 +175,30 @@ Equal System — 平等制
 
 ## Monograph / 专著
 
-<p align="center">
-  <img src="art-appreciation/images/1789706435403.png" height="260">
-  <img src="art-appreciation/images/cover.png" height="260">
-</p>
-
-| 中文 | English |
-| :--- | :--- |
-| [从长安的荔枝到哈耶克的警告 (EPUB)](https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub) | [The Weight of a Lychee: To Hayek's Warning (EPUB)](https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub) |
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub">
+        <img src="art-appreciation/images/cover.png" height="300">
+      </a>
+      <br><br>
+      <strong>The Weight of a Lychee</strong>
+      <br>
+      <em>To Hayek's Warning</em>
+      <br><br>
+      <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub">📥 Download EPUB</a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub">
+        <img src="art-appreciation/images/1789706435403.png" height="300">
+      </a>
+      <br><br>
+      <strong>从长安的荔枝到哈耶克的警告</strong>
+      <br><br><br>
+      <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub">📥 下载 EPUB</a>
+    </td>
+  </tr>
+</table>
 
 > **English**: A work of critical reasoning, not a policy paper, not an academic treatise, not a casual essay. It begins with a lychee in ancient Rome and traces a chain of logic through Power Illusion, correction failure, free markets, openness, and the warning of Hayek.
 > 
