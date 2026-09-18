@@ -175,11 +175,11 @@ Equal System — 平等制
 
 ## Monograph / 专著
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td valign="top" width="50%">
       <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub">
-        <img src="art-appreciation/images/cover.png" height="300">
+        <img src="art-appreciation/images/cover.png" height="200">
       </a>
       <br><br>
       <strong>The Weight of a Lychee</strong>
@@ -188,13 +188,13 @@ Equal System — 平等制
       <br><br>
       <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub">📥 Download EPUB</a>
     </td>
-    <td align="center" width="50%" valign="top">
+    <td valign="top" width="50%">
       <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub">
-        <img src="art-appreciation/images/1789706435403.png" height="300">
+        <img src="art-appreciation/images/1789706435403.png" height="200">
       </a>
       <br><br>
       <strong>从长安的荔枝到哈耶克的警告</strong>
-      <br><br><br>
+      <br><br>
       <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub">📥 下载 EPUB</a>
     </td>
   </tr>
