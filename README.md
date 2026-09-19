@@ -134,6 +134,7 @@ Equal System — 平等制
 | 中文 | English |
 | :--- | :--- |
 | [平等制设计](equal-system-cn.md ) | [Equal System Design](equal-system-en.md) |
+
 <br>
 <hr>
 <br>
@@ -142,7 +143,7 @@ Equal System — 平等制
 
 **Suggested Citation / 建议引用**:
 
-> Lanceund, M. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media*. Equal System Repository. https://github.com/maxlanceund/equal-system
+> Zhong, S. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media*. Equal System Repository. https://github.com/maxlanceund/equal-system
 
 *(For other papers, please refer to the specific paper page.)*  
 *（其他论文请参阅各自文档页的引用信息。）*
@@ -161,13 +162,19 @@ Equal System — 平等制
 | [善，美德与正义的无定义（学术版）](papers/the-undefinability-of-goodness-virtue-and-justice-cn.md) | [The Undefinability of Goodness, Virtue, and Justice (Academic Version)](papers/the-undefinability-of-goodness-virtue-and-justice-en.md) |
 | [边界之外（学术版）](papers/Beyond-the-Boundary-academic-cn.md) | [Beyond the Boundary (Academic Version)](papers/Beyond-the-Boundary-academic-en.md) |
 | [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
-| [国强与民松（学术版）](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong (Academic Version)](papers/Guoqiang_Minsong_en.md) |
-| [紧绷即底气（学术版）](papers/paper_resilience_zh.md) | [Resilience in Tension (Academic Version)](papers/paper_resilience_en.md) |
-| [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
 | [经验世界，永恒真理（学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
 | [拒绝哲学论（学术版）](papers/The_Philosophy_of_Refusal-cn.md) | [The Philosophy of Refusal (Academic Version)](papers/The_Philosophy_of_Refusal-en.md) |
 | [哲学家死亡的缺失感（学术版）](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers (Academic Version)](papers/death-of-philosophers-en.md) |
 
+<br>
+
+### Economics Papers / 经济学论文
+
+| 中文 | English |
+| :--- | :--- |
+| [国强与民松（学术版）](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong (Academic Version)](papers/Guoqiang_Minsong_en.md) |
+| [紧绷即底气（学术版）](papers/paper_resilience_zh.md) | [Resilience in Tension (Academic Version)](papers/paper_resilience_en.md) |
+| [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
 
 <br>
 <hr>
