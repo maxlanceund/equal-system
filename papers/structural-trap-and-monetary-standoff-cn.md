@@ -196,8 +196,7 @@
 为初步检验本文核心假设H1（政策干预强度与市场出清速度呈负相关），本文构建了一个包含3个省份、9年（2015-2023）的面板数据集，以全要素生产率增速（TFP_growth）为被解释变量，以政策干预强度（Intervention）为核心解释变量，以GDP增速（GDP_growth）和人口规模（Population）为控制变量，采用双向固定效应模型进行估计。
 
 模型设定如下：
-
-TFP_growth(i,t) = α + β·Intervention(i,t) + γ₁·GDP_growth(i,t) + γ₂·Population(i,t) + μ(i) + λ(t) + ε(i,t)
+$$TFP\_growth_{it} = \alpha + \beta \cdot Intervention_{it} + \gamma_1 \cdot GDP\_growth_{it} + \gamma_2 \cdot Population_{it} + \mu_i + \lambda_t + \varepsilon_{it}$$
 
 其中：
 - i 代表省份，t 代表年份
