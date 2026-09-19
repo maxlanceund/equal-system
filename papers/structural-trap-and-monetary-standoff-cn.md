@@ -197,9 +197,14 @@
 
 模型设定如下：
 
-$$TFP\_growth_{it} = \alpha + \beta \cdot Intervention_{it} + \gamma_1 \cdot GDP\_growth_{it} + \gamma_2 \cdot Population_{it} + \mu_i + \lambda_t + \varepsilon_{it}$$
+TFP_growth(i,t) = α + β·Intervention(i,t) + γ₁·GDP_growth(i,t) + γ₂·Population(i,t) + μ(i) + λ(t) + ε(i,t)
 
-其中，$\mu_i$为省份固定效应，$\lambda_t$为年份固定效应，$\varepsilon_{it}$为误差项。标准误在省份层面进行聚类调整。
+其中：
+- i 代表省份，t 代表年份
+- μ(i) 为省份固定效应
+- λ(t) 为年份固定效应
+- ε(i,t) 为误差项
+- 标准误在省份层面进行聚类调整
 
 ### 2. 回归结果
 
