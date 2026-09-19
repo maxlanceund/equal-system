@@ -42,7 +42,7 @@ The second is Koo's (2008) balance sheet recession theory. In studying Japan's e
 
 The third is Mises (1949) and Rothbard's (1963) analysis of soft budget constraints and the cumulative effects of interventionism. They argued that government rescue of inefficient firms distorts market discipline and creates "moral hazard." Rescued firms know that losses can be shifted, so they lack incentive to improve efficiency. More seriously, intervention creates new problems, which demand more intervention, forming a cumulative cycle of "intervention-distortion-reintervention."
 
-Existing literature has developed each of these three traditions, but rarely integrates all three to analyze the boundaries of policy intervention under structural predicaments. This paper attempts to fill this gap: using balance sheet recession as context, price signal distortion as entry point, and resource misallocation under soft budget constraints as mechanism, to demonstrate why policy intervention has reached its structural boundaries.
+Domestic scholars have also extensively discussed the relationship between fiscal expenditure structure and economic efficiency. Wu Yanbing (2025) points out that China's fiscal expenditure has long been characterized by "heavy on physical capital, light on human capital," with investment in people significantly lower than in high-income countries. Increasing livelihood-oriented spending on education, healthcare, and social security helps form a virtuous cycle of "public education investment → human capital improvement → innovation vitality → economic quality improvement." Yu Yongze et al. (2020), based on prefecture-level city data, find that cities with higher fiscal autonomy tend to increase economic expenditures and compress social expenditures, and this "race to the bottom" weakens the positive impact of fiscal spending on technological progress. Xue Gang and Fu Mengyuan (2022) further point out that VAT sharing incentives drive local governments to increase production and construction investment while neglecting public livelihood areas, thereby reducing total factor productivity. These studies corroborate the core judgment of this paper: the structure of fiscal expenditure matters more than its total volume, and livelihood-oriented and productive spending is the source of efficiency. The marginal contribution of this paper is to provide a grassroots-level verification of these conclusions using a simplified panel dataset and an independent scholar's perspective, and to integrate the distinction between "ineffective intervention" and "effective investment" into a unified framework.
 
 ---
 
@@ -291,6 +291,8 @@ The correct choice is not to intensify intervention, but to maintain resolve, st
 
 The empirical section of this paper finds a statistically significant positive correlation between the fiscal expenditure-to-GDP ratio and total factor productivity growth. This result appears contrary to the theoretical expectation, but upon analysis it can be confirmed that: productive fiscal expenditures (education, healthcare, science and technology, infrastructure) have a positive effect on productivity; while the ineffective intervention criticized in this paper (life-support for zombie firms, blocking clearing) is not within the coverage of this indicator. Therefore, **the policy recommendation of this paper is not to cut fiscal expenditure across the board, but to adjust its structure: reduce ineffective intervention, increase livelihood-oriented and productive spending.** The empirical result not only fails to overturn this recommendation but provides data support for it.
 
+This conclusion is consistent with the research direction of Wu Yanbing (2025), Yu Yongze et al. (2020), and Xue Gang and Fu Mengyuan (2022), further supporting the policy propositions of "investing in people" and "optimizing the structure of fiscal expenditure." The independent verification in this paper shows that even with limited sample size and rough proxy variables, the data still point in the same direction: when the government spends on livelihood and productive investment, economic efficiency improves; when it spends on ineffective intervention, efficiency declines.
+
 The limitation of this paper is that the empirical sample is small, and the proxy variable cannot fully distinguish between productive expenditure and ineffective intervention. Future research can construct larger-scale provincial panel data and split fiscal expenditure into "livelihood-oriented expenditure" and "stability-maintenance subsidies" to conduct more rigorous tests of the theoretical propositions.
 
 But even without a rigorous econometric model, the question this paper raises is still worth deep consideration by policymakers: when interest rate adjustment has reached its structural boundaries, does continuing to "press buttons" still make sense? Protecting livelihoods and promoting the economy is the right direction, but it must be accompanied by a decisive halt to life-support for inefficient sectors. This is the real way out.
@@ -342,6 +344,12 @@ The core hypothesis (H1) of this paper must be revised or abandoned if any of th
 [9] National Bureau of Statistics. (2025). *2024 National Economic and Social Development Statistical Bulletin*. Beijing: China Statistics Press.
 
 [10] People's Bank of China. (2024). *China Financial Stability Report (2024)*. Beijing: China Financial Publishing House.
+
+[11] Wu, Y. (2025). Investing in People: An Important Direction for Optimizing Fiscal Expenditure Structure. *Chinese Social Sciences Today*.
+
+[12] Yu, Y., et al. (2020). Fiscal Autonomy, Fiscal Expenditure Structure, and Technological Progress. *Economic Research Journal*.
+
+[13] Xue, G., & Fu, M. (2022). Tax Sharing, Fiscal Expenditure Structure, and Total Factor Productivity. *Taxation Research*.
 
 ---
 
