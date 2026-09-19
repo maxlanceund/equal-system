@@ -89,7 +89,7 @@
 
 在生存必需品端，居民消费价格指数（CPI）中食品类项目保持温和上涨。粮食、食用油、鲜菜、鲜果等基本生活物资的价格涨幅高于CPI整体水平。
 
-![图1：中国价格结构性分化（2019-2026）](../art-appreciation/images/figure1_price_divergence.png)
+![图1：中国价格结构性分化（2019-2026）](../art-appreciation/images/figure1_price_divergence_cn.png)
 
 *图1：中国价格结构性分化（2019-2026）。数据来源：国家统计局。*
 
@@ -183,7 +183,7 @@
 
 中国在2025年的人均GDP约为1.3万美元，养老金缺口在2035年将面临耗尽风险，地方债务规模庞大，外部面临供应链重构和技术封锁的压力。如果中国也走上零利率和财政补贴的老路，结局可能不是日本的“低欲望社会”，而是更严重的“拉美化”——资本外逃、中产阶级破产、社会分化加剧。
 
-![图2：全球主要经济体利率与通胀对比（2026年9月）](../art-appreciation/images/figure2_rates_inflation.png)
+![图2：全球主要经济体利率与通胀对比（2026年9月）](../art-appreciation/images/figure2_rates_inflation_cn.png)
 
 *图2：全球主要经济体利率与通胀对比（2026年9月）。数据来源：各国央行、国家统计局。*
 
@@ -270,7 +270,7 @@ $$TFP\_growth_{it} = \alpha + \beta \cdot Intervention_{it} + \gamma_1 \cdot GDP
 
 但即便没有严格的计量模型，本文提出的问题依然值得政策制定者深思：当利率调控已触及结构性边界时，继续“按按钮”还有意义吗？
 
-![图3：中国宏观杠杆率与GDP平减指数（2019-2024）](../art-appreciation/images/figure3_leverage_deflator.png)
+![图3：中国宏观杠杆率与GDP平减指数（2019-2024）](../art-appreciation/images/figure3_leverage_deflator_cn.png)
 
 *图3：中国宏观杠杆率与GDP平减指数（2019-2024）。数据来源：国家金融与发展实验室、国家统计局。*
 
