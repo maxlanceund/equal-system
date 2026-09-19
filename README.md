@@ -168,7 +168,7 @@ Equal System — 平等制
 
 <br>
 
-### Economics Papers / 经济学论文
+**Economics Papers / 经济学论文**
 
 | 中文 | English |
 | :--- | :--- |
