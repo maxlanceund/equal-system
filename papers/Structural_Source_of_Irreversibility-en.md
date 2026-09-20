@@ -52,17 +52,17 @@ The thesis of this paper is: in the context of statistical-mechanical coarse-gra
 
 ### 3. The Naturalist Stance
 
-This paper adopts a **naturalist** stance: the aggregation mapping \(f: \Omega \to \mathcal{M}\) is not an arbitrary descriptive convention, but is constrained by the observable structure of the natural world.
+This paper adopts a **naturalist** stance: the aggregation mapping `f: Omega -> M` is not an arbitrary descriptive convention, but is constrained by the observable structure of the natural world.
 
 Specifically:
 
-- \(\Omega\) (the micro-state space) is described by physical theory, not arbitrarily chosen.
-- \(\mathcal{M}\) (the macro-state space) is defined by the set of observables — temperature, pressure, volume, mass, angular momentum, charge, etc.
-- \(f\) is determined by coarse-graining operations — in statistical mechanics, it is a partition of phase space; in quantum mechanics, it is decoherence.
+- `Omega` (the micro-state space) is described by physical theory, not arbitrarily chosen.
+- `M` (the macro-state space) is defined by the set of observables — temperature, pressure, volume, mass, angular momentum, charge, etc.
+- `f` is determined by coarse-graining operations — in statistical mechanics, it is a partition of phase space; in quantum mechanics, it is decoherence.
 
 **Why adopt the naturalist stance?** Because the goal of this paper is not to discuss the logical properties of "descriptive frameworks," but to discuss structural features of the physical world. If the aggregation mapping were merely a descriptive convention, then "the impossibility of reverse inference" would be an assertion about language, not about the world. The goal of this paper is the latter.
 
-**The cost of the naturalist stance**: This paper does not discuss the question "what if a different descriptive framework were chosen." If theorists can choose a different \(f\), then the conclusions of this paper apply only to "aggregation mappings under given observable constraints." This limitation is discussed in Section IV, "Limitation Two."
+**The cost of the naturalist stance**: This paper does not discuss the question "what if a different descriptive framework were chosen." If theorists can choose a different `f`, then the conclusions of this paper apply only to "aggregation mappings under given observable constraints." This limitation is discussed in Section IV, "Limitation Two."
 
 ### 4. Relation to Existing Literature
 
@@ -90,29 +90,37 @@ Section III establishes the formal framework. Section IV presents the core struc
 
 ### 1. Basic Setup
 
-Let the micro-state space be a finite set \(\Omega\), and the macro-state space be a measurable space \((\mathcal{M}, \Sigma_\mathcal{M})\).
+Let the micro-state space be a finite set `Omega`, and the macro-state space be a measurable space `(M, Sigma_M)`.
 
-**Definition 1 (Aggregation Mapping)**: An aggregation mapping \(f: \Omega \to \mathcal{M}\) is a measurable mapping.
+**Definition 1 (Aggregation Mapping)**: An aggregation mapping `f: Omega -> M` is a measurable mapping.
 
 **Remark**: The "aggregation mapping" of this paper is an abstract formal concept. It does not presuppose any specific coarse-graining mechanism, and can be realized as various concrete coarse-graining operations: phase-space coarse-graining in statistical mechanics, decoherence in quantum mechanics, scale separation in multi-scale modeling.
 
 ### 2. Fibers and Structural Loss
 
-**Definition 2 (Fiber)**: For each \(y \in \mathcal{M}\), the fiber of \(y\) under \(f\) is \(f^{-1}(y) = \{x \in \Omega : f(x) = y\}\).
+**Definition 2 (Fiber)**: For each `y in M`, the fiber of `y` under `f` is
+
+$$
+f^{-1}(y) = \{x \in \Omega : f(x) = y\}
+$$
 
 **Definition 3 (Structural Loss)**:
 
-\[
+$$
 L_f = \log_2 |\Omega| - \log_2 |\mathrm{Im}(f)|
-\]
+$$
 
 **Remark**: Structural loss is an auxiliary intuitive tool, not the foundation of the core argument. The core argument of this paper depends on Observation 1.
 
 ### 3. Relation of Structural Loss to Existing Concepts in Information Theory
 
-**Relation to Conditional Entropy**: Given a random variable \(X\) on \((\Omega, \Sigma_\Omega, p)\), let \(Y = f(X)\). The following inequality always holds: \(H(X|Y) \leq \mathbb{E}[\log |[X]_f|]\).
+**Relation to Conditional Entropy**: Given a random variable `X` on `(Omega, Sigma_Omega, p)`, let `Y = f(X)`. The following inequality always holds:
 
-When all fibers have equal size and \(X\) is uniformly distributed on each fiber, \(\mathbb{E}[\log |[X]_f|] = L_f\).
+$$
+H(X|Y) \leq \mathbb{E}[\log |[X]_f|]
+$$
+
+When all fibers have equal size and `X` is uniformly distributed on each fiber, `E[log |[X]_f|] = L_f`.
 
 **Relation to Coarse-Grained Entropy**: Coarse-grained entropy depends on the probability distribution, whereas structural loss does not. Therefore, structural loss is a structural quantity independent of the probability measure.
 
@@ -120,11 +128,17 @@ When all fibers have equal size and \(X\) is uniformly distributed on each fiber
 
 ## IV. Core Structural Observation
 
-**Observation 1 (Non-Invertibility of Non-Injective Mappings)**: If \(f\) is not injective, then there exists no mapping \(g: \mathcal{M} \to \Omega\) such that \(g \circ f = \mathrm{id}_\Omega\).
+**Observation 1 (Non-Invertibility of Non-Injective Mappings)**: If `f` is not injective, then there exists no mapping `g: M -> Omega` such that `g o f = id_Omega`.
 
-**Proof**: Suppose such a \(g\) exists. Since \(f\) is not injective, take \(x_1 \neq x_2\) such that \(f(x_1) = f(x_2)\). Then \(x_1 = g(f(x_1)) = g(f(x_2)) = x_2\), contradiction. QED.
+**Proof**: Suppose such a `g` exists. Since `f` is not injective, take `x1 != x2` such that `f(x1) = f(x2)`. Then
 
-**Remark**: In the finite case, \(L_f > 0\) if and only if \(f\) is not injective.
+$$
+x_1 = g(f(x_1)) = g(f(x_2)) = x_2
+$$
+
+contradiction. QED.
+
+**Remark**: In the finite case, `L_f > 0` if and only if `f` is not injective.
 
 **The Philosophical Significance of Observation 1**: Observation 1 is trivial in set theory. But its philosophical significance lies in the fact that it shows: the impossibility of "recovering the micro from the macro" is a **purely structural fact** — it does not depend on dynamical evolution, does not depend on initial conditions, and does not depend on the randomness of micro-states.
 
@@ -132,7 +146,7 @@ When all fibers have equal size and \(X\) is uniformly distributed on each fiber
 
 **Limitation One (Exact Recovery)**: Observation 1 applies only to "exact recovery." If relaxed to "approximate recovery" or "probabilistic recovery," Observation 1 does not apply. This paper deals only with the case of exact recovery.
 
-**Limitation Two (Improvement of the Aggregation Mapping)**: This paper presupposes a given aggregation mapping \(f\). Physicists can choose different macro-variables, thereby defining different aggregation mappings. But this improvability is constrained in practice by the naturalist stance: the definition of the macro-state space is constrained by the number of observables.
+**Limitation Two (Improvement of the Aggregation Mapping)**: This paper presupposes a given aggregation mapping `f`. Physicists can choose different macro-variables, thereby defining different aggregation mappings. But this improvability is constrained in practice by the naturalist stance: the definition of the macro-state space is constrained by the number of observables.
 
 ---
 
@@ -144,9 +158,9 @@ When all fibers have equal size and \(X\) is uniformly distributed on each fiber
 
 **Argument**:
 
-The unification program of physics aims to find a theory \(T^*\) such that \(T^*\) reduces to \(T_1\) (general relativity) and \(T_2\) (quantum mechanics) in the appropriate limits. The candidate theories available to physicists are only \(T_1\) and \(T_2\). In the framework of statistical-mechanical coarse-graining, \(T_1\) and \(T_2\) are understood as projections of \(T^*\) at different scales. The mathematical structure of this projection relation is an aggregation mapping. Therefore, the inferential process from \(\{T_1, T_2\}\) to \(T^*\) corresponds to the process of recovering the pre-image from two projections — this is a reverse inference process.
+The unification program of physics aims to find a theory `T*` such that `T*` reduces to `T1` (general relativity) and `T2` (quantum mechanics) in the appropriate limits. The candidate theories available to physicists are only `T1` and `T2`. In the framework of statistical-mechanical coarse-graining, `T1` and `T2` are understood as projections of `T*` at different scales. The mathematical structure of this projection relation is an aggregation mapping. Therefore, the inferential process from `{T1, T2}` to `T*` corresponds to the process of recovering the pre-image from two projections — this is a reverse inference process.
 
-By Observation 1, if \(f_1\) or \(f_2\) is not injective, then the reverse inference direction \(T_1 \to T^*\) does not exist.
+By Observation 1, if `f1` or `f2` is not injective, then the reverse inference direction `T1 -> T*` does not exist.
 
 **Note**: Premise C is a descriptive empirical generalization, not a logically necessary assertion. This paper does not assert that physicists can only do this; it asserts only that in current practice, it faces the structural obstacle described in this paper.
 
@@ -160,9 +174,9 @@ The conclusions of this paper apply to the unification programs in **current phy
 
 ### 1. The Transition from Formal Framework to Ontological Interpretation
 
-The argument of Sections III-V is formal: if \(f\) is not injective, then no right inverse exists. This argument itself concerns **formal objects**.
+The argument of Sections III-V is formal: if `f` is not injective, then no right inverse exists. This argument itself concerns **formal objects**.
 
-The goal of Section VI is to apply this formal conclusion to the **physical world**. This transition requires a premise: the aggregation mapping \(f\) corresponds to a physical coarse-graining operation, not an arbitrary descriptive convention.
+The goal of Section VI is to apply this formal conclusion to the **physical world**. This transition requires a premise: the aggregation mapping `f` corresponds to a physical coarse-graining operation, not an arbitrary descriptive convention.
 
 This premise is precisely the **naturalist stance** adopted by this paper. Under this stance, the aggregation mapping is not arbitrarily chosen by the theorist, but is constrained by the observable structure of the natural world. Therefore, "the impossibility of reverse inference" is a structural assertion about the physical world, not merely a convention about a descriptive framework.
 
@@ -215,7 +229,7 @@ In this sense, "structural" is opposed to "dynamical": dynamical features depend
 
 ### Objection One: "Premise C ignores the role of experimental data and mathematical constraints."
 
-**Response**: The candidate theories available to physicists are only \(T_1\) and \(T_2\). Experimental data and mathematical consistency requirements do provide filtering conditions, but they do not constitute direct candidates for \(T^*\).
+**Response**: The candidate theories available to physicists are only `T1` and `T2`. Experimental data and mathematical consistency requirements do provide filtering conditions, but they do not constitute direct candidates for `T*`.
 
 ### Objection Two: "Structural loss is trivial."
 
