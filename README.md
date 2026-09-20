@@ -161,9 +161,10 @@ Equal System — 平等制
 | [存在性确认与性别不对称（学术版）](papers/existential-confirmation-cn.md) | [Existential Confirmation and Gender Asymmetry (Academic Version)](papers/existential-confirmation-en.md) |
 | [善，美德与正义的无定义（学术版）](papers/the-undefinability-of-goodness-virtue-and-justice-cn.md) | [The Undefinability of Goodness, Virtue, and Justice (Academic Version)](papers/the-undefinability-of-goodness-virtue-and-justice-en.md) |
 | [边界之外（学术版）](papers/Beyond-the-Boundary-academic-cn.md) | [Beyond the Boundary (Academic Version)](papers/Beyond-the-Boundary-academic-en.md) |
-| [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
 | [经验世界，永恒真理（学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
+| [论不可逆性的结构性来源（学术版）](papers/Structural_Source_of_Irreversibility-cn.md) | [On the Structural Source of Irreversibility (Academic Version)](papers/Structural_Source_of_Irreversibility-en.md) |
 | [拒绝哲学论（学术版）](papers/The_Philosophy_of_Refusal-cn.md) | [The Philosophy of Refusal (Academic Version)](papers/The_Philosophy_of_Refusal-en.md) |
+| [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
 | [哲学家死亡的缺失感（学术版）](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers (Academic Version)](papers/death-of-philosophers-en.md) |
 
 <br>
