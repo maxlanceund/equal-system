@@ -6,21 +6,21 @@
 | :--- | :--- |
 | **Title** | Resolve and Clearing: On the Structural Boundaries of Policy Intervention — An Analysis Based on Balance Sheet Recession and Monetary Transmission Mechanism |
 | **Author** | Zhong Shanzhen |
-| **Date** | 2026-09-20 |
+| **Date** | 2026-09-23 (Third Edition) |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | Policy Intervention, Structural Boundaries, Balance Sheet Recession, Monetary Policy, Market Clearing |
+| **Keywords** | Policy Intervention, Structural Boundaries, Balance Sheet Recession, Monetary Policy, Market Clearing, Macro Aggregation Bias |
 
 ---
 
 ## I. Abstract
 
-Based on the structural price divergence observed in China's macroeconomy—"assets falling, food rising, intermediates stable"—this paper analyzes the failure mechanism of policy intervention against the backdrop of a balance sheet recession. The study argues that the breakdown of the monetary transmission mechanism stems not from insufficient policy adjustment, but from the structural boundaries of intervention itself. When the private sector actively repairs its balance sheet and credit demand continues to contract, interest rate adjustments can no longer effectively stimulate the real economy and may instead exacerbate resource misallocation and wealth distribution distortion. Through international comparison, this paper demonstrates the long-term costs of Japan's zero-interest-rate policy and the regulatory dilemma of the Federal Reserve under supply-side shocks.
+Based on the structural price divergence observed in China's macroeconomy—"assets falling, food rising, intermediates stable"—this paper analyzes the failure mechanism of policy intervention against the backdrop of a balance sheet recession. The core finding of this paper is: **verifying the hypothesis that "ineffective intervention obstructs clearing" using macro-aggregated data faces fundamental methodological difficulties.**
 
-In the empirical section, this paper uses national time-series data from 2004 to 2021 and provincial panel data from 31 provinces from 2007 to 2021, conducting ten rounds of regression tests on variables including enterprise exit rates, loss-making enterprise counts, GDP growth, fiscal expenditure structure, and innovation output. The results show: (1) In the national time series, the ratio of fiscal expenditure to GDP has no statistically significant association with the number of loss-making enterprises (p=0.64); (2) In the 31-province panel, the ratio of fiscal expenditure to GDP is also not significant with GDP growth (p=0.77); (3) After splitting fiscal expenditure into "public security expenditure" (proxy for bad intervention) and "education and science expenditure" (proxy for good intervention), the coefficient directions are opposite to theoretical expectations; (4) When innovation output (new product sales revenue / GDP) is the dependent variable, fiscal expenditure is significantly negatively correlated with innovation output (coefficient=-0.30, p<0.001); (5) In the log model of innovation output, controlling for GDP scale, fiscal expenditure is significantly negatively correlated with innovation output (coefficient=-1.28, p<0.001), but there exists a mechanical nesting problem between GDP and new product sales revenue; (6) When the number of loss-making industrial enterprises is the dependent variable, fiscal expenditure share is significantly negatively correlated with the number of loss-making enterprises (coefficient=-3426.21, p<0.001); (7) When the asset-liability ratio of industrial enterprises is the dependent variable, fiscal expenditure share is significantly negatively correlated with the asset-liability ratio (coefficient=-0.09, p<0.001); (8) When total losses of loss-making enterprises is the dependent variable, fiscal expenditure share is significantly negatively correlated with total losses (coefficient=-243.31, p<0.001); (9) When accounts receivable / main business revenue is the dependent variable, fiscal expenditure share is significantly positively correlated with the receivables ratio (coefficient=+0.04, p<0.001); (10) When finished goods / main business revenue is the dependent variable, fiscal expenditure share is significantly positively correlated with the finished goods ratio (coefficient=+0.02, p<0.001).
+The theoretical framework of this paper integrates three strands: Hayek's theory of price signals, Koo's balance sheet recession theory, and Mises and Rothbard's analysis of soft budget constraints. The core theoretical contribution is proposing a "zero-sum game between good intervention and bad intervention" framework, and arguing that under fiscal constraints, "borrower-of-last-resort intervention" (Koo) tends to degenerate into "rescuing inefficient firms intervention" (Mises). This paper further proposes four criteria for distinguishing the two types of intervention: whether firm restructuring is required, whether market exit is permitted, whether resources are allocated at market prices, and whether an exit timetable is set.
 
-The ten rounds of regression present a structural contradiction: at the level of receivables ratio, finished goods ratio, and innovation output, the direction of fiscal expenditure is consistent with theoretical expectations; at the level of loss-making enterprise count, asset-liability ratio, and total losses, the direction is opposite to theoretical expectations; at the level of GDP growth and national time series, the results are not significant. This paper argues that this "half consistent, half opposite" contradiction does not stem from erroneous theoretical judgment, but from three structural obstacles: the mixing of "good intervention" and "bad intervention" in macro-aggregated data, reverse causality and omitted variables, and the lack of micro-level indicators directly measuring "ineffective intervention" in public data. Therefore, the core contribution of this paper is to propose a testable theoretical framework and to honestly report its verification results—including non-significance, opposite directions, and partial support. The conclusion is that before data availability improves, "ineffective intervention obstructs clearing" should be regarded as a hypothesis that is "theoretically reasonable, empirically partially supported, and causally undetermined."
+In the empirical section, this paper uses national time-series data from 2004 to 2021 and provincial panel data from 31 provinces from 2007 to 2021, conducting ten rounds of regression tests. This paper honestly reports all results, including non-significance, opposite directions, and partial support. The conclusion is: **before data availability improves, "ineffective intervention obstructs clearing" should be regarded as a hypothesis that is "theoretically reasonable, empirically partially supported, and causally undetermined."** The core contribution of this paper is not to verify the hypothesis, but to explain why macro data cannot verify it, and to point out that future research requires enterprise-level micro data.
 
-**Keywords**: Policy Intervention; Structural Boundaries; Balance Sheet Recession; Market Clearing; Monetary Policy
+**Keywords**: Policy Intervention; Structural Boundaries; Balance Sheet Recession; Market Clearing; Macro Aggregation Bias
 
 **JEL Classification**: E52, E58, E61, G18
 
@@ -30,27 +30,50 @@ The ten rounds of regression present a structural contradiction: at the level of
 
 Over the past decade, monetary policy in major global economies has experienced an unprecedented cycle of expansion and contraction. The Federal Reserve implemented quantitative easing after the 2008 financial crisis, launched unlimited easing during the 2020 pandemic, and then sharply raised rates after 2022 to combat inflation. The People's Bank of China has cut reserve requirements and interest rates multiple times since 2020, but has kept policy rates unchanged since May 2025, with the Loan Prime Rate (LPR) remaining unadjusted for over fifteen consecutive months.
 
-This posture of "holding still" stands in sharp contrast to the frequent operations of other major central banks. The core question this paper seeks to answer is: Why have traditional interest rate tools become ineffective in the current environment? Why does the more actively policymakers intervene, the harder it becomes for the economy to return to a healthy track?
+This posture of "holding still" stands in sharp contrast to the frequent operations of other major central banks. The core question this paper seeks to answer is: **Why can macro-aggregated data not identify the quality of policy intervention?** This question is more fundamental than "why interest rate adjustment has failed." Because if even intervention quality cannot be identified, then any policy evaluation based on aggregate data lacks a reliable foundation.
 
-The core thesis of this paper is: policy intervention has reached its structural boundaries. When the private sector (households and firms) is actively repairing its balance sheet and credit demand continues to shrink, the monetary transmission mechanism has already broken down. Continued rate cuts cannot effectively stimulate the real economy; they only push up the prices of essential goods, accelerate capital outflow, and prolong the clearing cycle of inefficient capacity. The correct choice is not to intensify intervention, but to maintain resolve, allow the market to complete self-repair, and redirect fiscal resources from rescuing inefficient sectors to livelihood protection and productive investment.
+The core thesis of this paper is: policy intervention has reached its structural boundaries. When the private sector (households and firms) is actively repairing its balance sheet and credit demand continues to shrink, the monetary transmission mechanism has already broken down. Continued rate cuts cannot effectively stimulate the real economy; they only push up the prices of essential goods, accelerate capital outflow, and prolong the clearing cycle of inefficient capacity.
 
-The structure of this paper is as follows: Section III reviews relevant literature, Section IV establishes the theoretical framework, Section V diagnoses the structural distortion of current price signals, Section VI analyzes how policy intervention creates and sustains this distortion, Section VII provides international comparison, Section VIII reports the results of ten rounds of empirical testing and their failure reasons, Section IX proposes policy recommendations, and Section X concludes.
+However, this paper further finds: **macro-aggregated data cannot identify intervention quality.** The mixed results of ten rounds of regression—four directions consistent, four opposite, two not significant—do not stem from erroneous theoretical judgment, but from the systematic failure of macro data on structural problems. The core contribution of this paper is not to verify "ineffective intervention obstructs clearing," but to explain why macro data cannot verify it, and to propose a testable theoretical framework and distinguishing criteria.
+
+**The structure of this paper is as follows**: Section III reviews relevant literature and integrates three theoretical strands; Section IV establishes the theoretical framework, distinguishes "borrower-of-last-resort intervention" from "rescuing inefficient firms intervention," and provides distinguishing criteria; Section V diagnoses the structural distortion of current price signals; Section VI analyzes how policy intervention creates and sustains this distortion; Section VII provides international comparison; Section VIII reports the results of ten rounds of empirical testing and their failure reasons; Section IX discusses methodological implications and policy speculation; Section X concludes.
 
 ---
 
 ## III. Literature Positioning
 
-The theoretical foundation of this paper draws primarily from three academic traditions.
+The theoretical foundation of this paper draws primarily from three academic traditions. There are tensions among these three strands, and the task of this paper is not to eliminate the tension, but to use it to construct a more precise analytical framework.
 
-The first is **Hayek's theory of dispersed knowledge and price signals**. In "The Use of Knowledge in Society" (1945), Hayek pointed out that knowledge is dispersed among countless individuals, and no central planner can possess all information. The price mechanism is the only tool capable of integrating dispersed knowledge and transmitting true supply-demand information. Once administrative directives replace price signals, resource allocation loses its basis, and shortage and waste become inevitable. This theory provides the epistemological foundation for analyzing the structural boundaries of policy intervention.
+### 1. Hayek: Price Signals and Dispersed Knowledge
 
-The second is **Koo's (2008) balance sheet recession theory**. In studying Japan's economic stagnation after the 1990 bubble burst, Koo found that when asset price collapses severely damage household and corporate balance sheets, the behavioral objective of the private sector shifts from "profit maximization" to "debt minimization." At this point, even if interest rates fall to zero, firms and households will not borrow, but will use income to repay debt. The monetary transmission mechanism therefore breaks down, and the only effective policy tool is for the government to act as "borrower of last resort," converting private sector savings into demand through fiscal expenditure.
+In "The Use of Knowledge in Society" (1945), Hayek pointed out that knowledge is dispersed among countless individuals, and no central planner can possess all information. The price mechanism is the only tool capable of integrating dispersed knowledge and transmitting true supply-demand information. Once administrative directives replace price signals, resource allocation loses its basis, and shortage and waste become inevitable. This theory provides the epistemological foundation for analyzing the structural boundaries of policy intervention.
 
-The third is **Mises (1949) and Rothbard's (1963) analysis of soft budget constraints and the cumulative effects of interventionism**. They argued that government rescue of inefficient firms distorts market discipline and creates "moral hazard." Rescued firms know that losses can be shifted, so they lack incentive to improve efficiency. More seriously, intervention creates new problems, which demand more intervention, forming a cumulative cycle of "intervention-distortion-reintervention."
+### 2. Koo: Balance Sheet Recession and Borrower of Last Resort
 
-Domestic scholars have also extensively discussed the relationship between fiscal expenditure structure and economic efficiency. Wu Yanbing (2025) points out that China's fiscal expenditure has long been characterized by "heavy on physical capital, light on human capital," with investment in people significantly lower than in high-income countries. Increasing livelihood-oriented spending on education, healthcare, and social security helps form a virtuous cycle of "public education investment → human capital improvement → innovation vitality → economic quality improvement." Yu Yongze et al. (2020), based on prefecture-level city data, find that cities with higher fiscal autonomy tend to increase economic expenditures and compress social expenditures, and this "race to the bottom" weakens the positive impact of fiscal spending on technological progress. Xue Gang and Fu Mengyuan (2022) further point out that VAT sharing incentives drive local governments to increase production and construction investment while neglecting public livelihood areas, thereby reducing total factor productivity. These studies corroborate the core judgment of this paper: the structure of fiscal expenditure matters more than its total volume, and livelihood-oriented and productive spending is the source of efficiency.
+In studying Japan's economic stagnation after the 1990 bubble burst, Koo (2008) found that when asset price collapses severely damage household and corporate balance sheets, the behavioral objective of the private sector shifts from "profit maximization" to "debt minimization." At this point, even if interest rates fall to zero, firms and households will not borrow, but will use income to repay debt. The monetary transmission mechanism therefore breaks down, and the only effective policy tool is for the government to act as "borrower of last resort," converting private sector savings into demand through fiscal expenditure.
 
-The marginal contribution of this paper is to propose a testable theoretical framework and, through ten rounds of empirical testing, to honestly report its verification results—including non-significance, opposite directions, and partial support. This mixed result itself constitutes a methodological warning for subsequent research.
+### 3. Mises and Rothbard: Soft Budget Constraints and Cumulative Intervention
+
+Mises (1949) and Rothbard (1963) argued that government rescue of inefficient firms distorts market discipline and creates "moral hazard." Rescued firms know that losses can be shifted, so they lack incentive to improve efficiency. More seriously, intervention creates new problems, which demand more intervention, forming a cumulative cycle of "intervention-distortion-reintervention."
+
+### 4. Domestic Empirical Literature
+
+Domestic scholars have extensively discussed the relationship between fiscal expenditure structure and economic efficiency. Wu Yanbing (2025) points out that China's fiscal expenditure has long been characterized by "heavy on physical capital, light on human capital." Yu Yongze et al. (2020), based on prefecture-level city data, find that cities with higher fiscal autonomy tend to increase economic expenditures and compress social expenditures. Xue Gang and Fu Mengyuan (2022) further point out that VAT sharing incentives drive local governments to increase production and construction investment while neglecting public livelihood areas, thereby reducing total factor productivity.
+
+Regarding zombie firms, Tan Yuyan et al. (2017) find that zombie firms crowd out credit resources of normal firms, and Wang Yongqin et al. (2018) find that zombie firms reduce resource allocation efficiency. These studies corroborate the core judgment of this paper from the micro level: the structure of fiscal expenditure matters more than its total volume, and the existence of zombie firms crowds out efficient sectors.
+
+### 5. Macro Aggregation Bias Literature
+
+The discussion of aggregation bias in econometrics has a long history. Theil (1954) first systematically discussed the aggregation bias problem, and Pesaran (2006) further analyzed the treatment of common factors and heterogeneity in macro panels. The ten rounds of regression results in this paper are precisely the manifestation of aggregation bias on structural problems: macro data loses the key micro information of "budget constraint type."
+
+### 6. Integration and Tension of Three Strands
+
+Koo advocates active government intervention, while Hayek and Mises oppose intervention. This paper argues that this tension can be resolved by distinguishing two types of intervention:
+
+- **Borrower-of-last-resort intervention**: The government converts excess private sector savings into demand, used for livelihood protection, infrastructure, education, and science. This is intervention in Koo's sense.
+- **Rescuing inefficient firms intervention**: The government uses fiscal subsidies, bank rollovers, and administrative protection to sustain long-term loss-making firms that cannot repay debt through their own operations. This is intervention in Mises and Rothbard's sense.
+
+The core judgment of this paper is: **under fiscal constraints, the first type of intervention easily degenerates into the second type.** When local finances are tight, protecting livelihoods and protecting zombie firms form a zero-sum game. The empirical section of this paper attempts to test this judgment but finds that macro data cannot identify intervention quality.
 
 ---
 
@@ -77,11 +100,50 @@ Neither rate cuts nor rate hikes can solve the fundamental problem. The fundamen
 
 ### 3. Operationalization of Key Concepts
 
-**"Policy Intervention Intensity"**: Proxied by the ratio of local fiscal expenditure to GDP.
+**"Policy Intervention Intensity"**: Proxied by the ratio of local fiscal expenditure to GDP. However, this paper explicitly acknowledges that this variable is a broad indicator that simultaneously contains productive expenditure and ineffective intervention, and cannot distinguish intervention quality.
 
 **"Market Clearing Speed"**: Proxied by enterprise exit rate. The higher the exit rate, the faster the market eliminates inefficient firms, and the smoother the clearing.
 
 **"Zombie Firms"**: This paper follows the conventional definition, referring to firms that have been long-term loss-making, survive on external life support (bank loan rollovers, fiscal subsidies), and cannot repay debt through their own operations.
+
+### 4. Zero-Sum Game Between Good and Bad Intervention
+
+Under fiscal constraints, good intervention and bad intervention are not independent, but form a zero-sum game:
+
+```math
+\text{Fiscal Expenditure} = G_{\text{good}} + G_{\text{bad}}
+```
+
+```math
+G_{\text{bad}} \uparrow \Rightarrow G_{\text{good}} \downarrow \quad (\text{Fiscal Constraint})
+```
+
+```math
+G_{\text{bad}} \uparrow \Rightarrow \text{Credit Crowding Out} \Rightarrow \text{Private Investment} \downarrow
+```
+
+This formalized framework shows: the more bad intervention, the less good intervention; the more bad intervention, the weaker private firms. The two are highly collinear in macro data and cannot be separated.
+
+### 5. Distinguishing Criteria for Two Types of Intervention
+
+This paper proposes four operational distinguishing criteria for "borrower-of-last-resort intervention" and "rescuing inefficient firms intervention":
+
+1. **Whether firm restructuring is required**: Borrower-of-last-resort intervention usually comes with restructuring conditions; rescuing inefficient firms intervention usually does not require restructuring.
+2. **Whether market exit is permitted**: Borrower-of-last-resort intervention does not block firm bankruptcy; rescuing inefficient firms intervention blocks bankruptcy in the name of "stabilizing employment."
+3. **Whether resources are allocated at market prices**: Borrower-of-last-resort intervention allocates resources at market prices; rescuing inefficient firms intervention allocates credit and subsidies through administrative directives.
+4. **Whether an exit timetable is set**: Borrower-of-last-resort intervention has a clear exit mechanism; rescuing inefficient firms intervention continues indefinitely.
+
+### 6. Testable Propositions
+
+From the above framework, this paper proposes the following testable propositions:
+
+**P1**: The tighter the fiscal constraint, the stronger the crowding out of good intervention by bad intervention.
+
+**P2**: The higher the share of soft-budget-constraint firms, the greater the macro aggregation bias.
+
+**P3**: After controlling for provincial fixed effects, the bad intervention proxy variable remains significant for resource occupation indicators.
+
+**P4**: After clearing, private firm credit accessibility and livelihood expenditure improve.
 
 ---
 
@@ -147,15 +209,24 @@ Zombie firms are not the root of the problem but a symptom created by policy int
 
 The significance of the zombie firm case is: it proves where the boundaries of policy intervention lie. Intervention can temporarily delay clearing but cannot replace it. Intervention can maintain old structures but cannot create new momentum.
 
+### 5. Behavioral Difference Between Soft and Hard Budget Constraints
+
+Zombie firms (soft budget constraints) and private firms (hard budget constraints) have diametrically opposite behavioral logics:
+
+- **Private firms**: What they earn is theirs, what they lose is also theirs. They must respect the market, contract pro-cyclically, and go bankrupt when insolvent. Behavior is convergent, rational, and has a bottom line.
+- **Zombie firms**: What they earn is theirs, what they lose is the bank's and the local government's. They dare to maintain production regardless of cost, dare to roll over debt indefinitely. Behavior is divergent, irrational, and has no bottom line.
+
+When these two types of firms are mixed in the same macro data, the "real clearing" of private firms is offset by the "fake life support" of zombie firms, and the "profit orientation" of private firms is polluted by the "employment orientation" of zombie firms. The mixed results of the ten rounds of regression in this paper are precisely the econometric manifestation of this structural entanglement.
+
 ---
 
-## VII. International Mirror: Japan's Three Decades and the Fed's Farce
+## VII. International Mirror: Japan's Three Decades and the Fed's Regulatory Dilemma
 
 ### 1. Japan's Lesson
 
 After its 1990 bubble burst, Japan chose a policy combination of zero interest rates and fiscal stimulus. The greatest consequence of zero interest rates was not stimulating the economy but sustaining massive inefficient firms. Under zero interest rates, inefficient firms could borrow new to repay old at extremely low cost, without facing bankruptcy liquidation. The result was that Japan's economy lost its metabolic capacity. Emerging industries developed slowly in Japan, young people could not find promising jobs, and society fell into a "low-desire" state.
 
-### 2. The Fed's Farce
+### 2. The Fed's Regulatory Dilemma
 
 The Federal Reserve implemented unprecedented quantitative easing during the 2020 pandemic. But the loose monetary environment did not effectively flow into the real economy; instead, it flooded into financial markets, pushing up stock and real estate prices. After inflation surged in 2022, the Fed was forced to sharply raise rates. Rate hikes caused bond price collapses, and small and medium banks such as Silicon Valley Bank went bankrupt due to holding large amounts of long-term bonds.
 
@@ -340,53 +411,52 @@ The empirical section of this paper obtained a **partially supportive, partially
 
 **This mixed result itself constitutes a methodological warning: using macro-aggregated data to verify "ineffective intervention obstructs clearing" faces fundamental difficulties in methodology.** Enterprise-level micro data (such as the Chinese Industrial Enterprise Database) are needed, using "zombie firm asset share" as the explanatory variable and "enterprise exit rate" as the dependent variable, to conduct more rigorous testing.
 
+### 6. Econometric Model Limitations
+
+This paper uses provincial panel pooled OLS, without controlling for provincial fixed effects and year fixed effects, and without using instrumental variables, difference-in-differences, or regression discontinuity. This means the coefficients reported in this paper are correlations, not causal effects. Time-invariant differences across provinces (geographic location, resource endowments, historical industrial base) may severely contaminate the estimation results. This paper explicitly acknowledges this limitation in the conclusion and identifies it as a direction for future research.
+
 ---
 
-## IX. Policy Recommendations: Resolve, Clearing, and Livelihood Protection
+## IX. Methodological Implications and Policy Speculation
 
-### 1. Maintain Absolute Resolve on Benchmark Interest Rates
+### 1. Methodological Implications: Why Macro Data Cannot Identify Intervention Quality
 
-Policymakers should stop frequent adjustments to interest rates and maintain the benchmark rate at a stable level. This level should be set based on the economy's long-term potential growth rate and inflation target, not short-term economic fluctuations.
+The core methodological finding of this paper is: **macro-aggregated data cannot separate good intervention from bad intervention, because they form a zero-sum game in the data generation process.**
 
-Resolve is not passive inaction but an active choice not to conduct ineffective intervention. Under conditions where the monetary transmission mechanism has broken down, whether rates are adjusted or not has little impact on the real economy. Rather than frequent operations that create noise, it is better to remain silent and let the market repair itself.
+- Fiscal expenditure/GDP simultaneously contains good intervention and bad intervention;
+- Good intervention and bad intervention are in a zero-sum relationship under fiscal constraints;
+- The two are highly collinear in macro data, making independent effects impossible to identify;
+- Macro indicators cannot distinguish "good losses" from "bad losses," or "good debt" from "bad debt."
 
-### 2. Stop Administrative Intervention, Let the Market Clear Naturally
+This finding echoes the author's other paper, "On the Structural Source of Irreversibility—The Non-Injectivity of Macro Description and Its Epistemological Consequences": recovering micro states from macro descriptions is mathematically impossible. The ten rounds of regression in this paper are precisely the manifestation of this mathematical fact in econometrics.
 
-Policymakers should stop administrative protection of inefficient firms and let the market mechanism play its role of survival of the fittest.
+### 2. Policy Speculation: Based on Theoretical Judgment, Not Empirical Conclusion
 
-Specifically: no longer require banks to "extend all that can be extended" for loss-making firms; no longer use fiscal subsidies to sustain inefficient capacity; no longer block bankruptcy and restructuring in the name of "stabilizing employment." Let firms that should go bankrupt go bankrupt, let workers who should be laid off be laid off, let resources that should be released be released.
+The following policy speculations are based on the theoretical framework of this paper, not on empirical conclusions. The mixed results of the ten rounds of regression indicate that macro data cannot verify the empirical basis of these recommendations.
 
-This process will inevitably be accompanied by pain: firm closures, worker unemployment, bank bad debt exposure, and declining local fiscal revenue. But this is the necessary path for economic recovery.
+**First, maintain resolve on benchmark interest rates.** Under conditions where the monetary transmission mechanism has broken down, whether rates are adjusted or not has little impact on the real economy. Rather than frequent operations that create noise, it is better to remain silent and let the market repair itself.
 
-### 3. Fiscal Shift Toward Livelihood Protection and Productive Investment
+**Second, stop administrative intervention, let the market clear naturally.** No longer require banks to "extend all that can be extended" for loss-making firms; no longer use fiscal subsidies to sustain inefficient capacity; no longer block bankruptcy and restructuring in the name of "stabilizing employment." Let firms that should go bankrupt go bankrupt, let workers who should be laid off be laid off, let resources that should be released be released.
 
-Clearing will inevitably bring unemployment and income decline. If fiscal policy does not provide a safety net, society will face instability risks.
+**Third, fiscal shift toward livelihood protection and productive investment.** Clearing will inevitably bring unemployment and income decline. Fiscal policy should shift from "rescuing firms" to "protecting livelihoods" and "productive investment." Specific measures include: expanding unemployment insurance coverage and benefit levels; expanding low-income and medical assistance coverage; providing retraining for unemployed workers; issuing consumption subsidies to low-income households; and increasing productive expenditures in education, healthcare, science and technology, and infrastructure.
 
-Fiscal policy should shift from "rescuing firms" to "protecting livelihoods" and "productive investment." Specific measures include: expanding unemployment insurance coverage and benefit levels; expanding low-income and medical assistance coverage; providing retraining for unemployed workers; issuing consumption subsidies to low-income households; and increasing productive expenditures in education, healthcare, science and technology, and infrastructure.
+**Fourth, release new momentum.** The purpose of clearing is to allow resources to flow to high-efficiency sectors. Policymakers should lower market entry barriers, break administrative monopolies, protect property rights, uphold contracts, and enable private and innovative firms to obtain credit, land, and labor resources.
 
-The funding source for these measures is precisely the fiscal resources saved by stopping rescue of inefficient firms.
-
-### 4. Release New Momentum
-
-The purpose of clearing is to allow resources to flow to high-efficiency sectors. Policymakers should lower market entry barriers, break administrative monopolies, protect property rights, uphold contracts, and enable private and innovative firms to obtain credit, land, and labor resources.
-
-Only when new momentum grows can the unemployment and pain from clearing be absorbed, and can the economy achieve true recovery.
+**Important Statement**: The above policy speculations are based on theoretical judgment, not empirical conclusions. The ten rounds of regression in this paper cannot verify the empirical basis of these recommendations. Before micro data are available, these recommendations should be regarded as speculations that are "theoretically reasonable and empirically undetermined."
 
 ---
 
 ## X. Conclusion
 
-The core conclusion of this paper is: under the dual background of balance sheet recession and cumulative effects of policy intervention, monetary policy has reached its structural boundaries. Continued rate cuts cannot stimulate the real economy but will exacerbate resource misallocation and wealth distribution distortion; rate hikes may trigger debt chain breaks and systemic risk. The question facing policymakers is not "how to adjust" but "whether to admit that adjustment has failed."
+The core viewpoint of this paper is not "intervention obstructs clearing," but rather: **zombie firms do not respect the market, yet they dominate the market.**
 
-**The theoretical framework of this paper argues for the mechanism of "ineffective intervention obstructs clearing." The empirical section obtained mixed results**: among ten rounds of regression, four directions were consistent with expectations, four were opposite, and two were not significant. This mixed result does not stem from erroneous theoretical judgment, but from the structural limitations of macro-aggregated data—the mixing of good and bad intervention, reverse causality and omitted variables, and the inability of macro indicators to distinguish "good losses" from "bad losses."
+The reason why behavior that does not respect the market can persist for so long is that what they lose is not their own money. What they earn is theirs; what they lose is the bank's and the local government's. Private firms face hard budget constraints, bear their own losses, and exit when insolvent; zombie firms face soft budget constraints, with losses borne by banks and fiscal authorities, and can survive long-term losses. The two types of firms follow completely opposite behavioral logics. Mixing them in the same macro data for regression yields coefficients that have no economic meaning. Data confusion is precisely the econometric manifestation of this structural entanglement.
 
-**Therefore, the core contribution of this paper is to propose a testable theoretical framework and to honestly report its verification results—including non-significance, opposite directions, and partial support.** Before data availability improves, "ineffective intervention obstructs clearing" should be regarded as a hypothesis that is "theoretically reasonable, empirically partially supported, and causally undetermined."
+Economic stagnation is the inevitable result of long-term resource misallocation.
 
-The correct choice is not to intensify intervention, but to maintain resolve, stop ineffective intervention, and let the market complete clearing. At the same time, fiscal policy should shift from rescuing inefficient sectors to livelihood protection and productive investment, creating social conditions for clearing.
+The recommendation: the government should protect livelihoods, reduce low-interest-rate blood transfusions to long-term indebted zombie firms, and let the market gradually return to a track dominated by high-efficiency sectors. This process will inevitably be accompanied by short-term pain for local governments, but this is a necessary cost.
 
-The limitation of this paper is that the empirical sample still has room for expansion, and the proxy variable cannot fully distinguish between productive expenditure and ineffective intervention. Future research can construct larger-scale provincial panel data and split fiscal expenditure into "livelihood-oriented expenditure" and "stability-maintenance subsidies" to conduct more rigorous tests of the theoretical propositions.
-
-**But even without a more refined econometric model, the question this paper raises is still worth deep consideration by policymakers: when interest rate adjustment has reached its structural boundaries, does continuing to "press buttons" still make sense? Protecting livelihoods and promoting the economy is the right direction, but it must be accompanied by a decisive halt to life-support for inefficient sectors. This is the real way out.**
+**The limitation of this paper is clear: macro data cannot verify these judgments. But where data is silent, logic and common sense must speak.**
 
 ---
 
@@ -396,7 +466,7 @@ The core hypothesis (H1) of this paper must be revised or abandoned if any of th
 
 1. If future research uses enterprise-level micro data, with "zombie firm asset share" as the explanatory variable and "enterprise exit rate" as the dependent variable, and obtains a significant negative correlation after controlling for endogeneity, then H1 is supported.
 2. If a positive or non-significant correlation is obtained, then H1 requires revision or abandonment.
-3. If China achieves spontaneous rapid economic recovery without large-scale clearing (total factor productivity growth returning above 2%), then both H1 and H2 require re-examination.
+3. If China achieves spontaneous rapid economic recovery without large-scale clearing (total factor productivity growth returning above 2% for five consecutive years), then both H1 and H2 require re-examination.
 4. Applicability Statement: The framework of this paper applies to conditions where "external input shocks" and "internal structural predicaments" coexist, not to pure short-term demand deficiency.
 
 ---
@@ -429,6 +499,16 @@ The core hypothesis (H1) of this paper must be revised or abandoned if any of th
 
 [13] Xue, G., & Fu, M. (2022). Tax Sharing, Fiscal Expenditure Structure, and Total Factor Productivity. *Taxation Research*.
 
+[14] Tan, Y., et al. (2017). The Investment Crowding-Out Effect of Zombie Firms: Evidence from Chinese Industrial Enterprises. *Economic Research Journal*.
+
+[15] Wang, Y., et al. (2018). How Do Zombie Firms Affect Corporate Innovation? *Economic Research Journal*.
+
+[16] Theil, H. (1954). *Linear Aggregation of Economic Relations*. North-Holland.
+
+[17] Pesaran, M. H. (2006). Estimation and Inference in Large Heterogeneous Panels with a Multifactor Error Structure. *Econometrica*, 74(4), 967-1012.
+
+[18] Zhong, S. (2026). *On the Structural Source of Irreversibility—The Non-Injectivity of Macro Description and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+
 ---
 
 ## XIII. Data Availability Statement
@@ -447,4 +527,4 @@ The author declares that there are no conflicts of interest that could affect th
 
 **Suggested Citation (APA Format)**:
 
-Zhong, S. (2026). *Resolve and Clearing: On the Structural Boundaries of Policy Intervention — An Analysis Based on Balance Sheet Recession and Monetary Transmission Mechanism* (Version 2.0). Equal System Repository.
+Zhong, S. (2026). *Resolve and Clearing: On the Structural Boundaries of Policy Intervention — An Analysis Based on Balance Sheet Recession and Monetary Transmission Mechanism* (Version 3.0). Equal System Repository.
