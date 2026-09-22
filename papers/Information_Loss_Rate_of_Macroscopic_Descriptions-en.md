@@ -91,18 +91,14 @@ Section III defines the information loss rate and its properties, and discusses 
 
 **Definition 1 (Information Loss Rate)**:
 
-```
-
-D_f = H(Ω | M') / H(Ω)
-
+```math
+D_f = \frac{H(\Omega \mid M')}{H(\Omega)}
 ```
 
 **Definition 2 (Information Retention Rate)**:
 
-```
-
-R_f = 1 - D_f = I(Ω; M') / H(Ω)
-
+```math
+R_f = 1 - D_f = \frac{I(\Omega; M')}{H(\Omega)}
 ```
 
 ### 3. Basic Properties
@@ -192,10 +188,8 @@ The inverse-inference problem—recovering the microscopic state `Ω` from the m
 
 Let source `Ω` have probability distribution `p`, and let the distortion measure be `d: Ω × Ω → R≥0`. The rate-distortion function is defined as:
 
-```
-
-R(D) = min_{q(y|x): E[d(X,Y)] ≤ D} I(X; Y)
-
+```math
+R(D) = \min_{q(y|x): \mathbb{E}[d(X,Y)] \le D} I(X; Y)
 ```
 
 **Property (Monotonicity of the rate-distortion function)**: `R(D)` is strictly decreasing on `[0, D_max]`.
@@ -206,10 +200,8 @@ R(D) = min_{q(y|x): E[d(X,Y)] ≤ D} I(X; Y)
 
 Let `h: M' → Ω` be an inverse-inference mapping, and let the inverse-inference error be `ε(h) = E[d(X, h(M'))]`. Then:
 
-```
-
-ε(h) ≥ R⁻¹(I(Ω; M'))
-
+```math
+\varepsilon(h) \ge R^{-1}\bigl(I(\Omega; M')\bigr)
 ```
 
 **Proof**: See Appendix A.
@@ -224,10 +216,8 @@ Let `h: M' → Ω` be an inverse-inference mapping, and let the inverse-inferenc
 
 Let `Ω` be a finite set, `|Ω| = K`, `d(x,y) = 1_{x ≠ y}` be Hamming distortion, and `P_e = ε(h)` be the error probability. Then:
 
-```
-
-H(Ω|M') ≤ H_b(P_e) + P_e · log₂(K - 1)
-
+```math
+H(\Omega \mid M') \le H_b(P_e) + P_e \cdot \log_2(K - 1)
 ```
 
 **Limitation of Fano's bound**: When `K` is very large, `P_e^min` tends to a constant of about 0.5, while the true optimal error may tend to 1. In practical applications, one should directly use the rate-distortion lower bound `R⁻¹(I(Ω;M'))`.
@@ -240,10 +230,8 @@ H(Ω|M') ≤ H_b(P_e) + P_e · log₂(K - 1)
 
 **Rate-distortion function**: For uniform distribution `p(x) = 1/K`,
 
-```
-
-R(D) = log₂ K - H_b(D) - D · log₂(K - 1),  0 ≤ D ≤ 1 - 1/K
-
+```math
+R(D) = \log_2 K - H_b(D) - D \cdot \log_2(K - 1), \quad 0 \le D \le 1 - 1/K
 ```
 
 **Inverse function `R⁻¹`**: Solved numerically.
@@ -252,28 +240,22 @@ R(D) = log₂ K - H_b(D) - D · log₂(K - 1),  0 ≤ D ≤ 1 - 1/K
 
 **Rate-distortion function**:
 
-```
-
-R(D) = (1/2) log₂(σ² / D),  0 ≤ D ≤ σ²
-
+```math
+R(D) = \frac{1}{2} \log_2\left(\frac{\sigma^2}{D}\right), \quad 0 \le D \le \sigma^2
 ```
 
 **Analytic inverse function**:
 
-```
-
-R⁻¹(I) = σ² · 2^(-2I)
-
+```math
+R^{-1}(I) = \sigma^2 \cdot 2^{-2I}
 ```
 
 ### 3. Gaussian Source + Gaussian Channel (Vector Case)
 
 **Rate-distortion function**:
 
-```
-
-R(D) = Σ_{i=1}^{n} (1/2) log₂(λ_i / θ)
-
+```math
+R(D) = \sum_{i=1}^{n} \frac{1}{2} \log_2\left(\frac{\lambda_i}{\theta}\right)
 ```
 
 **Inverse function `R⁻¹`**: Solved numerically.
@@ -303,11 +285,12 @@ Let `M' = {a, b}`, with the aggregation mapping:
 
 **Information loss rate**:
 
+```math
+H(\Omega|M') = \log_2 K
 ```
 
-H(Ω|M') = log₂ K
-D_f = log₂ K / log₂(2K)
-
+```math
+D_f = \frac{\log_2 K}{\log_2(2K)}
 ```
 
 ### 2. Numerical Table
@@ -447,7 +430,7 @@ This is a **normative question**, not a descriptive one. The threshold depends o
 
 **Definition (Local Mathematical Analogy)**: Two domains `A` and `B` constitute a local mathematical analogy on problem `P` if and only if:
 
-1. Both `A` and `B` can be modeled using the same set of mathematical objects `(Ω, M', g∘f, p, d)`.
+1. Both `A` and `B` can be modeled using the same set of mathematical objects `(Ω, M', g ∘ f, p, d)`.
 2. `D_f` and `ε_min` in `A` and `B` satisfy the same set of theorems.
 3. There is **no requirement** that a bijection exist between the `Ω` of `A` and the `Ω` of `B`.
 4. There is **no requirement** that the `Ω` of `A` and `B` satisfy the same set of axioms.
@@ -602,26 +585,20 @@ The core results of this paper are six:
 
 **Step Two (Data Processing Inequality)**:
 
-```
-
-I(Ω; h(M')) ≤ I(Ω; M')
-
+```math
+I(\Omega; h(M')) \le I(\Omega; M')
 ```
 
 **Step Three (Definition of Rate-Distortion Function)**: By the definition of the rate-distortion function, any reconstruction channel `q` satisfying `E[d(X,Y)] ≤ ε` must have `I(X;Y) ≥ R(ε)`. Therefore:
 
-```
-
-R(ε(h)) ≤ I(Ω; h(M')) ≤ I(Ω; M')
-
+```math
+R(\varepsilon(h)) \le I(\Omega; h(M')) \le I(\Omega; M')
 ```
 
 **Step Four (Inverse Function)**: Since `R` is strictly decreasing on `[0, D_max]`, its inverse `R⁻¹` exists and is also decreasing. Therefore:
 
-```
-
-ε(h) ≥ R⁻¹(I(Ω; M'))
-
+```math
+\varepsilon(h) \ge R^{-1}(I(\Omega; M'))
 ```
 
 Q.E.D.
