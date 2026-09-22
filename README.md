@@ -164,6 +164,7 @@ Equal System — 平等制
 | [经验世界，永恒真理（学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
 | [论不可逆性的结构性来源（学术版）](papers/Structural_Source_of_Irreversibility-cn.md) | [On the Structural Source of Irreversibility (Academic Version)](papers/Structural_Source_of_Irreversibility-en.md) |
 | [信息丢失的一个后果（学术版）](papers/InfoLoss_CommonOrigin-cn.md) | [One Consequence of Information Loss (Academic Version)](papers/InfoLoss_CommonOrigin-en.md) |
+| [宏观描述的信息损失率（学术版）](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-cn.md) | [Information Loss Rate of Macroscopic Descriptions (Academic Version)](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-en.md) |
 | [拒绝哲学论（学术版）](papers/The_Philosophy_of_Refusal-cn.md) | [The Philosophy of Refusal (Academic Version)](papers/The_Philosophy_of_Refusal-en.md) |
 | [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
 | [哲学家死亡的缺失感（学术版）](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers (Academic Version)](papers/death-of-philosophers-en.md) |
