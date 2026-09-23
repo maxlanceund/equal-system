@@ -1,14 +1,14 @@
-# Strong State, Relaxed People? Fiscal Intermediation and Structural Transmission
+# Strong State, Tired People: Fiscal Intermediation and Structural Transmission
 
 ## — A Research Agenda
 
 | Item | Content |
 | :--- | :--- |
-| **Title** | Strong State, Relaxed People? Fiscal Intermediation and Structural Transmission — A Research Agenda |
+| **Title** | Strong State, Tired People: Fiscal Intermediation and Structural Transmission — A Research Agenda |
 | **Author** | Zhong Shanzhen |
 | **Date** | 2026-09-23 (Sixth Edition) |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | Strong state and relaxed people, fiscal intermediation, geographic connection costs, structural transmission, research agenda |
+| **Keywords** | Strong state and tired people, fiscal intermediation, geographic connection costs, structural transmission, research agenda |
 
 ---
 
@@ -24,7 +24,7 @@ Among the four rigid expenditures, this paper focuses on **geographic connection
 
 The methodological positioning of this paper is: **this is a theoretical paper, not an empirical paper.** It does not conduct causal inference, does not attempt to prove any hypothesis, and only proposes a testable framework and a set of operational research questions. Causal statements herein should be understood as "structural tendencies," not cross-temporal deterministic laws.
 
-**Keywords**: Strong state and relaxed people; fiscal intermediation; geographic connection costs; structural transmission; research agenda
+**Keywords**: Strong state and tired people; fiscal intermediation; geographic connection costs; structural transmission; research agenda
 
 **JEL Classification**: H53, H60, I38, P52
 
@@ -166,7 +166,7 @@ The binary distinction in this paper is only a starting point.
 
 China possesses none of these three conditions. This is not the result of "sovereign autonomous choice," but a **structural constraint**. However, this judgment requires future research to test.
 
-### 5. Methodological Notes
+### 5. Methodological Note
 
 **The positioning of this paper is a research agenda, not an empirical paper.** Therefore, this paper does not conduct causal inference or attempt to prove any hypothesis. The methodological strategy is:
 
@@ -419,4 +419,4 @@ A 3% social discount rate is adopted (referencing IMF (2020) "Public Investment 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Strong State, Relaxed People? Fiscal Intermediation and Structural Transmission — A Research Agenda* (Version 6.0). Equal System Repository.
+Zhong, S. (2026). *Strong State, Tired People: Fiscal Intermediation and Structural Transmission — A Research Agenda* (Version 6.0). Equal System Repository.
