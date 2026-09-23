@@ -1,10 +1,10 @@
 # One Consequence of Information Loss
 
-## ——On the Common Origin of the Unification Program and the Arrow of Time
+## — On the Common Origin of the Unification Program and the Arrow of Time
 
 | Item | Content |
 | :--- | :--- |
-| **Title** | One Consequence of Information Loss——On the Common Origin of the Unification Program and the Arrow of Time |
+| **Title** | One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time |
 | **Author** | Zhong Shanzhen |
 | **Date** | 2026-09-20 |
 | **License** | CC BY-NC 4.0 |
@@ -16,20 +16,20 @@
 
 This paper proposes a unified formal framework to address two seemingly independent problems: **the predicament of the physics unification program** and **the origin of the arrow of time**. It argues that these two problems are not two problems, but **two manifestations of one and the same problem**.
 
-That one problem is: **information loss caused by the non-injectivity of the composite projection `g \circ f: \Omega \to M'`.**
+That one problem is: **information loss caused by the non-injectivity of the composite projection g ∘ f: Ω → M′.**
 
-Information loss has only one consequence: **the coarse-grained macro description `M'` is incomplete.**
+Information loss has only one consequence: **the coarse-grained macro description M′ is incomplete.**
 
-**Why one consequence, not two?** Because in physical situations, the macro description we possess is always coarse-grained, i.e., `M'` rather than `M`. Therefore, both the impossibility of reverse inference and the arrow of time depend on the non-injectivity of the composite projection `g \circ f`, not separately on the non-injectivity of `f` and `g`. They have one and the same structural origin.
+**Why one consequence, not two?** Because in physical situations, the macro description we possess is always coarse-grained, i.e., M′ rather than M. Therefore, both the impossibility of reverse inference and the arrow of time depend on the non-injectivity of the composite projection g ∘ f, not separately on the non-injectivity of f and g. They have one and the same structural origin.
 
-**It must be explicitly acknowledged**: this claim of “one consequence” is a **physical claim**, not a formal claim. It relies on a physical fact: for macro systems treated by statistical mechanics, the complete macro description `M` is practically unavailable. At the formal level, the two manifestations may separate. But in physical situations, they merge.
+**It must be explicitly acknowledged**: this claim of "one consequence" is a **physical claim**, not a formal claim. It relies on a physical fact: for macro systems treated by statistical mechanics, the complete macro description M is practically unavailable. At the formal level, the two manifestations may separate. But in physical situations, they merge.
 
-**On the precision of “identity”**: this paper does not claim that “the impossibility of reverse inference” and “the arrow of time” are one and the same phenomenon. It claims that they have one and the same structural origin—the non-injectivity of the composite projection `g \circ f`. This distinction is important: they are not the same fact, but two manifestations of the same fact.
+**On the precision of "identity"**: this paper does not claim that "the impossibility of reverse inference" and "the arrow of time" are one and the same phenomenon. It claims that they have one and the same structural origin — the non-injectivity of the composite projection g ∘ f. This distinction is important: they are not the same fact, but two manifestations of the same fact.
 
 This incompleteness has two manifestations:
 
-1. **Epistemic manifestation**: from the coarse-grained macro description `M'`, one cannot exactly recover the micro state. Therefore, reverse inference from quantum mechanics and general relativity to a unified theory is structurally impossible.
-2. **Dynamical manifestation**: the coarse-grained macro description `M'` cannot distinguish the direction of time. Therefore, the arrow of time is descriptive, not dynamical.
+1. **Epistemic manifestation**: from the coarse-grained macro description M′, one cannot exactly recover the micro state. Therefore, reverse inference from quantum mechanics and general relativity to a unified theory is structurally impossible.
+2. **Dynamical manifestation**: the coarse-grained macro description M′ cannot distinguish the direction of time. Therefore, the arrow of time is descriptive, not dynamical.
 
 These two manifestations are not two independent consequences, but two sides of the same incompleteness.
 
@@ -49,7 +49,7 @@ There are two persistent problems in physics:
 
 Mainstream discussions treat these as independent problems. This paper argues that they are **one and the same problem**.
 
-That one problem is: **information loss caused by the non-injectivity of the composite projection `g \circ f: \Omega \to M'`.**
+That one problem is: **information loss caused by the non-injectivity of the composite projection g ∘ f: Ω → M′.**
 
 ### 2. Core Theses
 
@@ -62,18 +62,18 @@ The core theses of this paper can be summarized as:
 
 The first three concern the arrow of time; the fourth concerns the unification program. They are not four independent theses, but **four formulations of one and the same structural fact**.
 
-That structural fact is: **the composite projection `g \circ f` is incomplete (non-injective).**
+That structural fact is: **the composite projection g ∘ f is incomplete (non-injective).**
 
 ### 3. Why One Consequence, Not Two
 
-A natural objection: this paper involves two non-injective projections—`f: \Omega \to M` and `g: M \to M'`. Since there are two projections, why not say there are two consequences?
+A natural objection: this paper involves two non-injective projections — f: Ω → M and g: M → M′. Since there are two projections, why not say there are two consequences?
 
-**Answer**: because in physical situations, the macro description we possess is always coarse-grained, i.e., `M'` rather than `M`. Therefore, both manifestations depend on the non-injectivity of the composite projection `g \circ f`.
+**Answer**: because in physical situations, the macro description we possess is always coarse-grained, i.e., M′ rather than M. Therefore, both manifestations depend on the non-injectivity of the composite projection g ∘ f.
 
-**Physicists possess `M'`, not `M`.**
+**Physicists possess M′, not M.**
 
-- `M` is the complete macro state space. For example, the complete N-body distribution function, or the complete quantum state.
-- `M'` is the coarse-grained macro state space. For example, temperature, pressure, fluid velocity, or any practically observable macro quantity.
+- M is the complete macro state space. For example, the complete N-body distribution function, or the complete quantum state.
+- M′ is the coarse-grained macro state space. For example, temperature, pressure, fluid velocity, or any practically observable macro quantity.
 
 **This claim requires careful argument.**
 
@@ -81,30 +81,30 @@ A natural objection: this paper involves two non-injective projections—`f: \Om
 
 It relies on the definition of macro systems treated by statistical mechanics:
 
-- A macro system is by definition a system with an extremely large number of particles. For such a system, the complete `M` (position and momentum of every particle) is practically unavailable. The information required to store `M` grows exponentially with particle number.
-- Even if `M` could in principle be obtained, in the coarse-graining framework of statistical mechanics, macro description is by definition coarse-grained description. Temperature, pressure, and fluid velocity are coarse-grained quantities; they belong to `M'`, not `M`.
-- “Possessing `M`” means possessing the information of every micro state. But this contradicts the definition of macro description: macro description is precisely description that ignores micro details.
+- A macro system is by definition a system with an extremely large number of particles. For such a system, the complete M (position and momentum of every particle) is practically unavailable. The information required to store M grows exponentially with particle number.
+- Even if M could in principle be obtained, in the coarse-graining framework of statistical mechanics, macro description is by definition coarse-grained description. Temperature, pressure, and fluid velocity are coarse-grained quantities; they belong to M′, not M.
+- "Possessing M" means possessing the information of every micro state. But this contradicts the definition of macro description: macro description is precisely description that ignores micro details.
 
 **This claim does not apply to all systems.**
 
-- In classical mechanics, if a system has only a few particles, physicists can in principle know the position and momentum of every particle. This can be regarded as possessing `M`.
-- In quantum mechanics, if a system is in a pure state, physicists can in principle know the complete quantum state. This can be regarded as possessing `M`.
+- In classical mechanics, if a system has only a few particles, physicists can in principle know the position and momentum of every particle. This can be regarded as possessing M.
+- In quantum mechanics, if a system is in a pure state, physicists can in principle know the complete quantum state. This can be regarded as possessing M.
 
-But the macro systems treated by statistical mechanics are systems with extremely large particle numbers. For such systems, `M` is practically unavailable. Therefore, the “one consequence” claim of this paper applies to macro systems treated by statistical mechanics, not to all systems.
+But the macro systems treated by statistical mechanics are systems with extremely large particle numbers. For such systems, M is practically unavailable. Therefore, the "one consequence" claim of this paper applies to macro systems treated by statistical mechanics, not to all systems.
 
 **Distinction between formal and physical levels**:
 
-- **Formal level**: the two manifestations may separate. If `f` is injective but `g` is not, then reverse inference from `M` is possible, but reverse inference from `M'` is not. The arrow of time still exists.
-- **Physical level**: the two manifestations merge. Because for macro systems treated by statistical mechanics, `M` is practically unavailable.
+- **Formal level**: the two manifestations may separate. If f is injective but g is not, then reverse inference from M is possible, but reverse inference from M′ is not. The arrow of time still exists.
+- **Physical level**: the two manifestations merge. Because for macro systems treated by statistical mechanics, M is practically unavailable.
 
 Therefore:
 
-- **Impossibility of reverse inference** depends on the non-injectivity of `g \circ f`. Because from `M'` one cannot recover `\Omega`.
-- **Arrow of time** also depends on the non-injectivity of `g \circ f`. Because from `M'` one cannot distinguish the direction of time.
+- **Impossibility of reverse inference** depends on the non-injectivity of g ∘ f. Because from M′ one cannot recover Ω.
+- **Arrow of time** also depends on the non-injectivity of g ∘ f. Because from M′ one cannot distinguish the direction of time.
 
 They have one and the same structural origin.
 
-**Conclusion**: information loss has only one consequence—the composite projection `g \circ f` is incomplete. This incompleteness has two sides, but they are two sides of the same incompleteness. This claim is a physical claim, applicable to macro systems treated by statistical mechanics.
+**Conclusion**: information loss has only one consequence — the composite projection g ∘ f is incomplete. This incompleteness has two sides, but they are two sides of the same incompleteness. This claim is a physical claim, applicable to macro systems treated by statistical mechanics.
 
 ### 4. An Overlooked Presupposition
 
@@ -126,15 +126,15 @@ This paper argues that macro description cannot be complete. This is a structura
 
 ### 5. Enemies and Allies
 
-**Enemies**: two presuppositions—“the arrow of time needs to be explained” and “a unified theory can be obtained by reverse inference.” These are two versions of the same presupposition: macro description can be complete.
+**Enemies**: two presuppositions — "the arrow of time needs to be explained" and "a unified theory can be obtained by reverse inference." These are two versions of the same presupposition: macro description can be complete.
 
 **Allies**:
 
-- **Gibbs (1902)**: coarse-grained entropy is time-symmetric. In *Elementary Principles in Statistical Mechanics*, Gibbs explicitly distinguished “coarse-grained” from “fine-grained” description and pointed out that coarse-grained entropy does not increase with time.
+- **Gibbs (1902)**: coarse-grained entropy is time-symmetric. In *Elementary Principles in Statistical Mechanics*, Gibbs explicitly distinguished "coarse-grained" from "fine-grained" description and pointed out that coarse-grained entropy does not increase with time.
 - **Jaynes (1957)**: the arrow of time arises from incomplete knowledge. In *Information Theory and Statistical Mechanics*, Jaynes proposed that the probability distribution in statistical mechanics reflects our incomplete knowledge of the system.
 - **Price (1996)**: the arrow of time cannot be presupposed. In *Time's Arrow and Archimedes' Point*, Price argued that time-symmetric micro laws cannot explain time-asymmetric macro phenomena unless a time-asymmetric initial condition is presupposed.
 
-The contribution of this paper is to formalize “incomplete knowledge” in a non-injectivity framework and to argue that the predicament of the unification program and the origin of the arrow of time have one and the same structural origin.
+The contribution of this paper is to formalize "incomplete knowledge" in a non-injectivity framework and to argue that the predicament of the unification program and the origin of the arrow of time have one and the same structural origin.
 
 ---
 
@@ -142,21 +142,21 @@ The contribution of this paper is to formalize “incomplete knowledge” in a n
 
 ### 1. Basic Setup
 
-Let the micro state space be `\Omega`, and the macro state space be `M`.
+Let the micro state space be Ω, and the macro state space be M.
 
-**Definition 1 (aggregation map)**: an aggregation map `f: \Omega \to M` is a map.
+**Definition 1 (aggregation map)**: an aggregation map f: Ω → M is a map.
 
-**Definition 2 (incomplete)**: the composite projection `g \circ f: \Omega \to M'` is **incomplete** if and only if `g \circ f` is not injective. That is, there exist `x_1 \neq x_2` such that `(g \circ f)(x_1) = (g \circ f)(x_2)`.
+**Definition 2 (incomplete)**: the composite projection g ∘ f: Ω → M′ is **incomplete** if and only if g ∘ f is not injective. That is, there exist x₁ ≠ x₂ such that (g ∘ f)(x₁) = (g ∘ f)(x₂).
 
-**Remark**: this definition is precise. “Incomplete” is not a vague metaphor, but a synonym for “non-injective.” It is defined on the composite projection, not on a single projection.
+**Remark**: this definition is precise. "Incomplete" is not a vague metaphor, but a synonym for "non-injective." It is defined on the composite projection, not on a single projection.
 
-**Definition 3 (fiber)**: for each `y \in M`, the fiber of `y` under `f` is
+**Definition 3 (fiber)**: for each y ∈ M, the fiber of y under f is
 
 ```math
 f^{-1}(y) = \{x \in \Omega : f(x) = y\}.
 ```
 
-For each `z \in M'`, the fiber of `z` under `g \circ f` is
+For each z ∈ M′, the fiber of z under g ∘ f is
 
 ```math
 (g \circ f)^{-1}(z) = \{x \in \Omega : (g \circ f)(x) = z\}.
@@ -164,17 +164,17 @@ For each `z \in M'`, the fiber of `z` under `g \circ f` is
 
 ### 2. Micro Dynamics
 
-Let there be an evolution family `\{U_t\}_{t \in \mathbb{R}}` on `\Omega`, where `U_t: \Omega \to \Omega` is a bijection and satisfies:
+Let there be an evolution family {Uₜ} on Ω, where t ∈ ℝ and Uₜ: Ω → Ω is a bijection satisfying:
 
 ```math
 U_0 = \mathrm{id}_\Omega, \qquad U_{t+s} = U_t \circ U_s.
 ```
 
-Micro evolution is fully reversible: `U_t^{-1} = U_{-t}` exists.
+Micro evolution is fully reversible: Uₜ⁻¹ = U₋ₜ exists.
 
 ### 3. Induced Macro Dynamics
 
-**Definition 4 (induced macro dynamics)**: the induced macro evolution family `\{T_t\}` is defined by the commuting relation:
+**Definition 4 (induced macro dynamics)**: the induced macro evolution family {Tₜ} is defined by the commuting relation:
 
 ```math
 f \circ U_t = T_t \circ f.
@@ -190,9 +190,9 @@ M & \xrightarrow{T_t} & M
 \end{array}
 ```
 
-**Key observation**: the induced macro dynamics `T_t` is fully reversible.
+**Key observation**: the induced macro dynamics Tₜ is fully reversible.
 
-**Proof**: by the commuting relation, for any `t`,
+**Proof**: by the commuting relation, for any t,
 
 ```math
 f \circ U_{-t} = T_{-t} \circ f.
@@ -204,7 +204,7 @@ Therefore
 T_t \circ T_{-t} \circ f = T_t \circ f \circ U_{-t} = f \circ U_t \circ U_{-t} = f \circ \mathrm{id}_\Omega = f.
 ```
 
-If `f` is surjective, then `T_t \circ T_{-t} = \mathrm{id}_M`. Hence `T_t` is reversible.
+If f is surjective, then Tₜ ∘ T₋ₜ = id_M. Hence Tₜ is reversible.
 
 **Conclusion**: induced macro dynamics is fully reversible. The arrow of time is not in induced macro dynamics.
 
@@ -216,32 +216,32 @@ The core structure of this paper is a **projection chain**:
 \Omega \xrightarrow{f} M \xrightarrow{g} M'.
 ```
 
-**First layer**: `f: \Omega \to M`. Projection from micro state space to complete macro state space.
+**First layer**: f: Ω → M. Projection from micro state space to complete macro state space.
 
-**Second layer**: `g: M \to M'`. Projection from complete macro state space to coarse-grained macro state space.
+**Second layer**: g: M → M′. Projection from complete macro state space to coarse-grained macro state space.
 
-**Composite**: `g \circ f: \Omega \to M'`. Projection from micro state space to coarse-grained macro state space.
+**Composite**: g ∘ f: Ω → M′. Projection from micro state space to coarse-grained macro state space.
 
-**Physicists possess `M'`, not `M`.**
+**Physicists possess M′, not M.**
 
-This is the core physical observation of this paper. For macro systems treated by statistical mechanics, the complete macro description `M` is practically unavailable. What physicists possess is always the coarse-grained macro description `M'`.
+This is the core physical observation of this paper. For macro systems treated by statistical mechanics, the complete macro description M is practically unavailable. What physicists possess is always the coarse-grained macro description M′.
 
 **Why does this matter?**
 
-If physicists possessed `M`, then when `f` is injective, reverse inference would be possible. But physicists possess `M'`. From `M'`, reverse inference depends on the non-injectivity of `g \circ f`, not separately on the non-injectivity of `f`.
+If physicists possessed M, then when f is injective, reverse inference would be possible. But physicists possess M′. From M′, reverse inference depends on the non-injectivity of g ∘ f, not separately on the non-injectivity of f.
 
-Therefore, both the impossibility of reverse inference and the arrow of time depend on the non-injectivity of `g \circ f`. They have one and the same structural origin.
+Therefore, both the impossibility of reverse inference and the arrow of time depend on the non-injectivity of g ∘ f. They have one and the same structural origin.
 
 **Distinction between formal and physical levels**:
 
-- **Formal level**: the two manifestations may separate. For example, `f` is injective but `g` is not. Then reverse inference from `M` is possible, but reverse inference from `M'` is not. The arrow of time still exists.
-- **Physical level**: the two manifestations merge. Because for macro systems treated by statistical mechanics, `M` is practically unavailable.
+- **Formal level**: the two manifestations may separate. For example, f is injective but g is not. Then reverse inference from M is possible, but reverse inference from M′ is not. The arrow of time still exists.
+- **Physical level**: the two manifestations merge. Because for macro systems treated by statistical mechanics, M is practically unavailable.
 
-The “one consequence” claim of this paper is a **physical claim**, applicable to macro systems treated by statistical mechanics.
+The "one consequence" claim of this paper is a **physical claim**, applicable to macro systems treated by statistical mechanics.
 
 ### 5. Physical Macro Dynamics
 
-Physical macro dynamics `T'_t` is defined by the commuting relation:
+Physical macro dynamics T′ₜ is defined by the commuting relation:
 
 ```math
 g \circ T_t = T'_t \circ g.
@@ -251,15 +251,15 @@ g \circ T_t = T'_t \circ g.
 
 **Theorem (coarse-graining irreversibility)**:
 
-Let `g: M \to M'` be a map. Let `T_t: M \to M` be a bijection such that `g \circ T_t = T'_t \circ g` for some map `T'_t: M' \to M'`.
+Let g: M → M′ be a map. Let Tₜ: M → M be a bijection such that g ∘ Tₜ = T′ₜ ∘ g for some map T′ₜ: M′ → M′.
 
-If there exist `y_1, y_2 \in M` such that `g(y_1) = g(y_2)` but `g(T_t(y_1)) \neq g(T_t(y_2))`, then `T'_t` is not injective, hence irreversible.
+If there exist y₁, y₂ ∈ M such that g(y₁) = g(y₂) but g(Tₜ(y₁)) ≠ g(Tₜ(y₂)), then T′ₜ is not injective, hence irreversible.
 
 **Proof**:
 
-Assume `T'_t` is injective.
+Assume T′ₜ is injective.
 
-From `g(y_1) = g(y_2)`, we have
+From g(y₁) = g(y₂), we have
 
 ```math
 T'_t(g(y_1)) = T'_t(g(y_2)).
@@ -277,49 +277,49 @@ Therefore
 g(T_t(y_1)) = g(T_t(y_2)).
 ```
 
-This contradicts the assumption `g(T_t(y_1)) \neq g(T_t(y_2))`.
+This contradicts the assumption g(Tₜ(y₁)) ≠ g(Tₜ(y₂)).
 
-Hence `T'_t` is not injective, and is irreversible. Q.E.D.
+Hence T′ₜ is not injective, and is irreversible. Q.E.D.
 
-**Physical meaning of the theorem’s condition**:
+**Physical meaning of the theorem's condition**:
 
-The condition is: there exist `y_1, y_2` with `g(y_1) = g(y_2)` but `g(T_t(y_1)) \neq g(T_t(y_2))`.
+The condition is: there exist y₁, y₂ with g(y₁) = g(y₂) but g(Tₜ(y₁)) ≠ g(Tₜ(y₂)).
 
 Physically, this means: two different micro states in the same coarse-grained cell evolve into different coarse-grained cells.
 
 In statistical mechanics, this condition usually holds. Reason:
 
-- The Hamiltonian flow `T_t` is volume-preserving. It distorts coarse-grained cells into non-cell regions.
+- The Hamiltonian flow Tₜ is volume-preserving. It distorts coarse-grained cells into non-cell regions.
 - Therefore, different points in the same coarse-grained cell may fall into different coarse-grained cells after evolution.
 - This is precisely the origin of coarse-graining irreversibility.
 
 ### 7. A Concrete Physical Example: Diffusion
 
-- `\Omega`: phase space (micro states).
-- `M`: probability density space (complete macro description).
-- `M'`: coarse-grained density space (coarse-grained macro description).
-- `f: \Omega \to M`: maps a micro state `x` to the Dirac distribution `\delta_x`. **This is injective.**
-- `g: M \to M'`: coarse-graining map. **Not injective.**
-- `T_t: M \to M`: Hamiltonian flow. Reversible.
-- `T'_t: M' \to M'`: evolution given by the heat equation. Irreversible.
+- Ω: phase space (micro states).
+- M: probability density space (complete macro description).
+- M′: coarse-grained density space (coarse-grained macro description).
+- f: Ω → M: maps a micro state x to the Dirac distribution δₓ. **This is injective.**
+- g: M → M′: coarse-graining map. **Not injective.**
+- Tₜ: M → M: Hamiltonian flow. Reversible.
+- T′ₜ: M′ → M′: evolution given by the heat equation. Irreversible.
 
 **Key observations**:
 
-- `f` is injective. Different micro states `x_1 \neq x_2` give different Dirac distributions `\delta_{x_1} \neq \delta_{x_2}`.
-- `g` is not injective. Different probability densities may give the same coarse-grained density.
-- `g \circ f` is not injective. Different micro states may give the same coarse-grained density.
+- f is injective. Different micro states x₁ ≠ x₂ give different Dirac distributions δₓ₁ ≠ δₓ₂.
+- g is not injective. Different probability densities may give the same coarse-grained density.
+- g ∘ f is not injective. Different micro states may give the same coarse-grained density.
 
 **Role of this example**:
 
-If physicists possessed `M`, then when `f` is injective, reverse inference would be possible (from `M` one can recover `\Omega`). But physicists possess `M'`, not `M`. From `M'`, reverse inference depends on the non-injectivity of `g \circ f`.
+If physicists possessed M, then when f is injective, reverse inference would be possible (from M one can recover Ω). But physicists possess M′, not M. From M′, reverse inference depends on the non-injectivity of g ∘ f.
 
 Thus, in this example:
 
-- The impossibility of reverse inference depends on the non-injectivity of `g \circ f` (because physicists possess `M'`).
-- The arrow of time also depends on the non-injectivity of `g \circ f`.
+- The impossibility of reverse inference depends on the non-injectivity of g ∘ f (because physicists possess M′).
+- The arrow of time also depends on the non-injectivity of g ∘ f.
 - They have one and the same structural origin.
 
-**At the same time**, `T'_t` is irreversible because `g` is not injective. This is guaranteed by the coarse-graining irreversibility theorem.
+**At the same time**, T′ₜ is irreversible because g is not injective. This is guaranteed by the coarse-graining irreversibility theorem.
 
 ---
 
@@ -329,45 +329,45 @@ Thus, in this example:
 
 The core structural fact of this paper is:
 
-> **The composite projection `g \circ f: \Omega \to M'` is non-injective.**
+> **The composite projection g ∘ f: Ω → M′ is non-injective.**
 
-This fact has only one consequence: **the coarse-grained macro description `M'` is incomplete.**
+This fact has only one consequence: **the coarse-grained macro description M′ is incomplete.**
 
-“Incomplete” here has a precise definition (Definition 2): there exist two different micro states `x_1 \neq x_2` that give the same coarse-grained macro description `(g \circ f)(x_1) = (g \circ f)(x_2)`.
+"Incomplete" here has a precise definition (Definition 2): there exist two different micro states x₁ ≠ x₂ that give the same coarse-grained macro description (g ∘ f)(x₁) = (g ∘ f)(x₂).
 
 ### 2. Why One Consequence, Not Two
 
-A natural objection: the projection chain has two links, `f` and `g`, each producing a consequence. Why say there is only one consequence?
+A natural objection: the projection chain has two links, f and g, each producing a consequence. Why say there is only one consequence?
 
-**Answer**: because in physical situations, we possess `M'`, not `M`. Therefore, both manifestations depend on the non-injectivity of the composite projection `g \circ f`.
+**Answer**: because in physical situations, we possess M′, not M. Therefore, both manifestations depend on the non-injectivity of the composite projection g ∘ f.
 
-**Physicists never possess `M`.**
+**Physicists never possess M.**
 
-- A thermometer gives temperature (`M'`), not the position and momentum of every molecule (`\Omega`).
-- A barometer gives pressure (`M'`), not the complete distribution function (`M`).
-- Any practically observable macro quantity belongs to `M'`, not `M`.
+- A thermometer gives temperature (M′), not the position and momentum of every molecule (Ω).
+- A barometer gives pressure (M′), not the complete distribution function (M).
+- Any practically observable macro quantity belongs to M′, not M.
 
 Therefore:
 
-- **Impossibility of reverse inference** depends on the non-injectivity of `g \circ f`. Because from `M'` one cannot recover `\Omega`.
-- **Arrow of time** also depends on the non-injectivity of `g \circ f`. Because from `M'` one cannot distinguish the direction of time.
+- **Impossibility of reverse inference** depends on the non-injectivity of g ∘ f. Because from M′ one cannot recover Ω.
+- **Arrow of time** also depends on the non-injectivity of g ∘ f. Because from M′ one cannot distinguish the direction of time.
 
 They have one and the same structural origin.
 
 **Distinction between formal and physical levels**:
 
-- **Formal level**: the two manifestations may separate. If `f` is injective but `g` is not, then reverse inference from `M` is possible, but reverse inference from `M'` is not.
-- **Physical level**: the two manifestations merge. Because for macro systems treated by statistical mechanics, `M` is practically unavailable.
+- **Formal level**: the two manifestations may separate. If f is injective but g is not, then reverse inference from M is possible, but reverse inference from M′ is not.
+- **Physical level**: the two manifestations merge. Because for macro systems treated by statistical mechanics, M is practically unavailable.
 
-The “one consequence” claim of this paper is a physical claim. It relies on a physical fact: for macro systems treated by statistical mechanics, the complete macro description `M` is practically unavailable.
+The "one consequence" claim of this paper is a physical claim. It relies on a physical fact: for macro systems treated by statistical mechanics, the complete macro description M is practically unavailable.
 
 ### 3. Epistemic Manifestation of Incompleteness
 
 **Observation (irreversibility of non-injective maps)**:
 
-If `g \circ f: \Omega \to M'` is not injective, then there is no map `h: M' \to \Omega` such that `h \circ (g \circ f) = \mathrm{id}_\Omega`.
+If g ∘ f: Ω → M′ is not injective, then there is no map h: M′ → Ω such that h ∘ (g ∘ f) = id_Ω.
 
-**Proof**: suppose such an `h` exists. Since `g \circ f` is not injective, take `x_1 \neq x_2` with `(g \circ f)(x_1) = (g \circ f)(x_2)`. Then
+**Proof**: suppose such an h exists. Since g ∘ f is not injective, take x₁ ≠ x₂ with (g ∘ f)(x₁) = (g ∘ f)(x₂). Then
 
 ```math
 x_1 = h((g \circ f)(x_1)) = h((g \circ f)(x_2)) = x_2,
@@ -375,24 +375,24 @@ x_1 = h((g \circ f)(x_1)) = h((g \circ f)(x_2)) = x_2,
 
 a contradiction. Q.E.D.
 
-**Physical meaning**: from the coarse-grained macro description `M'`, one cannot exactly recover the micro state `\Omega`. This is not a technical limitation, but a structural fact. `M'` does not contain the information required to recover `\Omega`.
+**Physical meaning**: from the coarse-grained macro description M′, one cannot exactly recover the micro state Ω. This is not a technical limitation, but a structural fact. M′ does not contain the information required to recover Ω.
 
 ### 4. Dynamical Manifestation of Incompleteness
 
 Physical macro dynamics (heat equation, diffusion equation, Navier-Stokes equation) is explicitly irreversible. But this irreversibility is not a feature of the dynamics itself; it is a structural feature of the composite projection.
 
-By the coarse-graining irreversibility theorem, if `T_t` does not map the fibers of `g` consistently, then `T'_t` is not injective, hence irreversible.
+By the coarse-graining irreversibility theorem, if Tₜ does not map the fibers of g consistently, then T′ₜ is not injective, hence irreversible.
 
-**Physical meaning**: the coarse-grained macro description `M'` cannot distinguish the direction of time. This is not because time itself has a direction, but because `M'` is incomplete. It has lost the information needed to distinguish the direction of time.
+**Physical meaning**: the coarse-grained macro description M′ cannot distinguish the direction of time. This is not because time itself has a direction, but because M′ is incomplete. It has lost the information needed to distinguish the direction of time.
 
 ### 5. The Two Manifestations Are the Same Incompleteness
 
 The epistemic manifestation and the dynamical manifestation are not two independent facts, but two sides of the same incompleteness.
 
-- **Epistemic manifestation**: `g \circ f` non-injective → cannot recover `\Omega` from `M'` → reverse inference impossible.
-- **Dynamical manifestation**: `g \circ f` non-injective → cannot distinguish the direction of time from `M'` → arrow of time is descriptive.
+- **Epistemic manifestation**: g ∘ f non-injective → cannot recover Ω from M′ → reverse inference impossible.
+- **Dynamical manifestation**: g ∘ f non-injective → cannot distinguish the direction of time from M′ → arrow of time is descriptive.
 
-Both are: **the composite projection `g \circ f` is incomplete.**
+Both are: **the composite projection g ∘ f is incomplete.**
 
 ### 6. An Analogy
 
@@ -401,7 +401,7 @@ Imagine a low-resolution photograph.
 - **Epistemic manifestation**: you cannot recover every detail of the original scene from the photograph.
 - **Dynamical manifestation**: you cannot tell from the photograph whether the scene is happening forwards or backwards.
 
-These two “cannots” are not two independent facts, but one and the same fact: **the photograph is incomplete.**
+These two "cannots" are not two independent facts, but one and the same fact: **the photograph is incomplete.**
 
 Macro description is like a low-resolution photograph. Its incompleteness simultaneously explains why reverse inference to a unified theory is impossible, and why the arrow of time is descriptive.
 
@@ -420,34 +420,34 @@ Specifically:
 
 ### 2. Conditions of Structural Inference
 
-The irreversibility of `T'_t` is not derived from the logical content of `U_t`, `f`, `g`, but from their structural relations.
+The irreversibility of T′ₜ is not derived from the logical content of Uₜ, f, g, but from their structural relations.
 
 Specifically, the conditions of the structural inference are:
 
-1. `g` is non-injective.
-2. `T_t` does not map the fibers of `g` consistently: there exist `y_1, y_2 \in M` with `g(y_1) = g(y_2)` but `g(T_t(y_1)) \neq g(T_t(y_2))`.
+1. g is non-injective.
+2. Tₜ does not map the fibers of g consistently: there exist y₁, y₂ ∈ M with g(y₁) = g(y₂) but g(Tₜ(y₁)) ≠ g(Tₜ(y₂)).
 
-Both conditions are **time-symmetric**. They do not involve the direction of time. The non-injectivity of `g` is independent of time. The inconsistent mapping of fibers by `T_t` is also independent of time.
+Both conditions are **time-symmetric**. They do not involve the direction of time. The non-injectivity of g is independent of time. The inconsistent mapping of fibers by Tₜ is also independent of time.
 
-But the conclusion that `T'_t` is irreversible is **time-asymmetric**. Does this constitute a contradiction?
+But the conclusion that T′ₜ is irreversible is **time-asymmetric**. Does this constitute a contradiction?
 
 **It does not**. Because structural inference is not logical entailment. Its conclusion is not derived from the logical content of the premises, but read off from their structural relations. This reading is not a logical necessity, but a structural one.
 
-### 3. Why Structural Inference Is Not Subject to Price’s Challenge
+### 3. Why Structural Inference Is Not Subject to Price's Challenge
 
-Price’s challenge is: time-symmetric logical premises cannot yield a time-asymmetric logical conclusion. This is a challenge in the model-theoretic sense: it applies to logical entailment.
+Price's challenge is: time-symmetric logical premises cannot yield a time-asymmetric logical conclusion. This is a challenge in the model-theoretic sense: it applies to logical entailment.
 
-But the inference in this paper is not logical inference, but structural inference. Its conclusion is not derived from the logical content of the premises, but read off from their structural relations. This reading is not logical entailment, and therefore is not subject to Price’s challenge.
+But the inference in this paper is not logical inference, but structural inference. Its conclusion is not derived from the logical content of the premises, but read off from their structural relations. This reading is not logical entailment, and therefore is not subject to Price's challenge.
 
 **Conditionality of structural inference**:
 
 The conclusion of structural inference is conditional: if the premises have specific structural relations, the conclusion holds. It is not an unconditional logical necessity.
 
-Specifically for this paper: if `g` is non-injective and `T_t` does not map the fibers of `g` consistently, then `T'_t` is irreversible. This conclusion depends on the structural relations of the premises, not on their truth values.
+Specifically for this paper: if g is non-injective and Tₜ does not map the fibers of g consistently, then T′ₜ is irreversible. This conclusion depends on the structural relations of the premises, not on their truth values.
 
-**Scope of Price’s challenge**:
+**Scope of Price's challenge**:
 
-Price’s challenge applies to the following situation: deriving a time-asymmetric logical conclusion from time-symmetric logical premises. But the inference in this paper is not logical inference. Therefore, Price’s challenge does not apply to the present framework.
+Price's challenge applies to the following situation: deriving a time-asymmetric logical conclusion from time-symmetric logical premises. But the inference in this paper is not logical inference. Therefore, Price's challenge does not apply to the present framework.
 
 ---
 
@@ -455,29 +455,29 @@ Price’s challenge applies to the following situation: deriving a time-asymmetr
 
 ### 1. The Reverse-Inference Predicament of the Unification Program
 
-The unification program of physics aims to find a theory `T^*` such that `T^*` reduces to `T_1` (general relativity) and `T_2` (quantum mechanics) in appropriate limits.
+The unification program of physics aims to find a theory T* such that T* reduces to T₁ (general relativity) and T₂ (quantum mechanics) in appropriate limits.
 
-Physicists possess only candidate theories `T_1` and `T_2`. In the coarse-graining framework of statistical mechanics, `T_1` and `T_2` are understood as projections of `T^*` at different scales. The mathematical structure of this projection relation is an aggregation map.
+Physicists possess only candidate theories T₁ and T₂. In the coarse-graining framework of statistical mechanics, T₁ and T₂ are understood as projections of T* at different scales. The mathematical structure of this projection relation is an aggregation map.
 
-Therefore, the inference from `\{T_1, T_2\}` to `T^*` corresponds to recovering the preimage from two projections—a reverse inference.
+Therefore, the inference from {T₁, T₂} to T* corresponds to recovering the preimage from two projections — a reverse inference.
 
-**Key point**: physicists possess the coarse-grained versions of `T_1` and `T_2` (`M'`), not their complete versions (`M`). Therefore, reverse inference depends on the non-injectivity of the composite projection `g \circ f`.
+**Key point**: physicists possess the coarse-grained versions of T₁ and T₂ (M′), not their complete versions (M). Therefore, reverse inference depends on the non-injectivity of the composite projection g ∘ f.
 
 ### 2. Unification Is Not Reverse Inference, but Construction
 
-By the epistemic manifestation of incompleteness, if the composite projection `g \circ f` is not injective, then the reverse direction `T_1 \to T^*` does not exist.
+By the epistemic manifestation of incompleteness, if the composite projection g ∘ f is not injective, then the reverse direction T₁ → T* does not exist.
 
-This means: a unified theory cannot be obtained by reverse inference from old theories. It must be obtained by constructing a new underlying ontology `\Omega^*` and proving that its low-energy limits return to quantum mechanics and general relativity.
+This means: a unified theory cannot be obtained by reverse inference from old theories. It must be obtained by constructing a new underlying ontology Ω* and proving that its low-energy limits return to quantum mechanics and general relativity.
 
-This is consistent with the methodology of string theory, loop quantum gravity, causal sets, and holographic duality: they do not reverse-infer from old theories, but first construct `\Omega^*` and then require low-energy limits to return to the old theories.
+This is consistent with the methodology of string theory, loop quantum gravity, causal sets, and holographic duality: they do not reverse-infer from old theories, but first construct Ω* and then require low-energy limits to return to the old theories.
 
-### 3. Unification Programs That Presuppose “The Arrow of Time Must Be Explained”
+### 3. Unification Programs That Presuppose "The Arrow of Time Must Be Explained"
 
-This paper argues that the unification program does not need to explain the arrow of time. But many unification programs presuppose that “a unified theory must explain the arrow of time.” Here are concrete examples:
+This paper argues that the unification program does not need to explain the arrow of time. But many unification programs presuppose that "a unified theory must explain the arrow of time." Here are concrete examples:
 
-**Penrose’s Weyl curvature hypothesis**: Penrose (1989) in *The Emperor's New Mind* proposed that the arrow of time is closely related to cosmology. He proposed the Weyl curvature hypothesis to explain the origin of the arrow of time. This presupposes that the arrow of time needs an explanation.
+**Penrose's Weyl curvature hypothesis**: Penrose (1989) in *The Emperor's New Mind* proposed that the arrow of time is closely related to cosmology. He proposed the Weyl curvature hypothesis to explain the origin of the arrow of time. This presupposes that the arrow of time needs an explanation.
 
-**The landscape problem in string theory**: string theory has `10^{500}` possible vacua. Susskind (2003) in *The Cosmic Landscape* discussed that the initial conditions of these vacua may differ. String theory needs to explain why our universe has a low-entropy initial condition. This presupposes that the arrow of time needs an explanation.
+**The landscape problem in string theory**: string theory has 10⁵⁰⁰ possible vacua. Susskind (2003) in *The Cosmic Landscape* discussed that the initial conditions of these vacua may differ. String theory needs to explain why our universe has a low-entropy initial condition. This presupposes that the arrow of time needs an explanation.
 
 **Loop quantum cosmology**: loop quantum gravity attempts to explain the state of the universe before the Big Bang. Ashtekar (2006) and others discussed the initial conditions of the universe in loop quantum cosmology. This presupposes that the arrow of time needs an explanation.
 
@@ -497,9 +497,9 @@ These two implications jointly show: **the real task of a unified theory is not 
 
 ### 1. Critique of Boltzmann
 
-Boltzmann’s core mechanism is the molecular chaos hypothesis. This paper acknowledges that the H-theorem is a concrete dynamical mechanism: under the molecular chaos hypothesis, the H-function decreases monotonically.
+Boltzmann's core mechanism is the molecular chaos hypothesis. This paper acknowledges that the H-theorem is a concrete dynamical mechanism: under the molecular chaos hypothesis, the H-function decreases monotonically.
 
-But this paper argues that this mechanism itself depends on non-injectivity. The molecular chaos hypothesis requires us to ignore correlations between molecules before collision. This “ignoring” is coarse-graining. Therefore, the irreversibility of the H-theorem is ultimately descriptive.
+But this paper argues that this mechanism itself depends on non-injectivity. The molecular chaos hypothesis requires us to ignore correlations between molecules before collision. This "ignoring" is coarse-graining. Therefore, the irreversibility of the H-theorem is ultimately descriptive.
 
 Specifically:
 
@@ -519,45 +519,45 @@ The past hypothesis is not the origin of the arrow of time. Even if the initial 
 
 ### 4. Critique of Price
 
-Price’s core thesis is: time-symmetric micro laws cannot explain time-asymmetric macro phenomena unless a time-asymmetric initial condition is presupposed.
+Price's core thesis is: time-symmetric micro laws cannot explain time-asymmetric macro phenomena unless a time-asymmetric initial condition is presupposed.
 
 **Response of this paper**:
 
-Price’s challenge presupposes logical entailment. The inference in this paper is structural inference, not logical entailment. Therefore, Price’s challenge does not apply to the present framework.
+Price's challenge presupposes logical entailment. The inference in this paper is structural inference, not logical entailment. Therefore, Price's challenge does not apply to the present framework.
 
-Logical inference is a model-theoretic notion; structural inference is a category-theoretic notion. Price’s challenge applies to the former, but not to the latter.
+Logical inference is a model-theoretic notion; structural inference is a category-theoretic notion. Price's challenge applies to the former, but not to the latter.
 
 ### 5. Gibbs and Jaynes: Allies of This Paper
 
-**Gibbs (1902)**: in *Elementary Principles in Statistical Mechanics*, Gibbs explicitly distinguished “coarse-grained” from “fine-grained” description. He pointed out that coarse-grained entropy does not increase with time. This suggests that the arrow of time is not a feature of micro dynamics. The contribution of this paper is to explicitly distinguish induced macro dynamics from physical macro dynamics and to formalize Gibbs’s intuition in a non-injectivity framework.
+**Gibbs (1902)**: in *Elementary Principles in Statistical Mechanics*, Gibbs explicitly distinguished "coarse-grained" from "fine-grained" description. He pointed out that coarse-grained entropy does not increase with time. This suggests that the arrow of time is not a feature of micro dynamics. The contribution of this paper is to explicitly distinguish induced macro dynamics from physical macro dynamics and to formalize Gibbs's intuition in a non-injectivity framework.
 
-**Jaynes (1957)**: in *Information Theory and Statistical Mechanics*, Jaynes proposed that the probability distribution in statistical mechanics reflects our incomplete knowledge of the system, not the system’s own indeterminacy. The arrow of time is a consequence of this incomplete knowledge. The contribution of this paper is to formalize “incomplete knowledge” in a non-injectivity framework and to argue that the descriptive nature is objective.
+**Jaynes (1957)**: in *Information Theory and Statistical Mechanics*, Jaynes proposed that the probability distribution in statistical mechanics reflects our incomplete knowledge of the system, not the system's own indeterminacy. The arrow of time is a consequence of this incomplete knowledge. The contribution of this paper is to formalize "incomplete knowledge" in a non-injectivity framework and to argue that the descriptive nature is objective.
 
 ---
 
 ## VIII. Relation to Quantum Mechanics
 
-### 1. The Availability of `M` in Quantum Mechanics
+### 1. The Availability of M in Quantum Mechanics
 
-In quantum mechanics, one can in principle obtain the complete quantum state. This seems to contradict the claim of this paper that “physicists possess `M'`.”
+In quantum mechanics, one can in principle obtain the complete quantum state. This seems to contradict the claim of this paper that "physicists possess M′."
 
 **Response**: one must distinguish two cases.
 
-**Case 1: Pure state.** If the system is in a pure state, physicists can in principle know the complete quantum state. This can be regarded as possessing `M`.
+**Case 1: Pure state.** If the system is in a pure state, physicists can in principle know the complete quantum state. This can be regarded as possessing M.
 
-**Case 2: Mixed state or open system.** If the system interacts with the environment, physicists possess the reduced density matrix, not the complete quantum state. This can be regarded as possessing `M'`.
+**Case 2: Mixed state or open system.** If the system interacts with the environment, physicists possess the reduced density matrix, not the complete quantum state. This can be regarded as possessing M′.
 
-**Key point**: macro systems treated by statistical mechanics usually interact with the environment. Therefore, physicists possess the reduced density matrix (`M'`), not the complete quantum state (`M`).
+**Key point**: macro systems treated by statistical mechanics usually interact with the environment. Therefore, physicists possess the reduced density matrix (M′), not the complete quantum state (M).
 
 **Example of decoherence**:
 
-- `\Omega`: complete quantum state of system + environment.
-- `M`: complete quantum state of the system.
-- `M'`: reduced density matrix of the system.
-- `g: M \to M'`: partial trace, giving the reduced density matrix. Non-injective.
+- Ω: complete quantum state of system + environment.
+- M: complete quantum state of the system.
+- M′: reduced density matrix of the system.
+- g: M → M′: partial trace, giving the reduced density matrix. Non-injective.
 - Decoherence leads to diagonalization of the reduced density matrix, which is irreversible.
 
-Therefore, the irreversibility of decoherence is also descriptive: it comes from the non-injective projection from `M` to `M'`.
+Therefore, the irreversibility of decoherence is also descriptive: it comes from the non-injective projection from M to M′.
 
 ### 2. Quantum Measurement Problem
 
@@ -565,10 +565,10 @@ The quantum measurement problem involves wave function collapse, which is an irr
 
 **Preliminary answer**: the framework can apply to quantum measurement, but must be handled carefully.
 
-- In quantum mechanics, the complete quantum state is `M`.
-- The coarse-grained description after measurement (classical result) is `M'`.
-- The projection `g` from `M` to `M'` is non-injective: multiple quantum states may give the same classical result.
-- Therefore, the irreversibility of quantum measurement is also descriptive: it comes from the non-injective projection from `M` to `M'`.
+- In quantum mechanics, the complete quantum state is M.
+- The coarse-grained description after measurement (classical result) is M′.
+- The projection g from M to M′ is non-injective: multiple quantum states may give the same classical result.
+- Therefore, the irreversibility of quantum measurement is also descriptive: it comes from the non-injective projection from M to M′.
 
 **But this problem requires more careful treatment**, because it involves interpretations of quantum mechanics (Copenhagen, many-worlds, decoherence, etc.). This paper does not delve into these issues, but only points out the possible connection between the present framework and the quantum measurement problem.
 
@@ -576,43 +576,43 @@ The quantum measurement problem involves wave function collapse, which is an irr
 
 ## IX. Objections and Replies
 
-### Objection 1: “The arrow of time is objective, not an illusion.”
+### Objection 1: "The arrow of time is objective, not an illusion."
 
 **Reply**: this paper does not claim that the arrow of time is an illusion. It claims that the arrow of time is descriptive, not dynamical.
 
-### Objection 2: “Physical macro dynamics is explicitly irreversible, so the arrow of time is dynamical.”
+### Objection 2: "Physical macro dynamics is explicitly irreversible, so the arrow of time is dynamical."
 
 **Reply**: physical macro dynamics is indeed irreversible. But its irreversibility is not a feature of the dynamics itself; it is a structural feature of the composite projection.
 
-### Objection 3: “Induced macro dynamics and physical macro dynamics are the same thing.”
+### Objection 3: "Induced macro dynamics and physical macro dynamics are the same thing."
 
-**Reply**: they are not the same thing. Induced macro dynamics `T_t` is fully reversible. Physical macro dynamics `T'_t` may be irreversible.
+**Reply**: they are not the same thing. Induced macro dynamics Tₜ is fully reversible. Physical macro dynamics T′ₜ may be irreversible.
 
-### Objection 4: “The impossibility of reverse inference does not imply that a unified theory does not exist.”
+### Objection 4: "The impossibility of reverse inference does not imply that a unified theory does not exist."
 
 **Reply**: correct. This paper only claims that a unified theory cannot be obtained by reverse inference. It must be obtained by constructing a new underlying ontology.
 
-### Objection 5: “Price’s challenge still applies.”
+### Objection 5: "Price's challenge still applies."
 
-**Reply**: Price’s challenge presupposes logical entailment. The inference in this paper is structural inference, not logical entailment. Therefore, Price’s challenge does not apply to the present framework.
+**Reply**: Price's challenge presupposes logical entailment. The inference in this paper is structural inference, not logical entailment. Therefore, Price's challenge does not apply to the present framework.
 
-### Objection 6: “This paper does not explain where the arrow of time comes from.”
+### Objection 6: "This paper does not explain where the arrow of time comes from."
 
 **Reply**: this paper explains where the arrow of time comes from: it comes from information loss in the composite projection.
 
-### Objection 7: “Two projections produce two consequences; why say one?”
+### Objection 7: "Two projections produce two consequences; why say one?"
 
-**Reply**: because for macro systems treated by statistical mechanics, the complete macro description `M` is practically unavailable. Therefore, both manifestations depend on the non-injectivity of the composite projection `g \circ f`.
+**Reply**: because for macro systems treated by statistical mechanics, the complete macro description M is practically unavailable. Therefore, both manifestations depend on the non-injectivity of the composite projection g ∘ f.
 
-### Objection 8: “If `f` is injective but `g` is not, is reverse inference possible?”
+### Objection 8: "If f is injective but g is not, is reverse inference possible?"
 
-**Reply**: if one starts from `M`, reverse inference is possible. But for macro systems treated by statistical mechanics, `M` is practically unavailable. Physicists possess `M'`. From `M'`, reverse inference depends on the non-injectivity of `g \circ f`. Therefore, in physical situations, the impossibility of reverse inference always holds.
+**Reply**: if one starts from M, reverse inference is possible. But for macro systems treated by statistical mechanics, M is practically unavailable. Physicists possess M′. From M′, reverse inference depends on the non-injectivity of g ∘ f. Therefore, in physical situations, the impossibility of reverse inference always holds.
 
 **It must be explicitly acknowledged**: this is a physical claim, not a formal claim. At the formal level, the two manifestations may separate. But in physical situations, they merge.
 
-### Objection 9: “What is the difference between identity and common origin?”
+### Objection 9: "What is the difference between identity and common origin?"
 
-**Reply**: this paper does not claim that “the impossibility of reverse inference” and “the arrow of time” are one and the same phenomenon. It claims that they have one and the same structural origin—the non-injectivity of the composite projection `g \circ f`.
+**Reply**: this paper does not claim that "the impossibility of reverse inference" and "the arrow of time" are one and the same phenomenon. It claims that they have one and the same structural origin — the non-injectivity of the composite projection g ∘ f.
 
 This distinction is important:
 
@@ -620,7 +620,7 @@ This distinction is important:
 - But they are not the same phenomenon: one is an epistemic claim (impossibility of reverse inference), the other is a dynamical claim (the arrow of time is descriptive).
 - They merely have the same structural origin.
 
-Therefore, the title has been changed from “identity” to “common origin,” which more accurately reflects the claim of this paper.
+Therefore, the title has been changed from "identity" to "common origin," which more accurately reflects the claim of this paper.
 
 ---
 
@@ -628,26 +628,26 @@ Therefore, the title has been changed from “identity” to “common origin,�
 
 The core thesis of this paper is: **the predicament of the unification program and the origin of the arrow of time are not two problems, but one and the same problem.**
 
-That one problem is: **information loss caused by the non-injectivity of the composite projection `g \circ f: \Omega \to M'`.**
+That one problem is: **information loss caused by the non-injectivity of the composite projection g ∘ f: Ω → M′.**
 
-Information loss has only one consequence: **the coarse-grained macro description `M'` is incomplete.**
+Information loss has only one consequence: **the coarse-grained macro description M′ is incomplete.**
 
 This incompleteness has two manifestations:
 
-1. **Epistemic manifestation**: from the coarse-grained macro description `M'`, one cannot exactly recover the micro state. Therefore, reverse inference from quantum mechanics and general relativity to a unified theory is structurally impossible.
-2. **Dynamical manifestation**: the coarse-grained macro description `M'` cannot distinguish the direction of time. Therefore, the arrow of time is descriptive, not dynamical.
+1. **Epistemic manifestation**: from the coarse-grained macro description M′, one cannot exactly recover the micro state. Therefore, reverse inference from quantum mechanics and general relativity to a unified theory is structurally impossible.
+2. **Dynamical manifestation**: the coarse-grained macro description M′ cannot distinguish the direction of time. Therefore, the arrow of time is descriptive, not dynamical.
 
 These two manifestations are not two independent consequences, but two sides of the same incompleteness. They have one and the same structural origin.
 
 **Why one consequence, not two?**
 
-Because in physical situations, for macro systems treated by statistical mechanics, the complete macro description `M` is practically unavailable. Therefore, both manifestations depend on the non-injectivity of the composite projection `g \circ f`.
+Because in physical situations, for macro systems treated by statistical mechanics, the complete macro description M is practically unavailable. Therefore, both manifestations depend on the non-injectivity of the composite projection g ∘ f.
 
-**It must be explicitly acknowledged**: this “one consequence” claim is a physical claim, not a formal claim. At the formal level, the two manifestations may separate. But in physical situations, they merge.
+**It must be explicitly acknowledged**: this "one consequence" claim is a physical claim, not a formal claim. At the formal level, the two manifestations may separate. But in physical situations, they merge.
 
-**On the precision of “identity”**:
+**On the precision of "identity"**:
 
-This paper does not claim that “the impossibility of reverse inference” and “the arrow of time” are one and the same phenomenon. It claims that they have one and the same structural origin. This distinction is important.
+This paper does not claim that "the impossibility of reverse inference" and "the arrow of time" are one and the same phenomenon. It claims that they have one and the same structural origin. This distinction is important.
 
 The conclusions of this paper:
 
@@ -700,7 +700,7 @@ The challenges of this paper:
 
 [17] Zwanzig, R. (1960). Ensemble Method in the Theory of Irreversibility. *Journal of Chemical Physics*, 33(5), 1338-1341.
 
-[18] Zhong Shanzhen. (2026). *One Consequence of Information Loss——On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+[18] Zhong Shanzhen. (2026). *One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
 
 ---
 
@@ -718,4 +718,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA)**:
 
-Zhong Shanzhen. (2026). *One Consequence of Information Loss——On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+Zhong Shanzhen. (2026). *One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
