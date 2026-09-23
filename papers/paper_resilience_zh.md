@@ -274,9 +274,9 @@
 
 ### 6. 可视化
 
-![图1 内部消化指数与松弛感冲击降幅](art-appreciation/images/figure1.png)
+![图1 内部消化指数与松弛感冲击降幅](../art-appreciation/images/figure1.png)
 
-![图2 制度弹性指数与松弛感冲击降幅](art-appreciation/images/figure2.png)
+![图2 制度弹性指数与松弛感冲击降幅](../art-appreciation/images/figure2.png)
 
 ### 7. 否证性发现的说明
 
