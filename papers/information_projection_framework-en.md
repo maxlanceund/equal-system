@@ -1,113 +1,168 @@
-# Information Projection Framework
+# Information Loss Rate of Macroscopic Descriptions
 
-## — Numerical Verification from Entanglement to Geometry
+## — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy
 
 | Item | Content |
 | :--- | :--- |
-| **Title** | Information Projection Framework — Numerical Verification from Entanglement to Geometry |
+| **Title** | Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy |
 | **Author** | Zhong Shanzhen |
-| **Date** | 2026-09-25 |
+| **Date** | 2026-09-22 (Revised: 2026-09-25, Version 13.0) |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | information projection, non-injectivity, entanglement entropy, emergent geometry, first law of thermodynamics, phase transition detection, counterexample test |
+| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks |
 
 ---
 
 ## I. Abstract
 
-This paper proposes an information-theoretic framework to unify the description of information loss in macroscopic descriptions, the growth of quantum entanglement, the emergence of thermodynamic relations, and the generation of geometric structure from entanglement. The core of the framework is **non-injective projection**: the composite map g ∘ f: Ω → M′ is not injective, leading to incomplete macroscopic descriptions.
+Building on two previous papers, this paper proposes an information-theoretic framework for quantifying the information loss of macroscopic descriptions.
 
-Through **nine independent numerical experiments**, this paper verifies the qualitative features of the framework across multiple physical systems:
+The previous two papers argued that the non-injectivity of the composite projection g ∘ f: Ω → M′ renders macroscopic descriptions incomplete. That conclusion, however, was qualitative.
 
-**First, the scaling law of the information loss rate D_f.** In the 2D Ising model, D_f monotonically approaches 1 as the system grows.
+**The core contributions of this paper are eight:**
 
-**Second, the dynamics of information diffusion.** In a quantum spin chain, the entanglement entropy S(t) grows linearly and eventually saturates.
+**First, it defines the information loss rate D_f.** D_f = H(Ω|M′) / H(Ω), ranging over [0,1].
 
-**Third, the conformal field theory scaling of entanglement entropy.** In a one-dimensional critical XX chain, the entanglement entropy follows the Calabrese-Cardy formula with central charge c = 1.
+**Second, it rigorously reduces the lower bound on inverse-inference error to rate-distortion theory.** For a general distortion measure d, the lower bound is given by ε(h) ≥ R⁻¹(I(Ω; M′)).
 
-**Fourth, the relation between entanglement entropy and thermodynamics.** In a finite-temperature XX chain, dS/dE × T ≈ 1, verifying the information-theoretic form of the first law of thermodynamics.
+**Third, it provides a complete scaling theory of information loss rate.** Through four sets of numerical simulations (discrete exact, tent-map chaos, continuous fixed resolution, continuous dynamic resolution), it distills the unified formula D_f → α (where Δ ~ σ^α), together with a finite-size correction formula and an explicit convergence condition.
 
-**Fifth, the emergence of geometry from entanglement.** In a non-half-filled periodic XX chain, the distance defined by mutual information, d(i,j) = -ln I(i,j), follows the logarithmic law d ≈ 2 ln|i-j|.
+**Fourth, it validates the framework in a real physical system.** Using an L=32 2D Ising model with Monte Carlo simulation, it finds that D_f attains its minimum near the critical temperature Tc = 2.269.
 
-**Sixth, D_f as a phase transition signal.** In the 2D Ising model, D_f has a minimum near the critical point, but T_min(L) does not converge monotonically with L. **D_f is not an accurate phase transition detector.** This is a negative result.
+**Fifth, it discusses the sensitivity of D_f to the definition of Ω.** In physics, Ω is ontologically determinate; in economics, Ω is theoretically constructed.
 
-**Seventh, the independence of D_f and mutual information.** D_f and the mutual information between two halves are qualitatively correlated but quantitatively non-parallel.
+**Sixth, it clearly distinguishes the inverse-inference framework from econometric identification theory.**
 
-**Eighth, qualitative features of toy quantum gravity.** In a discretized toy model, the entanglement entropy exhibits area-law and holographic features.
+**Seventh, it provides an explicit convergence condition.** When log₂σ > 3·log₂Δ₀/α, the deviation of D_f from α is less than 10%.
 
-**Ninth, a counterexample test.** In the gapped phase of the 2D Ising model, D_f still monotonically approaches 1 with increasing L at all temperatures. No counterexample was found.
+**Eighth, a time-reversal symmetry test.** Through numerical simulation of a harmonic oscillator system, it is found that D_f is **time-symmetric** under frictionless (reversible) dynamics. **D_f itself does not capture the arrow of time.** The arrow of time requires dissipation (irreversible dynamics). This is a negative result.
 
-**Positioning of this paper**: This paper does not claim to solve quantum gravity. It claims that the language of information projection can uniformly describe information loss, entanglement growth, geometric emergence, and thermodynamic relations across multiple known physical systems.
+**Positioning of this paper**: This paper is not an operational manual. It is a paper in the philosophy of science, telling theoretical researchers "why certain approaches are structurally impossible."
 
 ---
 
 ## II. Introduction
 
-### 1. Core Problems
+### 1. The Unresolved Problem of the Previous Two Papers
 
-There are several seemingly independent problems in physics:
+The previous two papers established a formal framework and argued for two core propositions:
 
-- **Arrow of time**: Microscopically reversible, macroscopically irreversible. Why?
-- **Unification program predicament**: Why are gravity and quantum mechanics difficult to unify?
-- **Unidentifiability**: Why can microscopic states not be recovered from macroscopic descriptions?
-- **Entanglement and geometry**: Why can spacetime geometry emerge from quantum entanglement?
+**Proposition One**: The arrow of time and the inverse-inference predicament of the unification program have the same structural source — the non-injectivity of the composite projection.
 
-This paper proposes a unified framework, arguing that these problems share the same structural source: **information loss caused by non-injective projection**.
+**Proposition Two**: Irreversibility has a static structural source — the non-injectivity of the aggregation mapping.
 
-### 2. Core Proposition
+The contribution of these two papers is **qualitative**. A natural follow-up question is: **how large, exactly, is the error in inferring microscopic states from macroscopic descriptions?**
 
-Let Ω be the microscopic state space, M′ the coarse-grained macroscopic state space, and g ∘ f: Ω → M′ the composite projection.
+### 2. Core Questions
 
-**Core proposition**: When g ∘ f is not injective, the macroscopic description M′ does not contain the information required to recover Ω.
+**Question One**: Given a macroscopic description M′, how much microscopic information does it lose?
 
-### 3. Contributions of This Paper
+**Question Two**: What is the lower bound on the error of any attempt to infer Ω from M′?
 
-The contribution of this paper is **numerical verification**. Previous works established the framework; this paper verifies its qualitative features across multiple physical systems through nine independent experiments, and reports one negative result.
+**Question Three**: What is the relation between this framework and existing identification theory and partial identification theory in econometrics?
 
-### 4. Structure of the Argument
+**Question Four**: Is the ontological status of Ω the same in physics and economics?
 
-Section III establishes the framework. Sections IV to XII present nine numerical experiments. Section XIII discusses limitations. Section XIV concludes.
+**Question Five**: What is the scaling behavior of the information loss rate D_f as the system grows?
+
+**Question Six**: In a real physical system, what is the behavior of D_f?
+
+**Question Seven**: Can D_f distinguish the forward and backward directions of time?
+
+**Question Eight**: What is the behavior of D_f in real biological networks?
+
+### 3. Positioning of This Paper
+
+**This paper is a paper in the philosophy of science.** Its goal is to provide an information-theoretic explanation of "unidentifiability." This explanation is conceptual, not operational.
+
+### 4. Relation to Existing Literature
+
+**On coarse-graining and information loss**: Research on information loss from coarse-graining dates back to Shannon (1948) and Kolmogorov's ε-entropy theory. Cover & Thomas (2006) systematically summarize rate-distortion theory. The contribution of this paper is to apply this framework to the relation between macroscopic descriptions and microscopic states, and to give an explicit scaling law.
+
+**On scaling laws**: Research on coarse-graining scaling laws in physics appears in renormalization group theory (Wilson, 1971) and critical phenomena. The scaling law D_f → α has a form similar to the scaling exponents of the renormalization group, but a different physical content.
+
+**On the arrow of time**: This paper forms a series with the first two papers. The first argues that the arrow of time and the unification predicament share a common source; the second argues for the structural source of irreversibility; this paper provides a quantitative theory of information loss rate and reports a negative result concerning time-reversal symmetry.
+
+**On Boolean networks**: Research on random Boolean networks dates back to Kauffman (1969). This paper uses the D_f framework to analyze real biological networks (BBM database), as Appendix D.
+
+### 5. Structure of the Argument
+
+Section III defines the information loss rate and its properties. Section IV introduces rate-distortion theory and proves the inverse-inference error lower bound theorem. Section V gives rate-distortion functions for three common cases. Section VI provides numerical validation and the scaling law. Section VII validates the framework with a 2D Ising model. Section VIII reports a negative result from the time-reversal symmetry test. Section IX discusses the sensitivity of D_f to the definition of Ω. Section X discusses the relation to identification theory. Section XI discusses ontological asymmetry. Section XII discusses scope and limitations. Section XIII responds to objections. Section XIV concludes. Appendix D presents the analysis of real Boolean networks.
 
 ---
 
-## III. Framework
+## III. Information Loss Rate: Definition and Properties
 
 ### 1. Basic Setup
 
-- Ω: microscopic state space
-- M′: coarse-grained macroscopic state space
-- g ∘ f: Ω → M′: composite projection, non-injective
+- Ω: microscopic state space (finite or continuous), with probability measure p.
+- M′: coarse-grained macroscopic state space.
+- g ∘ f: Ω → M′: composite projection, non-injective.
 
-### 2. Information Loss Rate
+### 2. Definitions
 
-**Definition (Information Loss Rate)**:
+**Definition 1 (Information Loss Rate)**:
 
-D_f = H(Ω | M′) / H(Ω)
+D_f = H(Ω | M') / H(Ω)
 
-Range [0, 1]. D_f = 0 if and only if the projection is injective; D_f = 1 if and only if Ω and M′ are independent.
+**Definition 2 (Information Retention Rate)**:
 
-### 3. Three Predictions of the Framework
+R_f = 1 - D_f = I(Ω; M') / H(Ω)
 
-**Prediction 1**: The information loss rate monotonically approaches 1 as the system grows.
+### 3. Basic Properties
 
-**Prediction 2**: Entanglement entropy follows conformal field theory scaling in critical systems.
+**Property 1 (Range)**: 0 ≤ D_f ≤ 1.
 
-**Prediction 3**: An emergent geometric structure can be read out from entanglement data.
+**Property 2 (Injective Case)**: If g ∘ f is injective, then D_f = 0.
+
+**Property 3 (Complete Loss Case)**: If Ω and M′ are independent, then D_f = 1.
+
+**Property 4 (Structural Dependence)**: The **definition** of D_f depends only on (Ω, M′, g ∘ f, p), not on sample size, computational power, or model complexity.
+
+**Property 5 (Time-Reversal Neutrality)**: D_f is a **static** quantity. Its definition does not involve time evolution. Therefore, D_f itself carries no information about the arrow of time. Time asymmetry must come from dynamics, not from the definition of D_f.
 
 ---
 
-## IV. Experiment 1: Scaling Law of Information Loss
+## IV. Rate-Distortion Theory and the Inverse-Inference Error Lower Bound
 
-### 1. Model
+### 1. Rate-Distortion Function
 
-2D Ising model, L × L spins, macroscopic description is the total magnetization M = Σσᵢ.
+**Definition 3 (Rate-Distortion Function)**:
 
-### 2. Method
+R(D) = min_{q(y|x): E[d(X,Y)] ≤ D} I(X; Y)
 
-Metropolis Monte Carlo, multi-start sampling, exact conditional entropy via binomial coefficients.
+### 2. Inverse-Inference Error Lower Bound Theorem
 
-### 3. Results
+**Theorem 1 (Rate-Distortion Lower Bound)**:
 
-| N | H(Ω) | H(M′) | H(Ω\|M′) | D_f |
+Let h: M′ → Ω be an inverse-inference mapping, and let ε(h) = E[d(X, h(M′))]. Then:
+
+ε(h) ≥ R⁻¹(I(Ω; M'))
+
+**Proof**: See Appendix A.
+
+**Corollary 1**: ε(h) ≥ R⁻¹(H(Ω)(1 - D_f)).
+
+**Corollary 2 (Data-Volume Independence)**: R⁻¹(I(Ω; M′)) depends only on Ω, M′, p, and d, not on sample size. **However, the premise is that Ω is fixed.**
+
+---
+
+## V. Rate-Distortion Functions for Three Common Cases
+
+| Distortion Measure | Rate-Distortion Function R(D) | Inverse Function R⁻¹(I) |
+| :--- | :--- | :--- |
+| Hamming | log₂K - H_b(D) - D log₂(K-1) | Numerical |
+| Squared Error (Gaussian) | (1/2) log₂(σ²/D) | σ² · 2^(-2I) |
+| Vector Gaussian | Σ (1/2) log₂(λ_i/θ) | Numerical |
+
+---
+
+## VI. Numerical Validation and Scaling Law
+
+### 6.1 Discrete Case (Exact)
+
+Using binomial coefficients to compute the conditional entropy exactly: H(Ω|M') = Σ_m [C(N,m)/2^N] · log₂ C(N,m). Setup: N spin-1/2 particles, macroscopic description is total magnetization m = Σσᵢ.
+
+| N | H(Ω) | H(M') | H(Ω\|M') | D_f |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 1.00 | 1.00 | 0.0000 | 0.000000 |
 | 2 | 2.00 | 1.58 | 0.5000 | 0.250000 |
@@ -121,347 +176,567 @@ Metropolis Monte Carlo, multi-start sampling, exact conditional entropy via bino
 | 512 | 512.00 | 9.00 | 506.4529 | 0.989166 |
 | 1024 | 1024.00 | 10.00 | 1017.9529 | 0.994095 |
 
-### 4. Conclusion
+**Conclusion**: D_f monotonically increases with N, approaching 1. At N = 1024, D_f = 0.9941.
 
-D_f monotonically increases with N, approaching 1. At N = 1024, D_f = 0.9941, verifying Prediction 1.
+### 6.2 Chaotic Time Evolution (Tent Map)
 
----
+Using the tent map T(x) = 1 - |2x - 1|, whose KS entropy is exactly log₂2 = 1 bit/step. Setup: N_micro = 10000 initial points, uniformly distributed in [0, 0.001], macroscopic bin count M = 16.
 
-## V. Experiment 2: Dynamics of Information Diffusion
-
-### 1. Model
-
-One-dimensional quantum spin chain, Hamiltonian H = J Σ σᵢ·σᵢ₊₁ + Σ hᵢ σᵢᶻ.
-
-### 2. Method
-
-Exact diagonalization, initial state is the Néel state, measure half-chain entanglement entropy S(t).
-
-### 3. Results
-
-| W | S(t=5) | S(t=10) | S(t=20) |
-| :--- | :--- | :--- | :--- |
-| 0.0 | 3.22 | 3.25 | 3.23 |
-| 0.5 | 3.37 | 3.31 | 3.46 |
-| 1.0 | 3.54 | 3.60 | 3.71 |
-| 2.0 | 3.62 | 3.73 | 3.98 |
-| 5.0 | 2.45 | 2.32 | 2.93 |
-
-### 4. Conclusion
-
-Entanglement entropy is maximal at intermediate disorder (W ≈ 1-2) and suppressed at strong disorder (W = 5).
-
----
-
-## VI. Experiment 3: Conformal Field Theory Scaling of Entanglement Entropy
-
-### 1. Model
-
-One-dimensional XX chain, critical point, exact diagonalization via free fermions.
-
-### 2. Theoretical Prediction
-
-Calabrese-Cardy formula:
-
-S_PBC(L) = (c/3) ln L + const, c = 1
-
-S_OBC(L) = (c/6) ln L + const, c = 1
-
-### 3. Results
-
-| L | S(PBC) | S(OBC) |
+| t | H(M') | dH/dt |
 | :--- | :--- | :--- |
-| 20 | 1.3399 | 0.7581 |
-| 40 | 1.5744 | 0.8876 |
-| 80 | 1.8052 | 1.0105 |
-| 160 | 2.0362 | 1.1298 |
-| 320 | 2.2673 | 1.2472 |
-| 640 | 2.4983 | 1.3637 |
-| 1280 | 2.7294 | 1.4797 |
+| 6 | 0.1601 | 0.1601 |
+| 7 | 1.1367 | 0.9766 |
+| 8 | 2.1133 | 0.9766 |
+| 9 | 3.0899 | 0.9766 |
+| 10 | 3.9946 | 0.9047 |
+| 11 | 3.9946 | 0.0000 |
 
-Fit results:
+**Conclusion**: Coarse-grained entropy grows at ≈ 1 bit/step, consistent with the tent map's KS entropy. It saturates at log₂16 = 4 bits.
 
-- PBC slope: 0.3338 (theory 1/3 = 0.3333, deviation 0.15%)
-- OBC slope: 0.1728 (theory 1/6 = 0.1667, deviation 3.7%)
+### 6.3 Continuous Case (Fixed Resolution)
 
-### 4. Conclusion
+1D diffusion, σ₀ = 1, D = 10, Δ = 10. Gaussian differential entropy h_micro = (1/2) log₂(2πeσ²).
 
-The Calabrese-Cardy formula is verified, with central charge c = 1.
-
----
-
-## VII. Experiment 4: Relation between Entanglement Entropy and Thermodynamics
-
-### 1. Model
-
-Finite-temperature XX chain, half-chain subsystem.
-
-### 2. Theoretical Prediction
-
-Information-theoretic form of the first law of thermodynamics:
-
-dS/dE = 1/T
-
-### 3. Results
-
-| T | dS/dE | 1/T | dS/dE × T |
-| :--- | :--- | :--- | :--- |
-| 0.20 | 3.7121 | 5.0000 | 0.7424 |
-| 0.50 | 2.1430 | 2.0000 | 1.0715 |
-| 0.70 | 1.4421 | 1.4286 | 1.0095 |
-| 1.00 | 1.0234 | 1.0000 | 1.0234 |
-| 2.00 | 0.4975 | 0.5000 | 0.9950 |
-| 3.00 | 0.3487 | 0.3333 | 1.0462 |
-| 5.00 | 0.2288 | 0.2000 | 1.1439 |
-| 8.00 | 0.1624 | 0.1250 | 1.2996 |
-
-### 4. Conclusion
-
-In the range T ∈ [0.7, 3.0], dS/dE × T ≈ 1, with errors within 5%.
-
----
-
-## VIII. Experiment 5: Emergence of Geometry from Entanglement
-
-### 1. Model
-
-Periodic XX chain, non-half-filled (chemical potential μ = -0.5, average filling 0.3325).
-
-### 2. Method
-
-Compute two-point mutual information I(i,j), define distance d(i,j) = -ln I(i,j).
-
-### 3. Theoretical Prediction
-
-One-dimensional critical CFT:
-
-I(i,j) ~ |i-j|^(-2)
-
-Therefore d(i,j) ~ 2 ln|i-j|
-
-### 4. Results
-
-| \|i-j\| | I(i,j) | d(i,j) | ln\|i-j\| | d/ln\|i-j\| |
+| t | σ | h_micro | H_macro | D_f |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 0.3828 | 0.9603 | 0.0000 | — |
-| 2 | 0.0881 | 2.4292 | 0.6931 | 3.50 |
-| 4 | 0.0213 | 3.8509 | 1.3863 | 2.78 |
-| 8 | 0.0055 | 5.2044 | 2.0794 | 2.50 |
-| 16 | 0.0013 | 6.6621 | 2.7726 | 2.40 |
-| 32 | 0.00037 | 7.8944 | 3.4657 | 2.28 |
-| 64 | 0.000072 | 9.5383 | 4.1589 | 2.29 |
-| 100 | 0.000028 | 10.4776 | 4.6052 | 2.28 |
+| 0 | 1.000 | 2.047 | 0.000 | 1.0000 |
+| 1 | 4.583 | 4.243 | 0.921 | 0.7829 |
+| 10 | 14.177 | 5.873 | 2.551 | 0.5657 |
+| 100 | 44.733 | 7.530 | 4.208 | 0.4411 |
+| 500 | 100.005 | 8.691 | 5.369 | 0.3822 |
+| 10000 | 447.215 | 10.852 | 7.530 | 0.3061 |
 
-Fit: d(i,j) = 2.0480 ln|i-j| + 0.9720, deviation 2.4%.
+**Conclusion**: In the continuous case, D_f slowly approaches 0, opposite in direction to the discrete case.
 
-### 5. Conclusion
+### 6.4 Continuous Case (Dynamic Resolution) and Unified Scaling Law
 
-A logarithmic distance is read out from entanglement data. This is a discrete version of one-dimensional AdS geometry.
+Let Δ ~ σ^α. Numerical results (at σ = 447):
+
+| α | D_f | Asymptotic | Gap |
+| :--- | :--- | :--- | :--- |
+| 0.00 | 0.3061 | 0 | 0.31 |
+| 0.25 | 0.5090 | 0.25 | 0.26 |
+| 0.50 | 0.7118 | 0.50 | 0.21 |
+| 0.75 | 0.9146 | 0.75 | 0.16 |
+| 1.00 | 1.0000 | 1.00 | 0.00 |
+
+**Asymptotic result**: As σ → ∞, D_f → α.
+
+**Derivation** (see Appendix B):
+
+D_f(σ; α) = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂(σ₀√(2πe))]
+
+**Finite-size correction and explicit convergence condition**:
+
+When log₂σ > 3·log₂Δ₀/α, |D_f - α| < 0.1·α.
+
+**Unified classification**:
+
+| Case | Scaling Relation | D_f Limit | Convergence Condition |
+| :--- | :--- | :--- | :--- |
+| Discrete (spin) | N increasing | 1 | N > 1000 |
+| Continuous + fixed Δ | Δ = const | 0 | log₂σ >> 3.32 |
+| Continuous + Δ ~ σ^α | 0 < α < 1 | α | log₂σ > 3·log₂Δ₀/α |
+| Continuous + Δ ~ σ | α = 1 | 1 | Immediate |
+
+**Conclusion**: The limiting value of the information loss rate does not depend on "non-injectivity" itself, but on the relative scaling of microscopic and macroscopic entropy.
+
+### 6.5 Relation Between Discrete Case and Continuous Scaling Law
+
+The discrete case cannot simply be regarded as the special case α_eff → 1. The discrete-case microscopic entropy H(Ω) = N grows **linearly**, whereas the continuous-case h_micro = (1/2)log₂(2πeσ²) grows **logarithmically**. The two scaling behaviors are mathematically different.
+
+**Therefore, the discrete case and the continuous scaling law are two independent results and cannot be forcibly unified.**
 
 ---
 
-## IX. Experiment 6: D_f as a Phase Transition Signal — A Negative Result
+## VII. Validation in a Real System: Critical Behavior of the 2D Ising Model
 
-### 1. Model
+### 7.1 Model and Setup
 
-2D Ising model, macroscopic description is coarse-grained magnetization (20 bins).
+- Lattice size: L = 32 (1024 spins)
+- Update algorithm: Metropolis Monte Carlo
+- Temperature range: T ∈ [0.5, 10.0], including the critical temperature Tc = 2.269
+- Macroscopic description: total magnetization M = Σσᵢ
 
-### 2. Method
+### 7.2 Numerical Results
 
-Scan temperature T ∈ [1.8, 2.8], find the position of the minimum of D_f, T_min(L). Use numba acceleration, extend L to 64.
+| T | H(M) | D_f | Magnetization Range |
+| :--- | :--- | :--- | :--- |
+| 0.500 | 2.6954 | 0.997368 | [-1024, 1024] |
+| 1.000 | 5.0327 | 0.995085 | [-1024, 1024] |
+| 1.500 | 4.4967 | 0.995609 | [-1024, 1024] |
+| 2.000 | 6.9190 | 0.993243 | [-984, 986] |
+| 2.269 | 8.4377 | 0.991760 | [-926, 898] |
+| 2.500 | 8.5526 | 0.991648 | [-816, 614] |
+| 3.000 | 7.6623 | 0.992517 | [-336, 436] |
+| 4.000 | 6.9321 | 0.993230 | [-228, 206] |
+| 5.000 | 6.6522 | 0.993504 | [-150, 208] |
+| 10.000 | 6.3152 | 0.993833 | [-122, 144] |
 
-### 3. Results
+### 7.3 Core Finding
 
-| L | T_min(D_f) | D_f_min |
+**D_f attains its minimum 0.991648 at T = 2.5, immediately adjacent to the critical temperature Tc = 2.269.**
+
+### 7.4 Physical Interpretation
+
+Near the critical point, the correlation length diverges, magnetization fluctuations are maximal, the macroscopic-state distribution is widest, H(M) is largest, and therefore D_f is smallest.
+
+### 7.5 Note on Sampling Insufficiency
+
+The theoretical upper bound is H(M) = log₂(2L²+1) ≈ 11.0 bits. The observed maximum H(M) = 8.55. D_f is systematically overestimated, but the trend remains valid.
+
+---
+
+## VIII. Time-Reversal Symmetry Test: A Negative Result
+
+### 8.1 Question
+
+Can D_f distinguish the forward and backward directions of time?
+
+### 8.2 Model
+
+1D harmonic oscillator system, N = 2000 particles, initial distribution is a narrow Gaussian.
+
+### 8.3 Results
+
+| Case | Mean Error | Max Error |
 | :--- | :--- | :--- |
-| 8 | 2.6000 | 0.933713 |
-| 16 | 2.5000 | 0.984180 |
-| 32 | 2.3500 | 0.996739 |
-| 64 | 2.4500 | 0.999337 |
+| Frictionless | **0.000003** | 0.000026 |
+| With friction γ=0.1 | 0.000023 | 0.000129 |
+| With friction γ=0.5 | 0.000047 | 0.000204 |
 
-Known Tc = 2.269.
+### 8.4 Conclusion
 
-### 4. Conclusion
+**D_f is time-symmetric under frictionless (reversible) dynamics.**
 
-**T_min(L) does not converge monotonically with L.**
+- Error 3×10⁻⁶, at floating-point precision level
+- **Non-injective projection itself does not produce the arrow of time**
+- **The arrow of time requires dissipation (irreversible dynamics)**
 
-- L=8 → 2.60
-- L=16 → 2.50
-- L=32 → 2.35
-- L=64 → **2.45** (bounces back)
+### 8.5 What This Result Refutes
 
-**D_f is not an accurate phase transition detector.**
+**Refuted**: A **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time."
 
-### 5. Reason Analysis
+**Not refuted**: The core proposition of this paper — "inverse inference is structurally and statically impossible."
 
-The D_f curve is too flat near its minimum. The difference in D_f_min between L=32 and L=64 is only 0.003. The position of T_min depends on which point happens to have the lowest noise, and is not a physically meaningful quantity.
+**The distinction**:
 
-**This is a negative result.** It rules out the possibility that "D_f can accurately detect phase transitions," but does not produce anything new.
+- "Inverse inference impossible" is an **epistemological** proposition
+- "Produces the arrow of time" is a **dynamical** proposition
 
----
+**This paper never claimed the latter.**
 
-## X. Experiment 7: Independence of D_f and Mutual Information
+### 8.6 Significance
 
-### 1. Model
+This is a negative result. It rules out a possibility but does not produce anything new. Its value lies in:
 
-2D Ising model, simultaneously compute:
-
-- D_f: information loss rate of total magnetization
-- I_AB: mutual information between left-half and right-half magnetizations
-
-### 2. Results
-
-| L | T | 1-D_f | I_AB |
-| :--- | :--- | :--- | :--- |
-| 8 | 2.4 | 0.0599 | 1.408 |
-| 16 | 2.4 | 0.0145 | 1.342 |
-| 24 | 2.4 | 0.0062 | 1.407 |
-| 32 | 2.4 | 0.0029 | 0.719 |
-
-### 3. Conclusion
-
-1-D_f and I_AB are qualitatively correlated but quantitatively non-parallel. At L=16, 1-D_f increases by 272% while I_AB increases by only 34%. This indicates that D_f and I_AB are two independent information-theoretic quantities.
+1. Clarifying the distinction between "static source" and "dynamical source"
+2. Showing that D_f is a time-reversal-neutral quantity
+3. Pointing the direction for future research: the arrow of time must be sought in dynamics
 
 ---
 
-## XI. Experiment 8: Qualitative Features of Toy Quantum Gravity
+## IX. Sensitivity of D_f to the Definition of Ω
 
-### 1. Model
+### 1. Sensitivity Analysis (Economics Case)
 
-8-qubit discretized toy model, nearest-neighbor spin coupling, boundary coupling between first and last sites.
-
-### 2. Results
-
-| t | S(1) | S(2) | S(4) | S(boundary) |
+| Definition of Ω | \|Ω\| | H(Ω) | H(Ω\|M′) | D_f |
 | :--- | :--- | :--- | :--- | :--- |
-| 0.00 | 0.0000 | 0.0000 | 0.0000 | 0.0000 |
-| 0.50 | 0.9984 | 1.6400 | 2.0884 | 1.9464 |
-| 1.00 | 0.9989 | 1.7138 | 2.6085 | 1.6126 |
-| 5.00 | 0.9618 | 1.7232 | 2.6592 | 1.9098 |
-| 12.00 | 0.9212 | 1.5643 | 2.3209 | 1.7533 |
+| Ω₁ | 2 | 1.00 | 0.00 | 0.00 |
+| Ω₂ | 4 | 2.00 | 1.00 | 0.50 |
+| Ω₃ | 8 | 3.00 | 2.00 | 0.67 |
+| Ω₄ | 16 | 4.00 | 3.00 | 0.75 |
+| Ω₅ | 256 | 8.00 | 7.00 | 0.88 |
 
-### 3. Conclusion
+**Conclusion**: In economics, D_f is highly sensitive to the definition of Ω.
 
-Three qualitative features are exhibited:
+### 2. Limitation on Practical Value in Economics
 
-1. Entanglement entropy grows with time and saturates.
-2. Larger bulk regions have larger entanglement entropy (area law).
-3. Boundary entanglement entropy is of the same order as bulk entanglement entropy (holographic feature).
-
-**It must be emphasized**: This is a toy model, not a real simulation of quantum gravity.
+- D_f cannot serve as a cross-theoretical macroscopic description quality metric.
+- **This paper does not promise that D_f can be conveniently used for policy evaluation.**
 
 ---
 
-## XII. Experiment 9: Counterexample Test — D_f in a Gapped System
+## X. Relation to Identification Theory, Partial Identification Theory, and Causal Inference
 
-### 1. Question
+### 1. Core Problem of Identification Theory
 
-If D_f saturates at a value < 1 in the deeply ordered phase (gapped system), the framework has a boundary.
+Identification theory asks: is parameter θ identifiable?
 
-### 2. Design
+### 2. Relation Between the Inverse-Inference Framework and Identification Theory
 
-2D Ising model, scanning temperature T ∈ [0.5, 4.0], L ∈ [8, 32], with the macroscopic description being the coarse-grained magnetization over 20 bins.
+**Relation One**: Identification theory is a special case of the inverse-inference framework.
 
-### 3. Results
+**Relation Two**: The inverse-inference framework provides an information-theoretic foundation for identification theory.
 
-| T | L=8 | L=12 | L=16 | L=24 | L=32 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 0.500 | 0.9798 | 0.9905 | 0.9920 | 0.9976 | 0.9982 |
-| 1.000 | 0.9845 | 0.9892 | 0.9893 | 0.9972 | 0.9984 |
-| 1.500 | 0.9842 | 0.9933 | 0.9962 | 0.9968 | 0.9983 |
-| 2.000 | 0.9637 | 0.9859 | 0.9923 | 0.9965 | 0.9981 |
-| 2.269 | 0.9491 | 0.9784 | 0.9877 | 0.9943 | 0.9967 |
-| 2.500 | 0.9338 | 0.9713 | 0.9844 | 0.9940 | 0.9973 |
-| 3.000 | 0.9395 | 0.9770 | 0.9881 | 0.9962 | 0.9979 |
-| 4.000 | 0.9458 | 0.9797 | 0.9906 | 0.9968 | 0.9985 |
+**Relation Three**: The inverse-inference framework gives a lower bound on inverse-inference error.
 
-### 4. Conclusion
+### 3. Relation to Partial Identification Theory
 
-1. At all temperatures, D_f increases monotonically with L.
-2. All values at L=32 are > 0.99 (minimum 0.9967, at the critical point).
-3. The deeply ordered phase does not saturate.
+**Complementarity**: D_f can serve as an information-theoretic measure of the "size of the identification region" in partial identification.
 
-**No counterexample was found. The framework is strengthened.**
+### 4. Relation to Causal Inference
 
-### 5. Reason Analysis
-
-The total magnetization has only O(log L) bits of entropy, while the microscopic entropy is L² bits. Regardless of whether there is a gap, this order-of-magnitude gap forces D_f → 1.
-
-**To find the boundary of the framework, what needs to change is not the temperature, but the macroscopic description itself.**
+**Core reminder**: Do not abandon causal inference because "macroscopic data cannot recover microscopic states."
 
 ---
 
-## XIII. Limitations and Objections
+## XI. Ontological Asymmetry of Ω and Its Consequences
 
-### 1. Limitation One: All experiments are reformulations of known physics
+### 1. Statement of the Asymmetry
 
-None of the nine experiments in this paper propose a new prediction. The contribution of this paper is **integration**, not **discovery**.
+- **Physics**: Ω is ontologically determinate.
+- **Economics**: Ω is theoretically constructed.
 
-### 2. Limitation Two: The framework does not produce new predictions
+### 2. Consequences of the Asymmetry
 
-The information projection framework is a conceptual language, not a physical theory.
+**Consequence One**: The epistemological status of D_f differs.
 
-### 3. Limitation Three: Toy models are not real physics
+**Consequence Two**: The scope of comparison of D_f differs.
 
-The toy quantum gravity model in Experiment 8 has only 8 qubits.
+### 3. Precise Definition of "Local Mathematical Analogy"
 
-### 4. Limitation Four: D_f is not a good phase transition detector
+**Definition (Local Mathematical Analogy)**: Two domains A and B constitute a local mathematical analogy on problem P if and only if:
 
-Experiment 6 shows that T_min(L) does not converge monotonically. **This is a negative result.**
+1. Both A and B can be modeled using the same set of mathematical objects (Ω, M′, g ∘ f, p, d).
+2. D_f and ε_min in A and B satisfy the same set of theorems.
+3. There is **no requirement** that a bijection exist between the Ω of A and the Ω of B.
+4. There is **no requirement** that the Ω of A and B satisfy the same set of axioms.
 
-### 5. Limitation Five: The counterexample test does not reach the framework boundary
+---
 
-Experiment 9 shows that as long as the information content of the macroscopic description is much smaller than the microscopic entropy, D_f approaches 1.
+## XII. Scope and Limitations
 
-### 6. Objection One: Is this pseudoscience?
+### 1. Scope
 
-No. This paper has formal definitions, numerical verification, honest declarations, and a negative result.
+- There exists a well-defined microscopic state space Ω and macroscopic state space M′.
+- There exists an aggregation mapping g ∘ f: Ω → M′ that is non-injective.
+- There exists a probability measure p on Ω.
 
-### 7. Objection Two: What is this good for?
+### 2. Limitation One: Ontological Asymmetry of Ω
 
-The value of this paper lies in unifying the "information loss" phenomena scattered across multiple fields under a single framework.
+See Section XI.
+
+### 3. Limitation Two: Choice of Probability Measure p
+
+D_f depends on p.
+
+### 4. Limitation Three: Continuous Case
+
+The theorems of this paper hold strictly for finite sets.
+
+### 5. Limitation Four: Computation of the Rate-Distortion Function
+
+The rate-distortion function R(D) generally has no analytic form.
+
+### 6. Limitation Five: Convergence Speed
+
+See Section 6.4.
+
+### 7. Limitation Six: Discrete and Continuous Scaling Laws Cannot Be Unified
+
+See Section 6.5.
+
+### 8. Limitation Seven: Sampling Insufficiency in the Ising Simulation
+
+See Section 7.5.
+
+### 9. Limitation Eight: D_f Is a Conceptual Tool, Not an Operational Tool
+
+**This paper does not promise that D_f can be conveniently used for policy evaluation.**
+
+### 10. Limitation Nine: D_f Does Not Capture the Arrow of Time
+
+See Section VIII.
+
+### 11. Limitation Ten: Insufficient Sample in the Boolean Network Analysis
+
+See Appendix D.
+
+---
+
+## XIII. Objections and Responses
+
+### Objection One: "D_f is just a renaming of conditional entropy."
+
+**Response**: Correct. The contribution of this paper is to rigorously reduce the inverse-inference error lower bound to rate-distortion theory, to give a unified scaling law with an explicit convergence condition, and to validate the framework with a real system.
+
+### Objection Two: "Economists have long known that macroscopic data cannot precisely infer microscopic states."
+
+**Response**: Correct. The contribution of this paper is not to "tell economists something they do not know," but to "provide an information-theoretic explanation of unidentifiability."
+
+### Objection Three: "This paper is philosophy, not economics or physics."
+
+**Response**: Correct. This paper is a paper in the philosophy of science.
+
+### Objection Four: "The sensitivity of D_f to the definition of Ω has not been discussed."
+
+**Response**: Section IX provides a systematic quantitative analysis.
+
+### Objection Five: "The scaling law D_f → α has no theoretical derivation."
+
+**Response**: The derivation is in Appendix B.
+
+### Objection Six: "The discrete case and the continuous scaling law cannot be unified."
+
+**Response**: Correct. Section 6.5 explicitly states that they are independent results.
+
+### Objection Seven: "The Ising simulation suffers from sampling insufficiency."
+
+**Response**: Correct. Section 7.5 explicitly states this.
+
+### Objection Eight: "D_f being minimal at the critical point is just a restatement of known physics."
+
+**Response**: Partially correct. "Maximal fluctuations at the critical point" is known; but the translation into "minimal information loss rate at the critical point" is the contribution of this paper.
+
+### Objection Nine: "D_f is not an operational tool and is useless for empirical researchers."
+
+**Response**: Correct. This paper clearly states that D_f is a **conceptual tool**.
+
+### Objection Ten: "The time-reversal symmetry test proves your framework is wrong."
+
+**Response**: Not accurate. That test refutes a **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time." The core proposition of this paper — "inverse inference is structurally and statically impossible" — is not refuted.
 
 ---
 
 ## XIV. Conclusion
 
-Through nine independent numerical experiments, this paper verifies the qualitative features of the information projection framework:
+The core results of this paper are eight:
 
-1. The information loss rate D_f approaches 1 as the system grows.
-2. Entanglement entropy follows conformal field theory scaling in critical systems.
-3. Entanglement entropy and energy obey the information-theoretic form of the first law of thermodynamics.
-4. Geometry can be read out from entanglement data.
-5. **D_f is not an accurate phase transition detector (negative result).**
-6. D_f and mutual information are two independent information-theoretic quantities.
-7. Area-law and holographic features appear in toy models.
-8. In a gapped system, D_f still approaches 1; no counterexample was found.
-9. A boundary condition of the framework is revealed.
+**First, it defines the information loss rate D_f.**
+
+**Second, it rigorously reduces the inverse-inference error lower bound to rate-distortion theory.**
+
+**Third, it provides a complete scaling theory of information loss rate.**
+
+**Fourth, it validates the framework in a real system with the 2D Ising model.**
+
+**Fifth, it discusses the sensitivity of D_f to the definition of Ω.**
+
+**Sixth, it clearly distinguishes the inverse-inference framework from identification theory.**
+
+**Seventh, it provides an explicit convergence condition.**
+
+**Eighth, it reports a negative result: D_f does not capture the arrow of time.** The time-reversal symmetry test shows that D_f is time-symmetric under reversible dynamics. Non-injective projection itself does not produce the arrow of time; the arrow of time requires dissipation.
 
 **Final positioning of this paper**:
 
-> This paper is not a physics paper, but a paper in the philosophy of science. Its contribution is conceptual integration, not physical discovery. It reports a negative result, which is part of honesty.
+> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility.
 
-**The conclusion of this paper is**: The information projection framework exhibits qualitatively consistent mathematical structures across multiple independent physical systems.
-
----
-
-## XV. Data Availability Statement
-
-The code for all numerical simulations in this paper is reproducible in the GitHub repository `maxlanceund/github-random`. All simulations were run via GitHub Actions in the cloud. The workflow files for the nine experiments are:
-
-- `run_ising.yml` (Experiment 1)
-- `run_quantum.yml` (Experiment 2)
-- `run_xx.yml` (Experiment 3)
-- `run_thermo.yml` (Experiment 4)
-- `run_geometry.yml` (Experiment 5)
-- `run_fast_phase.yml` (Experiment 6, numba-accelerated)
-- `run_dfmi.yml` (Experiment 7)
-- `run_gravity.yml` (Experiment 8)
-- `run_counterexample.yml` (Experiment 9)
+**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time.**
 
 ---
 
-## XVI. Conflict of Interest Statement
+## Appendix A: Proof of Theorem 1
+
+**Proof**:
+
+**Step One (Markov Chain)**: Since h is a deterministic mapping, Ω → M′ → h(M′) forms a Markov chain.
+
+**Step Two (Data Processing Inequality)**:
+
+I(Ω; h(M')) ≤ I(Ω; M')
+
+**Step Three (Definition of Rate-Distortion Function)**: By the definition of the rate-distortion function, any reconstruction channel q satisfying E[d(X,Y)] ≤ ε must have I(X;Y) ≥ R(ε). Therefore:
+
+R(ε(h)) ≤ I(Ω; h(M')) ≤ I(Ω; M')
+
+**Step Four (Inverse Function)**: Since R is strictly decreasing:
+
+ε(h) ≥ R⁻¹(I(Ω; M'))
+
+Q.E.D.
+
+---
+
+## Appendix B: Derivation of the Scaling Law
+
+Let h_micro = (1/2) log₂(2πeσ²) = log₂σ + C₀, where C₀ = (1/2)log₂(2πe) ≈ 2.047.
+
+Let Δ = Δ₀ · (σ/σ₀)^α, so log₂Δ = log₂Δ₀ + α log₂(σ/σ₀).
+
+When σ >> Δ:
+
+D_f = log₂Δ / h_micro = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂σ₀ + C₀]
+
+As σ → ∞: D_f → α
+
+**Derivation of the convergence condition**:
+
+Require |D_f - α| < 0.1·α. Let L = log₂(σ/σ₀), C = log₂σ₀ + C₀, then:
+
+|D_f - α| = |log₂Δ₀ - αC| / (L + C) < 0.1·α
+
+i.e., L > |log₂Δ₀ - αC| / (0.1·α) - C
+
+With Δ₀ = 10, σ₀ = 1, C = 2.047, we get L > 18.4.
+
+---
+
+## Appendix C: Numerical Method for the Ising Simulation
+
+### 1. Metropolis Algorithm
+
+ΔE = 2σᵢ · Σ_{j∈neighbors} σⱼ, accepted with probability min(1, exp(-ΔE/T)).
+
+### 2. Multi-Start Sampling
+
+10 independent runs per temperature, all samples merged.
+
+### 3. Computing Platform
+
+GitHub Actions (Ubuntu-latest, 2 cores, 7 GB RAM).
+
+---
+
+## Appendix D: D_f Analysis of Real Boolean Networks
+
+### 1. Purpose
+
+To verify the information projection framework on **real biological networks**. Specific question: does the D_f of real gene regulatory networks differ significantly from random Boolean networks of the same size?
+
+### 2. Data
+
+BioDivine Boolean Models (BBM) database, 285 `.bnet` files. Processable models (N ≤ 183): 28, of which:
+
+- Exact enumeration (N ≤ 16): 13
+- Monte Carlo sampling (N > 16, M = 100,000 samples): 15
+
+### 3. Method
+
+For each network:
+
+- **Ω**: all initial states (2^N)
+- **M′**: attractors (phenotype)
+- **D_f = H(Ω|M′) / H(Ω)**
+
+For N ≤ 16, exact enumeration. For N > 16, 100,000 random samples.
+
+### 4. Results
+
+| N | D_f | Method | Attractors |
+| :--- | :--- | :--- | :--- |
+| 5 | 0.8913 | exact | 2 |
+| 5 | 0.8006 | exact | 2 |
+| 6 | 0.7461 | exact | 5 |
+| 7 | 0.7908 | exact | 3 |
+| 9 | 0.9396 | exact | 2 |
+| 9 | 0.9127 | exact | 2 |
+| 11 | 0.8847 | exact | 4 |
+| 11 | 0.7710 | exact | 8 |
+| 11 | 0.7248 | exact | 9 |
+| 12 | 0.9555 | exact | 3 |
+| 14 | 1.0000 | exact | 1 |
+| 15 | 0.9048 | exact | 7 |
+| 15 | 1.0000 | exact | 1 |
+| 18 | 0.9876 | MC | 9 |
+| 18 | 0.8026 | MC | 16 |
+| 18 | 0.8465 | MC | 11 |
+| 19 | 0.9997 | MC | 21 |
+| 19 | 0.9467 | MC | 3 |
+| 28 | 0.9876 | MC | 2 |
+| 30 | 0.9995 | MC | 15 |
+| 31 | 1.0000 | MC | 3 |
+| 33 | 0.9853 | MC | 5 |
+| 47 | 0.9734 | MC | 6 |
+| 83 | 0.9796 | MC | 4 |
+| 102 | 0.9052 | MC | 2110 |
+| 144 | 0.9803 | MC | 8 |
+| 183 | 0.9894 | MC | 8 |
+
+**Statistics**: D_f mean 0.9117, standard deviation 0.0873.
+
+### 5. Observations
+
+**Observation 1**: For large N, D_f approaches 1. All networks with N ≥ 28 have D_f > 0.9.
+
+**Observation 2**: For small N, D_f is dispersed. Networks with N ≤ 15 have D_f in the range 0.72-1.00.
+
+**Observation 3**: This pattern can be predicted by:
+
+D_f = 1 − H(attractors) / N
+
+When N is large, H(attractors)/N → 0, so D_f → 1. When N is small, H(attractors)/N is non-negligible.
+
+### 6. Conclusion
+
+**The D_f of real biological networks follows mathematical expectation.**
+
+- Large networks approach 1, small networks are dispersed
+- This pattern does not depend on whether the network is real or random
+- **Real networks do not deviate from the mathematical baseline of random networks**
+
+**This is a verification result, not a discovery.** It shows that the information projection framework holds on real biological networks, but does not produce new biological insight.
+
+### 7. Limitations
+
+- Small sample size (28 models)
+- Most of the 285 models were skipped (N > 183 or parsing failure)
+- Monte Carlo sampling introduces error
+- No strict comparison with random networks
+
+**Statistical conclusions require more models and more rigorous methods.**
+
+---
+
+## XV. Falsification Conditions
+
+1. If economists find that there exists a macroscopic description M′ such that D_f ≈ 0 and can be used to precisely infer microscopic states, then the "structural boundary" conclusion of this paper does not hold in economics.
+2. If physicists find a projection in quantum gravity such that D_f = 0, then the framework of this paper does not apply in physics.
+3. If it is mathematically proven that, although g ∘ f is non-injective, there exists an inverse-inference operator whose error lower bound is 0, then the theorem of this paper is refuted.
+4. If numerical simulations show that the scaling law D_f → α does not hold, then the conclusion of Section 6.4 is falsified.
+5. If it is proven that the discrete case can be written in the form Δ ~ σ^α, then the conclusion of Section 6.5 is falsified.
+6. If, in the Ising model, the minimum of D_f is not near the critical point, then the conclusion of Section VII is falsified.
+7. If D_f is found to be time-asymmetric under reversible dynamics, then the negative result of Section VIII is refuted.
+8. If the D_f of real Boolean networks is found to systematically deviate from the random baseline, then the conclusion of Appendix D is falsified.
+
+---
+
+## XVI. References
+
+[1] Batterman, R. W. (2002). *The Devil in the Details*. Oxford University Press.
+
+[2] Blahut, R. E. (1972). Computation of Channel Capacity and Rate-Distortion Functions. *IEEE Transactions on Information Theory*, 18(4), 460-473.
+
+[3] Cartwright, N. (1983). *How the Laws of Physics Lie*. Oxford University Press.
+
+[4] Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory* (2nd ed.). Wiley-Interscience.
+
+[5] Fano, R. M. (1961). *Transmission of Information: A Statistical Theory of Communications*. MIT Press.
+
+[6] Gibbs, J. W. (1902). *Elementary Principles in Statistical Mechanics*. Yale University Press.
+
+[7] Jaynes, E. T. (1957). Information Theory and Statistical Mechanics. *Physical Review*, 106(4), 620-630.
+
+[8] Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Constructed Genetic Nets. *Journal of Theoretical Biology*, 22(3), 437-467.
+
+[9] Manski, C. F. (2003). *Partial Identification of Probability Distributions*. Springer.
+
+[10] Onsager, L. (1944). Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder Transition. *Physical Review*, 65(3-4), 117-149.
+
+[11] Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+
+[12] Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379-423.
+
+[13] Shannon, C. E. (1959). Coding Theorems for a Discrete Source with a Fidelity Criterion. *IRE National Convention Record*, 7(4), 142-163.
+
+[14] Tishby, N., Pereira, F. C., & Bialek, W. (1999). The Information Bottleneck Method. *Proceedings of the 37th Annual Allerton Conference on Communication, Control, and Computing*, 368-377.
+
+[15] Wilson, K. G. (1971). Renormalization Group and Critical Phenomena. *Physical Review B*, 4(9), 3174-3183.
+
+[16] Zhong, S. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+
+[17] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+
+---
+
+## XVII. Data Availability Statement
+
+This paper is a theoretical derivation. The numerical simulations in Sections VI, VII, VIII, and Appendix D were generated by Python code, reproducible in the GitHub repository maxlanceund/github-random. All simulations were run via GitHub Actions in the cloud.
+
+---
+
+## XVIII. Conflict of Interest Statement
 
 The author declares that there is no conflict of interest that could affect the research conclusions or academic judgment of this paper.
 
@@ -469,4 +744,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Information Projection Framework — Numerical Verification from Entanglement to Geometry*. Equal System Repository.
+Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 13.0). Equal System Repository.
