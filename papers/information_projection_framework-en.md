@@ -8,7 +8,7 @@
 | **Author** | Zhong Shanzhen |
 | **Date** | 2026-09-25 |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | information projection, non-injectivity, entanglement entropy, emergent geometry, first law of thermodynamics, phase transition detection |
+| **Keywords** | information projection, non-injectivity, entanglement entropy, emergent geometry, first law of thermodynamics, phase transition detection, counterexample test |
 
 ---
 
@@ -16,7 +16,7 @@
 
 This paper proposes an information-theoretic framework to unify the description of information loss in macroscopic descriptions, the growth of quantum entanglement, the emergence of thermodynamic relations, and the generation of geometric structure from entanglement. The core of the framework is **non-injective projection**: the composite map g ∘ f: Ω → M′ is not injective, leading to incomplete macroscopic descriptions.
 
-Through **eight independent numerical experiments**, this paper verifies the qualitative features of the framework across multiple physical systems:
+Through **nine independent numerical experiments**, this paper verifies the qualitative features of the framework across multiple physical systems:
 
 **First, the scaling law of the information loss rate D_f.** In the 2D Ising model, D_f monotonically approaches 1 as the system grows.
 
@@ -33,6 +33,8 @@ Through **eight independent numerical experiments**, this paper verifies the qua
 **Seventh, the independence of D_f and mutual information.** D_f and the mutual information between two halves are qualitatively correlated but quantitatively non-parallel, indicating that they are independent information-theoretic quantities.
 
 **Eighth, qualitative features of toy quantum gravity.** In a discretized toy model, the entanglement entropy exhibits area-law and holographic features.
+
+**Ninth, a counterexample test.** In the gapped phase of the 2D Ising model, D_f still monotonically approaches 1 with increasing L at all temperatures. No counterexample was found. The framework is strengthened.
 
 **Positioning of this paper**: This paper does not claim to solve quantum gravity. It claims that the language of information projection can uniformly describe information loss, entanglement growth, geometric emergence, and thermodynamic relations across multiple known physical systems.
 
@@ -61,11 +63,11 @@ Let Ω be the microscopic state space, M′ the coarse-grained macroscopic state
 
 ### 3. Contributions of This Paper
 
-The contribution of this paper is **numerical verification**. Previous works established the framework; this paper verifies its qualitative features across multiple physical systems through eight independent experiments.
+The contribution of this paper is **numerical verification**. Previous works established the framework; this paper verifies its qualitative features across multiple physical systems through nine independent experiments.
 
 ### 4. Structure of the Argument
 
-Section III establishes the framework. Sections IV to XI present eight numerical experiments. Section XII discusses limitations. Section XIII concludes.
+Section III establishes the framework. Sections IV to XII present nine numerical experiments. Section XIII discusses limitations. Section XIV concludes.
 
 ---
 
@@ -340,11 +342,50 @@ Three qualitative features are exhibited:
 
 ---
 
-## XII. Limitations and Objections
+## XII. Experiment 9: Counterexample Test — D_f in a Gapped System
+
+### 1. Question
+
+If D_f saturates at a value < 1 in the deeply ordered phase (gapped system), the framework has a boundary. Finding the boundary is the key to verifying that the framework is "contentful" rather than "empty."
+
+### 2. Design
+
+2D Ising model, scanning temperature T ∈ [0.5, 4.0], L ∈ [8, 32], with the macroscopic description being the coarse-grained magnetization over 20 bins.
+
+### 3. Results
+
+| T | L=8 | L=12 | L=16 | L=24 | L=32 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 0.500 | 0.9798 | 0.9905 | 0.9920 | 0.9976 | 0.9982 |
+| 1.000 | 0.9845 | 0.9892 | 0.9893 | 0.9972 | 0.9984 |
+| 1.500 | 0.9842 | 0.9933 | 0.9962 | 0.9968 | 0.9983 |
+| 2.000 | 0.9637 | 0.9859 | 0.9923 | 0.9965 | 0.9981 |
+| 2.269 | 0.9491 | 0.9784 | 0.9877 | 0.9943 | 0.9967 |
+| 2.500 | 0.9338 | 0.9713 | 0.9844 | 0.9940 | 0.9973 |
+| 3.000 | 0.9395 | 0.9770 | 0.9881 | 0.9962 | 0.9979 |
+| 4.000 | 0.9458 | 0.9797 | 0.9906 | 0.9968 | 0.9985 |
+
+### 4. Conclusion
+
+1. At all temperatures, D_f increases monotonically with L.
+2. All values at L=32 are > 0.99 (minimum 0.9967, at the critical point).
+3. The deeply ordered phase does not saturate.
+
+**No counterexample was found. The framework is strengthened.**
+
+### 5. Reason Analysis
+
+The total magnetization has only O(log L) bits of entropy, while the microscopic entropy is L² bits. Regardless of whether there is a gap, this order-of-magnitude gap forces D_f → 1.
+
+**To find the boundary of the framework, what needs to change is not the temperature, but the macroscopic description itself.** This points the direction for future research.
+
+---
+
+## XIII. Limitations and Objections
 
 ### 1. Limitation One: All experiments are reformulations of known physics
 
-None of the eight experiments in this paper propose a new prediction. They verify known physical laws (Calabrese-Cardy formula, first law of thermodynamics, qualitative features of holography). The contribution of this paper is **integration**, not **discovery**.
+None of the nine experiments in this paper propose a new prediction. They verify known physical laws (Calabrese-Cardy formula, first law of thermodynamics, qualitative features of holography). The contribution of this paper is **integration**, not **discovery**.
 
 ### 2. Limitation Two: The framework does not produce new predictions
 
@@ -358,19 +399,23 @@ The toy quantum gravity model in Experiment 8 has only 8 qubits. It cannot repre
 
 Experiment 6 shows that T_min(L) crosses Tc and is not an accurate phase transition point. D_f is qualitatively sensitive but quantitatively inaccurate.
 
-### 5. Objection One: Is this pseudoscience?
+### 5. Limitation Five: The counterexample test does not reach the framework boundary
+
+Experiment 9 shows that as long as the information content of the macroscopic description is much smaller than the microscopic entropy, D_f approaches 1. This does not test the framework's behavior when the macroscopic description has comparable information content.
+
+### 6. Objection One: Is this pseudoscience?
 
 No. This paper has formal definitions, numerical verification, and honest declarations. It acknowledges its limitations and does not claim to solve quantum gravity.
 
-### 6. Objection Two: What is this good for?
+### 7. Objection Two: What is this good for?
 
 The value of this paper lies in unifying the "information loss" phenomena scattered across multiple fields under a single framework. It provides a conceptual language that may inspire future theoretical constructions.
 
 ---
 
-## XIII. Conclusion
+## XIV. Conclusion
 
-Through eight independent numerical experiments, this paper verifies the qualitative features of the information projection framework across multiple physical systems:
+Through nine independent numerical experiments, this paper verifies the qualitative features of the information projection framework across multiple physical systems:
 
 1. The information loss rate D_f approaches 1 as the system grows.
 2. Entanglement entropy follows conformal field theory scaling in critical systems.
@@ -379,6 +424,8 @@ Through eight independent numerical experiments, this paper verifies the qualita
 5. D_f is qualitatively sensitive to phase transitions.
 6. D_f and mutual information are two independent information-theoretic quantities.
 7. Area-law and holographic features appear in toy models.
+8. In a gapped system, D_f still approaches 1; no counterexample was found.
+9. A boundary condition of the framework is revealed: the information content of the macroscopic description must be of the same order as the microscopic entropy for a counterexample to arise.
 
 **Final positioning of this paper**:
 
@@ -388,9 +435,9 @@ Through eight independent numerical experiments, this paper verifies the qualita
 
 ---
 
-## XIV. Data Availability Statement
+## XV. Data Availability Statement
 
-The code for all numerical simulations in this paper is reproducible in the GitHub repository `maxlanceund/github-random`. All simulations were run via GitHub Actions in the cloud. The workflow files for the eight experiments are:
+The code for all numerical simulations in this paper is reproducible in the GitHub repository `maxlanceund/github-random`. All simulations were run via GitHub Actions in the cloud. The workflow files for the nine experiments are:
 
 - `run_ising.yml` (Experiments 1 and 6)
 - `run_quantum.yml` (Experiment 2)
@@ -399,10 +446,11 @@ The code for all numerical simulations in this paper is reproducible in the GitH
 - `run_geometry.yml` (Experiment 5)
 - `run_dfmi.yml` (Experiment 7)
 - `run_gravity.yml` (Experiment 8)
+- `run_counterexample.yml` (Experiment 9)
 
 ---
 
-## XV. Conflict of Interest Statement
+## XVI. Conflict of Interest Statement
 
 The author declares that there is no conflict of interest that could affect the research conclusions or academic judgment of this paper.
 
