@@ -6,9 +6,9 @@
 | :--- | :--- |
 | **Title** | Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy |
 | **Author** | Zhong Shanzhen |
-| **Date** | 2026-09-22 (Revised: 2026-09-25, Version 11.0) |
+| **Date** | 2026-09-22 (Revised: 2026-09-25, Version 12.0) |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena |
+| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry |
 
 ---
 
@@ -18,7 +18,7 @@ Building on two previous papers, this paper proposes an information-theoretic fr
 
 The previous two papers argued that the non-injectivity of the composite projection g ∘ f: Ω → M′ renders macroscopic descriptions incomplete. That conclusion, however, was qualitative.
 
-**The core contributions of this paper are seven:**
+**The core contributions of this paper are eight:**
 
 **First, it defines the information loss rate D_f.** D_f = H(Ω|M′) / H(Ω), ranging over [0,1].
 
@@ -33,6 +33,8 @@ The previous two papers argued that the non-injectivity of the composite project
 **Sixth, it clearly distinguishes the inverse-inference framework from econometric identification theory.**
 
 **Seventh, it provides an explicit convergence condition.** When log₂σ > 3·log₂Δ₀/α, the deviation of D_f from α is less than 10%.
+
+**Eighth (new), a time-reversal symmetry test.** Through numerical simulation of a harmonic oscillator system, it is found that D_f is **time-symmetric** under frictionless (reversible) dynamics. **D_f itself does not capture the arrow of time.** The arrow of time requires dissipation (irreversible dynamics). This is a negative result that clarifies the distinction between static information loss and dynamical irreversibility.
 
 **Positioning of this paper**: This paper is not an operational manual. It is a paper in the philosophy of science, telling theoretical researchers "why certain approaches are structurally impossible."
 
@@ -64,6 +66,8 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 **Question Six**: In a real physical system, what is the behavior of D_f?
 
+**Question Seven (new)**: Can D_f distinguish the forward and backward directions of time?
+
 ### 3. Positioning of This Paper
 
 **This paper is a paper in the philosophy of science.** Its goal is to provide an information-theoretic explanation of "unidentifiability." This explanation is conceptual, not operational.
@@ -74,11 +78,11 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 **On scaling laws**: Research on coarse-graining scaling laws in physics appears in renormalization group theory (Wilson, 1971) and critical phenomena. The scaling law D_f → α has a form similar to the scaling exponents of the renormalization group, but a different physical content: the renormalization group describes how coupling constants change with scale, while this paper describes how the information loss rate changes with the relative scaling of microscopic and macroscopic entropy.
 
-**On the arrow of time**: This paper forms a series with the first two papers. The first argues that the arrow of time and the unification predicament share a common source; the second argues for the structural source of irreversibility; this paper provides a quantitative theory of information loss rate.
+**On the arrow of time**: This paper forms a series with the first two papers. The first argues that the arrow of time and the unification predicament share a common source; the second argues for the structural source of irreversibility; this paper provides a quantitative theory of information loss rate and reports a negative result concerning time-reversal symmetry.
 
 ### 5. Structure of the Argument
 
-Section III defines the information loss rate and its properties. Section IV introduces rate-distortion theory and proves the inverse-inference error lower bound theorem. Section V gives rate-distortion functions for three common cases. Section VI provides numerical validation and the scaling law. Section VII validates the framework with a 2D Ising model. Section VIII discusses the sensitivity of D_f to the definition of Ω. Section IX discusses the relation to identification theory. Section X discusses ontological asymmetry. Section XI discusses scope and limitations. Section XII responds to objections. Section XIII concludes.
+Section III defines the information loss rate and its properties. Section IV introduces rate-distortion theory and proves the inverse-inference error lower bound theorem. Section V gives rate-distortion functions for three common cases. Section VI provides numerical validation and the scaling law. Section VII validates the framework with a 2D Ising model. Section VIII reports a negative result from the time-reversal symmetry test. Section IX discusses the sensitivity of D_f to the definition of Ω. Section X discusses the relation to identification theory. Section XI discusses ontological asymmetry. Section XII discusses scope and limitations. Section XIII responds to objections. Section XIV concludes.
 
 ---
 
@@ -109,6 +113,8 @@ R_f = 1 - D_f = I(Ω; M') / H(Ω)
 **Property 3 (Complete Loss Case)**: If Ω and M′ are independent, then D_f = 1.
 
 **Property 4 (Structural Dependence)**: The **definition** of D_f depends only on (Ω, M′, g ∘ f, p), not on sample size, computational power, or model complexity.
+
+**Property 5 (Time-Reversal Neutrality, new)**: D_f is a **static** quantity. Its definition does not involve time evolution. Therefore, D_f itself carries no information about the arrow of time. Time asymmetry must come from dynamics, not from the definition of D_f.
 
 ---
 
@@ -218,7 +224,7 @@ D_f(σ; α) = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂(�
 
 **Finite-size correction and explicit convergence condition**:
 
-When log₂σ > 3·log₂Δ₀/α, |D_f - α| < 0.1·α. That is, the deviation of D_f from α is less than 10%.
+When log₂σ > 3·log₂Δ₀/α, |D_f - α| < 0.1·α.
 
 For example, with Δ₀ = 10 and α = 0.5: log₂σ > 3 × 3.32 / 0.5 = 19.9, i.e., σ > 2^19.9 ≈ 10^6.
 
@@ -258,7 +264,7 @@ The 2D Ising model is the standard model for studying phase transitions in stati
 - Per temperature: 10 independent runs, 100 samples each
 - Macroscopic description: total magnetization M = Σσᵢ
 - Microscopic entropy: H(Ω) = L² = 1024 bits
-- Computing platform: GitHub Actions cloud (Ubuntu, 2 cores, 7 GB RAM)
+- Computing platform: GitHub Actions cloud
 
 ### 7.2 Numerical Results
 
@@ -285,33 +291,75 @@ This means: **near the phase transition, the macroscopic description (total magn
 
 Near the critical point, the correlation length diverges, magnetization fluctuations are maximal, the macroscopic-state distribution is widest, H(M) is largest, and therefore D_f is smallest.
 
-**Variation of magnetization range**:
-
-- Low temperature (T=0.5): spans [-1024, 1024], two-basin structure
-- Critical (T=2.269): spans [-926, 898], fluctuations maximal
-- High temperature (T=10.0): concentrated in [-122, 144], approaching the central limit
-
 ### 7.5 Note on Sampling Insufficiency
 
-The theoretical upper bound is H(M) = log₂(2L²+1) = log₂(2049) ≈ 11.0 bits. The observed maximum H(M) = 8.55, below the theoretical upper bound.
-
-**Reason**: Total sample count 10 × 100 = 1000, while the macroscopic state has 2049 possibilities; sampling does not fully cover.
-
-**Consequence**: D_f is systematically overestimated. The true D_f should be lower than the values in the table.
-
-**The trend remains valid**: The location of the D_f minimum (T ≈ 2.269) is not affected by sampling insufficiency.
+The theoretical upper bound is H(M) = log₂(2L²+1) ≈ 11.0 bits. The observed maximum H(M) = 8.55. Sampling does not fully cover; D_f is systematically overestimated. The trend remains valid.
 
 ### 7.6 Relation to the Scaling-Law Framework
 
-The Ising model validates the **discrete case** (N spins), not the continuous scaling law. What it validates is:
-
-> D_f → 1 (as the system grows, the macroscopic description loses nearly all information)
-
-Simultaneously, it discovers a **new phenomenon**: D_f has a minimum near the critical point. This phenomenon is an **emergent result** of the scaling-law framework in a real system, not directly derived from the formula.
+The Ising model validates the **discrete case**. It validates D_f → 1, and discovers that D_f has a minimum near the critical point.
 
 ---
 
-## VIII. Sensitivity of D_f to the Definition of Ω
+## VIII. Time-Reversal Symmetry Test: A Negative Result
+
+### 8.1 Question
+
+Can D_f distinguish the forward and backward directions of time?
+
+**Theoretical background**: The previous two papers argued that "non-injective projection produces the arrow of time." If this proposition holds, then under reversible dynamics, D_f should exhibit time asymmetry.
+
+### 8.2 Model
+
+1D harmonic oscillator system, N = 2000 particles, initial distribution is a narrow Gaussian (both x and v small).
+
+**Steps**:
+
+1. Evolve forward 500 steps, measure D_f at each step (histogram entropy of position distribution)
+2. At the final state, perform time reversal (v → −v)
+3. Evolve backward 500 steps, measure D_f at each step
+4. Compare D_f(t) and D_f(T−t)
+
+### 8.3 Results
+
+| Case | Mean Error | Max Error |
+| :--- | :--- | :--- |
+| Frictionless | **0.000003** | 0.000026 |
+| With friction γ=0.1 | 0.000023 | 0.000129 |
+| With friction γ=0.5 | 0.000047 | 0.000204 |
+
+### 8.4 Conclusion
+
+**D_f is time-symmetric under frictionless (reversible) dynamics.**
+
+- Error 3×10⁻⁶, at floating-point precision level
+- **Non-injective projection itself does not produce the arrow of time**
+- **The arrow of time requires dissipation (irreversible dynamics)**
+
+### 8.5 What This Result Refutes, and What It Does Not
+
+**Refuted**: A **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time."
+
+**Not refuted**: The core proposition of this paper — "inverse inference is structurally and statically impossible."
+
+**The distinction**:
+
+- "Inverse inference impossible" is an **epistemological** proposition: given a macroscopic description, recovering the microscopic state is impossible
+- "Produces the arrow of time" is a **dynamical** proposition: the projection itself produces time asymmetry
+
+**This paper never claimed the latter.** This experiment clarifies: static information loss does not produce observable time asymmetry.
+
+### 8.6 Significance
+
+**This is a negative result.** It rules out a possibility but does not produce anything new. Its value lies in:
+
+1. Clarifying the distinction between "static source" and "dynamical source"
+2. Showing that D_f is a time-reversal-neutral quantity
+3. Pointing the direction for future research: the arrow of time must be sought in dynamics
+
+---
+
+## IX. Sensitivity of D_f to the Definition of Ω
 
 ### 1. Sensitivity Analysis (Economics Case)
 
@@ -330,12 +378,11 @@ In economics, let M′ = {a, b}, and let the definition of Ω be progressively r
 ### 2. Limitation on Practical Value in Economics
 
 - D_f cannot serve as a cross-theoretical macroscopic description quality metric.
-- Comparisons of D_f are valid only under the same definition of Ω.
 - **This paper does not promise that D_f can be conveniently used for policy evaluation.**
 
 ---
 
-## IX. Relation to Identification Theory, Partial Identification Theory, and Causal Inference
+## X. Relation to Identification Theory, Partial Identification Theory, and Causal Inference
 
 ### 1. Core Problem of Identification Theory
 
@@ -359,7 +406,7 @@ Identification theory asks: is parameter θ identifiable?
 
 ---
 
-## X. Ontological Asymmetry of Ω and Its Consequences
+## XI. Ontological Asymmetry of Ω and Its Consequences
 
 ### 1. Statement of the Asymmetry
 
@@ -381,36 +428,6 @@ Identification theory asks: is parameter θ identifiable?
 3. There is **no requirement** that a bijection exist between the Ω of A and the Ω of B.
 4. There is **no requirement** that the Ω of A and B satisfy the same set of axioms.
 
-**Difference from isomorphism**:
-
-| Feature | Isomorphism | Local Mathematical Analogy |
-| :--- | :--- | :--- |
-| Bijection | Required | Not required |
-| Preserves all relations | Required | Only preserves theorems about D_f and ε_min |
-| Ontological unification | Required | Not required |
-
----
-
-## XI. Relation to Existing Work in the Philosophy of Science
-
-### 1. Relation to Cartwright
-
-**Common ground**: Both focus on "the validity of theories under specific conditions."
-
-**Complementarity**: D_f can serve as a quantitative indicator of Cartwright's "nomological machines."
-
-### 2. Relation to Batterman
-
-**Common ground**: Both focus on "the independent status of macroscopic descriptions."
-
-**Complementarity**: D_f can serve as a quantitative indicator of Batterman's "effective theories."
-
-### 3. Relation to the Renormalization Group
-
-**Common ground**: Both concern scaling behavior.
-
-**Difference**: The renormalization group describes how coupling constants change with scale; this paper describes how the information loss rate changes with the relative scaling of microscopic and macroscopic entropy.
-
 ---
 
 ## XII. Scope and Limitations
@@ -423,7 +440,7 @@ Identification theory asks: is parameter θ identifiable?
 
 ### 2. Limitation One: Ontological Asymmetry of Ω
 
-See Section X.
+See Section XI.
 
 ### 3. Limitation Two: Choice of Probability Measure p
 
@@ -431,7 +448,7 @@ D_f depends on p.
 
 ### 4. Limitation Three: Continuous Case
 
-The theorems of this paper hold strictly for finite sets. The continuous case uses differential entropy approximations.
+The theorems of this paper hold strictly for finite sets.
 
 ### 5. Limitation Four: Computation of the Rate-Distortion Function
 
@@ -439,7 +456,7 @@ The rate-distortion function R(D) generally has no analytic form.
 
 ### 6. Limitation Five: Convergence Speed
 
-The scaling law D_f → α is an asymptotic result. At finite σ, D_f is systematically higher than α. Convergence condition in Section 6.4.
+See Section 6.4.
 
 ### 7. Limitation Six: Discrete and Continuous Scaling Laws Cannot Be Unified
 
@@ -452,6 +469,10 @@ See Section 7.5.
 ### 9. Limitation Eight: D_f Is a Conceptual Tool, Not an Operational Tool
 
 **This paper does not promise that D_f can be conveniently used for policy evaluation.**
+
+### 10. Limitation Nine (new): D_f Does Not Capture the Arrow of Time
+
+The time-reversal symmetry test shows that D_f is time-symmetric under reversible dynamics. D_f itself carries no information about the arrow of time. The arrow of time requires dissipation.
 
 ---
 
@@ -471,11 +492,11 @@ See Section 7.5.
 
 ### Objection Four: "The sensitivity of D_f to the definition of Ω has not been discussed."
 
-**Response**: Section VIII provides a systematic quantitative analysis.
+**Response**: Section IX provides a systematic quantitative analysis.
 
 ### Objection Five: "The scaling law D_f → α has no theoretical derivation."
 
-**Response**: The derivation is in Appendix B. The convergence condition is in Section 6.4.
+**Response**: The derivation is in Appendix B.
 
 ### Objection Six: "The discrete case and the continuous scaling law cannot be unified."
 
@@ -487,45 +508,43 @@ See Section 7.5.
 
 ### Objection Eight: "D_f being minimal at the critical point is just a restatement of known physics."
 
-**Response**: Partially correct. "Maximal fluctuations at the critical point" is known; but the translation into "minimal information loss rate at the critical point" is the contribution of this paper. It does not produce new physics, but provides a new perspective.
+**Response**: Partially correct. "Maximal fluctuations at the critical point" is known; but the translation into "minimal information loss rate at the critical point" is the contribution of this paper.
 
 ### Objection Nine: "D_f is not an operational tool and is useless for empirical researchers."
 
-**Response**: Correct. This paper clearly states that D_f is a **conceptual tool**, not an **operational tool**.
+**Response**: Correct. This paper clearly states that D_f is a **conceptual tool**.
+
+### Objection Ten (new): "The time-reversal symmetry test proves your framework is wrong."
+
+**Response**: Not accurate. That test refutes a **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time." The core proposition of this paper — "inverse inference is structurally and statically impossible" — is not refuted. The test clarifies the distinction between static information loss and dynamical irreversibility.
 
 ---
 
 ## XIV. Conclusion
 
-The core results of this paper are seven:
+The core results of this paper are eight:
 
 **First, it defines the information loss rate D_f.**
 
 **Second, it rigorously reduces the inverse-inference error lower bound to rate-distortion theory.**
 
-**Third, it provides a complete scaling theory of information loss rate.** The unified formula:
+**Third, it provides a complete scaling theory of information loss rate.**
 
-D_f → α, where Δ ~ σ^α
-
-Finite-size correction formula:
-
-D_f(σ; α) = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂(σ₀√(2πe))]
-
-Explicit convergence condition: When log₂σ > 3·log₂Δ₀/α, |D_f - α| < 0.1·α.
-
-**Fourth, it validates the framework in a real system with the 2D Ising model.** D_f attains its minimum near the critical temperature Tc = 2.269.
+**Fourth, it validates the framework in a real system with the 2D Ising model.**
 
 **Fifth, it discusses the sensitivity of D_f to the definition of Ω.**
 
-**Sixth, it clearly distinguishes the inverse-inference framework from identification theory, partial identification theory, and causal inference.**
+**Sixth, it clearly distinguishes the inverse-inference framework from identification theory.**
 
-**Seventh, it clearly states that the discrete case and the continuous scaling law are two independent results.**
+**Seventh, it provides an explicit convergence condition.**
+
+**Eighth (new), it reports a negative result: D_f does not capture the arrow of time.** The time-reversal symmetry test shows that D_f is time-symmetric under reversible dynamics. Non-injective projection itself does not produce the arrow of time; the arrow of time requires dissipation.
 
 **Final positioning of this paper**:
 
-> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The Ising simulation discovers the real-system phenomenon that D_f is minimal at the critical point.
+> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility.
 
-**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity.
+**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time.**
 
 ---
 
@@ -543,7 +562,7 @@ I(Ω; h(M')) ≤ I(Ω; M')
 
 R(ε(h)) ≤ I(Ω; h(M')) ≤ I(Ω; M')
 
-**Step Four (Inverse Function)**: Since R is strictly decreasing on [0, D_max]:
+**Step Four (Inverse Function)**: Since R is strictly decreasing:
 
 ε(h) ≥ R⁻¹(I(Ω; M'))
 
@@ -561,27 +580,17 @@ When σ >> Δ:
 
 D_f = log₂Δ / h_micro = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂σ₀ + C₀]
 
-As σ → ∞, the log₂σ terms dominate:
-
-D_f → α
-
-**Finite-size correction**: At finite σ, the constant terms log₂Δ₀ and log₂(σ₀√(2πe)) cannot be neglected; D_f is systematically higher than α.
+As σ → ∞: D_f → α
 
 **Derivation of the convergence condition**:
 
 Require |D_f - α| < 0.1·α. Let L = log₂(σ/σ₀), C = log₂σ₀ + C₀, then:
 
-D_f = (log₂Δ₀ + αL) / (L + C)
-
-|D_f - α| = |log₂Δ₀ - αC| / (L + C)
-
-Require |log₂Δ₀ - αC| / (L + C) < 0.1·α
+|D_f - α| = |log₂Δ₀ - αC| / (L + C) < 0.1·α
 
 i.e., L > |log₂Δ₀ - αC| / (0.1·α) - C
 
-When αC >> log₂Δ₀, this approximates L > 9C.
-
-With Δ₀ = 10, σ₀ = 1, C = 2.047, we get L > 18.4, i.e., σ > 2^18.4 ≈ 3.5×10^5.
+With Δ₀ = 10, σ₀ = 1, C = 2.047, we get L > 18.4.
 
 ---
 
@@ -589,23 +598,35 @@ With Δ₀ = 10, σ₀ = 1, C = 2.047, we get L > 18.4, i.e., σ > 2^18.4 ≈ 3.
 
 ### 1. Metropolis Algorithm
 
-For each spin σᵢ, compute the energy change upon flipping:
+ΔE = 2σᵢ · Σ_{j∈neighbors} σⱼ, accepted with probability min(1, exp(-ΔE/T)).
 
-ΔE = 2σᵢ · Σ_{j∈neighbors} σⱼ
+### 2. Multi-Start Sampling
 
-Accept the flip with probability min(1, exp(-ΔE/T)).
+10 independent runs per temperature, all samples merged.
 
-### 2. Block-Spin Coarse-Graining
+### 3. Computing Platform
 
-Group b×b spins into a single block spin by majority rule.
+GitHub Actions (Ubuntu-latest, 2 cores, 7 GB RAM).
 
-### 3. Multi-Start Sampling
+---
 
-Perform 10 independent runs per temperature, each starting from a random initial state, and merge all samples. This resolves the ergodicity-breaking problem in the ordered phase.
+## Appendix D: Numerical Method for the Time-Reversal Symmetry Test
 
-### 4. Computing Platform
+### 1. Harmonic Oscillator Model
 
-GitHub Actions (Ubuntu-latest, 2 cores, 7 GB RAM). Single run takes about 6 minutes.
+a = -ω²x - γv, ω = 1.0, γ is the friction coefficient.
+
+### 2. Time-Reversal Operation
+
+At the final state, reverse the velocity: v → −v.
+
+### 3. Computation of D_f
+
+Divide position x into 50 bins, compute histogram entropy H, D_f = H / log₂(50).
+
+### 4. Symmetry Measure
+
+Compare the mean absolute difference between D_f(t) and D_f(T−t).
 
 ---
 
@@ -617,6 +638,7 @@ GitHub Actions (Ubuntu-latest, 2 cores, 7 GB RAM). Single run takes about 6 minu
 4. If numerical simulations show that the scaling law D_f → α does not hold, then the conclusion of Section 6.4 is falsified.
 5. If it is proven that the discrete case can be written in the form Δ ~ σ^α, then the conclusion of Section 6.5 is falsified.
 6. If, in the Ising model, the minimum of D_f is not near the critical point, then the conclusion of Section VII is falsified.
+7. If D_f is found to be time-asymmetric under reversible dynamics, then the negative result of Section VIII is refuted.
 
 ---
 
@@ -658,7 +680,7 @@ GitHub Actions (Ubuntu-latest, 2 cores, 7 GB RAM). Single run takes about 6 minu
 
 ## XVII. Data Availability Statement
 
-This paper is a theoretical derivation. The numerical simulations in Sections VI and VII were generated by Python code, reproducible in the GitHub repository maxlanceund/github-random. The Ising simulation was run via GitHub Actions in the cloud.
+This paper is a theoretical derivation. The numerical simulations in Sections VI, VII, and VIII were generated by Python code, reproducible in the GitHub repository maxlanceund/github-random. All simulations were run via GitHub Actions in the cloud.
 
 ---
 
@@ -670,4 +692,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 11.0). Equal System Repository.
+Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 12.0). Equal System Repository.
