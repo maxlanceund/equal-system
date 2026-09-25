@@ -6,37 +6,35 @@
 | :--- | :--- |
 | **Title** | Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy |
 | **Author** | Zhong Shanzhen |
-| **Date** | 2026-09-22 |
+| **Date** | 2026-09-22 (Revised: 2026-09-25, Version 11.0) |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, identification theory, partial identification, ontological asymmetry, interdisciplinary analogy |
+| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena |
 
 ---
 
 ## I. Abstract
 
-Building on two previous papers, this paper proposes an information-theoretic framework for quantifying the information loss of macroscopic descriptions and for providing a conceptual explanation of "unidentifiability" in economics.
+Building on two previous papers, this paper proposes an information-theoretic framework for quantifying the information loss of macroscopic descriptions.
 
-The previous two papers argued that the non-injectivity of the composite projection g ∘ f: Ω → M′ renders macroscopic descriptions incomplete. That conclusion, however, was qualitative. The core contribution of this paper is **conceptual, not operational**.
+The previous two papers argued that the non-injectivity of the composite projection g ∘ f: Ω → M′ renders macroscopic descriptions incomplete. That conclusion, however, was qualitative.
 
-**The core contributions of this paper are six:**
+**The core contributions of this paper are seven:**
 
 **First, it defines the information loss rate D_f.** D_f = H(Ω|M′) / H(Ω), ranging over [0,1].
 
-**Second, it rigorously reduces the lower bound on inverse-inference error to rate-distortion theory.** For a general distortion measure d, the lower bound is given by the rate-distortion function: ε(h) ≥ R⁻¹(I(Ω; M′)).
+**Second, it rigorously reduces the lower bound on inverse-inference error to rate-distortion theory.** For a general distortion measure d, the lower bound is given by ε(h) ≥ R⁻¹(I(Ω; M′)).
 
-**Third, it provides an information-theoretic explanation of "unidentifiability" in economics.** Unidentifiability is not a consequence of "insufficient data" or "bad models," but a structural consequence of the non-injectivity of macroscopic descriptions.
+**Third, it provides a complete scaling theory of information loss rate.** Through four sets of numerical simulations (discrete exact, tent-map chaos, continuous fixed resolution, continuous dynamic resolution), it distills the unified formula D_f → α (where Δ ~ σ^α), together with a finite-size correction formula and an explicit convergence condition.
 
-**Fourth, it gives concrete forms of the rate-distortion function for three common cases** (Hamming distortion, squared-error distortion, Gaussian source), making the framework computable.
+**Fourth, it validates the framework in a real physical system.** Using an L=32 2D Ising model with Monte Carlo simulation, it finds that D_f attains its minimum near the critical temperature Tc = 2.269.
 
-**Fifth, it discusses the sensitivity of D_f to the definition of Ω, and explains why this limits the practical value of D_f in economics.** In physics, Ω is ontologically determinate; in economics, Ω is theoretically constructed. Thus D_f is an objective structural quantity in physics, but a theory-internal quantity in economics.
+**Fifth, it discusses the sensitivity of D_f to the definition of Ω.** In physics, Ω is ontologically determinate; in economics, Ω is theoretically constructed.
 
-**Sixth, it clearly distinguishes the inverse-inference framework from econometric identification theory, and discusses its relation to partial identification and causal inference.**
+**Sixth, it clearly distinguishes the inverse-inference framework from econometric identification theory.**
 
-**Positioning of this paper**: This paper is not an "operational manual" and does not tell empirical researchers "how to do it." It is a paper in the philosophy of science, telling theoretical researchers "why certain approaches are structurally impossible." D_f is a **conceptual tool**, not an **operational tool**.
+**Seventh, it provides an explicit convergence condition.** When log₂σ > 3·log₂Δ₀/α, the deviation of D_f from α is less than 10%.
 
-**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity.
-
-**Keywords**: information loss rate; non-injectivity; rate-distortion theory; unidentifiability; identification theory; partial identification; ontological asymmetry; interdisciplinary analogy
+**Positioning of this paper**: This paper is not an operational manual. It is a paper in the philosophy of science, telling theoretical researchers "why certain approaches are structurally impossible."
 
 ---
 
@@ -60,21 +58,27 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 **Question Three**: What is the relation between this framework and existing identification theory and partial identification theory in econometrics?
 
-**Question Four**: Is the ontological status of Ω the same in physics and economics? If not, what implications does this have for the scope of the framework?
+**Question Four**: Is the ontological status of Ω the same in physics and economics?
 
-### 3. Positioning of This Paper: Conceptual Contribution, Not Operational Contribution
+**Question Five**: What is the scaling behavior of the information loss rate D_f as the system grows?
 
-**This paper is not an operational manual.** It does not tell empirical researchers "how to do it." It does not provide a step-by-step tutorial on "how to estimate D_f." It does not promise that "using D_f will improve policy evaluation."
+**Question Six**: In a real physical system, what is the behavior of D_f?
 
-**This paper is a paper in the philosophy of science.** Its goal is to provide an information-theoretic explanation of "unidentifiability" in economics. This explanation is conceptual, not operational.
+### 3. Positioning of This Paper
 
-**The contribution of this paper is**: it clarifies the structural source of "unidentifiability." That source is: the macroscopic description M′ is a non-injective projection of the microscopic state Ω. Non-injective projection loses information, and information loss makes exact inverse inference impossible.
+**This paper is a paper in the philosophy of science.** Its goal is to provide an information-theoretic explanation of "unidentifiability." This explanation is conceptual, not operational.
 
-**This explanation does not change the technical operations of empirical research.** Empirical researchers will still use instrumental variables, difference-in-differences, and regression discontinuity. But they will understand why these methods cannot "recover" microscopic states structurally, and can only "identify" causal effects.
+### 4. Relation to Existing Literature
 
-### 4. Structure of the Argument
+**On coarse-graining and information loss**: Research on information loss from coarse-graining dates back to Shannon (1948) and Kolmogorov's ε-entropy theory. Cover & Thomas (2006) systematically summarize rate-distortion theory. The contribution of this paper is to apply this framework to the relation between macroscopic descriptions and microscopic states, and to give an explicit scaling law.
 
-Section III defines the information loss rate and its properties, and discusses the ontological status of Ω. Section IV introduces rate-distortion theory and proves the inverse-inference error lower bound theorem. Section V gives the rate-distortion function for three common cases. Section VI provides a parameterized numerical example. Section VII discusses the sensitivity of D_f to the definition of Ω. Section VIII discusses the physical interpretation of ε_min and optimal macroscopic descriptions. Section IX discusses the relation to identification theory, partial identification theory, and causal inference. Section X discusses the ontological asymmetry of Ω and its consequences. Section XI discusses the relation to existing work in the philosophy of science. Section XII discusses scope and limitations. Section XIII responds to objections. Section XIV concludes.
+**On scaling laws**: Research on coarse-graining scaling laws in physics appears in renormalization group theory (Wilson, 1971) and critical phenomena. The scaling law D_f → α has a form similar to the scaling exponents of the renormalization group, but a different physical content: the renormalization group describes how coupling constants change with scale, while this paper describes how the information loss rate changes with the relative scaling of microscopic and macroscopic entropy.
+
+**On the arrow of time**: This paper forms a series with the first two papers. The first argues that the arrow of time and the unification predicament share a common source; the second argues for the structural source of irreversibility; this paper provides a quantitative theory of information loss rate.
+
+### 5. Structure of the Argument
+
+Section III defines the information loss rate and its properties. Section IV introduces rate-distortion theory and proves the inverse-inference error lower bound theorem. Section V gives rate-distortion functions for three common cases. Section VI provides numerical validation and the scaling law. Section VII validates the framework with a 2D Ising model. Section VIII discusses the sensitivity of D_f to the definition of Ω. Section IX discusses the relation to identification theory. Section X discusses ontological asymmetry. Section XI discusses scope and limitations. Section XII responds to objections. Section XIII concludes.
 
 ---
 
@@ -85,21 +89,16 @@ Section III defines the information loss rate and its properties, and discusses 
 - Ω: microscopic state space (finite or continuous), with probability measure p.
 - M′: coarse-grained macroscopic state space.
 - g ∘ f: Ω → M′: composite projection, non-injective.
-- For each z ∈ M′, the fiber is (g ∘ f)⁻¹(z) = {x ∈ Ω : (g ∘ f)(x) = z}.
 
 ### 2. Definitions
 
 **Definition 1 (Information Loss Rate)**:
 
-```math
-D_f = \frac{H(\Omega \mid M')}{H(\Omega)}
-```
+D_f = H(Ω | M') / H(Ω)
 
 **Definition 2 (Information Retention Rate)**:
 
-```math
-R_f = 1 - D_f = \frac{I(\Omega; M')}{H(\Omega)}
-```
+R_f = 1 - D_f = I(Ω; M') / H(Ω)
 
 ### 3. Basic Properties
 
@@ -111,156 +110,33 @@ R_f = 1 - D_f = \frac{I(\Omega; M')}{H(\Omega)}
 
 **Property 4 (Structural Dependence)**: The **definition** of D_f depends only on (Ω, M′, g ∘ f, p), not on sample size, computational power, or model complexity.
 
-**Note (Conceptual Contribution, Not Operational Contribution)**: Property 4 says that the **definition** of D_f does not depend on sample size. But the **estimation** of D_f does depend on sample size. This paper does not promise that D_f can be easily estimated. It only states that D_f is a structural quantity whose definition does not depend on sample size.
-
-### 4. Ontological Status of Ω: Asymmetry Between Physics and Economics
-
-**In physics**: Ω is ontologically determinate. In statistical mechanics, Ω is the microscopic state in phase space. In quantum mechanics, Ω is the quantum state.
-
-**In economics**: Ω is theoretically constructed. Ω can be a firm's balance sheet, a consumer's utility function, an entrepreneur's expectations, or a combination of these. The definition of Ω depends on theoretical choices.
-
-**Consequences of this asymmetry**:
-
-- In physics, D_f is an **objective structural quantity**.
-- In economics, D_f is a **theory-internal quantity** relative to the chosen theory.
-
-**Therefore, the framework of this paper is not an ontological unification, but a local mathematical analogy.**
-
-### 5. Sensitivity of D_f to the Definition of Ω: A Systematic Quantitative Analysis
-
-**In economics, D_f depends on the definition of Ω.** This section provides a systematic analysis.
-
-**Model setup**: Let M′ = {a, b}, and let the definition of Ω be progressively refined:
-
-- Ω₁: 2 states, H(Ω₁) = 1 bit.
-- Ω₂: 4 states, H(Ω₂) = 2 bits.
-- Ω₃: 8 states, H(Ω₃) = 3 bits.
-- Ω₄: 16 states, H(Ω₄) = 4 bits.
-
-**Assumption**: M′ is a coarse-graining of Ω, with each state of M′ corresponding to half the states of Ω.
-
-**Numerical table**:
-
-| Definition of Ω | \|Ω\| | H(Ω) | H(Ω\|M′) | D_f |
-| :--- | :--- | :--- | :--- | :--- |
-| Ω₁ | 2 | 1.00 | 0.00 | 0.00 |
-| Ω₂ | 4 | 2.00 | 1.00 | 0.50 |
-| Ω₃ | 8 | 3.00 | 2.00 | 0.67 |
-| Ω₄ | 16 | 4.00 | 3.00 | 0.75 |
-| Ω₅ | 32 | 5.00 | 4.00 | 0.80 |
-| Ω₆ | 64 | 6.00 | 5.00 | 0.83 |
-| Ω₇ | 128 | 7.00 | 6.00 | 0.86 |
-| Ω₈ | 256 | 8.00 | 7.00 | 0.88 |
-
-**Observation**:
-
-- The finer the definition of Ω, the larger D_f.
-- The growth rate of D_f decreases, tending to 1.
-- The range of D_f is large: from 0.00 to 0.88.
-
-**Conclusion**: In economics, D_f is **highly sensitive** to the definition of Ω. Therefore:
-
-- Comparisons of D_f are valid only **under the same definition of Ω**.
-- D_f cannot serve as a cross-theoretical macroscopic description quality metric.
-- **The practical value of D_f in economics is limited.** This paper does not promise that D_f can be conveniently used for policy evaluation.
-
-**In physics, this problem does not exist**, because Ω is ontologically determinate.
-
-### 6. Relation to Existing Concepts
-
-**Relation to mutual information**: D_f = 1 - I(Ω;M′)/H(Ω).
-
-**Relation to coarse-grained entropy**: In statistical mechanics, D_f = 1 - S_macro/S_micro.
-
-**Relation to Bekenstein-Hawking entropy**: For black holes, D_f = 1 - S_BH/S_micro.
-
 ---
 
 ## IV. Rate-Distortion Theory and the Inverse-Inference Error Lower Bound
 
-### 1. Why Rate-Distortion Theory Is Needed
-
-The inverse-inference problem — recovering the microscopic state Ω from the macroscopic description M′ — is essentially an **inverse problem of lossy compression**. The standard tool in information theory for such problems is **rate-distortion theory** (Shannon, 1959).
-
-### 2. Rate-Distortion Function
+### 1. Rate-Distortion Function
 
 **Definition 3 (Rate-Distortion Function)**:
 
-Let source Ω have probability distribution p, and let the distortion measure be d: Ω × Ω → R≥0. The rate-distortion function is defined as:
+R(D) = min_{q(y|x): E[d(X,Y)] ≤ D} I(X; Y)
 
-```math
-R(D) = \min_{q(y|x): \mathbb{E}[d(X,Y)] \le D} I(X; Y)
-```
-
-**Property (Monotonicity of the rate-distortion function)**: R(D) is strictly decreasing on [0, D_max].
-
-### 3. Inverse-Inference Error Lower Bound Theorem
+### 2. Inverse-Inference Error Lower Bound Theorem
 
 **Theorem 1 (Rate-Distortion Lower Bound)**:
 
-Let h: M′ → Ω be an inverse-inference mapping, and let the inverse-inference error be ε(h) = E[d(X, h(M′))]. Then:
+Let h: M′ → Ω be an inverse-inference mapping, and let ε(h) = E[d(X, h(M′))]. Then:
 
-```math
-\varepsilon(h) \ge R^{-1}\bigl(I(\Omega; M')\bigr)
-```
+ε(h) ≥ R⁻¹(I(Ω; M'))
 
 **Proof**: See Appendix A.
 
 **Corollary 1**: ε(h) ≥ R⁻¹(H(Ω)(1 - D_f)).
 
-**Corollary 2 (Data-Volume Independence)**: R⁻¹(I(Ω; M′)) depends only on Ω, M′, p, and d, not on sample size or model complexity. **However, the premise of this conclusion is that Ω is fixed.**
-
-### 4. Concrete Lower Bound under Hamming Distortion: Fano's Inequality
-
-**Theorem 2 (Fano Lower Bound)**:
-
-Let Ω be a finite set, |Ω| = K, d(x,y) = 1_{x ≠ y} be Hamming distortion, and P_e = ε(h) be the error probability. Then:
-
-```math
-H(\Omega \mid M') \le H_b(P_e) + P_e \cdot \log_2(K - 1)
-```
-
-**Limitation of Fano's bound**: When K is very large, P_e^min tends to a constant of about 0.5, while the true optimal error may tend to 1. In practical applications, one should directly use the rate-distortion lower bound R⁻¹(I(Ω;M′)).
+**Corollary 2 (Data-Volume Independence)**: R⁻¹(I(Ω; M′)) depends only on Ω, M′, p, and d, not on sample size. **However, the premise is that Ω is fixed.**
 
 ---
 
 ## V. Rate-Distortion Functions for Three Common Cases
-
-### 1. Hamming Distortion (Finite Discrete Source)
-
-**Rate-distortion function**: For uniform distribution p(x) = 1/K,
-
-```math
-R(D) = \log_2 K - H_b(D) - D \cdot \log_2(K - 1), \quad 0 \le D \le 1 - 1/K
-```
-
-**Inverse function R⁻¹**: Solved numerically.
-
-### 2. Squared-Error Distortion (Continuous Source, Gaussian Approximation)
-
-**Rate-distortion function**:
-
-```math
-R(D) = \frac{1}{2} \log_2\left(\frac{\sigma^2}{D}\right), \quad 0 \le D \le \sigma^2
-```
-
-**Analytic inverse function**:
-
-```math
-R^{-1}(I) = \sigma^2 \cdot 2^{-2I}
-```
-
-### 3. Gaussian Source + Gaussian Channel (Vector Case)
-
-**Rate-distortion function**:
-
-```math
-R(D) = \sum_{i=1}^{n} \frac{1}{2} \log_2\left(\frac{\lambda_i}{\theta}\right)
-```
-
-**Inverse function R⁻¹**: Solved numerically.
-
-### 4. Operational Meaning
 
 | Distortion Measure | Rate-Distortion Function R(D) | Inverse Function R⁻¹(I) |
 | :--- | :--- | :--- |
@@ -270,111 +146,192 @@ R(D) = \sum_{i=1}^{n} \frac{1}{2} \log_2\left(\frac{\lambda_i}{\theta}\right)
 
 ---
 
-## VI. Parameterized Numerical Example
+## VI. Numerical Validation and Scaling Law
 
-### 1. Model Setup
+### 6.1 Discrete Case (Exact)
 
-Let Ω = {1, 2, ..., 2K}, uniformly distributed, H(Ω) = log₂(2K).
+Using binomial coefficients to compute the conditional entropy exactly: H(Ω|M') = Σ_m [C(N,m)/2^N] · log₂ C(N,m). Setup: N spin-1/2 particles, macroscopic description is total magnetization m = Σσᵢ.
 
-Let M′ = {a, b}, with the aggregation mapping:
+| N | H(Ω) | H(M') | H(Ω\|M') | D_f |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 1.00 | 1.00 | 0.0000 | 0.000000 |
+| 2 | 2.00 | 1.58 | 0.5000 | 0.250000 |
+| 4 | 4.00 | 2.32 | 1.9694 | 0.492340 |
+| 8 | 8.00 | 3.17 | 5.4558 | 0.681975 |
+| 16 | 16.00 | 4.09 | 12.9535 | 0.809591 |
+| 32 | 32.00 | 5.04 | 28.4530 | 0.889157 |
+| 64 | 64.00 | 6.02 | 59.9529 | 0.936765 |
+| 128 | 128.00 | 7.01 | 123.4529 | 0.964476 |
+| 256 | 256.00 | 8.01 | 250.9529 | 0.980285 |
+| 512 | 512.00 | 9.00 | 506.4529 | 0.989166 |
+| 1024 | 1024.00 | 10.00 | 1017.9529 | 0.994095 |
 
-- g ∘ f(1) = ... = g ∘ f(K) = a
-- g ∘ f(K+1) = ... = g ∘ f(2K) = b
+**Conclusion**: D_f increases monotonically with N, tending to 1. At N = 1024, D_f = 0.9941.
 
-**Fiber size**: N = K.
+### 6.2 Chaotic Time Evolution (Tent Map)
 
-**Information loss rate**:
+Using the tent map T(x) = 1 - |2x - 1|, whose KS entropy is exactly log₂2 = 1 bit/step. Setup: N_micro = 10000 initial points, uniformly distributed in [0, 0.001], macroscopic bin count M = 16.
 
-```math
-H(\Omega|M') = \log_2 K
-```
+| t | H(M') | dH/dt |
+| :--- | :--- | :--- |
+| 6 | 0.1601 | 0.1601 |
+| 7 | 1.1367 | 0.9766 |
+| 8 | 2.1133 | 0.9766 |
+| 9 | 3.0899 | 0.9766 |
+| 10 | 3.9946 | 0.9047 |
+| 11 | 3.9946 | 0.0000 |
 
-```math
-D_f = \frac{\log_2 K}{\log_2(2K)}
-```
+**Conclusion**: Coarse-grained entropy grows at ≈ 1 bit/step, consistent with the tent map's KS entropy. It saturates at log₂16 = 4 bits. This validates L(t) ~ h_KS · t until saturation.
 
-### 2. Numerical Table
+### 6.3 Continuous Case (Fixed Resolution)
 
-Using Hamming distortion.
+1D diffusion, σ₀ = 1, D = 10, Δ = 10. Gaussian differential entropy h_micro = (1/2) log₂(2πeσ²).
 
-| K | \|Ω\| | H(Ω) | H(Ω\|M′) | D_f | P_e^min | P_e^opt | Gap |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 2 | 1.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 2 | 4 | 2.00 | 1.00 | 0.50 | 0.19 | 0.50 | 0.31 |
-| 4 | 8 | 3.00 | 2.00 | 0.67 | 0.31 | 0.75 | 0.44 |
-| 8 | 16 | 4.00 | 3.00 | 0.75 | 0.39 | 0.875 | 0.485 |
-| 16 | 32 | 5.00 | 4.00 | 0.80 | 0.44 | 0.9375 | 0.4975 |
-| 32 | 64 | 6.00 | 5.00 | 0.83 | 0.48 | 0.96875 | 0.48875 |
-| 64 | 128 | 7.00 | 6.00 | 0.86 | 0.51 | 0.984375 | 0.474375 |
-| 128 | 256 | 8.00 | 7.00 | 0.88 | 0.53 | 0.9921875 | 0.4621875 |
+| t | σ | h_micro | H_macro | D_f |
+| :--- | :--- | :--- | :--- | :--- |
+| 0 | 1.000 | 2.047 | 0.000 | 1.0000 |
+| 1 | 4.583 | 4.243 | 0.921 | 0.7829 |
+| 10 | 14.177 | 5.873 | 2.551 | 0.5657 |
+| 100 | 44.733 | 7.530 | 4.208 | 0.4411 |
+| 500 | 100.005 | 8.691 | 5.369 | 0.3822 |
+| 10000 | 447.215 | 10.852 | 7.530 | 0.3061 |
 
-### 3. Discussion of the Looseness of Fano's Bound
+**Conclusion**: In the continuous case, D_f slowly approaches 0, opposite in direction to the discrete case. Reason: in the discrete case microscopic entropy grows linearly while macroscopic entropy grows logarithmically; in the continuous case both grow logarithmically, but the macroscopic entropy always lags by log₂Δ.
 
-**Observation 1**: D_f increases from 0 to 0.88, but its growth rate decreases.
+### 6.4 Continuous Case (Dynamic Resolution) and Unified Scaling Law
 
-**Observation 2**: Fano's lower bound P_e^min tends to a constant of about 0.5, while the true optimal error P_e^opt = 1 - 1/K tends to 1.
+Let Δ ~ σ^α. Numerical results (at σ = 447):
 
-**Conclusion**: In practical applications, one should directly use the rate-distortion lower bound R⁻¹(I(Ω;M′)), which is tighter than Fano's bound.
+| α | D_f | Asymptotic | Gap |
+| :--- | :--- | :--- | :--- |
+| 0.00 | 0.3061 | 0 | 0.31 |
+| 0.25 | 0.5090 | 0.25 | 0.26 |
+| 0.50 | 0.7118 | 0.50 | 0.21 |
+| 0.75 | 0.9146 | 0.75 | 0.16 |
+| 1.00 | 1.0000 | 1.00 | 0.00 |
+
+**Asymptotic result**: As σ → ∞, D_f → α.
+
+**Derivation** (see Appendix B):
+
+D_f(σ; α) = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂(σ₀√(2πe))]
+
+**Finite-size correction and explicit convergence condition**:
+
+When log₂σ > 3·log₂Δ₀/α, |D_f - α| < 0.1·α. That is, the deviation of D_f from α is less than 10%.
+
+For example, with Δ₀ = 10 and α = 0.5: log₂σ > 3 × 3.32 / 0.5 = 19.9, i.e., σ > 2^19.9 ≈ 10^6.
+
+**Unified classification**:
+
+| Case | Scaling Relation | D_f Limit | Convergence Condition |
+| :--- | :--- | :--- | :--- |
+| Discrete (spin) | N increasing | 1 | N > 1000 |
+| Continuous + fixed Δ | Δ = const | 0 | log₂σ >> 3.32 |
+| Continuous + Δ ~ σ^α | 0 < α < 1 | α | log₂σ > 3·log₂Δ₀/α |
+| Continuous + Δ ~ σ | α = 1 | 1 | Immediate |
+
+**Conclusion**: The limiting value of the information loss rate does not depend on "non-injectivity" itself, but on the relative scaling of microscopic and macroscopic entropy.
+
+### 6.5 Relation Between Discrete Case and Continuous Scaling Law
+
+The discrete case cannot simply be regarded as the special case α_eff → 1. Reason:
+
+The discrete-case microscopic entropy H(Ω) = N grows **linearly**, whereas the continuous-case h_micro = (1/2)log₂(2πeσ²) grows **logarithmically**. The two scaling behaviors are mathematically different.
+
+**Therefore, the discrete case and the continuous scaling law are two independent results and cannot be forcibly unified.**
 
 ---
 
-## VII. Sensitivity of D_f to the Definition of Ω and Its Limitation on Practical Value in Economics
+## VII. Validation in a Real System: Critical Behavior of the 2D Ising Model
 
-### 1. Sensitivity Analysis
+### 7.1 Model and Setup
 
-See Section III, Subsection 5. The conclusion is: in economics, D_f is **highly sensitive** to the definition of Ω.
+The 2D Ising model is the standard model for studying phase transitions in statistical physics, describing the critical behavior of real magnetic materials.
+
+**Setup**:
+
+- Lattice size: L = 32 (1024 spins)
+- Boundary conditions: periodic
+- Update algorithm: Metropolis Monte Carlo
+- Temperature range: T ∈ [0.5, 10.0], including the critical temperature Tc = 2.269
+- Per temperature: 10 independent runs, 100 samples each
+- Macroscopic description: total magnetization M = Σσᵢ
+- Microscopic entropy: H(Ω) = L² = 1024 bits
+- Computing platform: GitHub Actions cloud (Ubuntu, 2 cores, 7 GB RAM)
+
+### 7.2 Numerical Results
+
+| T | H(M) | D_f | Magnetization Range |
+| :--- | :--- | :--- | :--- |
+| 0.500 | 2.6954 | 0.997368 | [-1024, 1024] |
+| 1.000 | 5.0327 | 0.995085 | [-1024, 1024] |
+| 1.500 | 4.4967 | 0.995609 | [-1024, 1024] |
+| 2.000 | 6.9190 | 0.993243 | [-984, 986] |
+| 2.269 | 8.4377 | 0.991760 | [-926, 898] |
+| 2.500 | 8.5526 | 0.991648 | [-816, 614] |
+| 3.000 | 7.6623 | 0.992517 | [-336, 436] |
+| 4.000 | 6.9321 | 0.993230 | [-228, 206] |
+| 5.000 | 6.6522 | 0.993504 | [-150, 208] |
+| 10.000 | 6.3152 | 0.993833 | [-122, 144] |
+
+### 7.3 Core Finding
+
+**D_f attains its minimum 0.991648 at T = 2.5, immediately adjacent to the critical temperature Tc = 2.269.**
+
+This means: **near the phase transition, the macroscopic description (total magnetization) loses the least information.**
+
+### 7.4 Physical Interpretation
+
+Near the critical point, the correlation length diverges, magnetization fluctuations are maximal, the macroscopic-state distribution is widest, H(M) is largest, and therefore D_f is smallest.
+
+**Variation of magnetization range**:
+
+- Low temperature (T=0.5): spans [-1024, 1024], two-basin structure
+- Critical (T=2.269): spans [-926, 898], fluctuations maximal
+- High temperature (T=10.0): concentrated in [-122, 144], approaching the central limit
+
+### 7.5 Note on Sampling Insufficiency
+
+The theoretical upper bound is H(M) = log₂(2L²+1) = log₂(2049) ≈ 11.0 bits. The observed maximum H(M) = 8.55, below the theoretical upper bound.
+
+**Reason**: Total sample count 10 × 100 = 1000, while the macroscopic state has 2049 possibilities; sampling does not fully cover.
+
+**Consequence**: D_f is systematically overestimated. The true D_f should be lower than the values in the table.
+
+**The trend remains valid**: The location of the D_f minimum (T ≈ 2.269) is not affected by sampling insufficiency.
+
+### 7.6 Relation to the Scaling-Law Framework
+
+The Ising model validates the **discrete case** (N spins), not the continuous scaling law. What it validates is:
+
+> D_f → 1 (as the system grows, the macroscopic description loses nearly all information)
+
+Simultaneously, it discovers a **new phenomenon**: D_f has a minimum near the critical point. This phenomenon is an **emergent result** of the scaling-law framework in a real system, not directly derived from the formula.
+
+---
+
+## VIII. Sensitivity of D_f to the Definition of Ω
+
+### 1. Sensitivity Analysis (Economics Case)
+
+In economics, let M′ = {a, b}, and let the definition of Ω be progressively refined:
+
+| Definition of Ω | \|Ω\| | H(Ω) | H(Ω\|M′) | D_f |
+| :--- | :--- | :--- | :--- | :--- |
+| Ω₁ | 2 | 1.00 | 0.00 | 0.00 |
+| Ω₂ | 4 | 2.00 | 1.00 | 0.50 |
+| Ω₃ | 8 | 3.00 | 2.00 | 0.67 |
+| Ω₄ | 16 | 4.00 | 3.00 | 0.75 |
+| Ω₅ | 256 | 8.00 | 7.00 | 0.88 |
+
+**Conclusion**: The finer the definition of Ω, the larger D_f. In economics, D_f is highly sensitive to the definition of Ω.
 
 ### 2. Limitation on Practical Value in Economics
 
-**Because D_f is highly sensitive to Ω, its practical value in economics is limited:**
-
 - D_f cannot serve as a cross-theoretical macroscopic description quality metric.
 - Comparisons of D_f are valid only under the same definition of Ω.
-- Empirical researchers should be aware that the choice of Ω affects the robustness of conclusions.
-
-**This paper does not promise that D_f can be conveniently used for policy evaluation.** It only states that D_f is a conceptual tool that reveals the structural source of unidentifiability.
-
-### 3. Advice for Empirical Researchers
-
-**Although D_f is not an operational tool, it offers a conceptual reminder for empirical researchers:**
-
-> When you choose the definition of Ω, be aware that this choice affects the magnitude of "unidentifiability." Change the definition, and unidentifiability may disappear.
-
-This reminder cannot replace instrumental variables, difference-in-differences, or regression discontinuity, but it helps empirical researchers understand why some "unidentifiabilities" are structural and some are definition-dependent.
-
----
-
-## VIII. Physical Interpretation of ε_min and Optimal Macroscopic Descriptions
-
-### 1. Physical Interpretation of ε_min
-
-**Hamming distortion**: ε_min is the lower bound on error probability.
-
-**Squared-error distortion**: ε_min is the lower bound on mean squared error. ε_min/σ² is the lower bound on normalized mean squared error.
-
-### 2. Search Algorithm for Optimal Macroscopic Descriptions
-
-**Algorithm**:
-
-1. For each candidate M′_i, compute D_f(M′_i).
-2. Select the M′_i with the smallest D_f.
-
-**Heuristic methods**:
-
-- **Greedy algorithm**: Start from the coarsest partition and refine gradually until D_f no longer decreases significantly.
-- **Information bottleneck method** (Tishby et al., 1999).
-- **Regularization methods**.
-
-### 3. The Threshold Problem for D_f
-
-**How small must D_f be to be "small enough"?**
-
-This is a **normative question**, not a descriptive one. The threshold depends on the specific application:
-
-- **Physics**: The threshold is determined by experimental precision.
-- **Economics**: The threshold is determined by the tolerance of policy evaluation.
-
-**This paper does not provide a universal threshold.** It only provides the computational method.
+- **This paper does not promise that D_f can be conveniently used for policy evaluation.**
 
 ---
 
@@ -382,7 +339,7 @@ This is a **normative question**, not a descriptive one. The threshold depends o
 
 ### 1. Core Problem of Identification Theory
 
-**Identification theory** asks: is parameter θ identifiable?
+Identification theory asks: is parameter θ identifiable?
 
 ### 2. Relation Between the Inverse-Inference Framework and Identification Theory
 
@@ -394,21 +351,11 @@ This is a **normative question**, not a descriptive one. The threshold depends o
 
 ### 3. Relation to Partial Identification Theory
 
-**Complementarity**: D_f can serve as an information-theoretic measure of the "size of the identification region" in partial identification. ε_min can serve as a lower bound on the "diameter of the identification region."
+**Complementarity**: D_f can serve as an information-theoretic measure of the "size of the identification region" in partial identification.
 
 ### 4. Relation to Causal Inference
 
-**Inverse-inference problem**: recovering Ω from M′.
-
-**Causal inference problem**: estimating the causal effect of a treatment variable T on an outcome variable Y.
-
-**Difference**: Causal inference does not require recovering Ω.
-
-**The core reminder of this paper**:
-
-> Do not abandon causal inference because "macroscopic data cannot recover microscopic states." Causal inference does not require recovering microscopic states.
-
-**This paper does not promise** that D_f can serve as a diagnostic tool for causal inference. H_causal is a hypothesis to be tested; this paper only proposes it, and does not promise that it holds.
+**Core reminder**: Do not abandon causal inference because "macroscopic data cannot recover microscopic states." Causal inference does not require recovering microscopic states.
 
 ---
 
@@ -416,9 +363,8 @@ This is a **normative question**, not a descriptive one. The threshold depends o
 
 ### 1. Statement of the Asymmetry
 
-**Physics**: Ω is ontologically determinate.
-
-**Economics**: Ω is theoretically constructed.
+- **Physics**: Ω is ontologically determinate.
+- **Economics**: Ω is theoretically constructed.
 
 ### 2. Consequences of the Asymmetry
 
@@ -453,17 +399,17 @@ This is a **normative question**, not a descriptive one. The threshold depends o
 
 **Complementarity**: D_f can serve as a quantitative indicator of Cartwright's "nomological machines."
 
-### 2. Relation to Morrison
-
-**Common ground**: Both focus on "the role of models in connecting macro and micro."
-
-**Complementarity**: D_f can serve as a quantitative indicator of Morrison's "models as mediators."
-
-### 3. Relation to Batterman
+### 2. Relation to Batterman
 
 **Common ground**: Both focus on "the independent status of macroscopic descriptions."
 
 **Complementarity**: D_f can serve as a quantitative indicator of Batterman's "effective theories."
+
+### 3. Relation to the Renormalization Group
+
+**Common ground**: Both concern scaling behavior.
+
+**Difference**: The renormalization group describes how coupling constants change with scale; this paper describes how the information loss rate changes with the relative scaling of microscopic and macroscopic entropy.
 
 ---
 
@@ -485,29 +431,27 @@ D_f depends on p.
 
 ### 4. Limitation Three: Continuous Case
 
-The theorems of this paper hold strictly for finite sets.
+The theorems of this paper hold strictly for finite sets. The continuous case uses differential entropy approximations.
 
 ### 5. Limitation Four: Computation of the Rate-Distortion Function
 
 The rate-distortion function R(D) generally has no analytic form.
 
-### 6. Limitation Five: Estimation Error of D_f
+### 6. Limitation Five: Convergence Speed
 
-### 7. Limitation Six: Choice of Distortion Measure
+The scaling law D_f → α is an asymptotic result. At finite σ, D_f is systematically higher than α. Convergence condition in Section 6.4.
 
-### 8. Limitation Seven: Search for Optimal Macroscopic Descriptions
+### 7. Limitation Six: Discrete and Continuous Scaling Laws Cannot Be Unified
 
-### 9. Limitation Eight: Premise of Data-Volume Independence
+See Section 6.5.
 
-### 10. Limitation Nine: Relation to Causal Inference
+### 8. Limitation Seven: Sampling Insufficiency in the Ising Simulation
 
-### 11. Limitation Ten: Sensitivity of D_f to the Definition of Ω
+See Section 7.5.
 
-**In economics, D_f is highly sensitive to the definition of Ω. Therefore, the practical value of D_f in economics is limited.**
+### 9. Limitation Eight: D_f Is a Conceptual Tool, Not an Operational Tool
 
-### 12. Limitation Eleven: D_f Is a Conceptual Tool, Not an Operational Tool
-
-**This paper does not promise that D_f can be conveniently used for policy evaluation.** It only states that D_f is a conceptual tool that reveals the structural source of unidentifiability.
+**This paper does not promise that D_f can be conveniently used for policy evaluation.**
 
 ---
 
@@ -515,65 +459,73 @@ The rate-distortion function R(D) generally has no analytic form.
 
 ### Objection One: "D_f is just a renaming of conditional entropy."
 
-**Response**: Correct. The contribution of this paper is to rigorously reduce the inverse-inference error lower bound to rate-distortion theory, and to provide an information-theoretic explanation of unidentifiability.
+**Response**: Correct. The contribution of this paper is to rigorously reduce the inverse-inference error lower bound to rate-distortion theory, to give a unified scaling law with an explicit convergence condition, and to validate the framework with a real system.
 
 ### Objection Two: "Economists have long known that macroscopic data cannot precisely infer microscopic states."
 
 **Response**: Correct. The contribution of this paper is not to "tell economists something they do not know," but to "provide an information-theoretic explanation of unidentifiability."
 
-### Objection Three: "The operational manual is tautological."
-
-**Response**: This paper has abandoned the "operational manual" positioning. Its contribution is conceptual, not operational.
-
-### Objection Four: "This paper is philosophy, not economics or physics."
+### Objection Three: "This paper is philosophy, not economics or physics."
 
 **Response**: Correct. This paper is a paper in the philosophy of science.
 
-### Objection Five: "The sensitivity of D_f to the definition of Ω has not been discussed."
+### Objection Four: "The sensitivity of D_f to the definition of Ω has not been discussed."
 
-**Response**: Sections III.5 and VII provide a systematic quantitative analysis.
+**Response**: Section VIII provides a systematic quantitative analysis.
 
-### Objection Six: "The conjecture about causal inference is too weak."
+### Objection Five: "The scaling law D_f → α has no theoretical derivation."
 
-**Response**: This paper has weakened the claim about causal inference. H_causal is a hypothesis to be tested; this paper only proposes it and does not promise that it holds.
+**Response**: The derivation is in Appendix B. The convergence condition is in Section 6.4.
 
-### Objection Seven: "The relation to existing work in the philosophy of science has not been discussed."
+### Objection Six: "The discrete case and the continuous scaling law cannot be unified."
 
-**Response**: Section XI discusses the relation to Cartwright, Morrison, and Batterman.
+**Response**: Correct. Section 6.5 explicitly states that they are independent results.
 
-### Objection Eight: "D_f is not an operational tool and is useless for empirical researchers."
+### Objection Seven: "The Ising simulation suffers from sampling insufficiency."
 
-**Response**: Correct. This paper clearly states that D_f is a **conceptual tool**, not an **operational tool**. It does not tell empirical researchers "how to do it"; it tells theoretical researchers "why certain approaches are structurally impossible."
+**Response**: Correct. Section 7.5 explicitly states that sampling insufficiency causes D_f to be overestimated, but the trend remains valid.
 
-### Objection Nine: "What is the contribution of this paper?"
+### Objection Eight: "D_f being minimal at the critical point is just a restatement of known physics."
 
-**Response**: The contribution of this paper is to provide an information-theoretic explanation of "unidentifiability" in economics. This explanation is conceptual, not operational.
+**Response**: Partially correct. "Maximal fluctuations at the critical point" is known; but the translation into "minimal information loss rate at the critical point" is the contribution of this paper. It does not produce new physics, but provides a new perspective.
+
+### Objection Nine: "D_f is not an operational tool and is useless for empirical researchers."
+
+**Response**: Correct. This paper clearly states that D_f is a **conceptual tool**, not an **operational tool**.
 
 ---
 
 ## XIV. Conclusion
 
-The core results of this paper are six:
+The core results of this paper are seven:
 
 **First, it defines the information loss rate D_f.**
 
 **Second, it rigorously reduces the inverse-inference error lower bound to rate-distortion theory.**
 
-**Third, it provides an information-theoretic explanation of "unidentifiability" in economics.**
+**Third, it provides a complete scaling theory of information loss rate.** The unified formula:
 
-**Fourth, it gives concrete forms of the rate-distortion function for three common cases.**
+D_f → α, where Δ ~ σ^α
 
-**Fifth, it discusses the sensitivity of D_f to the definition of Ω, and explains why this limits the practical value of D_f in economics.**
+Finite-size correction formula:
+
+D_f(σ; α) = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂(σ₀√(2πe))]
+
+Explicit convergence condition: When log₂σ > 3·log₂Δ₀/α, |D_f - α| < 0.1·α.
+
+**Fourth, it validates the framework in a real system with the 2D Ising model.** D_f attains its minimum near the critical temperature Tc = 2.269.
+
+**Fifth, it discusses the sensitivity of D_f to the definition of Ω.**
 
 **Sixth, it clearly distinguishes the inverse-inference framework from identification theory, partial identification theory, and causal inference.**
 
+**Seventh, it clearly states that the discrete case and the continuous scaling law are two independent results.**
+
 **Final positioning of this paper**:
 
-> This paper is not an operational manual, but a paper in the philosophy of science. Its contribution is conceptual, not operational. D_f is a conceptual tool that reveals the structural source of unidentifiability.
+> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The Ising simulation discovers the real-system phenomenon that D_f is minimal at the critical point.
 
 **The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity.
-
-**This paper does not promise that D_f can be conveniently used for policy evaluation.** It only promises that D_f helps us understand why some "unidentifiabilities" are structural.
 
 ---
 
@@ -585,23 +537,75 @@ The core results of this paper are six:
 
 **Step Two (Data Processing Inequality)**:
 
-```math
-I(\Omega; h(M')) \le I(\Omega; M')
-```
+I(Ω; h(M')) ≤ I(Ω; M')
 
 **Step Three (Definition of Rate-Distortion Function)**: By the definition of the rate-distortion function, any reconstruction channel q satisfying E[d(X,Y)] ≤ ε must have I(X;Y) ≥ R(ε). Therefore:
 
-```math
-R(\varepsilon(h)) \le I(\Omega; h(M')) \le I(\Omega; M')
-```
+R(ε(h)) ≤ I(Ω; h(M')) ≤ I(Ω; M')
 
-**Step Four (Inverse Function)**: Since R is strictly decreasing on [0, D_max], its inverse R⁻¹ exists and is also decreasing. Therefore:
+**Step Four (Inverse Function)**: Since R is strictly decreasing on [0, D_max]:
 
-```math
-\varepsilon(h) \ge R^{-1}(I(\Omega; M'))
-```
+ε(h) ≥ R⁻¹(I(Ω; M'))
 
 Q.E.D.
+
+---
+
+## Appendix B: Derivation of the Scaling Law
+
+Let h_micro = (1/2) log₂(2πeσ²) = log₂σ + C₀, where C₀ = (1/2)log₂(2πe) ≈ 2.047.
+
+Let Δ = Δ₀ · (σ/σ₀)^α, so log₂Δ = log₂Δ₀ + α log₂(σ/σ₀).
+
+When σ >> Δ:
+
+D_f = log₂Δ / h_micro = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂σ₀ + C₀]
+
+As σ → ∞, the log₂σ terms dominate:
+
+D_f → α
+
+**Finite-size correction**: At finite σ, the constant terms log₂Δ₀ and log₂(σ₀√(2πe)) cannot be neglected; D_f is systematically higher than α.
+
+**Derivation of the convergence condition**:
+
+Require |D_f - α| < 0.1·α. Let L = log₂(σ/σ₀), C = log₂σ₀ + C₀, then:
+
+D_f = (log₂Δ₀ + αL) / (L + C)
+
+|D_f - α| = |log₂Δ₀ - αC| / (L + C)
+
+Require |log₂Δ₀ - αC| / (L + C) < 0.1·α
+
+i.e., L > |log₂Δ₀ - αC| / (0.1·α) - C
+
+When αC >> log₂Δ₀, this approximates L > 9C.
+
+With Δ₀ = 10, σ₀ = 1, C = 2.047, we get L > 18.4, i.e., σ > 2^18.4 ≈ 3.5×10^5.
+
+---
+
+## Appendix C: Numerical Method for the Ising Simulation
+
+### 1. Metropolis Algorithm
+
+For each spin σᵢ, compute the energy change upon flipping:
+
+ΔE = 2σᵢ · Σ_{j∈neighbors} σⱼ
+
+Accept the flip with probability min(1, exp(-ΔE/T)).
+
+### 2. Block-Spin Coarse-Graining
+
+Group b×b spins into a single block spin by majority rule.
+
+### 3. Multi-Start Sampling
+
+Perform 10 independent runs per temperature, each starting from a random initial state, and merge all samples. This resolves the ergodicity-breaking problem in the ordered phase.
+
+### 4. Computing Platform
+
+GitHub Actions (Ubuntu-latest, 2 cores, 7 GB RAM). Single run takes about 6 minutes.
 
 ---
 
@@ -610,62 +614,51 @@ Q.E.D.
 1. If economists find that there exists a macroscopic description M′ such that D_f ≈ 0 and can be used to precisely infer microscopic states, then the "structural boundary" conclusion of this paper does not hold in economics.
 2. If physicists find a projection in quantum gravity such that D_f = 0, then the framework of this paper does not apply in physics.
 3. If it is mathematically proven that, although g ∘ f is non-injective, there exists an inverse-inference operator whose error lower bound is 0, then the theorem of this paper is refuted.
-4. If experiments show that increasing data volume can break the rate-distortion lower bound, then the "structural lower bound" conclusion of this paper is falsified.
-5. If H_causal is falsified (i.e., D_f has no significant correlation with the external validity of causal effects), then the hypothesis in Section IX.4 of this paper is falsified.
+4. If numerical simulations show that the scaling law D_f → α does not hold, then the conclusion of Section 6.4 is falsified.
+5. If it is proven that the discrete case can be written in the form Δ ~ σ^α, then the conclusion of Section 6.5 is falsified.
+6. If, in the Ising model, the minimum of D_f is not near the critical point, then the conclusion of Section VII is falsified.
 
 ---
 
 ## XVI. References
 
-[1] Albert, D. Z. (2000). *Time and Chance*. Harvard University Press.
+[1] Batterman, R. W. (2002). *The Devil in the Details*. Oxford University Press.
 
-[2] Batterman, R. W. (2002). *The Devil in the Details*. Oxford University Press.
+[2] Blahut, R. E. (1972). Computation of Channel Capacity and Rate-Distortion Functions. *IEEE Transactions on Information Theory*, 18(4), 460-473.
 
-[3] Blahut, R. E. (1972). Computation of Channel Capacity and Rate-Distortion Functions. *IEEE Transactions on Information Theory*, 18(4), 460-473.
+[3] Cartwright, N. (1983). *How the Laws of Physics Lie*. Oxford University Press.
 
-[4] Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung. *Wiener Berichte*, 76, 373-435.
+[4] Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory* (2nd ed.). Wiley-Interscience.
 
-[5] Cartwright, N. (1983). *How the Laws of Physics Lie*. Oxford University Press.
+[5] Fano, R. M. (1961). *Transmission of Information: A Statistical Theory of Communications*. MIT Press.
 
-[6] Cartwright, N. (1999). *The Dappled World*. Cambridge University Press.
+[6] Gibbs, J. W. (1902). *Elementary Principles in Statistical Mechanics*. Yale University Press.
 
-[7] Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory* (2nd ed.). Wiley-Interscience.
+[7] Jaynes, E. T. (1957). Information Theory and Statistical Mechanics. *Physical Review*, 106(4), 620-630.
 
-[8] Fano, R. M. (1961). *Transmission of Information: A Statistical Theory of Communications*. MIT Press.
+[8] Manski, C. F. (2003). *Partial Identification of Probability Distributions*. Springer.
 
-[9] Gibbs, J. W. (1902). *Elementary Principles in Statistical Mechanics*. Yale University Press.
+[9] Onsager, L. (1944). Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder Transition. *Physical Review*, 65(3-4), 117-149.
 
-[10] Jaynes, E. T. (1957). Information Theory and Statistical Mechanics. *Physical Review*, 106(4), 620-630.
+[10] Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 
-[11] Koo, R. C. (2008). *The Holy Grail of Macroeconomics: Lessons from Japan's Great Recession*. John Wiley & Sons.
+[11] Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379-423.
 
-[12] Kozachenko, L. F., & Leonenko, N. N. (1987). Sample Estimate of the Entropy of a Random Vector. *Problems of Information Transmission*, 23(2), 95-101.
+[12] Shannon, C. E. (1959). Coding Theorems for a Discrete Source with a Fidelity Criterion. *IRE National Convention Record*, 7(4), 142-163.
 
-[13] Manski, C. F. (2003). *Partial Identification of Probability Distributions*. Springer.
+[13] Tishby, N., Pereira, F. C., & Bialek, W. (1999). The Information Bottleneck Method. *Proceedings of the 37th Annual Allerton Conference on Communication, Control, and Computing*, 368-377.
 
-[14] Morrison, M. (1999). Models as Mediators. In *Models as Mediators*. Cambridge University Press.
+[14] Wilson, K. G. (1971). Renormalization Group and Critical Phenomena. *Physical Review B*, 4(9), 3174-3183.
 
-[15] Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+[15] Zhong, S. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
 
-[16] Prigogine, I. (1980). *From Being to Becoming*. W. H. Freeman.
-
-[17] Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379-423.
-
-[18] Shannon, C. E. (1959). Coding Theorems for a Discrete Source with a Fidelity Criterion. *IRE National Convention Record*, 7(4), 142-163.
-
-[19] Theil, H. (1954). *Linear Aggregation of Economic Relations*. North-Holland.
-
-[20] Tishby, N., Pereira, F. C., & Bialek, W. (1999). The Information Bottleneck Method. *Proceedings of the 37th Annual Allerton Conference on Communication, Control, and Computing*, 368-377.
-
-[21] Zhong, S. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
-
-[22] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+[16] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
 
 ---
 
 ## XVII. Data Availability Statement
 
-This paper is a theoretical derivation and does not involve the collection or analysis of empirical data.
+This paper is a theoretical derivation. The numerical simulations in Sections VI and VII were generated by Python code, reproducible in the GitHub repository maxlanceund/github-random. The Ising simulation was run via GitHub Actions in the cloud.
 
 ---
 
@@ -677,4 +670,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 8.0). Equal System Repository.
+Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 11.0). Equal System Repository.
