@@ -28,17 +28,15 @@ Through **nine independent numerical experiments**, this paper verifies the qual
 
 **Fifth, the emergence of geometry from entanglement.** In a non-half-filled periodic XX chain, the distance defined by mutual information, d(i,j) = -ln I(i,j), follows the logarithmic law d ≈ 2 ln|i-j|.
 
-**Sixth, D_f as a phase transition signal.** In the 2D Ising model, the minimum of D_f approaches the critical temperature as the system grows.
+**Sixth, D_f as a phase transition signal.** In the 2D Ising model, D_f has a minimum near the critical point, but T_min(L) does not converge monotonically with L. **D_f is not an accurate phase transition detector.** This is a negative result.
 
-**Seventh, the independence of D_f and mutual information.** D_f and the mutual information between two halves are qualitatively correlated but quantitatively non-parallel, indicating that they are independent information-theoretic quantities.
+**Seventh, the independence of D_f and mutual information.** D_f and the mutual information between two halves are qualitatively correlated but quantitatively non-parallel.
 
 **Eighth, qualitative features of toy quantum gravity.** In a discretized toy model, the entanglement entropy exhibits area-law and holographic features.
 
-**Ninth, a counterexample test.** In the gapped phase of the 2D Ising model, D_f still monotonically approaches 1 with increasing L at all temperatures. No counterexample was found. The framework is strengthened.
+**Ninth, a counterexample test.** In the gapped phase of the 2D Ising model, D_f still monotonically approaches 1 with increasing L at all temperatures. No counterexample was found.
 
 **Positioning of this paper**: This paper does not claim to solve quantum gravity. It claims that the language of information projection can uniformly describe information loss, entanglement growth, geometric emergence, and thermodynamic relations across multiple known physical systems.
-
-**The conclusion of this paper is**: The information projection framework exhibits qualitatively consistent mathematical structures across multiple independent physical systems. This framework provides a unified numerical perspective for understanding macro-micro relations.
 
 ---
 
@@ -59,11 +57,11 @@ This paper proposes a unified framework, arguing that these problems share the s
 
 Let Ω be the microscopic state space, M′ the coarse-grained macroscopic state space, and g ∘ f: Ω → M′ the composite projection.
 
-**Core proposition**: When g ∘ f is not injective, the macroscopic description M′ does not contain the information required to recover Ω. This information loss is the common structural source of the arrow of time, unidentifiability, and geometric emergence.
+**Core proposition**: When g ∘ f is not injective, the macroscopic description M′ does not contain the information required to recover Ω.
 
 ### 3. Contributions of This Paper
 
-The contribution of this paper is **numerical verification**. Previous works established the framework; this paper verifies its qualitative features across multiple physical systems through nine independent experiments.
+The contribution of this paper is **numerical verification**. Previous works established the framework; this paper verifies its qualitative features across multiple physical systems through nine independent experiments, and reports one negative result.
 
 ### 4. Structure of the Argument
 
@@ -151,7 +149,7 @@ Exact diagonalization, initial state is the Néel state, measure half-chain enta
 
 ### 4. Conclusion
 
-Entanglement entropy is maximal at intermediate disorder (W ≈ 1-2) and suppressed at strong disorder (W = 5). This is consistent with the qualitative picture of thermalized and many-body localized phases.
+Entanglement entropy is maximal at intermediate disorder (W ≈ 1-2) and suppressed at strong disorder (W = 5).
 
 ---
 
@@ -219,7 +217,7 @@ dS/dE = 1/T
 
 ### 4. Conclusion
 
-In the range T ∈ [0.7, 3.0], dS/dE × T ≈ 1, with errors within 5%. Larger deviations at low and high temperatures come from finite-size effects and entropy saturation.
+In the range T ∈ [0.7, 3.0], dS/dE × T ≈ 1, with errors within 5%.
 
 ---
 
@@ -262,7 +260,7 @@ A logarithmic distance is read out from entanglement data. This is a discrete ve
 
 ---
 
-## IX. Experiment 6: D_f as a Phase Transition Signal
+## IX. Experiment 6: D_f as a Phase Transition Signal — A Negative Result
 
 ### 1. Model
 
@@ -270,23 +268,35 @@ A logarithmic distance is read out from entanglement data. This is a discrete ve
 
 ### 2. Method
 
-Scan temperature T ∈ [1.5, 3.5], find the position of the minimum of D_f, T_min(L).
+Scan temperature T ∈ [1.8, 2.8], find the position of the minimum of D_f, T_min(L). Use numba acceleration, extend L to 64.
 
 ### 3. Results
 
-| L | T_min(D_f) | D_f_min | 1-D_f_min |
-| :--- | :--- | :--- | :--- |
-| 8 | 2.80 | 0.9350 | 0.0650 |
-| 12 | 2.50 | 0.9717 | 0.0283 |
-| 16 | 2.40 | 0.9852 | 0.0148 |
-| 24 | 2.30 | 0.9936 | 0.0064 |
-| 32 | 2.20 | 0.9963 | 0.0037 |
+| L | T_min(D_f) | D_f_min |
+| :--- | :--- | :--- |
+| 8 | 2.6000 | 0.933713 |
+| 16 | 2.5000 | 0.984180 |
+| 32 | 2.3500 | 0.996739 |
+| 64 | 2.4500 | 0.999337 |
 
 Known Tc = 2.269.
 
 ### 4. Conclusion
 
-T_min(L) monotonically decreases with L, crossing Tc. D_f_min monotonically approaches 1. Qualitatively, D_f is sensitive to the phase transition; quantitatively, T_min is not an accurate phase transition point.
+**T_min(L) does not converge monotonically with L.**
+
+- L=8 → 2.60
+- L=16 → 2.50
+- L=32 → 2.35
+- L=64 → **2.45** (bounces back)
+
+**D_f is not an accurate phase transition detector.**
+
+### 5. Reason Analysis
+
+The D_f curve is too flat near its minimum. The difference in D_f_min between L=32 and L=64 is only 0.003. The position of T_min depends on which point happens to have the lowest noise, and is not a physically meaningful quantity.
+
+**This is a negative result.** It rules out the possibility that "D_f can accurately detect phase transitions," but does not produce anything new.
 
 ---
 
@@ -310,7 +320,7 @@ T_min(L) monotonically decreases with L, crossing Tc. D_f_min monotonically appr
 
 ### 3. Conclusion
 
-1-D_f and I_AB are qualitatively correlated but quantitatively non-parallel. At L=16, 1-D_f increases by 272% while I_AB increases by only 34%. This indicates that D_f and I_AB are two independent information-theoretic quantities and cannot replace each other.
+1-D_f and I_AB are qualitatively correlated but quantitatively non-parallel. At L=16, 1-D_f increases by 272% while I_AB increases by only 34%. This indicates that D_f and I_AB are two independent information-theoretic quantities.
 
 ---
 
@@ -346,7 +356,7 @@ Three qualitative features are exhibited:
 
 ### 1. Question
 
-If D_f saturates at a value < 1 in the deeply ordered phase (gapped system), the framework has a boundary. Finding the boundary is the key to verifying that the framework is "contentful" rather than "empty."
+If D_f saturates at a value < 1 in the deeply ordered phase (gapped system), the framework has a boundary.
 
 ### 2. Design
 
@@ -377,7 +387,7 @@ If D_f saturates at a value < 1 in the deeply ordered phase (gapped system), the
 
 The total magnetization has only O(log L) bits of entropy, while the microscopic entropy is L² bits. Regardless of whether there is a gap, this order-of-magnitude gap forces D_f → 1.
 
-**To find the boundary of the framework, what needs to change is not the temperature, but the macroscopic description itself.** This points the direction for future research.
+**To find the boundary of the framework, what needs to change is not the temperature, but the macroscopic description itself.**
 
 ---
 
@@ -385,53 +395,53 @@ The total magnetization has only O(log L) bits of entropy, while the microscopic
 
 ### 1. Limitation One: All experiments are reformulations of known physics
 
-None of the nine experiments in this paper propose a new prediction. They verify known physical laws (Calabrese-Cardy formula, first law of thermodynamics, qualitative features of holography). The contribution of this paper is **integration**, not **discovery**.
+None of the nine experiments in this paper propose a new prediction. The contribution of this paper is **integration**, not **discovery**.
 
 ### 2. Limitation Two: The framework does not produce new predictions
 
-The information projection framework is a conceptual language, not a physical theory. It gives no equations, predicts no new phenomena, and produces no new verifiable numbers.
+The information projection framework is a conceptual language, not a physical theory.
 
 ### 3. Limitation Three: Toy models are not real physics
 
-The toy quantum gravity model in Experiment 8 has only 8 qubits. It cannot represent real quantum gravity.
+The toy quantum gravity model in Experiment 8 has only 8 qubits.
 
 ### 4. Limitation Four: D_f is not a good phase transition detector
 
-Experiment 6 shows that T_min(L) crosses Tc and is not an accurate phase transition point. D_f is qualitatively sensitive but quantitatively inaccurate.
+Experiment 6 shows that T_min(L) does not converge monotonically. **This is a negative result.**
 
 ### 5. Limitation Five: The counterexample test does not reach the framework boundary
 
-Experiment 9 shows that as long as the information content of the macroscopic description is much smaller than the microscopic entropy, D_f approaches 1. This does not test the framework's behavior when the macroscopic description has comparable information content.
+Experiment 9 shows that as long as the information content of the macroscopic description is much smaller than the microscopic entropy, D_f approaches 1.
 
 ### 6. Objection One: Is this pseudoscience?
 
-No. This paper has formal definitions, numerical verification, and honest declarations. It acknowledges its limitations and does not claim to solve quantum gravity.
+No. This paper has formal definitions, numerical verification, honest declarations, and a negative result.
 
 ### 7. Objection Two: What is this good for?
 
-The value of this paper lies in unifying the "information loss" phenomena scattered across multiple fields under a single framework. It provides a conceptual language that may inspire future theoretical constructions.
+The value of this paper lies in unifying the "information loss" phenomena scattered across multiple fields under a single framework.
 
 ---
 
 ## XIV. Conclusion
 
-Through nine independent numerical experiments, this paper verifies the qualitative features of the information projection framework across multiple physical systems:
+Through nine independent numerical experiments, this paper verifies the qualitative features of the information projection framework:
 
 1. The information loss rate D_f approaches 1 as the system grows.
 2. Entanglement entropy follows conformal field theory scaling in critical systems.
 3. Entanglement entropy and energy obey the information-theoretic form of the first law of thermodynamics.
 4. Geometry can be read out from entanglement data.
-5. D_f is qualitatively sensitive to phase transitions.
+5. **D_f is not an accurate phase transition detector (negative result).**
 6. D_f and mutual information are two independent information-theoretic quantities.
 7. Area-law and holographic features appear in toy models.
 8. In a gapped system, D_f still approaches 1; no counterexample was found.
-9. A boundary condition of the framework is revealed: the information content of the macroscopic description must be of the same order as the microscopic entropy for a counterexample to arise.
+9. A boundary condition of the framework is revealed.
 
 **Final positioning of this paper**:
 
-> This paper is not a physics paper, but a paper in the philosophy of science. Its contribution is conceptual integration, not physical discovery. It does not claim to solve quantum gravity, only to provide a unified numerical perspective.
+> This paper is not a physics paper, but a paper in the philosophy of science. Its contribution is conceptual integration, not physical discovery. It reports a negative result, which is part of honesty.
 
-**The conclusion of this paper is**: The information projection framework exhibits qualitatively consistent mathematical structures across multiple independent physical systems. This provides a unified conceptual language for understanding macro-micro relations.
+**The conclusion of this paper is**: The information projection framework exhibits qualitatively consistent mathematical structures across multiple independent physical systems.
 
 ---
 
@@ -439,11 +449,12 @@ Through nine independent numerical experiments, this paper verifies the qualitat
 
 The code for all numerical simulations in this paper is reproducible in the GitHub repository `maxlanceund/github-random`. All simulations were run via GitHub Actions in the cloud. The workflow files for the nine experiments are:
 
-- `run_ising.yml` (Experiments 1 and 6)
+- `run_ising.yml` (Experiment 1)
 - `run_quantum.yml` (Experiment 2)
 - `run_xx.yml` (Experiment 3)
 - `run_thermo.yml` (Experiment 4)
 - `run_geometry.yml` (Experiment 5)
+- `run_fast_phase.yml` (Experiment 6, numba-accelerated)
 - `run_dfmi.yml` (Experiment 7)
 - `run_gravity.yml` (Experiment 8)
 - `run_counterexample.yml` (Experiment 9)
