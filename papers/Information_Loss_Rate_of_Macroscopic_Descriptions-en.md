@@ -6,9 +6,9 @@
 | :--- | :--- |
 | **Title** | Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy |
 | **Author** | Zhong Shanzhen |
-| **Date** | 2026-09-22 (Revised: 2026-09-25, Version 12.0) |
+| **Date** | 2026-09-22 (Revised: 2026-09-26, Version 14.0) |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry |
+| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks, neural networks |
 
 ---
 
@@ -34,7 +34,13 @@ The previous two papers argued that the non-injectivity of the composite project
 
 **Seventh, it provides an explicit convergence condition.** When log₂σ > 3·log₂Δ₀/α, the deviation of D_f from α is less than 10%.
 
-**Eighth (new), a time-reversal symmetry test.** Through numerical simulation of a harmonic oscillator system, it is found that D_f is **time-symmetric** under frictionless (reversible) dynamics. **D_f itself does not capture the arrow of time.** The arrow of time requires dissipation (irreversible dynamics). This is a negative result that clarifies the distinction between static information loss and dynamical irreversibility.
+**Eighth, a time-reversal symmetry test.** Through numerical simulation of a harmonic oscillator system, it is found that D_f is **time-symmetric** under frictionless (reversible) dynamics. **D_f itself does not capture the arrow of time.** The arrow of time requires dissipation (irreversible dynamics). This is a negative result.
+
+**This paper also contains two application appendices:**
+
+**Appendix D**: D_f analysis of real Boolean networks. **A verification result, not a discovery.**
+
+**Appendix E**: Information loss rate in neural networks. It finds that **D_f decouples from classification accuracy**, and that output entropy and margin are the strong predictors of accuracy. It also reports a **falsified hypothesis** (D_f as an early-stopping signal).
 
 **Positioning of this paper**: This paper is not an operational manual. It is a paper in the philosophy of science, telling theoretical researchers "why certain approaches are structurally impossible."
 
@@ -66,7 +72,11 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 **Question Six**: In a real physical system, what is the behavior of D_f?
 
-**Question Seven (new)**: Can D_f distinguish the forward and backward directions of time?
+**Question Seven**: Can D_f distinguish the forward and backward directions of time?
+
+**Question Eight**: What is the behavior of D_f in real biological networks?
+
+**Question Nine**: What is the behavior of D_f in neural networks?
 
 ### 3. Positioning of This Paper
 
@@ -76,13 +86,17 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 **On coarse-graining and information loss**: Research on information loss from coarse-graining dates back to Shannon (1948) and Kolmogorov's ε-entropy theory. Cover & Thomas (2006) systematically summarize rate-distortion theory. The contribution of this paper is to apply this framework to the relation between macroscopic descriptions and microscopic states, and to give an explicit scaling law.
 
-**On scaling laws**: Research on coarse-graining scaling laws in physics appears in renormalization group theory (Wilson, 1971) and critical phenomena. The scaling law D_f → α has a form similar to the scaling exponents of the renormalization group, but a different physical content: the renormalization group describes how coupling constants change with scale, while this paper describes how the information loss rate changes with the relative scaling of microscopic and macroscopic entropy.
+**On scaling laws**: Research on coarse-graining scaling laws in physics appears in renormalization group theory (Wilson, 1971) and critical phenomena. The scaling law D_f → α has a form similar to the scaling exponents of the renormalization group, but a different physical content.
 
 **On the arrow of time**: This paper forms a series with the first two papers. The first argues that the arrow of time and the unification predicament share a common source; the second argues for the structural source of irreversibility; this paper provides a quantitative theory of information loss rate and reports a negative result concerning time-reversal symmetry.
 
+**On Boolean networks**: Research on random Boolean networks dates back to Kauffman (1969). This paper uses the D_f framework to analyze real biological networks (BBM database), as Appendix D.
+
+**On neural networks**: Information bottleneck theory (Tishby et al., 1999) studies the evolution of information within networks. This paper uses the D_f framework to analyze layer-wise information retention in neural networks, and finds a decoupling between D_f and accuracy, as Appendix E.
+
 ### 5. Structure of the Argument
 
-Section III defines the information loss rate and its properties. Section IV introduces rate-distortion theory and proves the inverse-inference error lower bound theorem. Section V gives rate-distortion functions for three common cases. Section VI provides numerical validation and the scaling law. Section VII validates the framework with a 2D Ising model. Section VIII reports a negative result from the time-reversal symmetry test. Section IX discusses the sensitivity of D_f to the definition of Ω. Section X discusses the relation to identification theory. Section XI discusses ontological asymmetry. Section XII discusses scope and limitations. Section XIII responds to objections. Section XIV concludes.
+Section III defines the information loss rate and its properties. Section IV introduces rate-distortion theory and proves the inverse-inference error lower bound theorem. Section V gives rate-distortion functions for three common cases. Section VI provides numerical validation and the scaling law. Section VII validates the framework with a 2D Ising model. Section VIII reports a negative result from the time-reversal symmetry test. Section IX discusses the sensitivity of D_f to the definition of Ω. Section X discusses the relation to identification theory. Section XI discusses ontological asymmetry. Section XII discusses scope and limitations. Section XIII responds to objections. Section XIV concludes. Appendix D presents the analysis of real Boolean networks, and Appendix E presents the analysis of neural networks.
 
 ---
 
@@ -114,7 +128,7 @@ R_f = 1 - D_f = I(Ω; M') / H(Ω)
 
 **Property 4 (Structural Dependence)**: The **definition** of D_f depends only on (Ω, M′, g ∘ f, p), not on sample size, computational power, or model complexity.
 
-**Property 5 (Time-Reversal Neutrality, new)**: D_f is a **static** quantity. Its definition does not involve time evolution. Therefore, D_f itself carries no information about the arrow of time. Time asymmetry must come from dynamics, not from the definition of D_f.
+**Property 5 (Time-Reversal Neutrality)**: D_f is a **static** quantity. Its definition does not involve time evolution. Therefore, D_f itself carries no information about the arrow of time. Time asymmetry must come from dynamics, not from the definition of D_f.
 
 ---
 
@@ -172,7 +186,7 @@ Using binomial coefficients to compute the conditional entropy exactly: H(Ω|M')
 | 512 | 512.00 | 9.00 | 506.4529 | 0.989166 |
 | 1024 | 1024.00 | 10.00 | 1017.9529 | 0.994095 |
 
-**Conclusion**: D_f increases monotonically with N, tending to 1. At N = 1024, D_f = 0.9941.
+**Conclusion**: D_f monotonically increases with N, approaching 1. At N = 1024, D_f = 0.9941.
 
 ### 6.2 Chaotic Time Evolution (Tent Map)
 
@@ -187,7 +201,7 @@ Using the tent map T(x) = 1 - |2x - 1|, whose KS entropy is exactly log₂2 = 1 
 | 10 | 3.9946 | 0.9047 |
 | 11 | 3.9946 | 0.0000 |
 
-**Conclusion**: Coarse-grained entropy grows at ≈ 1 bit/step, consistent with the tent map's KS entropy. It saturates at log₂16 = 4 bits. This validates L(t) ~ h_KS · t until saturation.
+**Conclusion**: Coarse-grained entropy grows at ≈ 1 bit/step, consistent with the tent map's KS entropy. It saturates at log₂16 = 4 bits.
 
 ### 6.3 Continuous Case (Fixed Resolution)
 
@@ -202,7 +216,7 @@ Using the tent map T(x) = 1 - |2x - 1|, whose KS entropy is exactly log₂2 = 1 
 | 500 | 100.005 | 8.691 | 5.369 | 0.3822 |
 | 10000 | 447.215 | 10.852 | 7.530 | 0.3061 |
 
-**Conclusion**: In the continuous case, D_f slowly approaches 0, opposite in direction to the discrete case. Reason: in the discrete case microscopic entropy grows linearly while macroscopic entropy grows logarithmically; in the continuous case both grow logarithmically, but the macroscopic entropy always lags by log₂Δ.
+**Conclusion**: In the continuous case, D_f slowly approaches 0, opposite in direction to the discrete case.
 
 ### 6.4 Continuous Case (Dynamic Resolution) and Unified Scaling Law
 
@@ -226,8 +240,6 @@ D_f(σ; α) = [log₂Δ₀ + α log₂(σ/σ₀)] / [log₂(σ/σ₀) + log₂(�
 
 When log₂σ > 3·log₂Δ₀/α, |D_f - α| < 0.1·α.
 
-For example, with Δ₀ = 10 and α = 0.5: log₂σ > 3 × 3.32 / 0.5 = 19.9, i.e., σ > 2^19.9 ≈ 10^6.
-
 **Unified classification**:
 
 | Case | Scaling Relation | D_f Limit | Convergence Condition |
@@ -241,9 +253,7 @@ For example, with Δ₀ = 10 and α = 0.5: log₂σ > 3 × 3.32 / 0.5 = 19.9, i.
 
 ### 6.5 Relation Between Discrete Case and Continuous Scaling Law
 
-The discrete case cannot simply be regarded as the special case α_eff → 1. Reason:
-
-The discrete-case microscopic entropy H(Ω) = N grows **linearly**, whereas the continuous-case h_micro = (1/2)log₂(2πeσ²) grows **logarithmically**. The two scaling behaviors are mathematically different.
+The discrete case cannot simply be regarded as the special case α_eff → 1. The discrete-case microscopic entropy H(Ω) = N grows **linearly**, whereas the continuous-case h_micro = (1/2)log₂(2πeσ²) grows **logarithmically**. The two scaling behaviors are mathematically different.
 
 **Therefore, the discrete case and the continuous scaling law are two independent results and cannot be forcibly unified.**
 
@@ -253,18 +263,10 @@ The discrete-case microscopic entropy H(Ω) = N grows **linearly**, whereas the 
 
 ### 7.1 Model and Setup
 
-The 2D Ising model is the standard model for studying phase transitions in statistical physics, describing the critical behavior of real magnetic materials.
-
-**Setup**:
-
 - Lattice size: L = 32 (1024 spins)
-- Boundary conditions: periodic
 - Update algorithm: Metropolis Monte Carlo
 - Temperature range: T ∈ [0.5, 10.0], including the critical temperature Tc = 2.269
-- Per temperature: 10 independent runs, 100 samples each
 - Macroscopic description: total magnetization M = Σσᵢ
-- Microscopic entropy: H(Ω) = L² = 1024 bits
-- Computing platform: GitHub Actions cloud
 
 ### 7.2 Numerical Results
 
@@ -285,19 +287,13 @@ The 2D Ising model is the standard model for studying phase transitions in stati
 
 **D_f attains its minimum 0.991648 at T = 2.5, immediately adjacent to the critical temperature Tc = 2.269.**
 
-This means: **near the phase transition, the macroscopic description (total magnetization) loses the least information.**
-
 ### 7.4 Physical Interpretation
 
 Near the critical point, the correlation length diverges, magnetization fluctuations are maximal, the macroscopic-state distribution is widest, H(M) is largest, and therefore D_f is smallest.
 
 ### 7.5 Note on Sampling Insufficiency
 
-The theoretical upper bound is H(M) = log₂(2L²+1) ≈ 11.0 bits. The observed maximum H(M) = 8.55. Sampling does not fully cover; D_f is systematically overestimated. The trend remains valid.
-
-### 7.6 Relation to the Scaling-Law Framework
-
-The Ising model validates the **discrete case**. It validates D_f → 1, and discovers that D_f has a minimum near the critical point.
+The theoretical upper bound is H(M) = log₂(2L²+1) ≈ 11.0 bits. The observed maximum H(M) = 8.55. D_f is systematically overestimated, but the trend remains valid.
 
 ---
 
@@ -307,18 +303,9 @@ The Ising model validates the **discrete case**. It validates D_f → 1, and dis
 
 Can D_f distinguish the forward and backward directions of time?
 
-**Theoretical background**: The previous two papers argued that "non-injective projection produces the arrow of time." If this proposition holds, then under reversible dynamics, D_f should exhibit time asymmetry.
-
 ### 8.2 Model
 
-1D harmonic oscillator system, N = 2000 particles, initial distribution is a narrow Gaussian (both x and v small).
-
-**Steps**:
-
-1. Evolve forward 500 steps, measure D_f at each step (histogram entropy of position distribution)
-2. At the final state, perform time reversal (v → −v)
-3. Evolve backward 500 steps, measure D_f at each step
-4. Compare D_f(t) and D_f(T−t)
+1D harmonic oscillator system, N = 2000 particles, initial distribution is a narrow Gaussian.
 
 ### 8.3 Results
 
@@ -336,7 +323,7 @@ Can D_f distinguish the forward and backward directions of time?
 - **Non-injective projection itself does not produce the arrow of time**
 - **The arrow of time requires dissipation (irreversible dynamics)**
 
-### 8.5 What This Result Refutes, and What It Does Not
+### 8.5 What This Result Refutes
 
 **Refuted**: A **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time."
 
@@ -344,14 +331,14 @@ Can D_f distinguish the forward and backward directions of time?
 
 **The distinction**:
 
-- "Inverse inference impossible" is an **epistemological** proposition: given a macroscopic description, recovering the microscopic state is impossible
-- "Produces the arrow of time" is a **dynamical** proposition: the projection itself produces time asymmetry
+- "Inverse inference impossible" is an **epistemological** proposition
+- "Produces the arrow of time" is a **dynamical** proposition
 
-**This paper never claimed the latter.** This experiment clarifies: static information loss does not produce observable time asymmetry.
+**This paper never claimed the latter.**
 
 ### 8.6 Significance
 
-**This is a negative result.** It rules out a possibility but does not produce anything new. Its value lies in:
+This is a negative result. It rules out a possibility but does not produce anything new. Its value lies in:
 
 1. Clarifying the distinction between "static source" and "dynamical source"
 2. Showing that D_f is a time-reversal-neutral quantity
@@ -363,8 +350,6 @@ Can D_f distinguish the forward and backward directions of time?
 
 ### 1. Sensitivity Analysis (Economics Case)
 
-In economics, let M′ = {a, b}, and let the definition of Ω be progressively refined:
-
 | Definition of Ω | \|Ω\| | H(Ω) | H(Ω\|M′) | D_f |
 | :--- | :--- | :--- | :--- | :--- |
 | Ω₁ | 2 | 1.00 | 0.00 | 0.00 |
@@ -373,7 +358,7 @@ In economics, let M′ = {a, b}, and let the definition of Ω be progressively r
 | Ω₄ | 16 | 4.00 | 3.00 | 0.75 |
 | Ω₅ | 256 | 8.00 | 7.00 | 0.88 |
 
-**Conclusion**: The finer the definition of Ω, the larger D_f. In economics, D_f is highly sensitive to the definition of Ω.
+**Conclusion**: In economics, D_f is highly sensitive to the definition of Ω.
 
 ### 2. Limitation on Practical Value in Economics
 
@@ -402,7 +387,7 @@ Identification theory asks: is parameter θ identifiable?
 
 ### 4. Relation to Causal Inference
 
-**Core reminder**: Do not abandon causal inference because "macroscopic data cannot recover microscopic states." Causal inference does not require recovering microscopic states.
+**Core reminder**: Do not abandon causal inference because "macroscopic data cannot recover microscopic states."
 
 ---
 
@@ -470,9 +455,17 @@ See Section 7.5.
 
 **This paper does not promise that D_f can be conveniently used for policy evaluation.**
 
-### 10. Limitation Nine (new): D_f Does Not Capture the Arrow of Time
+### 10. Limitation Nine: D_f Does Not Capture the Arrow of Time
 
-The time-reversal symmetry test shows that D_f is time-symmetric under reversible dynamics. D_f itself carries no information about the arrow of time. The arrow of time requires dissipation.
+See Section VIII.
+
+### 11. Limitation Ten: Insufficient Sample in the Boolean Network Analysis
+
+See Appendix D.
+
+### 12. Limitation Eleven: Estimation Noise in Neural Networks
+
+See Appendix E. D_f estimation depends on the capacity of the evaluation classifier; insufficient capacity leads to noise-dominated results.
 
 ---
 
@@ -504,7 +497,7 @@ The time-reversal symmetry test shows that D_f is time-symmetric under reversibl
 
 ### Objection Seven: "The Ising simulation suffers from sampling insufficiency."
 
-**Response**: Correct. Section 7.5 explicitly states that sampling insufficiency causes D_f to be overestimated, but the trend remains valid.
+**Response**: Correct. Section 7.5 explicitly states this.
 
 ### Objection Eight: "D_f being minimal at the critical point is just a restatement of known physics."
 
@@ -514,9 +507,13 @@ The time-reversal symmetry test shows that D_f is time-symmetric under reversibl
 
 **Response**: Correct. This paper clearly states that D_f is a **conceptual tool**.
 
-### Objection Ten (new): "The time-reversal symmetry test proves your framework is wrong."
+### Objection Ten: "The time-reversal symmetry test proves your framework is wrong."
 
-**Response**: Not accurate. That test refutes a **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time." The core proposition of this paper — "inverse inference is structurally and statically impossible" — is not refuted. The test clarifies the distinction between static information loss and dynamical irreversibility.
+**Response**: Not accurate. That test refutes a **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time." The core proposition of this paper — "inverse inference is structurally and statically impossible" — is not refuted.
+
+### Objection Eleven: "The falsification of the early-stopping hypothesis in neural networks shows D_f is useless."
+
+**Response**: Not accurate. The early-stopping hypothesis is falsified, but the decoupling of D_f from accuracy and the finding that output entropy is a strong predictor both hold. Reporting negative and positive results together is the honest approach.
 
 ---
 
@@ -538,13 +535,19 @@ The core results of this paper are eight:
 
 **Seventh, it provides an explicit convergence condition.**
 
-**Eighth (new), it reports a negative result: D_f does not capture the arrow of time.** The time-reversal symmetry test shows that D_f is time-symmetric under reversible dynamics. Non-injective projection itself does not produce the arrow of time; the arrow of time requires dissipation.
+**Eighth, it reports a negative result: D_f does not capture the arrow of time.** The time-reversal symmetry test shows that D_f is time-symmetric under reversible dynamics. Non-injective projection itself does not produce the arrow of time; the arrow of time requires dissipation.
+
+**In addition, Appendices D and E report two applications:**
+
+**Appendix D**: The D_f of real biological networks follows mathematical expectation, without deviation from the random baseline. A verification result.
+
+**Appendix E**: In neural networks, output-layer D_f decouples from classification accuracy. Output entropy and margin are the strong predictors of accuracy (correlation coefficients ±0.98 to ±0.99). The first layer is an "information gate"; once information is lost there, subsequent layers cannot recover it. One hypothesis (D_f as an early-stopping signal) is falsified.
 
 **Final positioning of this paper**:
 
-> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility.
+> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility. Appendices D and E demonstrate the framework's applications to biological networks and neural networks, including one falsified hypothesis.
 
-**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time.**
+**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time, nor does it equate to decision quality.**
 
 ---
 
@@ -610,23 +613,227 @@ GitHub Actions (Ubuntu-latest, 2 cores, 7 GB RAM).
 
 ---
 
-## Appendix D: Numerical Method for the Time-Reversal Symmetry Test
+## Appendix D: D_f Analysis of Real Boolean Networks
 
-### 1. Harmonic Oscillator Model
+### 1. Purpose
 
-a = -ω²x - γv, ω = 1.0, γ is the friction coefficient.
+To verify the information projection framework on **real biological networks**. Specific question: does the D_f of real gene regulatory networks differ significantly from random Boolean networks of the same size?
 
-### 2. Time-Reversal Operation
+### 2. Data
 
-At the final state, reverse the velocity: v → −v.
+BioDivine Boolean Models (BBM) database, 285 `.bnet` files. Processable models (N ≤ 183): 28, of which:
 
-### 3. Computation of D_f
+- Exact enumeration (N ≤ 16): 13
+- Monte Carlo sampling (N > 16, M = 100,000 samples): 15
 
-Divide position x into 50 bins, compute histogram entropy H, D_f = H / log₂(50).
+### 3. Method
 
-### 4. Symmetry Measure
+For each network:
 
-Compare the mean absolute difference between D_f(t) and D_f(T−t).
+- **Ω**: all initial states (2^N)
+- **M′**: attractors (phenotype)
+- **D_f = H(Ω|M′) / H(Ω)**
+
+For N ≤ 16, exact enumeration. For N > 16, 100,000 random samples.
+
+### 4. Results
+
+| N | D_f | Method | Attractors |
+| :--- | :--- | :--- | :--- |
+| 5 | 0.8913 | exact | 2 |
+| 5 | 0.8006 | exact | 2 |
+| 6 | 0.7461 | exact | 5 |
+| 7 | 0.7908 | exact | 3 |
+| 9 | 0.9396 | exact | 2 |
+| 9 | 0.9127 | exact | 2 |
+| 11 | 0.8847 | exact | 4 |
+| 11 | 0.7710 | exact | 8 |
+| 11 | 0.7248 | exact | 9 |
+| 12 | 0.9555 | exact | 3 |
+| 14 | 1.0000 | exact | 1 |
+| 15 | 0.9048 | exact | 7 |
+| 15 | 1.0000 | exact | 1 |
+| 18 | 0.9876 | MC | 9 |
+| 18 | 0.8026 | MC | 16 |
+| 18 | 0.8465 | MC | 11 |
+| 19 | 0.9997 | MC | 21 |
+| 19 | 0.9467 | MC | 3 |
+| 28 | 0.9876 | MC | 2 |
+| 30 | 0.9995 | MC | 15 |
+| 31 | 1.0000 | MC | 3 |
+| 33 | 0.9853 | MC | 5 |
+| 47 | 0.9734 | MC | 6 |
+| 83 | 0.9796 | MC | 4 |
+| 102 | 0.9052 | MC | 2110 |
+| 144 | 0.9803 | MC | 8 |
+| 183 | 0.9894 | MC | 8 |
+
+**Statistics**: D_f mean 0.9117, standard deviation 0.0873.
+
+### 5. Observations
+
+**Observation 1**: For large N, D_f approaches 1. All networks with N ≥ 28 have D_f > 0.9.
+
+**Observation 2**: For small N, D_f is dispersed. Networks with N ≤ 15 have D_f in the range 0.72-1.00.
+
+**Observation 3**: This pattern can be predicted by:
+
+D_f = 1 − H(attractors) / N
+
+When N is large, H(attractors)/N → 0, so D_f → 1. When N is small, H(attractors)/N is non-negligible.
+
+### 6. Conclusion
+
+**The D_f of real biological networks follows mathematical expectation.**
+
+- Large networks approach 1, small networks are dispersed
+- This pattern does not depend on whether the network is real or random
+- **Real networks do not deviate from the mathematical baseline of random networks**
+
+**This is a verification result, not a discovery.**
+
+### 7. Limitations
+
+- Small sample size (28 models)
+- Most of the 285 models were skipped
+- Monte Carlo sampling introduces error
+- No strict comparison with random networks
+
+---
+
+## Appendix E: Information Loss Rate in Neural Networks
+
+### 1. Purpose
+
+To verify the information projection framework on **neural networks**. Specific question: how much category information does each layer of a network retain? How does this information relate to classification accuracy?
+
+### 2. Model
+
+Fully connected network, input 784 (MNIST), output 10 classes. Trained on 5000 images, tested on 1000, 10 epochs, Adam optimizer.
+
+### 3. Method
+
+For each layer activation:
+
+- **Ω**: class labels (10 classes)
+- **M′**: that layer's activation
+- **D_f = H(Ω|M′) / log₂(10)**
+
+H(Ω|M′) is estimated by the cross-entropy loss of a small classifier (64 hidden units, 50 epochs) trained on that layer's activation.
+
+### 4. Result 1: Depth Effect
+
+Fixed first-layer width, varying depth:
+
+| Config | Accuracy | D_f sequence (input→output) |
+| :--- | :--- | :--- |
+| 32-16 | 86.0% | 0.086 → 0.522 → 0.630 → 0.638 |
+| 64-32-16 | 85.1% | 0.096 → 0.341 → 0.501 → 0.640 → 0.649 |
+| 128-64-32-16 | 88.3% | 0.089 → 0.215 → 0.349 → 0.480 → 0.595 → 0.658 |
+| 256-128-64-32-16 | 90.6% | 0.087 → 0.128 → 0.195 → 0.339 → 0.454 → 0.593 → 0.623 |
+
+**Observation**: Deeper networks have lower D_f in intermediate layers (more information retained), but the output layer D_f is nearly constant (0.62-0.66).
+
+### 5. Result 2: Width Effect
+
+Fixed depth (4 hidden layers), varying first-layer width:
+
+| Config | Accuracy | h1_D_f | out_D_f |
+| :--- | :--- | :--- | :--- |
+| 16-32-16-8 | 81.0% | 0.645 | 0.619 |
+| 32-32-16-8 | 82.6% | 0.500 | 0.619 |
+| 128-32-16-8 | 85.2% | 0.252 | 0.610 |
+| 256-32-16-8 | 87.3% | 0.153 | 0.621 |
+| 512-32-16-8 | 89.1% | 0.102 | 0.618 |
+| 1024-32-16-8 | 88.5% | 0.060 | 0.624 |
+
+**Observation**: Wider first layers have lower h1_D_f (more information retained) and higher accuracy. But output D_f remains nearly constant (0.61-0.62).
+
+### 6. Result 3: Output D_f Decouples from Accuracy
+
+For each config, three quantities are measured:
+
+| Config | Accuracy | D_f_out | margin | out_entropy |
+| :--- | :--- | :--- | :--- | :--- |
+| 16-32-16-8 | 81.0% | 0.664 | 1.69 | 0.674 |
+| 32-32-16-8 | 82.6% | 0.611 | 2.04 | 0.599 |
+| 128-32-16-8 | 85.2% | 0.636 | 2.53 | 0.472 |
+| 256-32-16-8 | 87.3% | 0.618 | 2.94 | 0.438 |
+| 512-32-16-8 | 89.1% | 0.635 | 3.87 | 0.336 |
+| 1024-32-16-8 | 88.5% | 0.591 | 3.75 | 0.352 |
+
+**Correlation with accuracy**:
+
+| Quantity | Correlation |
+| :--- | :--- |
+| D_f_out | -0.52 |
+| margin_mean | +0.98 |
+| out_entropy | **-0.99** |
+
+**Observation**: D_f_out has only moderate negative correlation with accuracy. Output entropy has very strong negative correlation (-0.99), and margin has very strong positive correlation (+0.98).
+
+### 7. Core Conclusions
+
+**One, D_f decouples from classification accuracy.**
+
+Output D_f is nearly constant across all configs (0.59-0.66), yet accuracy varies from 81% to 89%, an 8 percentage point difference.
+
+**Two, output entropy and margin are the strong predictors of accuracy.**
+
+Output entropy correlates with accuracy at -0.99; margin at +0.98.
+
+**Three, D_f measures "information pool", margin measures "decision confidence".**
+
+D_f measures how much category information the output layer retains; margin measures how confidently the model makes decisions. They are independent dimensions.
+
+**Four, the first layer is an "information gate".**
+
+Wider first layers retain more category information and achieve higher accuracy. Once information is lost at the first layer, subsequent layers cannot recover it.
+
+### 8. A Falsified Hypothesis
+
+**Hypothesis**: The saturation point of D_f can serve as an early-stopping signal.
+
+**Verification**: Three different architectures (32-16, 128-64-32, 256-128-64-32) were trained for 30 epochs, tracking saturation points of D_f, accuracy, and margin.
+
+**Result**: The fluctuation amplitude of D_f (±0.03-0.05) exceeds the "saturation signal". Two configurations showed "no saturation", one showed saturation but was noise-dominated.
+
+**Conclusion**: The hypothesis that D_f can serve as an early-stopping signal is **falsified**.
+
+**This negative result indicates**: Before using D_f for any practical application, one must ensure the evaluation classifier has sufficient capacity, otherwise the D_f estimate is unreliable.
+
+### 9. Significance
+
+**For neural network theory**:
+
+- "Information retention" and "decision quality" are independent dimensions
+- Evaluating a network requires looking beyond information content to decision confidence
+- Output entropy is a stronger accuracy predictor than conditional entropy
+
+**For the information projection framework**:
+
+- The framework holds on neural networks (D_f behavior is predictable)
+- But practical applications of D_f require caution (estimation noise is large)
+- A negative result is honestly reported
+
+### 10. Limitations
+
+- MNIST dataset, small-scale networks
+- 5000 training samples, 10 epochs
+- Conditional entropy estimated by a classifier, noisy
+- No validation on CNNs or Transformers
+
+### 11. Data Availability
+
+The code for this appendix is reproducible in the GitHub repository maxlanceund/github-random. Workflow files:
+
+- `run_nn_layer.yml`: layer-wise D_f
+- `run_nn_control.yml`: random vs trained control
+- `run_nn_depth.yml`: depth effect
+- `run_nn_width.yml`: width effect
+- `run_nn_margin.yml`: margin and output entropy
+- `run_nn_training.yml`: training dynamics
+- `run_nn_earlystop.yml`: early-stop verification (falsified)
 
 ---
 
@@ -639,6 +846,8 @@ Compare the mean absolute difference between D_f(t) and D_f(T−t).
 5. If it is proven that the discrete case can be written in the form Δ ~ σ^α, then the conclusion of Section 6.5 is falsified.
 6. If, in the Ising model, the minimum of D_f is not near the critical point, then the conclusion of Section VII is falsified.
 7. If D_f is found to be time-asymmetric under reversible dynamics, then the negative result of Section VIII is refuted.
+8. If the D_f of real Boolean networks is found to systematically deviate from the random baseline, then the conclusion of Appendix D is falsified.
+9. If output D_f in neural networks is found to strongly correlate with accuracy (correlation > 0.8), then the decoupling conclusion of Appendix E is falsified.
 
 ---
 
@@ -658,29 +867,31 @@ Compare the mean absolute difference between D_f(t) and D_f(T−t).
 
 [7] Jaynes, E. T. (1957). Information Theory and Statistical Mechanics. *Physical Review*, 106(4), 620-630.
 
-[8] Manski, C. F. (2003). *Partial Identification of Probability Distributions*. Springer.
+[8] Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Constructed Genetic Nets. *Journal of Theoretical Biology*, 22(3), 437-467.
 
-[9] Onsager, L. (1944). Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder Transition. *Physical Review*, 65(3-4), 117-149.
+[9] Manski, C. F. (2003). *Partial Identification of Probability Distributions*. Springer.
 
-[10] Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+[10] Onsager, L. (1944). Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder Transition. *Physical Review*, 65(3-4), 117-149.
 
-[11] Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379-423.
+[11] Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 
-[12] Shannon, C. E. (1959). Coding Theorems for a Discrete Source with a Fidelity Criterion. *IRE National Convention Record*, 7(4), 142-163.
+[12] Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379-423.
 
-[13] Tishby, N., Pereira, F. C., & Bialek, W. (1999). The Information Bottleneck Method. *Proceedings of the 37th Annual Allerton Conference on Communication, Control, and Computing*, 368-377.
+[13] Shannon, C. E. (1959). Coding Theorems for a Discrete Source with a Fidelity Criterion. *IRE National Convention Record*, 7(4), 142-163.
 
-[14] Wilson, K. G. (1971). Renormalization Group and Critical Phenomena. *Physical Review B*, 4(9), 3174-3183.
+[14] Tishby, N., Pereira, F. C., & Bialek, W. (1999). The Information Bottleneck Method. *Proceedings of the 37th Annual Allerton Conference on Communication, Control, and Computing*, 368-377.
 
-[15] Zhong, S. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+[15] Wilson, K. G. (1971). Renormalization Group and Critical Phenomena. *Physical Review B*, 4(9), 3174-3183.
 
-[16] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+[16] Zhong, S. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+
+[17] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
 
 ---
 
 ## XVII. Data Availability Statement
 
-This paper is a theoretical derivation. The numerical simulations in Sections VI, VII, and VIII were generated by Python code, reproducible in the GitHub repository maxlanceund/github-random. All simulations were run via GitHub Actions in the cloud.
+This paper is a theoretical derivation. The numerical simulations in Sections VI, VII, VIII, and Appendices D, E were generated by Python code, reproducible in the GitHub repository maxlanceund/github-random. All simulations were run via GitHub Actions in the cloud.
 
 ---
 
@@ -692,4 +903,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 12.0). Equal System Repository.
+Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 14.0). Equal System Repository.
