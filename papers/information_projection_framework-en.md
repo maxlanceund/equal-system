@@ -1,20 +1,20 @@
-# Information Loss Rate of Macroscopic Descriptions
+# Information Projection Framework
 
-## — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy
+## — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy
 
 | Item | Content |
 | :--- | :--- |
-| **Title** | Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy |
+| **Title** | Information Projection Framework — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy |
 | **Author** | Zhong Shanzhen |
-| **Date** | 2026-09-22 (Revised: 2026-09-25, Version 13.0) |
+| **Date** | 2026-09-22 (Revised: 2026-09-26, Version 15.0) |
 | **License** | CC BY-NC 4.0 |
-| **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks |
+| **Keywords** | information projection framework, information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks |
 
 ---
 
 ## I. Abstract
 
-Building on two previous papers, this paper proposes an information-theoretic framework for quantifying the information loss of macroscopic descriptions.
+Building on two previous papers, this paper proposes the **information projection framework** — an information-theoretic framework for quantifying the information loss of macroscopic descriptions.
 
 The previous two papers argued that the non-injectivity of the composite projection g ∘ f: Ω → M′ renders macroscopic descriptions incomplete. That conclusion, however, was qualitative.
 
@@ -30,13 +30,13 @@ The previous two papers argued that the non-injectivity of the composite project
 
 **Fifth, it discusses the sensitivity of D_f to the definition of Ω.** In physics, Ω is ontologically determinate; in economics, Ω is theoretically constructed.
 
-**Sixth, it clearly distinguishes the inverse-inference framework from econometric identification theory.**
+**Sixth, it clearly distinguishes the information projection framework from econometric identification theory.**
 
 **Seventh, it provides an explicit convergence condition.** When log₂σ > 3·log₂Δ₀/α, the deviation of D_f from α is less than 10%.
 
 **Eighth, a time-reversal symmetry test.** Through numerical simulation of a harmonic oscillator system, it is found that D_f is **time-symmetric** under frictionless (reversible) dynamics. **D_f itself does not capture the arrow of time.** The arrow of time requires dissipation (irreversible dynamics). This is a negative result.
 
-**Positioning of this paper**: This paper is not an operational manual. It is a paper in the philosophy of science, telling theoretical researchers "why certain approaches are structurally impossible."
+**Positioning of this paper**: This paper is not an operational manual. It is a paper in the philosophy of science, proposing a framework and telling theoretical researchers "why certain approaches are structurally impossible."
 
 ---
 
@@ -72,7 +72,7 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 ### 3. Positioning of This Paper
 
-**This paper is a paper in the philosophy of science.** Its goal is to provide an information-theoretic explanation of "unidentifiability." This explanation is conceptual, not operational.
+**This paper is a paper in the philosophy of science, proposing the information projection framework.** Its goal is to provide an information-theoretic explanation of "unidentifiability." This explanation is conceptual, not operational.
 
 ### 4. Relation to Existing Literature
 
@@ -82,7 +82,7 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 **On the arrow of time**: This paper forms a series with the first two papers. The first argues that the arrow of time and the unification predicament share a common source; the second argues for the structural source of irreversibility; this paper provides a quantitative theory of information loss rate and reports a negative result concerning time-reversal symmetry.
 
-**On Boolean networks**: Research on random Boolean networks dates back to Kauffman (1969). This paper uses the D_f framework to analyze real biological networks (BBM database), as Appendix D.
+**On Boolean networks**: Research on random Boolean networks dates back to Kauffman (1969). This paper uses the information projection framework to analyze real biological networks (BBM database), as Appendix D.
 
 ### 5. Structure of the Argument
 
@@ -317,7 +317,7 @@ Can D_f distinguish the forward and backward directions of time?
 
 **Refuted**: A **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time."
 
-**Not refuted**: The core proposition of this paper — "inverse inference is structurally and statically impossible."
+**Not refuted**: The core proposition of the information projection framework — "inverse inference is structurally and statically impossible."
 
 **The distinction**:
 
@@ -357,19 +357,19 @@ This is a negative result. It rules out a possibility but does not produce anyth
 
 ---
 
-## X. Relation to Identification Theory, Partial Identification Theory, and Causal Inference
+## X. Relation Between the Information Projection Framework and Identification Theory, Partial Identification Theory, and Causal Inference
 
 ### 1. Core Problem of Identification Theory
 
 Identification theory asks: is parameter θ identifiable?
 
-### 2. Relation Between the Inverse-Inference Framework and Identification Theory
+### 2. Relation Between the Information Projection Framework and Identification Theory
 
-**Relation One**: Identification theory is a special case of the inverse-inference framework.
+**Relation One**: Identification theory is a special case of the information projection framework.
 
-**Relation Two**: The inverse-inference framework provides an information-theoretic foundation for identification theory.
+**Relation Two**: The information projection framework provides an information-theoretic foundation for identification theory.
 
-**Relation Three**: The inverse-inference framework gives a lower bound on inverse-inference error.
+**Relation Three**: The information projection framework gives a lower bound on inverse-inference error.
 
 ### 3. Relation to Partial Identification Theory
 
@@ -459,15 +459,15 @@ See Appendix D.
 
 ### Objection One: "D_f is just a renaming of conditional entropy."
 
-**Response**: Correct. The contribution of this paper is to rigorously reduce the inverse-inference error lower bound to rate-distortion theory, to give a unified scaling law with an explicit convergence condition, and to validate the framework with a real system.
+**Response**: Correct. The contribution of the information projection framework is to rigorously reduce the inverse-inference error lower bound to rate-distortion theory, to give a unified scaling law with an explicit convergence condition, and to validate the framework with a real system.
 
 ### Objection Two: "Economists have long known that macroscopic data cannot precisely infer microscopic states."
 
-**Response**: Correct. The contribution of this paper is not to "tell economists something they do not know," but to "provide an information-theoretic explanation of unidentifiability."
+**Response**: Correct. The contribution of the information projection framework is not to "tell economists something they do not know," but to "provide an information-theoretic explanation of unidentifiability."
 
 ### Objection Three: "This paper is philosophy, not economics or physics."
 
-**Response**: Correct. This paper is a paper in the philosophy of science.
+**Response**: Correct. This paper is a paper in the philosophy of science, proposing the information projection framework.
 
 ### Objection Four: "The sensitivity of D_f to the definition of Ω has not been discussed."
 
@@ -487,7 +487,7 @@ See Appendix D.
 
 ### Objection Eight: "D_f being minimal at the critical point is just a restatement of known physics."
 
-**Response**: Partially correct. "Maximal fluctuations at the critical point" is known; but the translation into "minimal information loss rate at the critical point" is the contribution of this paper.
+**Response**: Partially correct. "Maximal fluctuations at the critical point" is known; but the translation into "minimal information loss rate at the critical point" is the contribution of the information projection framework.
 
 ### Objection Nine: "D_f is not an operational tool and is useless for empirical researchers."
 
@@ -495,13 +495,13 @@ See Appendix D.
 
 ### Objection Ten: "The time-reversal symmetry test proves your framework is wrong."
 
-**Response**: Not accurate. That test refutes a **stronger proposition that was not part of this paper** — "non-injective projection itself produces the arrow of time." The core proposition of this paper — "inverse inference is structurally and statically impossible" — is not refuted.
+**Response**: Not accurate. That test refutes a **stronger proposition that was not part of the information projection framework** — "non-injective projection itself produces the arrow of time." The core proposition of the information projection framework — "inverse inference is structurally and statically impossible" — is not refuted.
 
 ---
 
 ## XIV. Conclusion
 
-The core results of this paper are eight:
+The core results of the information projection framework are eight:
 
 **First, it defines the information loss rate D_f.**
 
@@ -513,7 +513,7 @@ The core results of this paper are eight:
 
 **Fifth, it discusses the sensitivity of D_f to the definition of Ω.**
 
-**Sixth, it clearly distinguishes the inverse-inference framework from identification theory.**
+**Sixth, it clearly distinguishes the information projection framework from identification theory.**
 
 **Seventh, it provides an explicit convergence condition.**
 
@@ -521,9 +521,9 @@ The core results of this paper are eight:
 
 **Final positioning of this paper**:
 
-> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility.
+> This paper is not an operational manual, but a paper in the philosophy of science, proposing the information projection framework. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of the information projection framework. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility.
 
-**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time.**
+**The conclusion of the information projection framework is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time.**
 
 ---
 
@@ -681,9 +681,9 @@ When N is large, H(attractors)/N → 0, so D_f → 1. When N is small, H(attract
 
 ## XV. Falsification Conditions
 
-1. If economists find that there exists a macroscopic description M′ such that D_f ≈ 0 and can be used to precisely infer microscopic states, then the "structural boundary" conclusion of this paper does not hold in economics.
-2. If physicists find a projection in quantum gravity such that D_f = 0, then the framework of this paper does not apply in physics.
-3. If it is mathematically proven that, although g ∘ f is non-injective, there exists an inverse-inference operator whose error lower bound is 0, then the theorem of this paper is refuted.
+1. If economists find that there exists a macroscopic description M′ such that D_f ≈ 0 and can be used to precisely infer microscopic states, then the "structural boundary" conclusion of the information projection framework does not hold in economics.
+2. If physicists find a projection in quantum gravity such that D_f = 0, then the information projection framework does not apply in physics.
+3. If it is mathematically proven that, although g ∘ f is non-injective, there exists an inverse-inference operator whose error lower bound is 0, then the theorem of the information projection framework is refuted.
 4. If numerical simulations show that the scaling law D_f → α does not hold, then the conclusion of Section 6.4 is falsified.
 5. If it is proven that the discrete case can be written in the form Δ ~ σ^α, then the conclusion of Section 6.5 is falsified.
 6. If, in the Ising model, the minimum of D_f is not near the critical point, then the conclusion of Section VII is falsified.
@@ -744,4 +744,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 13.0). Equal System Repository.
+Zhong, S. (2026). *Information Projection Framework — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy* (Version 15.0). Equal System Repository.
