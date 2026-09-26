@@ -40,7 +40,7 @@ The previous two papers argued that the non-injectivity of the composite project
 
 **Appendix D**: D_f analysis of real Boolean networks. **A verification result, not a discovery.**
 
-**Appendix E**: Information loss rate in neural networks. It finds that **D_f decouples from classification accuracy**, and that output entropy and margin are the strong predictors of accuracy. It also reports a **falsified hypothesis** (D_f as an early-stopping signal).
+**Appendix E**: Information loss rate in neural networks. It finds that **D_f decouples from classification accuracy**, and that output entropy and margin are the strong predictors of accuracy. It finds that **output D_f is dimension-locked**. It also reports a **falsified hypothesis** (D_f as an early-stopping signal).
 
 **Positioning of this paper**: This paper is not an operational manual. It is a paper in the philosophy of science, telling theoretical researchers "why certain approaches are structurally impossible."
 
@@ -92,7 +92,7 @@ The contribution of these two papers is **qualitative**. A natural follow-up que
 
 **On Boolean networks**: Research on random Boolean networks dates back to Kauffman (1969). This paper uses the D_f framework to analyze real biological networks (BBM database), as Appendix D.
 
-**On neural networks**: Information bottleneck theory (Tishby et al., 1999) studies the evolution of information within networks. This paper uses the D_f framework to analyze layer-wise information retention in neural networks, and finds a decoupling between D_f and accuracy, as Appendix E.
+**On neural networks**: Information bottleneck theory (Tishby et al., 1999) studies the evolution of information within networks. This paper uses the D_f framework to analyze layer-wise information retention in neural networks, and finds a decoupling between D_f and accuracy as well as output-layer dimension-locking, as Appendix E.
 
 ### 5. Structure of the Argument
 
@@ -463,9 +463,9 @@ See Section VIII.
 
 See Appendix D.
 
-### 12. Limitation Eleven: Estimation Noise in Neural Networks
+### 12. Limitation Eleven: Estimation Noise and Dimension Locking in Neural Networks
 
-See Appendix E. D_f estimation depends on the capacity of the evaluation classifier; insufficient capacity leads to noise-dominated results.
+See Appendix E. D_f estimation depends on the capacity of the evaluation classifier; insufficient capacity leads to noise-dominated results. In addition, at low-dimensional output layers, D_f is dimension-locked.
 
 ---
 
@@ -513,7 +513,11 @@ See Appendix E. D_f estimation depends on the capacity of the evaluation classif
 
 ### Objection Eleven: "The falsification of the early-stopping hypothesis in neural networks shows D_f is useless."
 
-**Response**: Not accurate. The early-stopping hypothesis is falsified, but the decoupling of D_f from accuracy and the finding that output entropy is a strong predictor both hold. Reporting negative and positive results together is the honest approach.
+**Response**: Not accurate. The early-stopping hypothesis is falsified, but the decoupling of D_f from accuracy, the finding that output entropy is a strong predictor, and the dimension-locking result all hold. Reporting negative and positive results together is the honest approach.
+
+### Objection Twelve: "The neural network findings are known facts."
+
+**Response**: Partially correct. "Output entropy measures confidence" is known. But the observations that "D_f decouples from accuracy" and "D_f is dimension-locked in low-dimensional layers" have not, to my knowledge, been explicitly reported. They are not new physics, but new quantitative observations.
 
 ---
 
@@ -541,13 +545,13 @@ The core results of this paper are eight:
 
 **Appendix D**: The D_f of real biological networks follows mathematical expectation, without deviation from the random baseline. A verification result.
 
-**Appendix E**: In neural networks, output-layer D_f decouples from classification accuracy. Output entropy and margin are the strong predictors of accuracy (correlation coefficients ±0.98 to ±0.99). The first layer is an "information gate"; once information is lost there, subsequent layers cannot recover it. One hypothesis (D_f as an early-stopping signal) is falsified.
+**Appendix E**: In neural networks, output-layer D_f decouples from classification accuracy. Output entropy and margin are the strong predictors of accuracy (correlation coefficients ±0.98 to ±0.99). The first layer is an "information gate"; once information is lost there, subsequent layers cannot recover it. Output D_f is dimension-locked — it is meaningful only in "dimension-variable layers." One hypothesis (D_f as an early-stopping signal) is falsified.
 
 **Final positioning of this paper**:
 
-> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility. Appendices D and E demonstrate the framework's applications to biological networks and neural networks, including one falsified hypothesis.
+> This paper is not an operational manual, but a paper in the philosophy of science. D_f is a conceptual tool that reveals the structural source of unidentifiability. The scaling law D_f → α is the most important quantitative result of this paper. The time-reversal symmetry test is a negative result that clarifies the distinction between static information loss and dynamical irreversibility. Appendices D and E demonstrate the framework's applications to biological networks and neural networks, including one falsified hypothesis and one identified structural boundary.
 
-**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time, nor does it equate to decision quality.**
+**The conclusion of this paper is**: unidentifiability has a structural source deeper than "insufficient data" — namely, the non-injectivity of macroscopic descriptions. This source does not disappear with increases in data volume, computational power, or model complexity. **However, non-injectivity itself does not produce the arrow of time, nor does it equate to decision quality. The validity of D_f is constrained by layer dimension.**
 
 ---
 
@@ -772,7 +776,37 @@ For each config, three quantities are measured:
 
 **Observation**: D_f_out has only moderate negative correlation with accuracy. Output entropy has very strong negative correlation (-0.99), and margin has very strong positive correlation (+0.98).
 
-### 7. Core Conclusions
+### 7. Result 4: Output D_f Is Dimension-Locked
+
+**Question**: Why is output D_f stable around 0.6 in all configs? Is it constrained by network quality, or by output dimension?
+
+**Design**: Three configs, all output 10 classes, but with different penultimate-layer dimensions:
+
+- A: 64 → 32 → 10
+- B: 64 → 32 → 128 → 10
+- C: 64 → 32 → 512 → 10
+
+**Results**:
+
+| Config | Penultimate dim | Penultimate D_f | Output D_f | Accuracy |
+| :--- | :--- | :--- | :--- | :--- |
+| A | 32 | 0.4902 | 0.6091 | 89.4% |
+| B | 128 | 0.1899 | 0.6147 | 89.3% |
+| C | 512 | 0.0996 | 0.6550 | 90.1% |
+
+**Observation**:
+
+- Penultimate D_f varies drastically: 0.49 → 0.19 → 0.10
+- Output D_f is nearly constant: 0.609 → 0.615 → 0.655
+- Accuracy is nearly constant: 89.4% → 89.3% → 90.1%
+
+**Conclusion**: **Output D_f is locked by output dimension.**
+
+The output layer is always 10-dimensional, so D_f is always near 0.6. The penultimate layer's dimension can change, so its D_f can change.
+
+**This explains all previous results**: the invariance of output D_f is not a constraint of network quality, but a structural constraint of "output dimension = 10".
+
+### 8. Core Conclusions
 
 **One, D_f decouples from classification accuracy.**
 
@@ -782,15 +816,20 @@ Output D_f is nearly constant across all configs (0.59-0.66), yet accuracy varie
 
 Output entropy correlates with accuracy at -0.99; margin at +0.98.
 
-**Three, D_f measures "information pool", margin measures "decision confidence".**
+**Three, D_f is dimension-locked at the output layer.**
 
-D_f measures how much category information the output layer retains; margin measures how confidently the model makes decisions. They are independent dimensions.
+The range of D_f is determined by layer dimension. A 10-dimensional output layer has D_f locked at ~0.6, unable to reflect network quality. Wide layers (e.g., 512-dimensional intermediate layers) can have D_f as low as 0.10.
 
-**Four, the first layer is an "information gate".**
+**Four, D_f's validity boundary: meaningful only in "dimension-variable layers".**
+
+- Intermediate layers: D_f varies with dimension, measuring information retention
+- Output layer: D_f is dimension-locked, not a valid metric
+
+**Five, the first layer is an "information gate".**
 
 Wider first layers retain more category information and achieve higher accuracy. Once information is lost at the first layer, subsequent layers cannot recover it.
 
-### 8. A Falsified Hypothesis
+### 9. A Falsified Hypothesis
 
 **Hypothesis**: The saturation point of D_f can serve as an early-stopping signal.
 
@@ -800,30 +839,33 @@ Wider first layers retain more category information and achieve higher accuracy.
 
 **Conclusion**: The hypothesis that D_f can serve as an early-stopping signal is **falsified**.
 
-**This negative result indicates**: Before using D_f for any practical application, one must ensure the evaluation classifier has sufficient capacity, otherwise the D_f estimate is unreliable.
+**This negative result indicates**: Before using D_f for any practical application, one must ensure the evaluation classifier has sufficient capacity and the layer dimension is large enough, otherwise the D_f estimate is unreliable.
 
-### 9. Significance
+### 10. Significance
 
 **For neural network theory**:
 
 - "Information retention" and "decision quality" are independent dimensions
 - Evaluating a network requires looking beyond information content to decision confidence
 - Output entropy is a stronger accuracy predictor than conditional entropy
+- **D_f's validity is constrained by layer dimension**: low-dimensional layers have no discriminative D_f
 
 **For the information projection framework**:
 
 - The framework holds on neural networks (D_f behavior is predictable)
-- But practical applications of D_f require caution (estimation noise is large)
+- But practical applications of D_f require caution
+- **A structural boundary is identified**: D_f is meaningful only in "dimension-variable layers"
 - A negative result is honestly reported
 
-### 10. Limitations
+### 11. Limitations
 
 - MNIST dataset, small-scale networks
 - 5000 training samples, 10 epochs
 - Conditional entropy estimated by a classifier, noisy
 - No validation on CNNs or Transformers
+- No systematic study of the exact functional form of "layer-dimension D_f lock"
 
-### 11. Data Availability
+### 12. Data Availability
 
 The code for this appendix is reproducible in the GitHub repository maxlanceund/github-random. Workflow files:
 
@@ -834,6 +876,7 @@ The code for this appendix is reproducible in the GitHub repository maxlanceund/
 - `run_nn_margin.yml`: margin and output entropy
 - `run_nn_training.yml`: training dynamics
 - `run_nn_earlystop.yml`: early-stop verification (falsified)
+- `run_nn_dimlock.yml`: dimension-lock verification
 
 ---
 
@@ -848,6 +891,7 @@ The code for this appendix is reproducible in the GitHub repository maxlanceund/
 7. If D_f is found to be time-asymmetric under reversible dynamics, then the negative result of Section VIII is refuted.
 8. If the D_f of real Boolean networks is found to systematically deviate from the random baseline, then the conclusion of Appendix D is falsified.
 9. If output D_f in neural networks is found to strongly correlate with accuracy (correlation > 0.8), then the decoupling conclusion of Appendix E is falsified.
+10. If D_f in wide intermediate layers is found not to vary with dimension, then the dimension-lock conclusion of Appendix E is falsified.
 
 ---
 
