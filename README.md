@@ -166,6 +166,7 @@ Equal System — 平等制
 | [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
 | [哲学家死亡的缺失感（学术版）](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers (Academic Version)](papers/death-of-philosophers-en.md) |
 | [绝对他者（学术版）](papers/absolute-other-cn.md) | [The Absolute Other (Academic Version)](papers/absolute-other-en.md) |
+| [关系即永生（学术版）](papers/Relation-Is-Immortality-cn.md) | [Relation Is Immortality (Academic Version)](papers/Relation-Is-Immortality-en.md) |
 <br>
 
 **Information Projection Framework / 信息投影框架**
