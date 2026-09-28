@@ -425,5 +425,5 @@ This work is licensed under the MIT License.
 <br>
 <br>
 
+<div align="right"><sub>Philosophy is a therapy.<br>Philosophy is a relation.<br><br>With best wishes.<br>2026.9.29</sub></div>
 
-<div align="right"><sub>哲学是一种治疗。 — 维特根斯坦<br>哲学是一种关系。<br><br>Philosophy is a therapy. — Wittgenstein<br>Philosophy is a relation.<br><br>致以最美好的祝愿<br>With best wishes.</sub></div>
