@@ -429,13 +429,13 @@ This work is licensed under the MIT License.
 <div align="right">
 <sub>
 
-哲学是一种治疗。 —— 维特根斯坦
-哲学是一种关系。
-
-Philosophy is a therapy. — Wittgenstein
-Philosophy is a relation.
-
-致以最美好的祝愿
+哲学是一种治疗。 —— 维特根斯坦<br>
+哲学是一种关系。<br>
+<br>
+Philosophy is a therapy. — Wittgenstein<br>
+Philosophy is a relation.<br>
+<br>
+致以最美好的祝愿<br>
 With best wishes.
 
 </sub>
