@@ -430,8 +430,8 @@ This work is licensed under the MIT License.
 
 <div align="right">
 
-**哲学是一种治疗。** —— 维特根斯坦
-**哲学是一种关系。** —— 钟善真
+**哲学是一种治疗。** — 维特根斯坦
+**哲学是一种关系。** — 钟善真
 
 Philosophy is a therapy. — Wittgenstein
 Philosophy is a relation. — Zhong Shanzhen
