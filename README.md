@@ -426,4 +426,18 @@ This work is licensed under the MIT License.
 <br>
 
 
+---
 
+<div align="right">
+
+**哲学是一种治疗。** —— 维特根斯坦
+**哲学是一种关系。** —— 钟善真
+
+Philosophy is a therapy. — Wittgenstein
+Philosophy is a relation. — Zhong Shanzhen
+
+<sub>致以最美好的祝愿 / With best wishes</sub>
+<sub>钟善真 / Zhong Shanzhen</sub>
+<sub>2026.9.29</sub>
+
+</div>
