@@ -231,6 +231,7 @@ Equal System — 平等制
 ## Narrative Philosophy / 叙事哲学
 
 > Some ideas can only be told as stories.
+> 
 > 有些思想，只能被讲述为故事。
 
 | 中文 | English |
