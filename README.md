@@ -228,6 +228,19 @@ Equal System — 平等制
 <hr>
 <br>
 
+## Narrative Philosophy / 叙事哲学
+
+> Some ideas can only be told as stories.
+> 有些思想，只能被讲述为故事。
+
+| 中文 | English |
+| :--- | :--- |
+| [窄门之外的虚无：一场关于绝对他者的宇宙终局](narrative/the-void-beyond-the-narrow-gate-cn.md) | [The Void Beyond the Narrow Gate: A Cosmic Endgame of the Absolute Other](narrative/the-void-beyond-the-narrow-gate-en.md) |
+
+<br>
+<hr>
+<br>
+
 
 ## Philosophical Essays / 哲学随笔
 
