@@ -435,9 +435,4 @@ This work is licensed under the MIT License.
 <br>
 
 
-<br>
-<br>
-<br>
-
-<div align="right"><sub>Philosophy is a therapy.<br>Philosophy is a relation.<br><br>With best wishes.<br>2026.9.29</sub></div>
 
