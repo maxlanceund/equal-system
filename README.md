@@ -378,19 +378,6 @@ This theory stands on the work of the following thinkers:
 
 ## A Note / 附记
 
-> All I know is that I know nothing.  
-> Death is not the end of life — the Limit Theory of Meaning has already given the answer: meaning is generated within the interval, and zeros out at the boundary. Zeroing out is not negation; it is the cessation of updating.
->
-> 我唯一知道的就是我一无所知。  
-> 死亡不是生命的终点 —— 意义极限哲学论已经给出了答案：意义在区间内产生，在边界处归零。归零不是否定，是停止更新。
-
-<br>
-
-> I also recognize that without Engels, Marx's influence might not have reached where it is today. He turned Marx's manuscripts into weapons. He is not in the methodological lineage of this theory — but he is in the condition lineage that made this theory possible.
->
-> 我也意识到：没有恩格斯，马克思的影响可能不会达到今天的地步。他让马克思的理论从手稿变成了武器。他不在本理论的方法论谱系之内，但他在本理论得以形成的条件谱系之内。
-<br>
-
 > When Marx wrote about Germany, I was a student. When Marx wrote about France, I was a colleague.
 >
 > 马克思写德国的时候，我是学生。马克思写法国的时候，我是同行。
