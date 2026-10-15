@@ -392,7 +392,7 @@ This theory stands on the work of the following thinkers:
 <br>
 
 > — To the guides across centuries  
-> —— 以此致敬跨越世纪的引路人
+> — 以此致敬跨越世纪的引路人
 
 <br>
 <hr>
