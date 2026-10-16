@@ -364,3 +364,19 @@
 - Rosstat. Russian Statistical Yearbook.
 - UK Treasury. Historical Public Expenditure Data.
 - UK National Statistics. Historical Data.
+
+## 资助声明
+
+本文未接受任何机构或组织的资助。
+
+## 利益冲突声明
+
+作者声明，不存在任何可能影响本文研究结论或学术判断的利益冲突。
+
+## 数据可用性声明
+
+本文为理论推导类论文，不涉及经验数据的采集与分析。文中的所有推导和论证均可在本文的框架内独立验证。
+
+## 建议引用
+
+钟善真. (2026). *存在主义黑洞：回归率与马克思尺度的失效* (Version 2.0). Equal System Repository.
