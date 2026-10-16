@@ -1,14 +1,13 @@
----
-title: "Uncertainty Subsumption: The Production, Locking, and Release of Certainty"
-author: "Zhong Shanzhen"
-version: "2.1 (Sharpened)"
-date: "2026-08"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [uncertainty subsumption, certainty, entropy, observer, finite interval]
----
-
 # Uncertainty Subsumption: The Production, Locking, and Release of Certainty
+
+| Item | Content |
+| :--- | :--- |
+| Title | Uncertainty Subsumption: The Production, Locking, and Release of Certainty |
+| Author | Zhong Shanzhen |
+| Version | 2.2 |
+| Date | 2026-08 |
+| License | CC BY-NC 4.0 |
+| Keywords | uncertainty subsumption, certainty, entropy, observer, finite interval |
 
 > **Core Thesis**: Certainty is not an inherent property of the world, but a temporary state that finite systems draw from uncertainty during operation. Once the operation is complete, this state is returned to uncertainty. This process is called "uncertainty subsumption." It constitutes the foundational layer of *The Limit Theory of Meaning* and *Boundary Acceleration*, answering the question: "Why must certainty return to zero?"
 
@@ -16,7 +15,7 @@ keywords: [uncertainty subsumption, certainty, entropy, observer, finite interva
 
 ## Abstract
 
-Certainty is the exception, not the default. Physics has shown across three scales that certainty is merely a temporary marker on a background of uncertainty. At the microscopic scale, quantum mechanics tells us: particles have no definite position before measurement (Wheeler & Zurek, 1983). At the macroscopic scale, thermodynamics tells us: isolated systems inevitably evolve toward entropy increase (Atkins, 2018). At the cosmic scale, cosmology tells us: visible, determinate matter constitutes only about 5% of the universe—dark matter and dark energy indicate that certainty was never locked in to begin with (Perlmutter et al., 1999; Riess et al., 1998). This paper proposes "uncertainty subsumption" as a unified description of this foundational structure, demonstrating how certainty is produced, how it is locked, and how it is inevitably returned. It also examines the position of the observer, defining the observer not as an external witness but as a finite system that participates in the structure's operation. This paper provides the foundational support for *The Limit Theory of Meaning* (Zhong, 2026a) and *Boundary Acceleration* (Zhong, 2026b).
+Certainty is the exception, not the default. Physics has shown across three scales that certainty is merely a temporary marker on a background of uncertainty. At the microscopic scale, quantum mechanics tells us: particles have no definite position before measurement (Wheeler & Zurek, 1983). At the macroscopic scale, thermodynamics tells us: isolated systems inevitably evolve toward entropy increase (Atkins, 2018). At the cosmic scale, cosmology tells us: visible, determinate matter constitutes only about 5% of the universe—dark matter and dark energy indicate that certainty was never locked in to begin with (Perlmutter et al., 1999; Riess et al., 1998). This paper proposes "uncertainty subsumption" as a unified description of this foundational structure, demonstrating how certainty is produced, how it is locked, and how it is inevitably returned. It also examines the position of the observer, defining the observer not as an external witness but as a finite system that participates in the structure's operation. This paper provides the foundational support for *The Limit Theory of Meaning* (Zhong, 2026a) and *Boundary Acceleration* (Zhong, 2026b). Appendix E reports numerical verification of the framework's core hypotheses.
 
 **Keywords**: uncertainty subsumption; certainty; entropy; observer; finite interval
 
@@ -65,6 +64,7 @@ The types of evidence used in this paper include:
 3. **Mathematical formalization**: using formulas to express the relationships of certainty's production, locking, and return.
 4. **Logical derivation**: deriving "certainty is temporarily generated" from "operation requires identifiable signals."
 5. **Conceptual definition**: strict definitions of concepts such as uncertainty subsumption, the borrowing of certainty, and the observer's position.
+6. **Numerical verification**: falsifiable testing of the core hypotheses using random Boolean networks (see Appendix E).
 
 ---
 
@@ -146,7 +146,7 @@ D(T) = 0
 
 (Equation 4)
 
-That is, the signal returns to zero at the boundary. But before returning to zero, signal density undergoes a sharp increase—this is the dynamic process that certainty must pass through before being returned at the boundary. Not because it is "struggling," but because it must complete its return within a finite window. (For detailed derivation, see *Boundary Acceleration*, Section III.)
+That is, the signal returns to zero at the boundary. But before returning to zero, signal density undergoes a sharp increase—this is the dynamic process that certainty must pass through before being returned at the boundary. Not because it is "struggling," but because it must complete its return within a finite window. (For detailed derivation, see *Boundary Acceleration*, Section III. For experimental verification, see Appendix E.5 of this paper.)
 
 ---
 
@@ -253,7 +253,7 @@ This paper has benefited from the inspiration of the Equal System philosophical 
 
 ## Data Availability Statement
 
-This paper is a theoretical work and does not involve the collection or analysis of empirical data. All arguments in the text can be independently verified within the framework of this paper.
+This paper is primarily theoretical. The numerical results in Appendix E were generated by Python code and are reproducible.
 
 ---
 
@@ -266,13 +266,14 @@ The author declares that there are no conflicts of interest that could affect th
 ## References
 
 1. Atkins, P. (2018). Physical Chemistry (11th ed.). Oxford University Press.
-2. Perlmutter, S. et al. (1999). Measurements of Ω and Λ from 42 High-Redshift Supernovae. The Astrophysical Journal, 517(2): 565-586.
-3. Riess, A. G. et al. (1998). Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant. The Astronomical Journal, 116(3): 1009-1038.
-4. Wheeler, J. A., & Zurek, W. H. (1983). Quantum Theory and Measurement. Princeton University Press.
-5. Wittgenstein, L. (1922). Tractatus Logico-Philosophicus. London: Routledge.
-6. Zurek, W. H. (2003). Decoherence, Pointer States, and the Quantum-Classical Transition. Reviews of Modern Physics, 75(3): 715-775.
-7. Zhong, Shanzhen. (2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
-8. Zhong, Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 1.0). Equal System Repository.
+2. Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Constructed Genetic Nets. *Journal of Theoretical Biology*, 22(3), 437–467.
+3. Perlmutter, S. et al. (1999). Measurements of Ω and Λ from 42 High-Redshift Supernovae. The Astrophysical Journal, 517(2): 565-586.
+4. Riess, A. G. et al. (1998). Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant. The Astronomical Journal, 116(3): 1009-1038.
+5. Wheeler, J. A., & Zurek, W. H. (1983). Quantum Theory and Measurement. Princeton University Press.
+6. Wittgenstein, L. (1922). Tractatus Logico-Philosophicus. London: Routledge.
+7. Zurek, W. H. (2003). Decoherence, Pointer States, and the Quantum-Classical Transition. Reviews of Modern Physics, 75(3): 715-775.
+8. Zhong, Shanzhen. (2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
+9. Zhong, Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 3.0). Equal System Repository.
 
 ---
 
@@ -288,7 +289,7 @@ What can be said has been said. The rest is left to silence.
 
 ## Appendix E: Experimental Verification
 
-This appendix reports numerical experiments testing the core hypotheses of *Uncertainty Subsumption*. The experiment code and raw outputs are located in the `uncertainty-subsumption/` directory of the GitHub repository `maxlanceund/github-random`.
+This appendix reports numerical experiments testing the core hypotheses of *Uncertainty Subsumption*. The experiment code and raw outputs are located in the `uncertainty-subsumption/` directory of the project repository.
 
 ### E.1 Experimental Model
 
@@ -378,7 +379,7 @@ These two details are not in the paper; they are new information brought out by 
 
 **Conclusion**: Fixed rate + hard boundary + R(t) > 0 does not spontaneously produce boundary acceleration.
 
-The derivation in *Boundary Acceleration* cited in Section III of the main text carries an implicit assumption: that the system will accelerate automatically because "signals cannot be released after the boundary." But the experiments show that, without a mechanism that recognizes the boundary, the system does not accelerate — it simply leaves tasks unprocessed and stops.
+The derivation in *Boundary Acceleration* (cited in Section III above) carries an implicit assumption: that the system will accelerate automatically because "signals cannot be released after the boundary." But the experiments show that, without a mechanism that recognizes the boundary, the system does not accelerate — it simply leaves tasks unprocessed and stops.
 
 This corresponds exactly to the notion of a "verification signal" in Section 4.3 of *Boundary Acceleration*. Within that paper there are two formulations:
 
@@ -419,4 +420,4 @@ Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Construct
 
 Suggested Citation (APA format):
 
-Zhong, Shanzhen. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.1). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.2). Equal System Repository.
