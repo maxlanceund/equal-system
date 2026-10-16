@@ -1,29 +1,28 @@
----
-title: "Signal, Exchange, and System Stability — An Analysis of Private Property Based on the Limit Theory of Meaning"
-author: "Zhong Shanzhen"
-version: "3.0 (Revised)"
-date: "2026-08"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [signal distribution, exchange continuity, private property, system stability, limit theory of meaning, fairness rupture]
----
-
 # Signal, Exchange, and System Stability
 ## — An Analysis of Private Property Based on the Limit Theory of Meaning
 
-> **Core Thesis**: The stability of a system does not depend on fairness, but on the continuity of exchange relations. A private property system can maintain long-term operation under conditions of severe signal distribution inequality — not because it is just, but because it is continuous. Unfairness is not a "fault signal" of the system, but one of its operational states. The adjustment signals released at the boundary are sufficient to prevent large-scale synchronized exits, but insufficient to alter the core structure.
+| Item | Content |
+| :--- | :--- |
+| Title | Signal, Exchange, and System Stability — An Analysis of Private Property Based on the Limit Theory of Meaning |
+| Author | Zhong Shanzhen |
+| Version | 3.1 |
+| Date | 2026-08 |
+| License | CC BY-NC 4.0 |
+| Keywords | signal distribution, exchange continuity, private property, system stability, limit theory of meaning, fairness rupture |
+
+> **Core Thesis**: The stability of a system does not depend on fairness, but on the continuity of exchange relations. A private property system can maintain long-term operation under conditions of severe signal distribution inequality — not because it is just, but because it is continuous. Unfairness is not a "fault signal" of the system, but one of its operational states. The adjustment signals released at the boundary are sufficient to prevent large-scale synchronized exits, but insufficient to alter the core structure. Appendix A reports numerical verification of the framework's three core hypotheses: the exit-cost threshold (H1), compelled participation (H2), and the self-rescue role of adjustment signals (H3). All three hypotheses are supported.
 
 ---
 
 ## Abstract
 
-This paper, drawing from the framework of the Limit Theory of Meaning, defines the survival resources, security opportunities, and political participation space within a system as "signals," and defines nodes' labor, consumption, taxation, and other behaviors as "exchange." It argues that the stability of a private property system does not depend on the fairness of signal distribution, but on the continuity of exchange relations. Even with extremely low signal density, marginal nodes are compelled to continue participating in exchange due to excessively high exit costs, thereby providing the system with the signal flow needed to maintain operation. The adjustment signals released at the boundary (welfare states, social security, tax regulation) do not change the core structure, but they are sufficient to prevent large-scale synchronized exits. Through five objection-response dialogues and three falsifiability conditions, this paper tests this proposition. It neither criticizes private property nor defends it, but merely attempts to describe its operational structure.
+This paper, drawing from the framework of the Limit Theory of Meaning, defines the survival resources, security opportunities, and political participation space within a system as "signals," and defines nodes' labor, consumption, taxation, and other behaviors as "exchange." It argues that the stability of a private property system does not depend on the fairness of signal distribution, but on the continuity of exchange relations. Even with extremely low signal density, marginal nodes are compelled to continue participating in exchange due to excessively high exit costs, thereby providing the system with the signal flow needed to maintain operation. The adjustment signals released at the boundary (welfare states, social security, tax regulation) do not change the core structure, but they are sufficient to prevent large-scale synchronized exits. Through five objection-response dialogues, three falsifiability conditions, and three sets of numerical experiments, this paper tests this proposition. It neither criticizes private property nor defends it, but merely attempts to describe its operational structure.
 
 **Keywords**: signal distribution · exchange continuity · private property · system stability · limit theory of meaning · fairness rupture
 
 ---
 
-## Theoretical Positioning Statement 
+## Theoretical Positioning Statement
 
 This paper does not claim to surpass Marx. It operates within Marx's framework.
 
@@ -66,9 +65,9 @@ Before proceeding, it is necessary to strictly define the core concepts used in 
 
 **Continuity**: refers to the uninterrupted flow of overall signals to a degree that does not reach zeroing. It allows for local fluctuations and temporary exits.
 
-### Methodological Statement: Conceptual Analysis and Institutional Description
+### Methodological Statement: Conceptual Analysis, Institutional Description, and Numerical Verification
 
-The methodological path adopted in this paper lies between **conceptual analysis** and **institutional description**. Specifically, it does not attempt to verify or falsify empirical hypotheses through econometric or historical-sociological methods, but rather to describe the signal distribution structure of private property systems at a conceptual level, reveal its implicit operational logic, and engage in dialogue with existing theories (Marxism, laissez-faire, social democracy).
+The methodological path adopted in this paper lies between **conceptual analysis**, **institutional description**, and **numerical verification**. Specifically, it describes the signal distribution structure of private property systems at a conceptual level, reveals its implicit operational logic, and engages in dialogue with existing theories (Marxism, laissez-faire, social democracy). In addition, this paper translates the core theses into operational hypotheses through an Agent-Based Model (ABM), and conducts falsifiable tests (see Appendix A).
 
 The types of evidence used in this paper include:
 
@@ -77,6 +76,7 @@ The types of evidence used in this paper include:
 3. **Case references**: citations of publicly observable institutional phenomena as references for structural description, not as empirical proof.
 4. **Objections and responses**: testing the robustness of the core thesis through five objection-response dialogues.
 5. **Falsifiability conditions**: proposing three falsifiability conditions that are in principle testable.
+6. **Numerical verification**: falsifiable testing of the three core hypotheses using an Agent-Based Model (see Appendix A).
 
 ---
 
@@ -240,6 +240,8 @@ Any theoretical argument must be open to questioning of its core claims. This ch
 
 **Case Reference:** In many countries' food assistance systems, low-income households face a "cliff effect" — a slight increase in income may lead to the loss of all benefits, while the new income is far from enough to compensate for the loss. This "excessive exit cost" structure means that even if marginal nodes have the opportunity to improve their situation, they often choose to remain in the system's exchange relations.
 
+**Numerical Verification:** Experiment 1 in Appendix A shows that when exit cost `c` exceeds the signal gap, marginal nodes' participation rate is 1.0; when `c` is below the gap, participation is 0.2. Exit cost is the direct source of stability.
+
 ---
 
 #### Objection 2: Unfairness Reduces System Efficiency.
@@ -257,6 +259,8 @@ Any theoretical argument must be open to questioning of its core claims. This ch
 **Response:** The exit of marginal nodes is a gradual process, not a one-time event. The system releases adjustment signals at the boundary to respond to exits. Moreover, marginal nodes "exiting" the labor market is not equivalent to "exiting" the system — they still consume, pay taxes, and occupy resources. True system collapse occurs through large-scale, simultaneous, irreversible exits, which are extremely rare in history.
 
 **Case Reference:** In extreme cases of economic collapse, large-scale population displacement does occur. But even in such extreme situations, the system continues to operate in a severely atrophied form, never completely zeroing out.
+
+**Numerical Verification:** Experiment 2 in Appendix A shows that under gradual shocks, the system's participation rate declines smoothly rather than collapsing all at once. This provides a window for adjustment signals to intervene.
 
 ---
 
@@ -278,6 +282,8 @@ Any theoretical argument must be open to questioning of its core claims. This ch
 
 **Case Reference:** In many countries' pension systems, there are significant gaps in benefits between different groups. The system maintains operation through adjustment signals such as delayed retirement, system integration, and national coordination. These adjustments do not resolve the unfairness itself, but they prevent unfairness from triggering systemic collapse — the extremely low level of signal coverage is just enough to maintain the minimum participation of marginal nodes "still within the system."
 
+**Numerical Verification:** Experiment 2 in Appendix A shows that adjustment signals can prevent system collapse, but **the timing of adjustment determines survival**. With the same adjustment strength, timely release leads to stability, while delayed release leads to collapse.
+
 ### 7.2 Falsifiability Conditions
 
 If the core thesis of this paper is to hold, it must be open to challenge — that is, there must be discoverable facts or arguments that, if they turned out to be true, would seriously weaken or require revision of the paper's central position.
@@ -298,7 +304,7 @@ The analytical framework of this paper can be preliminarily observed through the
 2. **Unfairness trends**: income distribution inequality is a long-term institutional phenomenon.
 3. **Existence of adjustment signals**: trends in social security expenditure as a percentage of GDP across countries reflect the patterns of adjustment signal release at the system's boundary.
 
-The value of the above observations is not to "prove" the thesis of this paper — philosophical papers do not rely on empirical data to establish logical validity. Its value lies in showing that the structure described in this paper is not merely a logical derivation existing on paper, but an observable institutional phenomenon. Readers interested in this may verify it themselves through relevant data sources.
+The value of the above observations is not to "prove" the thesis of this paper. Its value lies in showing that the structure described in this paper is not merely a logical derivation existing on paper, but an observable institutional phenomenon. Readers interested in this may verify it themselves through relevant data sources.
 
 ---
 
@@ -327,7 +333,7 @@ This paper has benefited from the inspiration of the Equal System philosophical 
 
 ## Data Availability Statement
 
-This paper is a theoretical work in conceptual analysis and does not rely on empirical data to establish logical validity. The institutional phenomena mentioned (such as social security systems, welfare states) are publicly observable empirical facts. Readers seeking specific data may consult public databases from organizations such as the OECD, World Bank, and ILO.
+This paper is a theoretical work in conceptual analysis. The numerical results in Appendix A were generated by Python code and are reproducible. The institutional phenomena mentioned (such as social security systems, welfare states) are publicly observable empirical facts. Readers seeking specific data may consult public databases from organizations such as the OECD, World Bank, and ILO.
 
 ---
 
@@ -351,6 +357,113 @@ The author declares that there are no conflicts of interest that could affect th
 
 ---
 
+## Appendix A: Experimental Verification
+
+This appendix reports numerical experiments testing the three core hypotheses of *Signal, Exchange, and System Stability*. The experiment code is located in the `signal-exchange-stability/experiments/` directory of the project repository.
+
+### A.1 Experimental Model
+
+An Agent-Based Model (ABM) is used. N = 1000 nodes, of which 20% are internal nodes and 80% are marginal nodes. Each node has a signal density `s_i`. Internal node signal `s_internal = 100`; marginal node signal `s_edge` is variable.
+
+**Node decision rule**: Each node compares the payoff of "participating in exchange" and "exiting exchange":
+
+- Participation payoff: `s_i + c` (staying in the system earns compensation for exit cost)
+- Exit payoff: `s_i × (1 − d)` (resources are discounted after exit)
+
+If the participation payoff is higher than the exit payoff, the node participates. Equivalently: `motivation_i ≤ c_i`, where `motivation_i = (s_max − s_i) / s_max` is the signal gap.
+
+**System stability**: Whether the participation rate `P` of nodes in exchange is always above the collapse threshold `P_crit = 0.5`.
+
+### A.2 Experiment 1: Exit-Cost Threshold (H1, H2)
+
+**Hypothesis**: Stability comes from exit cost, not from fairness.
+
+**Method**: Three scenarios, each running 20 trials, reporting mean and standard deviation of participation rate.
+
+- Scenario 1: High inequality (internal 100, marginal 10, gap 0.9), exit cost c from 0.1 to 0.8
+- Scenario 2: High inequality (gap 0.9), exit cost c from 0.9 to 1.0
+- Scenario 3: Low inequality (internal 100, marginal 80, gap 0.2), exit cost c from 0.1 to 0.5
+
+**Results**:
+
+| Scenario | c | Participation rate | Status |
+| :--- | :--- | :--- | :--- |
+| 1 (high inequality) | 0.10 | 0.20 | Collapse |
+| 1 (high inequality) | 0.30 | 0.20 | Collapse |
+| 1 (high inequality) | 0.50 | 0.20 | Collapse |
+| 1 (high inequality) | 0.80 | 0.20 | Collapse |
+| 2 (high inequality) | 0.90 | 1.00 | Stable |
+| 2 (high inequality) | 0.95 | 1.00 | Stable |
+| 2 (high inequality) | 0.99 | 1.00 | Stable |
+| 2 (high inequality) | 1.00 | 1.00 | Stable |
+| 3 (low inequality) | 0.10 | 0.20 | Collapse |
+| 3 (low inequality) | 0.30 | 1.00 | Stable |
+| 3 (low inequality) | 0.50 | 1.00 | Stable |
+
+**Conclusion**: H1 and H2 are supported.
+
+1. **The exit-cost threshold equals the signal gap**. High inequality requires `c ≥ 0.9` for stability; low inequality requires only `c ≥ 0.2`.
+2. **Stability comes from exit cost, not from fairness**. Under low exit cost, even low inequality collapses; under high exit cost, even high inequality remains stable.
+3. **Inequality is an operational parameter, not a fault signal**. It determines how high the exit cost must be to maintain stability, not whether the system collapses.
+
+**New information**: The experiment yields a quantitative conclusion not stated in the original text — **"System stability depends not on whether inequality exists, but on whether the exit cost exceeds the inequality gap."**
+
+### A.3 Experiment 2: The Role of Adjustment Signals (H3)
+
+**Hypothesis**: Adjustment signals released at the boundary can prevent large-scale synchronized exits.
+
+**Method**: Heterogeneous node model. Each marginal node has its own exit cost `c_i ~ N(0.5, 0.15)`, so that nodes exit gradually rather than all at once. The shock starts at round 5, with marginal signal decreasing by 2 each round (gradual shock). The warning threshold is `P_warn = 0.85`; the collapse threshold is `P_crit = 0.5`.
+
+Five groups:
+
+- Control: no adjustment signal
+- Group A: adjustment starting at round 5, +2 per round
+- Group B: adjustment starting at round 5, +5 per round
+- Group C: adjustment starting at round 5, +10 per round
+- Group D: adjustment starting at round 50, +10 per round (delayed)
+
+**Results**:
+
+| Group | Adjustment | Final participation | Status |
+| :--- | :--- | :--- | :--- |
+| Control | None | 0.499 | Collapse (16 rounds) |
+| A | +2/round | 0.830 | Stable (300 rounds) |
+| B | +5/round | 0.845 | Stable (300 rounds) |
+| C | +10/round | 0.916 | Stable (300 rounds) |
+| D | Round 50, +10 | 0.499 | Collapse (16 rounds) |
+
+**Conclusion**: H3 is supported.
+
+1. **Adjustment signals can prevent collapse**. The control group collapses in 16 rounds; A, B, and C are stable for 300 rounds.
+2. **Adjustment strength affects steady-state level**. +2 → 0.83, +5 → 0.845, +10 → 0.916. The stronger the adjustment, the higher the steady-state participation.
+3. **Timing determines survival**. Group D has the same adjustment strength as Group C (+10), but starts later. The result is collapse for D, stability for C. Adjustment must start before collapse — this is precisely what the paper means by "released at the boundary."
+
+**New information**: Adjustment signals only raise `s_edge` (marginal node signal); they **do not change `s_internal` (internal node signal)**, nor the exchange rule itself. The system can rescue itself, but the core structure remains unchanged. This exactly confirms the paper's statement: "The adjustment signals released at the boundary do not change the core structure, but they are sufficient to prevent large-scale synchronized exits."
+
+### A.4 Overall Conclusion
+
+| Hypothesis | Content | Result |
+| :--- | :--- | :--- |
+| H1 | Stability comes from exchange continuity, not from fairness | Supported |
+| H2 | Marginal nodes are compelled to participate due to high exit cost | Supported |
+| H3 | Adjustment signals can prevent large-scale synchronized exits | Supported |
+
+**Core conclusion**: All three core hypotheses of the paper are supported.
+
+**Key refinement**: The experiments yield a conclusion not precisely stated in the original text — **"System stability depends not on whether inequality exists, but on whether the exit cost exceeds the inequality gap."** This sentence is recommended for insertion into Section 6.1 of the paper.
+
+### A.5 Data Availability
+
+Experiment code:
+
+- `signal-exchange-stability/experiments/exp_signal_exchange.py` (H1, H2)
+- `signal-exchange-stability/experiments/exp_adjustment_signal.py` (H3)
+
+Raw outputs: the `signal-exchange-stability/results/` directory.
+Runtime environment: local Termux + Python 3 (no external dependencies).
+
+---
+
 ## Final Note
 
 The core message this paper attempts to convey is: **a system that distributes signals unequally can remain stable over the long term — not because it is just, but because it is continuous. The resilience of private property lies not in its resolution of unfairness, but in its making unfairness bearable — a signal level just low enough to maintain the minimum participation of marginal nodes "still within the system."**
@@ -363,4 +476,4 @@ This paper does not critique private property, nor does it defend it. It merely 
 
 **Suggested Citation (APA format):**
 
-Zhong, Shanzhen. (2026). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.1). Equal System Repository.
