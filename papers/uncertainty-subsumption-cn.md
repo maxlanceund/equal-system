@@ -418,4 +418,4 @@ Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Construct
 
 建议引用（APA格式）：
 
-钟善真 (2026). 不确定性吞没：确定性的产生、锁定与释放 (Version 2.1). Equal System Repository. https://github.com/maxlanceund/equal-system
+钟善真 (2026). 不确定性吞没：确定性的产生、锁定与释放 (Version 2.1). Equal System Repository. 
