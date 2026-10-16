@@ -364,3 +364,19 @@ Philosophy does not provide redemption, does not provide necessity, does not pro
 - Rosstat. *Russian Statistical Yearbook*.
 - UK Treasury. *Historical Public Expenditure Data*.
 - UK National Statistics. *Historical Data*.
+
+## Funding Statement
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+## Conflict of Interest Statement
+
+The author declares that there is no conflict of interest that could be perceived as prejudicing the impartiality of the research reported.
+
+## Data Availability Statement
+
+This paper is a work of theoretical deduction and does not involve the collection or analysis of empirical data. All derivations and arguments presented herein can be independently verified within the framework of this paper.
+
+## Suggested Citation
+
+Zhong, S. (2026). *The Existential Black Hole: Regression Rate and the Failure of Marx's Measure* (Version 2.0). Equal System Repository.
