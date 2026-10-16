@@ -167,6 +167,7 @@ Equal System — 平等制
 | [哲学家死亡的缺失感（学术版）](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers (Academic Version)](papers/death-of-philosophers-en.md) |
 | [绝对他者（学术版）](papers/absolute-other-cn.md) | [The Absolute Other (Academic Version)](papers/absolute-other-en.md) |
 | [关系即永生（学术版）](papers/Relation-Is-Immortality-cn.md) | [Relation Is Immortality (Academic Version)](papers/Relation-Is-Immortality-en.md) |
+| [存在主义黑洞（学术版）](papers/Existential_Black_Hole-cn.md) | [The Existential Black Hole (Academic Version)](papers/Existential_Black_Hole-en.md) |
 <br>
 
 **Information Projection Framework / 信息投影框架**
