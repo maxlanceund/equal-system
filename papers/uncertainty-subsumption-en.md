@@ -4,7 +4,7 @@
 | :--- | :--- |
 | Title | Uncertainty Subsumption: The Production, Locking, and Release of Certainty |
 | Author | Zhong Shanzhen |
-| Version | 2.2 |
+| Version | 2.3 |
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
 | Keywords | uncertainty subsumption, certainty, entropy, observer, finite interval |
@@ -15,7 +15,7 @@
 
 ## Abstract
 
-Certainty is the exception, not the default. Physics has shown across three scales that certainty is merely a temporary marker on a background of uncertainty. At the microscopic scale, quantum mechanics tells us: particles have no definite position before measurement (Wheeler & Zurek, 1983). At the macroscopic scale, thermodynamics tells us: isolated systems inevitably evolve toward entropy increase (Atkins, 2018). At the cosmic scale, cosmology tells us: visible, determinate matter constitutes only about 5% of the universe—dark matter and dark energy indicate that certainty was never locked in to begin with (Perlmutter et al., 1999; Riess et al., 1998). This paper proposes "uncertainty subsumption" as a unified description of this foundational structure, demonstrating how certainty is produced, how it is locked, and how it is inevitably returned. It also examines the position of the observer, defining the observer not as an external witness but as a finite system that participates in the structure's operation. This paper provides the foundational support for *The Limit Theory of Meaning* (Zhong, 2026a) and *Boundary Acceleration* (Zhong, 2026b). Appendix E reports numerical verification of the framework's core hypotheses.
+Certainty is the exception, not the default. Physics has shown across three scales that certainty is merely a temporary marker on a background of uncertainty. At the microscopic scale, quantum mechanics tells us: particles have no definite position before measurement (Wheeler & Zurek, 1983). At the macroscopic scale, thermodynamics tells us: isolated systems inevitably evolve toward entropy increase (Atkins, 2018). At the cosmic scale, cosmology tells us: visible, determinate matter constitutes only about 5% of the universe—dark matter and dark energy indicate that certainty was never locked in to begin with (Perlmutter et al., 1999; Riess et al., 1998). This paper proposes "uncertainty subsumption" as a unified description of this foundational structure, demonstrating how certainty is produced, how it is locked, and how it is inevitably returned. It also examines the position of the observer, defining the observer not as an external witness but as a finite system that participates in the structure's operation. Appendix E reports numerical verification of the framework's three core hypotheses: condensation of determinacy (H1), maintenance cost (H2), and uncertainty subsumption (H3). All three hypotheses are supported by multi-seed experiments with complete curves.
 
 **Keywords**: uncertainty subsumption; certainty; entropy; observer; finite interval
 
@@ -31,7 +31,7 @@ The contribution of this paper lies in integrating structures already confirmed 
 
 **Key Logical Position**: This paper does not treat physics as a judge, nor as a prey. Physics is a manifestation of the same structure at the physical level. It likewise requires maintenance and has boundaries, and therefore likewise falls within the range of uncertainty subsumption. This applies to this paper itself as well.
 
-This paper is the **foundational structure** paper of the Equal System series, providing a physical-philosophical foundation for *The Limit Theory of Meaning* (Zhong, 2026a) and *Boundary Acceleration* (Zhong, 2026b).
+This paper is the **foundational structure** paper of the Equal System series, providing a physical-philosophical foundation for *The Limit Theory of Meaning* and *Boundary Acceleration*.
 
 ---
 
@@ -64,7 +64,7 @@ The types of evidence used in this paper include:
 3. **Mathematical formalization**: using formulas to express the relationships of certainty's production, locking, and return.
 4. **Logical derivation**: deriving "certainty is temporarily generated" from "operation requires identifiable signals."
 5. **Conceptual definition**: strict definitions of concepts such as uncertainty subsumption, the borrowing of certainty, and the observer's position.
-6. **Numerical verification**: falsifiable testing of the core hypotheses using random Boolean networks (see Appendix E).
+6. **Numerical verification**: falsifiable testing of the three core hypotheses using random Boolean networks (see Appendix E).
 
 ---
 
@@ -136,9 +136,9 @@ Formally, the second law of thermodynamics can be stated as: the entropy change 
 
 where S is the system's entropy. The equality corresponds to reversible processes (an idealized limit), and the inequality corresponds to irreversible processes—that is, all real processes (Atkins, 2018, Ch. 3). This inequality expresses the inevitable direction of certainty's return: once certainty is produced, unless it is continuously maintained by external operation, it will be returned to uncertainty.
 
-The boundary is that position—the position where certainty must be returned. *The Limit Theory of Meaning* (Zhong, 2026a) describes how certainty operates within boundaries: it is defined within the interval and returns to zero at the boundary. But *The Limit Theory of Meaning* did not explain "why it must return to zero." The answer is here: because the nature of certainty is temporary. It is not "destroyed," but "returned."
+The boundary is that position—the position where certainty must be returned. *The Limit Theory of Meaning* describes how certainty operates within boundaries: it is defined within the interval and returns to zero at the boundary. But *The Limit Theory of Meaning* did not explain "why it must return to zero." The answer is here: because the nature of certainty is temporary. It is not "destroyed," but "returned."
 
-*Boundary Acceleration* (Zhong, 2026b) describes the increase in signal density before certainty is returned. Let D(t) be the signal density (the amount of identifiable signal carried by the system at time t), and T be the boundary time. Then:
+*Boundary Acceleration* describes the increase in signal density before certainty is returned. Let D(t) be the signal density (the amount of identifiable signal carried by the system at time t), and T be the boundary time. Then:
 
 ```math
 D(T) = 0
@@ -223,7 +223,7 @@ Falsifiability: The core claim of this paper can be falsified by the following c
 
 In this framework, the observer is defined as any finite system capable of completing closed-loop operations, thereby producing determinate signals and registering the process of their return to uncertainty.
 
-The observer is not a "person," nor is it "consciousness"—it may be a measuring apparatus, a biological organism, or any system satisfying the closed-loop definition. The "measuring apparatus" in quantum mechanics (Wheeler & Zurek, 1983) is an instance of an observer; the "finite system" defined in *The Limit Theory of Meaning* (Zhong, 2026a) is another instance.
+The observer is not a "person," nor is it "consciousness"—it may be a measuring apparatus, a biological organism, or any system satisfying the closed-loop definition. The "measuring apparatus" in quantum mechanics (Wheeler & Zurek, 1983) is an instance of an observer; the "finite system" defined in *The Limit Theory of Meaning* is another instance.
 
 The observer's key properties are:
 
@@ -253,7 +253,7 @@ This paper has benefited from the inspiration of the Equal System philosophical 
 
 ## Data Availability Statement
 
-This paper is primarily theoretical. The numerical results in Appendix E were generated by Python code and are reproducible.
+This paper is primarily a theoretical work. The numerical results in Appendix E were generated by Python code and are reproducible. The experiments ran on GitHub Actions.
 
 ---
 
@@ -273,23 +273,13 @@ The author declares that there are no conflicts of interest that could affect th
 6. Wittgenstein, L. (1922). Tractatus Logico-Philosophicus. London: Routledge.
 7. Zurek, W. H. (2003). Decoherence, Pointer States, and the Quantum-Classical Transition. Reviews of Modern Physics, 75(3): 715-775.
 8. Zhong, Shanzhen. (2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
-9. Zhong, Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 3.0). Equal System Repository.
-
----
-
-## Final Note
-
-The core message this paper attempts to convey is: Certainty is not an inherent property of the world, but a temporary state drawn by finite systems from uncertainty during operation. Once the operation is complete, this state is returned to uncertainty.
-
-This paper is the foundational structure paper of the Equal System philosophical framework, providing the physical-philosophical foundation for *The Limit Theory of Meaning* and *Boundary Acceleration*. It answers the question "Why must certainty return to zero?" and points out that the boundary is not arbitrary, but a necessity of the direction of entropy increase.
-
-What can be said has been said. The rest is left to silence.
+9. Zhong, Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 3.1). Equal System Repository.
 
 ---
 
 ## Appendix E: Experimental Verification
 
-This appendix reports numerical experiments testing the core hypotheses of *Uncertainty Subsumption*. The experiment code and raw outputs are located in the `uncertainty-subsumption/` directory of the project repository.
+This appendix reports numerical experiments testing the three core hypotheses of *Uncertainty Subsumption*. The experiment code and raw outputs are located in the `uncertainty-subsumption/` directory of the project repository. All experiments ran on GitHub Actions with 3 independent seeds; means and standard deviations are reported.
 
 ### E.1 Experimental Model
 
@@ -301,116 +291,138 @@ Three reasons justify the choice of Boolean networks:
 2. Determinacy is emergent: the system locks onto attractors, and the number of attractors is far smaller than 2^N.
 3. Operation is explicit: the network update rule is the operation itself; no external assumptions are needed.
 
+**Parameters**: N = 10, sample size = 50,000, sampling ceiling = log₂(50,000) ≈ 15.61, far exceeding what N = 10 requires. Seeds = {1, 2, 3}.
+
 ### E.2 Experiment 1: Condensation of Determinacy (H1)
 
 **Hypothesis**: Determinacy is produced from uncertainty through operation.
 
-**Method**: 3000 random initial states (maximum-entropy sampling), the network is run for T = 50 steps, and the empirical entropy H(t) is measured at each step. K = 1, 2, 3.
+**Method**: 50,000 random initial states (maximum-entropy sampling), the network is run for T = 50 steps, and the empirical entropy H(t) is measured at each step. K = 1, 2, 3. Each K runs 3 seeds; means and standard deviations are taken.
 
 **Results**:
 
-| K | H(0) | H(5) | H(10) | H(20) | H(50) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 11.55 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 2 | 11.55 | 5.75 | 2.21 | 1.81 | 1.81 |
-| 3 | 11.55 | 7.64 | 4.03 | 1.18 | 0.62 |
+| t | K=1 | K=2 | K=3 |
+| :--- | :--- | :--- | :--- |
+| 0 | 9.9846 ± 0.0006 | 9.9846 ± 0.0006 | 9.9846 ± 0.0006 |
+| 5 | 0.0000 ± 0.0000 | 1.0799 ± 0.9541 | 3.3359 ± 0.6064 |
+| 10 | 0.0000 ± 0.0000 | 1.0799 ± 0.9541 | 2.4361 ± 0.8252 |
+| 20 | 0.0000 ± 0.0000 | 1.0799 ± 0.9541 | 2.2853 ± 0.7653 |
+| 30 | 0.0000 ± 0.0000 | 1.0799 ± 0.9541 | 2.2853 ± 0.7653 |
+| 50 | 0.0000 ± 0.0000 | 1.0799 ± 0.9541 | 2.2853 ± 0.7653 |
 
-**Conclusion**: H1 is supported. Operation (network update) does drive the system from high entropy to low entropy. For K = 1, the system condenses completely onto a single point; for K = 2, it stabilizes at a critical state; for K = 3, it condenses to a lower entropy.
+**Conclusion**: H1 is supported. All three K values condense from maximum entropy 9.98 to low values rapidly, and then stabilize. The larger K, the higher the steady-state entropy (K=1: 0; K=2: 1.08; K=3: 2.29), because a larger K implies more attractors.
 
-**Sampling note**: H(0) = 11.55, while the theoretical upper bound is 20. This is because 3000 samples can distinguish at most log₂(3000) ≈ 11.55 distinct states. The initial entropy is capped by sampling, not genuinely 20. This is the same class of issue as the under-sampling in the Ising simulations of the Information Projection Framework.
+**Key observation**: Initial entropy 9.98, close to N = 10, indicating sufficient sampling with no ceiling effect.
 
 ### E.3 Experiment 2: Maintenance Cost (H2)
 
 **Hypothesis**: Maintaining determinacy requires continuous expenditure.
 
-**Method**: The system is first allowed to condense for 30 steps; then perturbation p is introduced (each step flips a random bit with probability p), and the steady-state entropy H(t) is measured. Sample size 2000, K = 2, T = 100.
+**Method**: The system is first allowed to condense for 50 steps; then perturbation p is introduced (each step flips a random bit with probability p), and the steady-state entropy H(t) is measured. N = 10, K = 2, sample size 50,000, T = 100, 3 seeds.
 
 **Results**:
 
-| p | H(0) | H(50) | H(100) |
-| :--- | :--- | :--- | :--- |
-| 0.000 | 1.800 | 1.800 | 1.800 |
-| 0.001 | 1.800 | 1.863 | 1.826 |
-| 0.010 | 1.800 | 2.187 | 2.167 |
-| 0.050 | 1.800 | 3.186 | 3.197 |
-| 0.100 | 1.800 | 4.116 | 4.148 |
+| p | t=0 | t=20 | t=50 | t=80 | t=100 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 0.0000 | 1.0799 | 1.0799 | 1.0799 | 1.0799 | 1.0799 |
+| 0.0010 | 1.0799 | 1.1065 | 1.1100 | 1.1112 | 1.1139 |
+| 0.0050 | 1.0799 | 1.1945 | 1.2078 | 1.2123 | 1.2316 |
+| 0.0100 | 1.0799 | 1.2892 | 1.3132 | 1.3272 | 1.3452 |
+| 0.0500 | 1.0799 | 1.8749 | 1.9336 | 1.9391 | 1.9498 |
 
-**Conclusion**: H2 is supported. The larger the perturbation, the harder the maintenance. The experiments yielded two pieces of information not present in the paper:
+**Conclusion**: H2 is supported. The larger the perturbation, the harder the maintenance. The three seeds are highly consistent (tiny standard deviations). The experiments yielded two details not present in the paper:
 
-1. **A steady-state entropy exists, not unbounded collapse**: H(50) ≈ H(100); the system reaches a steady state determined by p within 50 steps, and does not continue to rise afterward.
+1. **A steady-state entropy exists, not unbounded collapse**: Each p reaches a steady state within about 50 steps; H(50) ≈ H(100), with no further rise.
 2. **A hidden threshold exists**: at p = 0.001 there is almost no effect; the perturbation is absorbed by the network itself.
-
-These two details are not in the paper; they are new information brought out by the experiments and are recommended to be written back into Section III of the main text.
 
 ### E.4 Experiment 3: Uncertainty Subsumption (H3)
 
 **Hypothesis**: Once maintenance stops, determinacy necessarily decays back to uncertainty.
 
-**Method**: After condensing for 30 steps, network updates are stopped and only perturbation p = 0.05 is applied; H(t) decay is measured. Sample size 2000, T = 200.
+**Method**: After condensing for 50 steps, network updates are stopped and only perturbation p = 0.05 is applied; H(t) decay is measured. N = 10, sample size 50,000, T = 100, 3 seeds.
 
 **Results**:
 
-| K | H0 | H(20) | H(50) | H(200) |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | 0.000 | 10.96 | 10.96 | 10.96 |
-| 2 | 1.800 | 10.96 | 10.96 | 10.96 |
-| 3 | 0.616 | 10.96 | 10.96 | 10.96 |
+| t | K=1 | K=2 | K=3 |
+| :--- | :--- | :--- | :--- |
+| 0 | 0.0000 ± 0.0000 | 1.0799 ± 0.9541 | 2.2853 ± 0.7653 |
+| 5 | 7.2902 ± 0.0098 | 7.7078 ± 0.4591 | 8.3160 ± 0.5444 |
+| 10 | 9.0835 ± 0.0092 | 9.2409 ± 0.1805 | 9.4668 ± 0.2235 |
+| 20 | 9.8766 ± 0.0018 | 9.8968 ± 0.0230 | 9.9238 ± 0.0301 |
+| 30 | 9.9708 ± 0.0014 | 9.9741 ± 0.0048 | 9.9767 ± 0.0036 |
+| 50 | 9.9854 ± 0.0002 | 9.9849 ± 0.0007 | 9.9854 ± 0.0004 |
+| 80 | 9.9851 ± 0.0008 | 9.9859 ± 0.0002 | 9.9860 ± 0.0009 |
+| 100 | 9.9848 ± 0.0001 | 9.9849 ± 0.0003 | 9.9850 ± 0.0004 |
 
-**Conclusion**: H3 is formally supported, but a sampling-ceiling problem is exposed. All K values jump to H ≈ 10.96, which is the sample-size upper bound log₂(2000) ≈ 10.97, not the true N = 20 bits. Observing the full decay process would require 2^20 ≈ 1,000,000 samples, or a reduction of N. Full verification of H3 is left for future work.
+**Conclusion**: H3 is supported. All three curves converge to N = 10, with tiny standard deviations (terminal values ±0.0001 to ±0.0004).
+
+**Curve shape**: Exponential approach to saturation. H(t) rises rapidly from the condensed state to maximum entropy N = 10, then stabilizes. Three different K values exhibit the same shape, indicating this is not an artifact of the network structure.
+
+**Key improvement**: Compared to earlier versions, this experiment lowers N from 20 to 10 and raises the sample size from 2000 to 50,000, breaking through the sampling ceiling and revealing the full decay curve rather than a jump.
 
 ### E.5 Experiment 4: Boundary Acceleration (H4)
 
 **Hypothesis**: Signal density rises before the boundary and returns to zero at the boundary.
 
-**Method**: Four designs were attempted in sequence:
+**Method**: Six designs were attempted in sequence:
 
 1. **Fixed time window**: An external time T is set, and D(t) = (N − H)/N is measured. Result: D remains flat at 0.91 throughout; no boundary acceleration. The reason is that the system condenses by t ≈ 20, so T exerts no pressure on the system.
-2. **Energy pool + emergency mode**: An energy E and an automatic repair mechanism are introduced. Result: when E is exhausted the system collapses, but no spike appears. This design is suspect for circular reasoning, since "emergency mode" is externally imposed.
+2. **Energy pool + emergency mode**: An energy E and an automatic repair mechanism are introduced. Result: when E is exhausted the system collapses, but no spike appears. This design is suspect for circular reasoning.
 3. **Hard boundary + no acceleration mechanism**: At E = 0 the system stops completely, and no acceleration mechanism is written. Result: D remains flat at 0.02 and drops directly to zero at the boundary. No spike.
 4. **Task queue + R(t) > 0**: The system must process W tasks before a deadline T, with a fixed processing rate. Result: in all three regimes, D(t) remains constant and shows no rise before the boundary.
+5. **System recognizes the boundary**: The system adopts the "just enough" strategy v(t) = R(t)/τ(t), where R(t) is the remaining tasks and τ(t) = T − t is the remaining time. No acceleration mechanism is written. **Result: for a = 0, v is constant; for a > 0, v rises sharply before the boundary, with the peak at the last time step.**
+6. **System recognizes the boundary + v_max limit**: v(t) = min(v_max, R(t)/τ(t)). Result: peak location and shape match Design 5; only peak height is limited by v_max.
 
-**The three regimes of the task-queue experiment and their results**:
+**Key results of Design 5** (N=100, T=100, v_max=50, 200 trials/seed, 10 seeds):
 
-| Regime | W | T | Fixed rate | D(t) behavior | R(T) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 1000 | 100 | 10 | Constant 10.00 throughout; zero at T | 0 |
-| 2 | 1000 | 100 | 5 | Constant 5.00 throughout; still 5.00 at T | 495 |
-| 3 | 1000 | 100 | 1 | Constant 1.00 throughout; still 1.00 at T | 899 |
+| t | a=0 (control) | a=1 | a=5 |
+| :--- | :--- | :--- | :--- |
+| 0 | 1.0000 | 1.0000 | 1.0000 |
+| 10 | 1.0000 | 1.1059 | 1.5296 |
+| 20 | 1.0000 | 1.2244 | 2.1220 |
+| 50 | 1.0000 | 1.6982 | 4.4909 |
+| 70 | 1.0000 | 2.2157 | 7.0786 |
+| 80 | 1.0000 | 2.6296 | 9.1482 |
+| 90 | 1.0000 | 3.3484 | 12.7420 |
+| 95 | 1.0000 | 4.0940 | 16.4702 |
+| 98 | 1.0000 | 5.1774 | 21.8869 |
+| 99 | 1.0000 | 6.1774 | 26.8869 |
+| 100 | 0.0000 | 1.0000 | 5.0000 |
 
-**Conclusion**: Fixed rate + hard boundary + R(t) > 0 does not spontaneously produce boundary acceleration.
+**Conclusion**: The weak version of H4 (conditional necessity) is supported.
 
-The derivation in *Boundary Acceleration* (cited in Section III above) carries an implicit assumption: that the system will accelerate automatically because "signals cannot be released after the boundary." But the experiments show that, without a mechanism that recognizes the boundary, the system does not accelerate — it simply leaves tasks unprocessed and stops.
+The system strategy does only one thing: **maintain the rate "just enough to finish before the deadline."** Mathematically, one can show: let v(t+1) − v(t) = a / (τ(t) − 1), where a is the task arrival rate. When a > 0, v(t) increases monotonically; as τ → 0 near T, the acceleration → ∞, producing a spike.
 
-This corresponds exactly to the notion of a "verification signal" in Section 4.3 of *Boundary Acceleration*. Within that paper there are two formulations:
+**The spike is not written in—it emerges spontaneously from the neutral "just enough" strategy.** This is precisely what *Boundary Acceleration* Section 4.3 calls "boundary acceleration is conditionally necessary"—the condition being that the system recognizes the boundary (can compute R and τ).
 
-- Section 4.2: boundary acceleration is a logical necessity (strong version).
-- Section 4.3: boundary acceleration requires a verification signal to trigger (weak version).
-
-**The experiments support the weak version and falsify the strong version.**
-
-Therefore the position of *Boundary Acceleration* should be revised to: boundary acceleration is **conditionally necessary**; the condition is that the system recognizes a verification signal. Without a verification signal, R(t) > 0 does not spontaneously produce a spike.
-
-**Direction for future verification**: The weak version itself has not yet been directly tested. To test it, one needs a system capable of recognizing the boundary: a system that can observe remaining time and remaining tasks and adjust its rate accordingly. If such a system spontaneously accelerates as it approaches T, the weak version holds. This is future work.
+**Status of the strong version**: Design 4 falsifies the strong version of H4 ("unreleased signals imply inevitable acceleration"). Design 5 supports the weak version of H4 ("a validation signal implies inevitable acceleration"). Therefore, *Boundary Acceleration* is revised from the strong version to the weak version.
 
 ### E.6 Overall Conclusion
 
 | Hypothesis | Content | Result |
 | :--- | :--- | :--- |
-| H1 | Determinacy arises from uncertainty through operation | Supported |
-| H2 | Maintaining determinacy requires continuous expenditure | Supported, with new information |
-| H3 | Once maintenance stops, determinacy necessarily decays | Formally supported; further verification needed |
-| H4 | Signal density rises before the boundary | Strong version fails; weak version awaits verification |
+| H1 | Determinacy arises from uncertainty through operation | Supported (multi-seed) |
+| H2 | Maintaining determinacy requires continuous expenditure | Supported (multi-seed, with new information) |
+| H3 | Once maintenance stops, determinacy necessarily decays | Supported (multi-seed, full curve) |
+| H4 strong | Unreleased signals imply inevitable acceleration | Falsified |
+| H4 weak | A validation signal implies inevitable acceleration | Supported |
 
-**Core conclusion**: The skeleton of uncertainty subsumption holds. Determinacy does condense out of uncertainty, does require expenditure to be maintained, and is subsumed once maintenance stops. The experiments do not overturn the framework, but they yield two details worth writing back into the paper: maintenance has a steady state, and a hidden threshold exists.
+**Core conclusion**: The skeleton of uncertainty subsumption fully holds. Determinacy does condense out of uncertainty, does require expenditure to be maintained, and is subsumed once maintenance stops. All three core hypotheses are supported by full curves, multiple seeds, and sufficient sampling.
 
 **Boundary Acceleration requires revision**: from "unconditionally necessary" to "conditionally necessary." The core thesis of *Uncertainty Subsumption* itself does not depend on the strong version of boundary acceleration, and therefore its skeleton does not need to be modified.
 
 ### E.7 Data Availability
 
-Experiment code: `exp1` through `exp4e` in the `uncertainty-subsumption/experiments/` directory.
+Experiment code:
+
+- `uncertainty-subsumption/experiments/exp1b_condensation_v2.py` (H1 multi-seed)
+- `uncertainty-subsumption/experiments/exp2b_maintenance_v2.py` (H2 multi-seed)
+- `uncertainty-subsumption/experiments/exp3b_swallowing_v2.py` (H3 multi-seed)
+- `uncertainty-subsumption/experiments/exp4e_boundary_v5.py` (H4 strong version)
+- `uncertainty-subsumption/experiments/exp4f_boundary_v6.py` (H4 weak version)
+
 Raw outputs: the `uncertainty-subsumption/results/` directory.
-Runtime environment: Termux + Python 3 (local).
-Subsequent large-scale verification is planned to run on GitHub Actions.
+Runtime environment: GitHub Actions (Ubuntu-latest, Python 3.11).
 
 **Reference (new)**:
 
@@ -420,4 +432,4 @@ Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Construct
 
 Suggested Citation (APA format):
 
-Zhong, Shanzhen. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.2). Equal System Repository.
+Zhong, Shanzhen. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.3). Equal System Repository.
