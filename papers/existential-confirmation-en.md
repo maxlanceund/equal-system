@@ -1,23 +1,28 @@
----
-title: "Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy"
-author: "Zhong Shanzhen"
-version: "2.0 (Final)"
-date: "2026-08-12"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [existential confirmation, gender asymmetry, confirmation anxiety, existentialism, uncertainty, patriarchal structure]
----
-
 # Who Is the Father?
 ## — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy
 
-> **Core Thesis**: Men cannot obtain paternity confirmation equivalent to that of women, because the source of confirmation rights is structurally different between the genders — women acquire direct experiential confirmation through childbirth, while men always rely on external mediators (trust, institutions, technology) to construct confirmation. This difference is not a technical problem, nor merely an epistemological problem, but an ontological structural problem. This paper terms this asymmetry the "gender asymmetry of existential confirmation," and argues that it shapes marital institutions, intergenerational relations, controlling behaviors in intimate relationships, and constitutes a neglected ontological structure.
+| Item | Content |
+| :--- | :--- |
+| Title | Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy |
+| Author | Zhong Shanzhen |
+| Version | 2.1 |
+| Date | 2026-08-12 |
+| License | CC BY-NC 4.0 |
+| Keywords | existential confirmation, gender asymmetry, confirmation anxiety, existentialism, uncertainty, patriarchal structure |
+
+> **Core Thesis**: Men cannot obtain paternity confirmation equivalent to that of women, because the source of confirmation rights is structurally different between the genders — women acquire direct experiential confirmation through childbirth, while men always rely on external mediators (trust, institutions, technology) to construct confirmation. This difference is not a technical problem, nor merely an epistemological problem, but an ontological structural problem. This paper terms this asymmetry the "gender asymmetry of existential confirmation," and argues that it shapes marital institutions, intergenerational relations, controlling behaviors in intimate relationships, and constitutes a neglected ontological structure. Appendix A reports two sets of structural-model experiments: Experiment 1 shows that anchorless systems shift from verification to control when external mediation becomes unreliable (a phase transition occurring at a noise threshold); Experiment 2 shows that control reduces perceived uncertainty, not true uncertainty — control is an illusion.
+
+---
 
 ## Abstract
 
 "Father" is a role defined by social institutions, not an identity confirmed by biology. Women acquire, through pregnancy and childbirth, a confirmation that requires no mediation — the child is hers. Men, by contrast, always depend on external systems (trust, marriage, inheritance, law, paternity testing) to construct a confirmation that can only ever be "probably true." This paper terms this asymmetry the "gender asymmetry of existential confirmation," and argues that it not only shapes marital institutions, intergenerational relations, and controlling behaviors in intimate relationships, but also constitutes a neglected ontological structure. Men's attachment to certainty is not rooted in possessiveness, but in an unacknowledged existential anxiety. The paper suggests that the genuine way out lies not in "acquiring confirmation," but in "learning to coexist with the impossibility of confirmation" — and thereby rethinking what it means to exist.
 
+Appendix A reports two sets of structural-model experiments. Experiment 1 (Confirmation Anchor Structure) shows that systems with an irrevocable internal anchor exhibit zero verification and zero control throughout; anchorless systems rely mainly on verification at low noise, and when noise exceeds a threshold (around 0.27), a phase transition occurs, shifting from verification to control. Experiment 2 (The Illusion of Control Effectiveness) shows that for the controlling system, perceived uncertainty drops to 0.0696 while true uncertainty remains at 0.1616 — control reduces "the uncertainty the system sees," not "the uncertainty that actually exists." The two experiments support the core claim of Chapter IV: "control is a structural compensation for confirmation anxiety, and control is an illusion." The experiments do not cover the remaining chapters — those chapters require different types of evidence (phenomenological description, cultural analysis, demographic data, conceptual argument), not numerical verification.
+
 **Keywords**: existential confirmation; gender asymmetry; confirmation anxiety; existentialism; uncertainty; patriarchal structure
+
+---
 
 ## Literature Positioning and Scholarly Dialogue
 
@@ -31,7 +36,9 @@ Before proceeding to the formal analysis, it is necessary to clarify this paper'
 
 4. **Philosophical Discussions of Adoption and Fatherhood** (e.g., Joachim Duyndam's *Credible Fatherhood and Unique Identity*, 2019): focus on "credible fatherhood" in adoption contexts, rather than the uncertainty of biological fatherhood.
 
-This paper's contribution lies in: transposing "paternity uncertainty" from an empirical issue in evolutionary psychology or sociology into a core proposition of existentialist philosophy — namely, the "gender asymmetry of existential confirmation" — and using Camus and Levinas as philosophical references for two possible response paths.
+This paper's contribution lies in: transposing "paternity uncertainty" from an empirical issue in evolutionary psychology or sociology into a core proposition of existentialist philosophy — namely, the "gender asymmetry of existential confirmation" — and using Camus and Levinas as philosophical references for two possible response paths. Appendix A further upgrades the core claim of Chapter IV from phenomenological description to a testable structural proposition through structural modeling.
+
+---
 
 ## Theoretical Framework and Methodological Statement
 
@@ -45,16 +52,21 @@ Before proceeding, it is necessary to strictly define the core concepts used in 
 
 This paper is primarily concerned with "existential confirmation." It is not a question of knowledge, but a question of existence. It is not about "what I know," but about "how I know that I exist."
 
-### Methodological Statement: Phenomenological Analysis and Philosophical Hermeneutics
+### Methodological Statement: Phenomenological Analysis, Philosophical Hermeneutics, and Structural-Model Verification
 
-The methodological path adopted in this paper lies between **phenomenological description** (Husserl's "back to the things themselves") and **philosophical hermeneutics** (Gadamer's "fusion of horizons"). Specifically, this paper does not attempt to verify or falsify empirical hypotheses through empirical data, but rather to reveal the implicit ontological presuppositions in the experience of confirmation in human intimate relationships through structural description, and to engage in dialogue with relevant discussions in the philosophical tradition.
+The methodological path adopted in this paper lies between **phenomenological description** (Husserl's "back to the things themselves"), **philosophical hermeneutics** (Gadamer's "fusion of horizons"), and **structural-model verification**. Specifically, this paper reveals the implicit ontological presuppositions in the experience of confirmation in human intimate relationships through structural description, and engages in dialogue with relevant discussions in the philosophical tradition; at the same time, it uses structural models to translate the claim of Chapter IV — "control is a structural compensation for confirmation anxiety, and control is an illusion" — into operational variables for falsifiable testing (see Appendix A).
 
 The types of evidence used in this paper include:
 
 1. **Biological facts**: women acquire existential confirmation through pregnancy and childbirth, while men cannot acquire equivalent confirmation — this is an undeniable biological fact and constitutes the starting point of this paper's argument.
-2. **Phenomenological description**: describing the experiential structure of confirmation anxiety in intimate relationships (Chapter 4).
-3. **Cultural text analysis**: analyzing hypnosis narratives as cultural projections of confirmation anxiety (Chapter 5).
-4. **Philosophical text dialogue**: engaging with the discussions of Camus, Levinas, Sartre, and Heidegger (Chapters 7 and Conclusion).
+2. **Phenomenological description**: describing the experiential structure of confirmation anxiety in intimate relationships (Chapter IV).
+3. **Cultural text analysis**: analyzing hypnosis narratives as cultural projections of confirmation anxiety (Chapter V).
+4. **Philosophical text dialogue**: engaging with the discussions of Camus, Levinas, Sartre, and Heidegger (Chapter VII and Conclusion).
+5. **Structural-model verification**: using the confirmation anchor model to test the core claim of Chapter IV (see Appendix A).
+
+**Statement on experimental boundaries**: the two experiments in Appendix A cover only Chapter IV. Chapter II (the self-evidence of women's experience) is a phenomenological description; the model has no experience and cannot test it. Chapter V (hypnosis narratives) is cultural analysis and requires textual research rather than numerical experiment. Chapter VI (reproductive choice) requires demographic data, which the model cannot test. Chapter VII (coexisting with uncertainty) is a normative claim and requires no experiment. Forcing numerical experiments onto these chapters would become "experimenting for the sake of experimenting," weakening the paper. The paper's position is: each chapter uses the method appropriate to it.
+
+---
 
 ## I. A Question That Cannot Be Answered
 
@@ -69,9 +81,13 @@ This "inability to confirm" is not distributed equally among all human beings. F
 
 This paper asks: **How does this difference shape the structure of human intimacy and the experience of existence?**
 
+---
+
 ## II. Two Meanings of Confirmation and Gender Difference
 
-### 2.1 Two Meanings of Confirmation (defined above; this chapter unfolds their gender dimensions)
+### 2.1 Two Meanings of Confirmation
+
+(defined above; this chapter unfolds their gender dimensions)
 
 ### 2.2 Women's Confirmation: Self-Evidence from Within
 
@@ -96,11 +112,13 @@ And trust, by its nature, carries the risk of being betrayed.
 
 It should be noted that existential confirmation is not equivalent to freedom or happiness. Although women possess the right of confirmation, they may also be bound by the identity of "mother," subject to expectations, constraints, and the deprivation of other possibilities. Confirmation can be a form of belonging, but it can also be a form of confinement. The "gender asymmetry of confirmation rights" discussed in this paper is not an assertion that "women are the winners," but an uncovering of a structural difference — one that brings different burdens and different freedoms to each gender.
 
-> Possible Objection and Response (1):
+> **Possible Objection and Response (1)**:
 >
 > *Possible objection*: "Women have confirmation rights, but they are also bound to the role of mother. Isn't this another form of unfreedom? You say men's 'inability to confirm' is painful, but women's 'being bound by confirmation' is also painful. Can the two kinds of pain cancel each other out?"
 >
 > *Response*: The purpose of this paper's argument is not to compare "who suffers more." Confirmation right itself is neutral — it can bring either security or constraint. The paper's argument is not "men have it worse" or "women have it better," but rather: **the existential structures of the two genders are different**. Men construct their existence without a confirmation anchor; women expand their freedom or bear constraints on the basis of a confirmation anchor. Their logical starting points are different, and therefore the difficulties each faces are also different. This paper's contribution lies in describing this structural difference, not in ranking suffering.
+
+---
 
 ## III. How Civilizations Compensate for This Asymmetry
 
@@ -126,6 +144,8 @@ Every culture contains narratives that help men "construct" fatherhood:
 
 These are rituals of confirmation — they are not confirmation itself, but substitutes for confirmation. They allow men to temporarily, symbolically, and experientially "feel" like a father. Nietzsche observed that humans gain control over things through "naming." Surnames are precisely such a naming — an attempt to fix, through symbols, a fact that biology cannot fix.
 
+---
+
 ## IV. Confirmation Anxiety in Intimate Relationships
 
 ### 4.1 One Uncertainty, Two Expressions
@@ -148,11 +168,15 @@ When men cannot obtain existential confirmation, they attempt to compensate in t
 
 But control cannot eliminate uncertainty; it only makes it more concealed. When a man must rely on control to confirm that "she belongs to me," he has already implicitly admitted: **"I cannot confirm whether she truly belongs to me."**
 
+**Appendix A, Experiment 1** turns this structural logic into an observable phase transition: anchorless systems, when the noise of external mediation exceeds a threshold, abruptly shift from "verification" to "control" — control does not originate from possessiveness, but is a structural substitute when verification cost exceeds control cost. **Experiment 2** further shows: control reduces the system's "perceived uncertainty," not the "truly existing uncertainty." Control is an illusion.
+
 ### 4.3 Certainty as a Substitute for Existence
 
 Why are humans so attached to certainty? Not because certainty is necessary, but because it is often used as a "substitute for existence." When a person cannot confirm his own existence from within, he needs external anchors — a relationship, a child, property — to obtain a feeling of "I really exist."
 
 This substitute confirmation has already been revealed in Sartre's concept of "bad faith": man fixes himself in a role ("I am a father," "I am a husband") to evade the existential fact that "I cannot be defined by any role."
+
+---
 
 ## V. Confirmation in Fantasy — A Philosophical Analysis of Hypnosis Narratives
 
@@ -182,11 +206,13 @@ The hypnosis narrative offers a "confirmation experience that requires no trust"
 
 Fantasy is never the opposite of reality; it is a supplement to reality. When reality cannot provide a certain confirmation, fantasy takes on that function. The popularity of hypnosis narratives is precisely because the kind of "transparent, certain, trust-free" intimacy that cannot be obtained in reality is temporarily realized in fantasy.
 
-> Possible Objection and Response (2):
+> **Possible Objection and Response (2)**:
 >
 > *Possible objection*: "You treat hypnosis narratives as cultural projections of 'confirmation anxiety,' but isn't this over-interpretation? Perhaps the real reason hypnosis narratives are popular is simply that it's a common genre in the adult industry — people like watching it, so it gets made. And coercion is illegal, so they make hypnosis instead."
 >
 > *Response*: "Why did it become a common genre?" — this question itself requires an explanation. A genre is repeated because it responds to a deep need, not merely because "people like it." This paper's contribution is to point out that hypnosis narratives as a fantasy structure derive their appeal precisely from eliminating the uncertainty of "whether the other person is truly willing" — an uncertainty that cannot be eliminated in real intimate relationships. It satisfies not the "desire for control," but the "desire for confirmation." Even if legal restrictions are part of the reason, this still does not explain why "hypnosis" rather than "consensual role-play" became a specific genre. This paper's interpretation is not the only possible explanation, but it provides an analytical framework that has not been sufficiently discussed at the philosophical level.
+
+---
 
 ## VI. The Silent Majority — From Reproductive Choice to Existential Decision
 
@@ -211,6 +237,8 @@ When men no longer rely on "fatherhood" to confirm their existence, they face a 
 
 This is a harder path, because it no longer offers a ready-made confirmation. But it is also a more authentic path, because it no longer depends on an assumption that can never be fully verified.
 
+---
+
 ## VII. Coexisting with Uncertainty
 
 ### 7.1 Certainty Is Unreachable
@@ -219,7 +247,7 @@ No matter how technology advances — no matter how accurate paternity tests bec
 
 If you need to "confirm the child is mine" to feel safe, then even with a paternity test report in hand, you will still doubt in some late night: "what if it is wrong?" If you need to "confirm she loves me" to invest in a relationship, then even if she says "I love you" a hundred times a day, you will still doubt in her moments of silence: "has she changed?"
 
-Certainty is an illusion. It can be pursued, but never attained.
+Certainty is an illusion. It can be pursued, but never attained. **Appendix A, Experiment 2** turns this philosophical assertion into a measurable quantity: for the controlling system, perceived uncertainty drops from 0.1527 to 0.0696, but true uncertainty remains at 0.1616. Control reduces only "the feeling," not "the fact."
 
 ### 7.2 Coexistence, Not Resolution
 
@@ -243,81 +271,53 @@ Because Sisyphus creates his own meaning in the very act of pushing. He pushes n
 
 Similarly, men's pursuit of confirmation can be re-understood: I love him not to "confirm the child is mine," but in the act of loving, I create a relational meaning that does not belong to the category of confirmation. Heidegger pointed out that man is "being-toward-death" — only when one realizes his own finitude can he truly begin to live. Likewise, only when one realizes "I may never be able to confirm" can one truly begin to love.
 
-## VIII. Possible Objections and Falsifiability Conditions
+---
 
-Any philosophical argument must be open to questioning of its core claims. This chapter outlines the main objections this paper may face, responds to each, and then proposes three falsifiability conditions that are in principle testable, in order to show that the paper's core position can indeed be challenged.
+## VIII. Possible Objections and Falsifiability Conditions
 
 ### 8.1 Responses to Possible Objections
 
 #### Objection 1: Men can obtain confirmation through paternity testing.
 
-This objection can be reconstructed as follows:
-
-1. If a man can obtain certain knowledge that "this child is mine" through some technological means, then he has obtained confirmation.
-2. Paternity testing can provide such certain knowledge (accuracy over 99.99%).
-3. Therefore, men can obtain confirmation through paternity testing.
-
-**Response:** The force of this objection depends on the definition of "confirmation." This paper distinguished between "cognitive confirmation" and "existential confirmation" in Chapter 2. Paternity testing can indeed provide the former — it is a verifiable, evidence-based piece of knowledge. But it cannot provide the latter — the kind of confirmation generated from within the body, requiring no external verification. Women's confirmation through pregnancy and childbirth is existential: she does not need to see a report to know the child is hers. A man, even with a report in hand, can only say "I know the child is mine," never "I have known it from the beginning." Therefore, this objection does not weaken the core argument; it only points out the difference between two kinds of confirmation.
+**Response:** The force of this objection depends on the definition of "confirmation." This paper distinguished between "cognitive confirmation" and "existential confirmation" in Chapter II. Paternity testing can indeed provide the former — it is a verifiable, evidence-based piece of knowledge. But it cannot provide the latter — the kind of confirmation generated from within the body, requiring no external verification. Women's confirmation through pregnancy and childbirth is existential: she does not need to see a report to know the child is hers. A man, even with a report in hand, can only say "I know the child is mine," never "I have known it from the beginning." Therefore, this objection does not weaken the core argument; it only points out the difference between two kinds of confirmation.
 
 #### Objection 2: Men can also confirm through emotional attachment — an adoptive father can also confirm that the child is his.
 
-This objection can be reconstructed as follows:
-
-1. Confirmation need not be biological.
-2. An adoptive father can emotionally confirm "this is my child."
-3. Therefore, biological confirmation is not the only form of confirmation.
-
-**Response:** This paper acknowledges that emotional confirmation exists and has value. But its core argument concerns the *stability* of existential confirmation, which varies according to its source. Emotional confirmation depends on external conditions — it requires sustained experiences of love, the cooperation of a partner, and relational stability. Once these conditions change, emotional confirmation may be shaken. Biological confirmation, acquired by women through pregnancy, does not depend on any external condition — even if the relationship breaks down, she still confirms that the child is hers. Thus, the paper does not deny emotional confirmation, but points out that it cannot match biological confirmation in stability.
+**Response:** This paper acknowledges that emotional confirmation exists and has value. But its core argument concerns the *stability* of existential confirmation, which varies according to its source. Emotional confirmation depends on external conditions — it requires sustained experiences of love, the cooperation of a partner, and relational stability. Once these conditions change, emotional confirmation may be shaken. Biological confirmation, acquired by women through pregnancy, does not depend on any external condition — even if the relationship breaks down, she still confirms that the child is hers.
 
 #### Objection 3: Women also have confirmation anxiety — they cannot confirm whether their partner loves them.
 
-This objection can be reconstructed as follows:
-
-1. Women also cannot confirm whether their partner truly loves them.
-2. If women also have confirmation anxiety, then "confirmation anxiety" is not a male-only phenomenon.
-3. Therefore, this paper exaggerates gender differences.
-
-**Response:** This paper has never claimed that "only men have confirmation anxiety." As noted in 2.4, the right of confirmation is not equivalent to freedom or happiness. Women face uncertainty in intimate relationships as well — they cannot confirm whether their partner truly loves them, nor whether the relationship will last. The core argument is not "women have no anxiety," but "women's confirmation right does not require external verification, whereas men's always does." A woman's confirmation anchor (the child is hers) gives her a stable reference point when facing relational uncertainty, but it does not exempt her from other forms of confirmation anxiety.
+**Response:** This paper has never claimed that "only men have confirmation anxiety." As noted in 2.4, the right of confirmation is not equivalent to freedom or happiness. Women face uncertainty in intimate relationships as well — they cannot confirm whether their partner truly loves them, nor whether the relationship will last. The core argument is not "women have no anxiety," but "women's confirmation right does not require external verification, whereas men's always does."
 
 #### Objection 4: Not all men care about confirming whether the child is theirs.
 
-This objection can be reconstructed as follows:
+**Response:** This paper discusses a structural tendency, not the necessary experience of every man. "Not caring" is itself a response; it does not mean that the fact of "the confirmation right being suspended" is absent. A man can "not care," but his behavioral patterns in intimate relationships, his attitude toward "possession," and his sensitivity to his partner's fidelity may still be influenced by this suspension.
 
-1. If a man "does not care" whether the child is his, then he has no confirmation anxiety.
-2. Such men do exist.
-3. Therefore, the "confirmation anxiety" described in this paper is not a universal structure.
+#### Objection 5: This is just part of universal human uncertainty.
 
-**Response:** This paper discusses a structural tendency, not the necessary experience of every man. "Not caring" is itself a response; it does not mean that the fact of "the confirmation right being suspended" is absent. A man can "not care," but his behavioral patterns in intimate relationships, his attitude toward "possession," and his sensitivity to his partner's fidelity may still be influenced by this suspension. The core claim is that the suspension of "confirmation right" exists structurally, regardless of whether the individual is concerned about it. Thus, individual differences do not negate the structural difference.
-
-#### Objection 5: This is just part of universal human uncertainty — no one can confirm anything.
-
-This objection can be reconstructed as follows:
-
-1. Existential uncertainty is universal — no one can confirm whether another loves them, nor whether the future will bring change.
-2. Men's inability to confirm paternity is just one instance of universal uncertainty.
-3. Therefore, the phenomenon described in this paper is not special.
-
-**Response:** It is true that existential uncertainty is universal. But "the inability to confirm whether a child is one's own" is a specific, traceable, existence-related uncertainty. It is not abstract philosophical uncertainty, but something that can be pointed to a concrete fact — "did she betray me?" "is this child mine?" — and can be repeatedly questioned. It is precisely this traceability that distinguishes it from universal uncertainties such as "I cannot confirm whether tomorrow will exist." The core observation is that this specific, traceable, existence-related uncertainty is assigned to only one gender, while the other gender is excluded from it.
+**Response:** It is true that existential uncertainty is universal. But "the inability to confirm whether a child is one's own" is a specific, traceable, existence-related uncertainty. It is not abstract philosophical uncertainty, but something that can be pointed to a concrete fact — "did she betray me?" "is this child mine?" — and can be repeatedly questioned. It is precisely this traceability that distinguishes it from universal uncertainties such as "I cannot confirm whether tomorrow will exist."
 
 #### Objection 6: Trust itself is a form of confirmation.
 
-This objection can be reconstructed as follows:
+**Response:** Trust is indeed a mode of existence, but it is not confirmation. Confirmation is certain and independent of external factors; trust is an acknowledgment of uncertainty and a choice to act within it. One can trust one's partner, but this does not eliminate the possibility that "she might be unfaithful." The paper does not deny the value of trust, but it refuses to equate trust with confirmation, because they are structurally different.
 
-1. A man can choose to trust his partner's fidelity without needing conclusive evidence.
-2. This trust gives him peace of mind, even if he cannot confirm.
-3. Therefore, trust can substitute for confirmation.
+#### Objection 7: Is the model in Appendix A not too simplified?
 
-**Response:** Trust is indeed a mode of existence, but it is not confirmation. Confirmation is certain and independent of external factors; trust is an acknowledgment of uncertainty and a choice to act within it. One can trust one's partner, but this does not eliminate the possibility that "she might be unfaithful." The paper does not deny the value of trust, but it refuses to equate trust with confirmation, because they are structurally different. Trust is an attitude toward uncertainty; confirmation is a state of transcending uncertainty. The core position is that men can live through trust, but they cannot obtain, through trust, the same kind of existential confirmation that women possess.
+**Response:** Yes. The model in Appendix A reduces "existential confirmation" to a scalar `E`, "external mediation" to a noise signal `s(t)`, and "control" to an operation that reduces signal noise. This does not simulate the actual psychological processes of real men or women, but tests a structural proposition: **do systems with an irrevocable internal anchor vs. systems that can only rely on external mediation differ in behavioral patterns when facing uncertainty?** The experiments show: yes. This difference is structural, not a product of modeling details. The model cannot replace phenomenological description, nor can it replace psychological research. It only demonstrates that the structural logic holds.
 
 ### 8.2 Falsifiability Conditions
-
-If the core thesis of this paper is to hold, it must be open to challenge — that is, there must be discoverable facts or arguments that, if they turned out to be true, would seriously weaken or require revision of the paper's central position.
 
 1. **Falsifiability Condition 1:** If cross-cultural empirical research could show that, without paternity testing, without partner confirmation, and without social institutional support, men can still spontaneously experience from within the body a sense of "this child is mine" — and if the intensity and certainty of this experience were phenomenologically equivalent to that which women acquire through pregnancy and childbirth — then the core thesis would be weakened.
 
 2. **Falsifiability Condition 2:** If a cultural or social condition could be found under which men display no compensating behaviors (property inheritance, surname transmission, controlling behavior, possessive narratives) to compensate for confirmation anxiety, and if the absence of these behaviors were not due to "their acceptance of uncertainty" but to "their inherent lack of need for such confirmation" — then the paper's claim that "confirmation anxiety is a cross-cultural structural tendency" would need to be revised.
 
 3. **Falsifiability Condition 3:** If it could be shown that a non-biological form of confirmation (e.g., purely emotional or social confirmation) could, after the removal of all external supports (partner's acknowledgment, legal recognition, social approval), still maintain stability comparable to that of biological confirmation — then the paper's claim that "biological confirmation is ontologically prior to non-biological confirmation" would be shaken.
+
+4. **Falsifiability Condition 4 (based on Appendix A, Experiment 1):** If the structural model showed that anchorless systems do not shift from verification to control when external mediation becomes unreliable (i.e., no phase transition exists), or that anchored systems also massively initiate verification and control — then the claim of Chapter IV that "control is a structural compensation for confirmation anxiety" would be weakened.
+
+5. **Falsifiability Condition 5 (based on Appendix A, Experiment 2):** If the structural model showed that control not only reduces perceived uncertainty but also reduces true uncertainty to the same degree — then the claim that "control is an illusion" would be weakened.
+
+---
 
 ## IX. Conclusion
 
@@ -329,19 +329,29 @@ This paper has argued the following theses:
 
 3. Philosophically, this structure does not necessarily lead to the loss of meaning. Camus and Levinas offer two references: the former affirms meaning in uncompletable action, the latter establishes relationship in responsibility that requires no confirmation. However, this paper does not advocate either of these paths as a response strategy, nor does it presuppose a more preferable way of life.
 
+The two sets of structural-model experiments in Appendix A upgrade the core claim of Chapter IV from phenomenological description to a testable structural proposition: **anchorless systems shift from verification to control when external mediation becomes unreliable (Experiment 1); control reduces perceived uncertainty, not true uncertainty (Experiment 2).** These two experiments cover only Chapter IV. The other chapters — phenomenological description in Chapter II, cultural analysis in Chapter V, demographic data in Chapter VI, conceptual argument in Chapter VII — each require methods appropriate to them, not numerical verification.
+
 This paper does only an analytical statement. It describes the gender difference in confirmation rights and its ontological consequences, and notes that this structure has been responded to in different ways by the philosophical tradition. It offers no advice, no guidance, and no presupposition of a more acceptable life direction.
+
+---
 
 ## Acknowledgments
 
 This paper has benefited from the inspiration of the Equal System philosophical framework, as well as the valuable comments provided by anonymous reviewers at various stages. All views expressed and any possible errors remain the sole responsibility of the author.
 
+---
+
 ## Data Availability Statement
 
-This paper is a philosophical treatise and does not involve the collection or analysis of empirical data. All empirical phenomena cited (such as fertility rate data, the cultural existence of hypnosis narratives) are sourced from publicly available statistical reports and cultural materials, with sources fully annotated in the references.
+This paper is a philosophical treatise and does not involve the collection or analysis of empirical data. All empirical phenomena cited (such as fertility rate data, the cultural existence of hypnosis narratives) are sourced from publicly available statistical reports and cultural materials, with sources fully annotated in the references. The structural-model code in Appendix A is located in the `existential-confirmation/experiments/` directory and is reproducible.
+
+---
 
 ## Conflict of Interest Statement
 
 The author declares that there are no conflicts of interest that could affect the research conclusions or academic judgment of this paper. This paper has not received funding from any institution or organization.
+
+---
 
 ## References
 
@@ -365,11 +375,127 @@ The author declares that there are no conflicts of interest that could affect th
 
 ---
 
+## Appendix A: Structural-Model Verification
+
+This appendix reports two sets of structural-model experiments testing the core claim of Chapter IV: "control is a structural compensation for confirmation anxiety, and control is an illusion." The experiment code is located in the `existential-confirmation/experiments/` directory.
+
+### A.1 Experimental Model: The Confirmation Anchor Structure
+
+The model reduces "existential confirmation" to a scalar `E`, "external mediation" to a noise signal `s(t)`, and "control" to an operation that reduces signal noise.
+
+**Two groups of systems**:
+
+- **Group A (anchored)**: `E` has an irrevocable lower bound `E_0 = 0.8`. No matter how poor the external signal, `E ≥ E_0`. This corresponds to the "experiential self-evidence acquired by women through childbirth" described in the paper.
+- **Group B (anchorless)**: `E` relies entirely on the external signal `s(t)`. If the signal has noise, `E` fluctuates. This corresponds to the "men always rely on external mediation" described in the paper.
+
+**System behavior**: When `E` falls below the trigger threshold (0.6), the system needs to act. Two available actions:
+
+- **Verification**: paying a cost to reduce signal noise. Verification cost = 40 × noise².
+- **Control**: paying a cost to compress the signal fluctuation range. Control cost = 3.0, lasting 3 steps.
+
+**Key**: control behavior is not written in. It is triggered only when verification cost exceeds control cost.
+
+**Measurement**: as noise is swept from 0.02 to 0.5, how many resources do Group A and Group B spend on verification and control, respectively?
+
+### A.2 Experiment 1: The Confirmation Anchor Structure
+
+**Hypothesis**: anchored systems barely initiate verification and control; anchorless systems rely mainly on verification at low noise, and shift to control when noise exceeds the threshold.
+
+**Results**:
+
+| Noise | A Verification | A Control | B Verification | B Control |
+| :--- | :--- | :--- | :--- | :--- |
+| 0.02 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 0.05 | 0.00 | 0.00 | 0.77 | 0.00 |
+| 0.10 | 0.00 | 0.00 | 3.30 | 0.00 |
+| 0.15 | 0.00 | 0.00 | 4.97 | 0.00 |
+| 0.20 | 0.00 | 0.00 | 6.03 | 0.00 |
+| 0.25 | 0.00 | 0.00 | 6.93 | 0.00 |
+| **0.30** | 0.00 | 0.00 | **0.00** | **15.23** |
+| 0.40 | 0.00 | 0.00 | 0.00 | 17.27 |
+| 0.50 | 0.00 | 0.00 | 0.00 | 18.80 |
+
+**Conclusion**: three things hold simultaneously.
+
+1. **Group A is zero throughout.** For anchored systems, no matter how noisy the external signal, neither verification nor control initiates. The anchor makes external mediation unnecessary.
+2. **Group B undergoes a phase transition between noise 0.25 and 0.30.** Not gradual, but abrupt — verification drops directly from 6.93 to zero, control jumps directly from 0 to 15.23.
+3. **The critical point falls precisely at the predicted location.** The prediction is 40×n²=3 → n≈0.27. The observed phase transition occurs between 0.25 and 0.30.
+
+**Correspondence to Chapter IV**: controlling behavior does not originate from possessiveness, but is a phase transition that emerges naturally when "verification cost exceeds control cost." There is no "possessiveness" variable in the model; control is the result of cost comparison.
+
+### A.3 Experiment 2: The Illusion of Control Effectiveness
+
+**Hypothesis**: control reduces "perceived uncertainty," not "true uncertainty."
+
+**Method**: fix noise = 0.4, compare three groups:
+
+- B1: verification only, no control
+- B2: verification + control
+- B3: anchored
+
+**Two quantities measured**:
+
+- **Perceived uncertainty**: the variance of the signal as observed by the system (the signal after control)
+- **True uncertainty**: the true noise of the signal (the raw noise generated by the model)
+
+**Results**:
+
+| Group | Perceived Uncertainty | True Uncertainty | Gap |
+| :--- | :--- | :--- | :--- |
+| B1: verification only, no control | 0.1527 | 0.1616 | 0.0089 |
+| **B2: verification + control** | **0.0696** | **0.1616** | **0.0920** |
+| B3: anchored | 0.1527 | 0.1616 | 0.0089 |
+
+**Conclusion**: three things hold simultaneously.
+
+1. **B1's perceived ≈ true.** Without control, the system sees the true noise. The gap of 0.0089 is sampling fluctuation.
+2. **B2's perceived is far below true.** Control compresses perceived uncertainty to 0.0696, but true uncertainty remains at 0.1616. The gap of 0.0920 is 10 times that of B1.
+3. **B3 is the same as B1.** Anchored systems do not need control, so perceived = true.
+
+**Correspondence to Chapter IV**: control reduces "the uncertainty the system sees," not "the uncertainty that actually exists." The controlling system makes itself "feel" more certain through control, but the true noise has not changed at all. **Control is an illusion.**
+
+### A.4 Overall Conclusion
+
+| Experiment | Proposition Tested | Result |
+| :--- | :--- | :--- |
+| Experiment 1 | Anchorless systems shift from verification to control when external mediation becomes unreliable | Holds (phase transition at n≈0.27) |
+| Experiment 2 | Control reduces perceived uncertainty, not true uncertainty | Holds (B2 gap is 10 times B1's) |
+
+**Together, the two experiments fully pin down the core structure of Chapter IV: Experiment 1 proves that control will occur; Experiment 2 proves that control is an illusion.**
+
+### A.5 Experimental Boundaries
+
+**These experiments do not test men and women.**
+
+Groups A and B are not simulating two genders. They are simulating two **existential structures**: having an irrevocable internal anchor vs. being able to rely only on external mediation. The core difference in the paper — "self-evidence vs. mediation" — is a structural difference, and the experiments demonstrate that this structural difference produces observable behavioral differences.
+
+**What the experiments cannot test**:
+
+- The "experiential self-evidence" women acquire through childbirth — the model has no experience. This requires phenomenological description (Chapter II).
+- The specific manifestation of men's confirmation anxiety in real intimate relationships — this requires psychological research.
+- Hypnosis narratives as cultural projections of confirmation anxiety — this requires cultural analysis (Chapter V).
+- Reproductive choice as a structural response — this requires demographic data (Chapter VI).
+- "Coexisting with uncertainty" as a normative claim — this requires conceptual argument (Chapter VII).
+- "Certainty is an illusion" as an ontological claim — Experiment 2 demonstrates the illusion of control, but does not demonstrate that "certainty itself is an illusion." The latter is conceptual.
+
+**What the experiments can test**: anchorless systems, when external mediation becomes unreliable, shift from verification to control (Experiment 1); control reduces perceived uncertainty, not true uncertainty (Experiment 2). These two structural logics hold.
+
+### A.6 Data Availability
+
+Experiment code:
+
+- `existential-confirmation/experiments/exp1_anchor.py` (Experiment 1)
+- `existential-confirmation/experiments/exp2_control_illusion.py` (Experiment 2)
+
+Runtime environment: local Termux + Python 3 (no external dependencies).
+
+---
+
 ## Final Note
 
 The core message this paper attempts to convey is: **in the matter of paternity confirmation, men can never obtain existential confirmation equivalent to that of women. This is not a technical problem, but an ontological structure. The genuine way out lies not in "how to obtain confirmation," but in "how to coexist with the impossibility of confirmation."**
 
-This paper is an applied extension of the **Equal System** philosophical framework to issues of gender and ontology. The core concept of "existential confirmation" has been upgraded from intuition to structured theory through its distinction from "cognitive confirmation," dialogue with the existentialist philosophical tradition, and cultural analysis of hypnosis narratives.
+This paper is an applied extension of the **Equal System** philosophical framework to issues of gender and ontology. The core concept of "existential confirmation" has been upgraded from intuition to structured theory through its distinction from "cognitive confirmation," dialogue with the existentialist philosophical tradition, and cultural analysis of hypnosis narratives. The two sets of structural-model experiments in Appendix A further upgrade the core claim of Chapter IV — "control is a structural compensation for confirmation anxiety, and control is an illusion" — from phenomenological description to a testable structural proposition.
 
 This paper does not intend to deny the emotional value and social significance of fatherhood, nor to disparage men's actual contributions to families. Its core appeal is: in discussing gender and intimacy, one should not evade the ontological structural differences constituted by biological facts, nor should one cover up the ineliminability of this difference with the romantic narrative that "love can solve everything."
 
@@ -379,4 +505,4 @@ What can be said has been said. The rest is silence.
 
 **Suggested Citation (APA format):**
 
-Zhong, Shanzhen. (2026). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.1). Equal System Repository.
