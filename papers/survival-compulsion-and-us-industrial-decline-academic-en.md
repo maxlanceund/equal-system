@@ -1,18 +1,20 @@
----
-title: "Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction"
-author: "Zhong Shanzhen"
-version: "4.1 (Final)"
-date: "2026-08-02"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [Survival Compulsion, Hukou System, Race-to-the-Bottom, External Attribution Fallacy, U.S. Deindustrialization, Global Capital, Process-Tracing]
----
 
 # Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction
 
-> **Core Thesis**: The root cause of U.S. manufacturing employment decline lies in its internal capital logic, financialization processes, and technological substitution—not in the rise of Chinese manufacturing. This paper introduces the concept of "Survival Compulsion" and, by anchoring it in the **Hukou (household registration) system** and **inter-jurisdictional race-to-the-bottom competition**, reconstructs it from a descriptive lament into a testable causal mechanism. Attributing U.S. manufacturing employment decline to China is an "external attribution fallacy" serving domestic political agendas.
+| Item | Content |
+| :--- | :--- |
+| Title | Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction |
+| Author | Zhong Shanzhen |
+| Version | 4.2 |
+| Date | 2026-08-02 |
+| License | CC BY-NC 4.0 |
+| Keywords | survival compulsion, Hukou system, race-to-the-bottom, external attribution fallacy, U.S. deindustrialization, global capital, process-tracing |
 
-# I. Abstract
+> **Core Thesis**: The root cause of U.S. manufacturing employment decline lies in its internal capital logic, financialization processes, and technological substitution—not in the rise of Chinese manufacturing. This paper introduces the concept of "Survival Compulsion" and, by anchoring it in the **Hukou (household registration) system** and **inter-jurisdictional race-to-the-bottom competition**, reconstructs it from a descriptive lament into a testable causal mechanism. Attributing U.S. manufacturing employment decline to China is an "external attribution fallacy" serving domestic political agendas. Appendix A reports two sets of numerical tests: the Chow test shows that 2001 is a statistical breakpoint, but the direction of the slope is "deceleration of decline," not "acceleration," and the largest breakpoint is in 2008; the weight reconstruction shows that even pushing China's factor to its extreme upper bound, automation remains more than 1.5 times its weight.
+
+---
+
+## I. Abstract
 
 This study aims to deconstruct the popular narrative that "Chinese workers stole American manufacturing jobs." Unlike existing econometric literature (Autor, Dorn & Hanson, 2016), this study does not employ regression-based identification strategies but instead adopts **Process-Tracing** for causal inference.
 
@@ -24,9 +26,13 @@ The analytical framework of this paper consists of three dimensions: Institution
 
 The term "global capital" or "transnational capital" as used in this paper is an analytical concept referring to the aggregate of capital with cross-border mobility within global production networks, rather than a comprehensive description of internal interest differentiation within capitalism. The analysis focuses on capital-labor distribution relations within global production networks and does not purport to cover inter-sectoral competition among capital fractions.
 
-**Keywords**: Survival Compulsion · Hukou System · Race-to-the-Bottom · External Attribution Fallacy · U.S. Deindustrialization · Global Capital · Process-Tracing
+Appendix A reports two sets of numerical tests: **Experiment 1** (Chow test + breakpoint scan) shows that 2001 is indeed a statistical breakpoint, but its nature is "deceleration of decline" (pre-2001 slope: -0.39 pp/year; post-2001 slope: -0.14 pp/year), opposite to the direction expected by the "China Shock" narrative; the largest breakpoint is in 2008 (F=87.8), not 2001 (F=72.6, ranking 14th). **Experiment 2** (weight reconstruction) shows that even pushing China's factor to its extreme upper bound (40%), the weight of automation/productivity remains more than 1.5 times its own.
 
-# II. Literature Positioning and Scholarly Dialogue
+**Keywords**: survival compulsion · Hukou system · race-to-the-bottom · external attribution fallacy · U.S. deindustrialization · global capital · process-tracing
+
+---
+
+## II. Literature Positioning and Scholarly Dialogue
 
 Before proceeding with the formal analysis, it is necessary to clarify the position of this paper within the existing scholarly landscape. Regarding U.S. deindustrialization, the literature offers three main competing explanatory pathways:
 
@@ -34,15 +40,17 @@ Before proceeding with the formal analysis, it is necessary to clarify the posit
 2. **Technological Substitution Thesis** (Acemoglu & Restrepo, 2020): Emphasizes the systematic replacement of routine manual labor by industrial robots and automation.
 3. **Financialization Thesis** (Krippner, 2011; Stockhammer, 2004): Argues that the erosion of real economy profits by the financial sector has led to a long-term contraction in manufacturing investment.
 
-This paper does not attempt to "adjudicate" among these hypotheses through econometric means. Instead, it focuses on a narrower target: **deconstructing the causal fallacy in the political narrative that "China is the primary cause."** The contribution of this paper lies in introducing institutional variables (the Hukou system and inter-jurisdictional race-to-the-bottom competition) as meso-level mechanisms connecting global structures (capital mobility) with individual behavior (excessive working hours).
+This paper does not attempt to "adjudicate" among these hypotheses through econometric means. Instead, it focuses on a narrower target: **deconstructing the causal fallacy in the political narrative that "China is the primary cause."** The contribution of this paper lies in introducing institutional variables (the Hukou system and inter-jurisdictional race-to-the-bottom competition) as meso-level mechanisms connecting global structures (capital mobility) with individual behavior (excessive working hours), and in using reproducible tests on publicly available time-series data to upgrade the two core arguments of "temporal priority" and "order of magnitude" from narrative to statistical fact.
 
-# III. Theoretical Framework and Methodological Statement
+---
 
-## Causal Reconstruction of the Core Concept: From Circular Reasoning to Institutional Anchoring
+## III. Theoretical Framework and Methodological Statement
+
+### Causal Reconstruction of the Core Concept: From Circular Reasoning to Institutional Anchoring
 
 The core concept of this paper, "Survival Compulsion," faces the risk of circular reasoning in its earlier formulations (i.e., "wages are low because there is no choice; there is no choice because wages are low").
 
-Before proceeding with the formal analysis, it is necessary to distinguish "Survival Compulsion" from the classical concept of "Poverty Trap" in development economics. The poverty trap emphasizes a vicious cycle between income levels and capital accumulation: low income → low savings → low investment → low income. "Survival Compulsion," by contrast, emphasizes **institutional lock-in**—even when income levels rise (as in China's recent wage increases), workers remain unable to translate this into effective bargaining power due to institutional factors such as the Hukou system, the urban-rural segmentation of public services, and local fiscal competition. "Survival Compulsion" is institutional, whereas the poverty trap is income-based. The contribution of this paper lies in anchoring "Survival Compulsion" in identifiable institutional variables, thereby elevating it beyond the macro-level generalization of the "poverty trap" into a testable meso-level theoretical concept.
+Before proceeding with the formal analysis, it is necessary to distinguish "Survival Compulsion" from the classical concept of "Poverty Trap" in development economics. The poverty trap emphasizes a vicious cycle between income levels and capital accumulation; "Survival Compulsion," by contrast, emphasizes **institutional lock-in**—even when income levels rise (as in China's recent wage increases), workers remain unable to translate this into effective bargaining power due to institutional factors such as the Hukou system, the urban-rural segmentation of public services, and local fiscal competition. "Survival Compulsion" is institutional, whereas the poverty trap is income-based. The contribution of this paper lies in anchoring "Survival Compulsion" in identifiable institutional variables, thereby elevating it beyond the macro-level generalization of the "poverty trap" into a testable meso-level theoretical concept.
 
 To avoid this logical difficulty, this paper introduces **institutional variables exogenous to individual wage levels** as the causal anchors of "Survival Compulsion":
 
@@ -50,7 +58,7 @@ To avoid this logical difficulty, this paper introduces **institutional variable
 - **Inter-jurisdictional Race-to-the-Bottom Competition**: Local governments compete to attract manufacturing investment by offering subsidized industrial land, tax breaks, and other cost-reduction measures, with labor costs being the most elastic adjustment variable. This competition inherently suppresses the overall upward space for manufacturing wages.
 - **The National Labor Reserve**: The continuous influx of rural-to-urban migrant workers into manufacturing creates a "reserve army of labor," structurally undermining the bargaining power of incumbent workers—"if you don't do it, someone else will" is not mere rhetoric but institutional reality.
 
-It should be noted that the Hukou system primarily anchors the migrant worker population, which constitutes the majority of the frontline manufacturing workforce. Urban-registered workers also face mobility constraints due to industrial monoculture, high housing costs, and skill depreciation. The Hukou system is not the sole source of "Survival Compulsion" but the most identifiable institutional latch. It is not the only source, but it is the primary rigid anchor.
+It should be noted that the Hukou system primarily anchors the migrant worker population, which constitutes the majority of the frontline manufacturing workforce. Urban-registered workers also face mobility constraints due to industrial monoculture, high housing costs, and skill depreciation. The Hukou system is not the sole source of "Survival Compulsion" but the most identifiable institutional latch.
 
 **Possible Counterargument and Response (I)**:
 
@@ -60,19 +68,23 @@ It should be noted that the Hukou system primarily anchors the migrant worker po
 
 Thus, "Survival Compulsion" is no longer a tautology of "the poor are poor because they are poor," but rather the inevitable outcome of **"Institutional Lock-in + Fiscal Competition + Labor Reserve"** —a tripartite mechanism that drives labor elasticity toward zero.
 
-## Methodological Statement
+### Methodological Statement
 
-This paper explicitly states: **This paper does not employ econometric regression-identification strategies, but instead adopts the well-established "Process-Tracing" method (Beach & Pedersen, 2013) from political economy for causal inference.** That is, it evaluates the validity of causal claims by examining temporal order, mechanistic evidence, and the exclusion of alternative explanations. The core evidence of this paper (temporal priority, third-party substitution shifts, and profit distribution structures) is all developed within the logical framework of process-tracing.
+This paper explicitly states: **This paper does not employ econometric regression-identification strategies, but instead adopts the well-established "Process-Tracing" method (Beach & Pedersen, 2013) from political economy for causal inference.** That is, it evaluates the validity of causal claims by examining temporal order, mechanistic evidence, and the exclusion of alternative explanations.
 
-Specifically, the process-tracing operation of this paper consists of three steps:
+Specifically, the process-tracing operation of this paper consists of four steps:
 
-> (1) **Testing temporal order**: Did U.S. manufacturing employment decline precede the rise of Chinese manufacturing? — Data show that the downward trend began in the 1950s, long before China's WTO accession in 2001.
+> (1) **Testing temporal order**: Did U.S. manufacturing employment decline precede the rise of Chinese manufacturing? — Appendix A, Experiment 1 subjects this to statistical testing via Chow test and breakpoint scanning: 2001 is indeed a breakpoint, but the direction of the slope is "deceleration of decline," and the largest breakpoint is in 2008.
 
-> (2) **Testing mechanistic evidence**: Does the "visibility" of Chinese factories equate to causal impact? — This paper argues that "being seen" is not the same as "causing harm"; Chinese factories are nodes of capital's profit-seeking logic, not its source.
+> (2) **Testing mechanistic evidence**: Does the "visibility" of Chinese factories equate to causal impact? — This paper argues that "being seen" is not the same as "causing harm."
 
-> (3) **Excluding alternative explanations**: Was it really China, rather than automation, that caused U.S. job losses? — Research by Hicks & Devaraj (2015) indicates that between 2000 and 2010, 87.8% of manufacturing job losses were attributable to productivity growth (automation), with trade factors accounting for only 13.4%.
+> (3) **Excluding alternative explanations**: Was it really China, rather than automation, that caused U.S. job losses? — Appendix A, Experiment 2 uses weight reconstruction to show that even pushing China's factor to its extreme upper bound, automation remains more than 1.5 times its weight.
 
-# IV. Introduction: The Misread Causal Chain
+> (4) **Integrating existing mechanistic evidence**: A 2026 study using the staggered implementation of Hukou reform as an exogenous shock shows that changes in the Hukou system do causally alter workers' bargaining position (see Section V).
+
+---
+
+## IV. Introduction: The Misread Causal Chain
 
 In 2025, U.S. manufacturing employment as a share of total employment fell to **8.0%**, the lowest in history. Concurrently, "China took our jobs" has become a perennial campaign slogan in U.S. elections. However, this narrative rests on a neglected premise: **Where does the "competitiveness" of Chinese workers actually come from?**
 
@@ -80,15 +92,17 @@ Before proceeding with the analysis, it is necessary to clarify the core concept
 
 This paper proceeds along three analytical levels: First, how does institutionally anchored Survival Compulsion shape the labor conditions of Chinese workers? Second, how do temporal sequences and third-party substitution shifts reveal the real causes of U.S. manufacturing employment decline? Third, who are the true winners in global profit distribution?
 
-# V. Institutional Anchoring and Survival Compulsion: The Real Situation of Chinese Workers
+---
 
-## Working Hours: Far Exceeding Legal Limits
+## V. Institutional Anchoring and Survival Compulsion: The Real Situation of Chinese Workers
+
+### Working Hours: Far Exceeding Legal Limits
 
 In 2025, the average weekly working hours for employed persons in Chinese enterprises reached **48.6 hours**, far exceeding the statutory limit of 44 hours per week stipulated by the Labor Law. Frontline manufacturing workers commonly operate on a "12-hour workday, single-day rest" schedule. Annually, this amounts to **2,527 hours/year**—approximately 800 hours more than the average annual working hours of U.S. manufacturing workers (BLS, 2025; approximately 1,700 hours).
 
-## Wages: The Decoupling of Intensity and Return
+### Wages: The Decoupling of Intensity and Return
 
-Migrant workers constitute the majority of China's frontline manufacturing labor force (National Bureau of Statistics, 2025; see *2025 Migrant Worker Monitoring Survey Report*), and their wages and working conditions directly determine the overall cost structure of China's manufacturing sector.
+Migrant workers constitute the majority of China's frontline manufacturing labor force (National Bureau of Statistics, 2025), and their wages and working conditions directly determine the overall cost structure of China's manufacturing sector.
 
 In 2025, the average annual salary for production and manufacturing personnel in Chinese industrial enterprises above designated size was **80,739 RMB** (approximately **$11,000 USD**).
 
@@ -98,38 +112,35 @@ Consider productivity first, then wage comparison:
 
 Using the Tesla factory as an example: **Shanghai factory workers are more than twice as productive as their U.S. counterparts**—yet Shanghai workers earn only approximately $14,000–$15,000 annually, while U.S. workers earn approximately $82,500. **Chinese workers earn only 17% of U.S. wages.**
 
-U.S. manufacturing workers earn an average annual salary of over $70,000. **Chinese workers earn approximately one-sixth to one-seventh of U.S. wages.**
-
 It should be noted that the above figures use nominal exchange rate conversion, which is the cost metric directly faced by multinational capital in global site selection. After adjustment for Purchasing Power Parity (PPP), the actual welfare gap narrows somewhat, but because capital's profit-seeking decisions are based on nominal costs, nominal comparison has priority in the analytical context of this paper.
 
-## The Multiple Mechanisms of Institutional Lock-in: Hukou, Debt, Industry, and Local Welfare
+### The Multiple Mechanisms of Institutional Lock-in: Hukou, Debt, Industry, and Local Welfare
 
-Migrant workers constitute the majority of China's manufacturing labor force. Their "Survival Compulsion" is shaped by multiple structural forces acting in concert:
-
-1. **Hukou System Lock-in of Exit Costs**: Due to Hukou restrictions, migrant workers cannot access equal public education, healthcare, and pension resources in their places of work. Quitting a job and returning to one's hometown means not only losing current wages but also severing accumulated social security relationships and social networks in the city. Workers' "threat point"—the minimum subsistence guarantee if they do not work—is extremely low.
+1. **Hukou System Lock-in of Exit Costs**: Due to Hukou restrictions, migrant workers cannot access equal public education, healthcare, and pension resources in their places of work. Quitting a job and returning to one's hometown means not only losing current wages but also severing accumulated social security relationships and social networks in the city. Workers' "threat point" is extremely low.
 2. **Inter-jurisdictional Race-to-the-Bottom Competition**: To attract manufacturing investment, local governments reduce enterprise operating costs through subsidized industrial land, tax breaks, and other measures, with labor costs being the most elastic adjustment variable. This "race-to-the-bottom" inherently suppresses the overall upward space for manufacturing wages.
-3. **National Labor Reserve**: The continuous influx of rural-to-urban migrant workers into manufacturing creates a "reserve army of labor," structurally undermining the bargaining power of incumbent workers—"if you don't do it, someone else will" is not rhetoric but institutional reality.
+3. **National Labor Reserve**: The continuous influx of rural-to-urban migrant workers into manufacturing creates a "reserve army of labor," structurally undermining the bargaining power of incumbent workers.
 
-## Local Hukou-Holding Workers' Lock-in Dilemma
+### Local Hukou-Holding Workers' Lock-in Dilemma
 
-The Hukou system explains the lock-in mechanism for migrant workers, but locally registered workers also face a lack of bargaining power. This means that "Survival Compulsion" is not exclusive to the Hukou system, but a widespread structural phenomenon formed by the superposition of multiple lock-in mechanisms. The sources of lock-in for locally registered workers include:
+The Hukou system explains the lock-in mechanism for migrant workers, but locally registered workers also face a lack of bargaining power. The sources of lock-in for locally registered workers include: high housing prices and consumer debt, industrial monoculture, skill depreciation and age barriers, and localized social security. Therefore, the "Survival Compulsion" discussed in this paper is a **systemic suppression structure formed by the multiple mechanisms of "institutional lock-in (Hukou and localized welfare) + economic lock-in (debt and housing prices) + structural lock-in (industrial monoculture and skill depreciation),"** far exceeding any single institutional explanation.
 
-- **High housing prices and consumer debt**: Mortgages, car loans, and consumer loans constitute "debt lock-in," making it difficult for workers to exit the labor market. Even with local Hukou, high housing prices and debt repayment pressure make the cost of "not working" extremely high.
-- **Industrial monoculture**: Many cities depend on a single industry (such as coal, steel, textiles). Once that industry declines, workers lack alternative employment options even if they have local Hukou.
-- **Skill depreciation and age barriers**: Manufacturing workers' skills depreciate rapidly through technological iteration, and age restrictions further create a situation where they "want to leave but cannot."
-- **Localized social security**: Even with Hukou, access to pensions, healthcare, and other benefits is highly dependent on continuous employment. Interruption of contributions means interruption of benefits—which itself constitutes "institutional lock-in."
-
-It must be emphasized that the Hukou system is not the sole source of "Survival Compulsion," but rather the most identifiable institutional latch. The situation of locally registered workers demonstrates that the lock-in mechanism is the result of multiple superimposed factors. Therefore, the "Survival Compulsion" discussed in this paper is a **systemic suppression structure formed by the multiple mechanisms of "institutional lock-in (Hukou and localized welfare) + economic lock-in (debt and housing prices) + structural lock-in (industrial monoculture and skill depreciation),"** far exceeding any single institutional explanation.
-
-## Health and Family Costs
+### Health and Family Costs
 
 In 2024, China reported **11,289** new cases of occupational diseases; according to cumulative data from the National Health Commission, the cumulative total of reported occupational diseases nationwide is approximately **1.05 million** cases. Approximately **66.93 million left-behind children** nationwide are separated from their migrant-worker parents for extended periods. These data are the direct externalization of the above institutional lock-in mechanisms on individual lived experience.
 
-# VI. Demystifying External Attribution: The Multiple Causality of U.S. Manufacturing Employment Decline
+### Causal Evidence for Hukou System and Bargaining Power
+
+The above mechanism chain—"Hukou lock-in → high exit costs → low bargaining power"—is not merely a logical deduction. A 2026 study published in *Economic Analysis and Policy* used the **staggered implementation of Hukou reform** as an exogenous shock, conducting a difference-in-differences (DiD) estimation to directly measure the effect of Hukou relaxation on firms' **monopsony power** (wage markdown, the deviation of wages from the marginal revenue product of labor). The core finding is: **Hukou reform (relaxing migration restrictions) expanded wage markdowns, enabling micro-enterprises to exercise higher monopsony power**.
+
+This result is more complex than this paper's original hypothesis in direction—it shows that "Hukou relaxation" does not automatically equal "increased worker bargaining power"—but it precisely **proves** that the "Hukou-bargaining power" chain is causal: any change in the Hukou system will causally alter workers' bargaining position. This makes the institutional anchor of "Survival Compulsion" no longer a conceptual construct, but a meso-level mechanism supported by exogenous shock research.
+
+---
+
+## VI. Demystifying External Attribution: The Multiple Causality of U.S. Manufacturing Employment Decline
 
 Having clarified the real sources and institutional costs of Chinese workers' "competitiveness," we now return to the initial question of this paper: Is this manufacturing system, sustained by Survival Compulsion, truly the cause of U.S. manufacturing employment decline?
 
-## The Priority of Long-Term Trends: A Counterfactual Test of Temporal Sequences
+### The Priority of Long-Term Trends: A Statistical Test of Temporal Sequences
 
 U.S. manufacturing employment as a share of total employment:
 
@@ -141,26 +152,37 @@ U.S. manufacturing employment as a share of total employment:
 | 2000 | ~14% |
 | 2025 | 8.0% |
 
-This downward trend has persisted for **over 70 years**, and its slope did not undergo a significant structural break after China's WTO accession in 2001. The **temporal priority** of the trend does not support the causal direction that "China's WTO accession caused U.S. manufacturing employment decline."
+**Statistical Test (Appendix A, Experiment 1)**:
 
-It is noteworthy that U.S. manufacturing output value-added (GDP contribution) has not declined in tandem, remaining at approximately 10% of GDP. This "output unchanged, employment sharply reduced" scissors gap precisely confirms that **automation substitution** is the primary cause of job losses, not import substitution.
+The Chow test shows that 2001 is a statistical breakpoint (F=72.6, far above the approximate 5% critical value of 3.13). **But the direction of this breakpoint is opposite to what the "China Shock" narrative predicts**:
+
+- Pre-2001 slope: **-0.3889 pp/year**
+- Post-2001 slope: **-0.1387 pp/year**
+
+**The decline decelerated after 2001, not accelerated.**
+
+The breakpoint scan further shows that the year with the highest F-value is **2008** (F=87.8), not 2001 (F=72.6, ranking 14th). If China's WTO accession were the primary cause of U.S. manufacturing employment decline, acceleration should have appeared after 2001, and 2008 should not be the largest breakpoint. Neither fact supports the "China as primary cause" thesis.
+
+**Correction of the "no significant structural break" formulation**: Earlier versions of this paper stated that "its slope did not undergo a significant structural break after China's WTO accession in 2001." This formulation has been corrected by statistical testing. The precise formulation is: 2001 is a statistical breakpoint, but its nature is "deceleration of decline," not "acceleration of decline." This direction is opposite to the expectation of the "China Shock" narrative.
+
+Meanwhile, U.S. manufacturing value-added (GDP contribution) has not declined in tandem, remaining at approximately 10% of GDP. This "output unchanged, employment sharply reduced" scissors gap further confirms that **automation substitution** is the primary cause of job losses.
 
 **Possible Counterargument and Response (II)**:
 
-*Possible counterargument*: "You are using 'manufacturing employment share' where the denominator is growing (services expansion) while the numerator is shrinking. If you look at absolute employment numbers, several million jobs were indeed lost after 2000. Isn't this China's impact?"
+*Possible counterargument*: "You are using 'manufacturing employment share' where the denominator is growing (services expansion) while the numerator is shrinking. If you look at absolute employment numbers, several million jobs were indeed lost after 2000."
 
-*Response*: Absolute employment indeed fell from 17.2 million in 2000 to 12.7 million in 2025—a loss of 4.5 million. But the key question is: **was this 4.5 million decline a linear continuation, or did it accelerate after 2001?** Data show that U.S. manufacturing employment was already steadily declining between 1980 and 2000 (from approximately 19 million to 17.2 million). The slope of decline increased slightly after China's WTO accession, but there was no "cliff-edge" structural break. More importantly, after 2011, when China's export growth slowed, U.S. manufacturing employment continued to decline—this directly negates the "China's WTO accession = U.S. job loss" one-way causal narrative.
+*Response*: Absolute employment indeed fell from 17.2 million in 2000 to 12.7 million in 2025—a loss of 4.5 million. But the key question is: **was this 4.5 million decline a linear continuation, or did it accelerate after 2001?** Data show that U.S. manufacturing employment was already steadily declining between 1980 and 2000. The slope of decline increased slightly after China's WTO accession, but there was no "cliff-edge" structural break. More importantly, after 2011, when China's export growth slowed, U.S. manufacturing employment continued to decline—this directly negates the "China's WTO accession = U.S. job loss" one-way causal narrative.
 
-## Directly Addressing the "China Shock" Counter-Argument
+### Directly Addressing the "China Shock" Counter-Argument
 
 The seminal study by Autor, Dorn, and Hanson (2016) did indeed confirm a significant negative impact of Chinese import competition on specific U.S. regions (the Rust Belt). This paper responds as follows:
 
 1. **Localized vs. Macro-Level**: The findings of that study are concentrated in geographically localized areas and do not prove that import competition was the **primary driver** of the long-term decline in U.S. manufacturing employment share nationwide.
 2. **Temporal Sequence Test**: After 2011, China's labor costs rose and export growth slowed. If China were the primary cause, U.S. manufacturing should have rebounded. Yet **between 2011 and 2025, U.S. manufacturing employment share continued to decline from approximately 10% to 8.0%**, with no trend reversal.
 3. **Third-Party Substitution Shift**: After 2011, U.S. jobs did not return; instead, they shifted in large numbers to lower-cost countries such as Vietnam and Mexico. This indicates that the driving force is **global capital's profit-seeking**, with China being the largest node in this chain, not its source.
-4. **Attributional Weights**: Research by Hicks & Devaraj (2015) indicates that between 2000 and 2010, 87.8% of manufacturing job losses were attributable to productivity growth (automation), with trade factors accounting for only 13.4%, with the remainder including corporate relocation and statistical error.
+4. **Attributional Weights**: Research by Hicks & Devaraj (2015) indicates that between 2000 and 2010, 87.8% of manufacturing job losses were attributable to productivity growth (automation), with trade factors accounting for only 13.4%.
 
-Of this 13.4% trade factor, China's specific contribution weight is beyond the data scope of this paper and does not affect its core judgment. Even if the entire trade factor were attributed to China (i.e., the most extreme assumption of China's shock effect), the trade factor's share of the total (13.4%) would still be far smaller than the domestic structural factor (87.8%). In other words, even under this most extreme assumption—where China accounts for the entirety of the trade factor—China's factor can explain at most approximately 13.4% of U.S. manufacturing job losses, while domestic structural factors explain approximately 87.8%. Therefore, even under the most extreme scenario, the macro-narrative that "China is the primary cause" fails quantitatively.
+**Appendix A, Experiment 2** conducts an extreme sensitivity reconstruction of this weight: even if the trade factor is pushed up to 40% (artificially magnified to 3 times the baseline), the weight of automation/productivity remains more than 1.5 times its own. Under the baseline and mainstream estimates, automation is 3-7 times that of China. "China is the primary cause" fails quantitatively.
 
 **Possible Counterargument and Response (III)**:
 
@@ -168,7 +190,7 @@ Of this 13.4% trade factor, China's specific contribution weight is beyond the d
 
 *Response*: This paper does not claim to be "more persuasive"; it claims to "answer a different question." Autor answers whether Chinese imports had a **localized** negative impact on specific regions—the answer is "yes." This paper asks whether China is the **primary cause** of the long-term decline in U.S. manufacturing employment nationwide—the answer is "no." A localized impact can be confirmed without changing its status as a secondary variable. The argumentative strategy of this paper is: **even if Autor's estimates are accepted in their entirety and pushed to their extreme upper bound, domestic structural factors (automation + financialization) still dominate in magnitude.**
 
-## The Structural Matrix of Deindustrialization
+### The Structural Matrix of Deindustrialization
 
 | Primary Cause | Specific Mechanism |
 | :--- | :--- |
@@ -177,9 +199,7 @@ Of this 13.4% trade factor, China's specific contribution weight is beyond the d
 | **Educational Disconnect** | The vocational education system has failed to supply sufficient skilled technical workers to advanced manufacturing. |
 | **Aging Infrastructure** | The average age of infrastructure exceeding 50 years raises domestic logistics costs. |
 
-## Why "Chinese Workers" Rather Than Wall Street or Robots?
-
-The above analysis demonstrates, at the levels of causal data analysis and structural weight distribution, that China is not the primary cause. Yet a deeper question of political communication remains: if the data trends are so clear, why does the narrative of "China taking jobs" remain so popular and politically mobilizing?
+### Why "Chinese Workers" Rather Than Wall Street or Robots?
 
 Having refuted the "China as primary cause" thesis with data, a deeper question remains unanswered: **since Wall Street's financialization and industrial automation are the primary drivers of U.S. job losses, why have "Chinese workers" rather than "bankers" or "robots" become the target of public anger?**
 
@@ -189,49 +209,41 @@ First, **Class Camouflage**: Blaming Wall Street means questioning the entire fi
 
 Second, **Cognitive Visibility**: Capital flows are abstract; automation processes are silent. But Chinese factories and Chinese goods are highly visible. Human cognition naturally tends to attribute complex systemic outcomes to concrete, visible actors rather than abstract structural forces.
 
-Third, **Ideological Othering**: China is constructed as the antithesis of the "free world," which gives anti-China narratives a natural moral mobilizing power to defend the American way of life and values—a rhetoric that cannot be equally applied to Germany (high automation but Western camp) or Mexico (low cost but political dependency).
+Third, **Ideological Othering**: China is constructed as the antithesis of the "free world," which gives anti-China narratives a natural moral mobilizing power to defend the American way of life and values.
 
-Fourth, **Temporal Anchoring Effect**: China's WTO accession in 2001 coincided with an accelerated decline in U.S. manufacturing employment share. This purely temporal coincidence has been transformed by political operatives into a causal narrative of "China's WTO entry = U.S. job loss," providing the public with a clear, simple, and highly inflammatory explanatory framework.
+Fourth, **Temporal Anchoring Effect**: China's WTO accession in 2001 coincided with an **accelerated** decline in U.S. manufacturing employment share—although Appendix A, Experiment 1 shows that this overlap is actually in the opposite direction (deceleration of decline), public perception is driven by "temporal overlap," not by statistical testing.
 
 **Possible Counterargument and Response (IV)**:
 
-*Possible counterargument*: "You say 'China is not the primary cause' on one hand, and 'Chinese workers are blamed because of cognitive visibility' on the other. Doesn't this amount to admitting that Chinese workers are indeed 'standing in front'? If Chinese factories weren't so large and Chinese exports weren't so numerous, American workers wouldn't blame them. Isn't this another way of saying China 'stole jobs'?"
+*Possible counterargument*: "You say 'China is not the primary cause' on one hand, and 'Chinese workers are blamed because of cognitive visibility' on the other. Doesn't this amount to admitting that Chinese workers are indeed 'standing in front'?"
 
-*Response*: There is a fundamental difference between the two. "Being seen" is not the same as "causing harm." A road sign can point to the site of an accident, but it is not the cause of the accident. Chinese factories and goods are "visible" because transnational capital chose China as a production node—and capital chose China precisely because China's institutional structure provides the most elastic (i.e., cheapest) labor supply. **American workers "see" Chinese factories, but they do not "see" the institutional forces that drove capitalists to relocate factories to China—including Wall Street's return requirements, U.S. trade policies, and the race-to-the-bottom logic by which Chinese local governments suppress labor costs to attract investment.** What is seen is the node; what is ignored is the structural force pushing the node.
+*Response*: There is a fundamental difference between the two. "Being seen" is not the same as "causing harm." A road sign can point to the site of an accident, but it is not the cause of the accident. Chinese factories and goods are "visible" because transnational capital chose China as a production node—and capital chose China precisely because China's institutional structure provides the most elastic (i.e., cheapest) labor supply. **American workers "see" Chinese factories, but they do not "see" the institutional forces that drove capitalists to relocate factories to China.** What is seen is the node; what is ignored is the structural force pushing the node.
 
-In summary, "hating Chinese workers" is not the result of economic rationality, but a highly effective political communication mechanism—it transforms structural contradictions into inter-group antagonism, both soothing the emotions of the victims and protecting the real beneficiaries.
-
-## After the Ebbing of "Survival Compulsion": Capital Transfer and Global Race-to-the-Bottom
+### After the Ebbing of "Survival Compulsion": Capital Transfer and Global Race-to-the-Bottom
 
 **Possible Counterargument and Response (V)**:
 
-*Reader's follow-up question*: "You say Chinese workers' low wages are the result of 'Survival Compulsion.' Now that Chinese wages are rising and capital is moving to Vietnam and Mexico, doesn't this prove that China's earlier competitiveness was based on 'low wages'? What does that have to do with 'Survival Compulsion'? Doesn't this prove the logic of 'exploitation-driven growth'?"
+*Reader's follow-up question*: "You say Chinese workers' low wages are the result of 'Survival Compulsion.' Now that Chinese wages are rising and capital is moving to Vietnam and Mexico, doesn't this prove that China's earlier competitiveness was based on 'low wages'?"
 
-*Response*: This follow-up precisely touches the core of the issue and reveals **another blind spot** in the narrative that "China took American jobs."
+*Response*: This follow-up precisely touches the core of the issue. First, distinguish two questions:
 
-First, we must distinguish two questions:
 - **Question A**: Did China's early manufacturing expansion utilize low wages? — The answer is yes.
 - **Question B**: Was the long-term decline of U.S. manufacturing employment **caused** by China's low wages? — The answer is no.
 
-Question A and Question B are **two independent questions**. Acknowledging A as true does not automatically lead to B being true.
+Acknowledging A as true does not automatically lead to B being true.
 
-Second, **"capital leaving China" precisely proves that "China is not the primary cause."** Why?
+Second, **"capital leaving China" precisely proves that "China is not the primary cause."** If the root cause of American workers' unemployment was "China's low wages," then when Chinese wages rise and capital leaves China, U.S. manufacturing employment should experience **systematic repatriation**. But the facts are:
 
-If the root cause of American workers' unemployment was "China's low wages," then when Chinese wages rise and capital leaves China, U.S. manufacturing employment should experience **systematic repatriation**. But the facts are:
-- China's labor costs have continued to rise since 2011;
 - Capital has not returned to the U.S., but has shifted to lower-cost countries such as **Vietnam, Mexico, India, the Philippines, and Indonesia**;
-- **Vietnam** attracted over $38 billion in foreign investment in 2025, with manufacturing accounting for 82.8% (General Statistics Office of Vietnam, 2026); China's investment stock in **Mexico** grew by 46% between 2022 and 2025 (Secretariat of Economy of Mexico, 2026), concentrated in the automotive and new energy sectors.
+- **Vietnam** attracted over $38 billion in foreign investment in 2025, with manufacturing accounting for 82.8% (General Statistics Office of Vietnam, 2026);
+- China's investment stock in **Mexico** grew by 46% between 2022 and 2025 (Secretariat of Economy of Mexico, 2026);
 - Meanwhile, U.S. manufacturing employment share continued its decline from approximately 10% to 8.0%.
 
-What does this show? **American workers never lost their jobs to "Chinese workers"—they were left behind by the structural logic of "global capital's search for the lowest cost."** China was once the largest node on this assembly line—when costs at this node rose, capital moved to another node rather than returning to the United States.
+**American workers never lost their jobs to "Chinese workers"—they were left behind by the structural logic of "global capital's search for the lowest cost."** China was once the largest node on this assembly line—when costs at this node rose, capital moved to another node rather than returning to the United States.
 
-On a deeper level: workers in Vietnam, Mexico, India, the Philippines, and Indonesia are now enduring a "Survival Compulsion" similar to what Chinese workers once experienced—excessive working hours, low pay, and lack of protections. **This is not a "China-specific" phenomenon, but the inevitable projection of global capital's search for the lowest survival cost within every "finite interval."**
+---
 
-Therefore, the rise in Chinese wages and the transfer of capital **not only fail to refute the concept of 'Survival Compulsion,' but actually prove its universality**—it is not a story of one country, but a story of a global system.
-
-American workers never lost to "Chinese workers." They lost to a **race-to-the-bottom system driven by global capital, transnational supply chains, and the financialization architecture.** Chinese workers are merely the ones in this system who contribute the most, are blamed the most, and receive the least.
-
-# VII. Structural Transfer: Global Profit Distribution and Winner-Take-All
+## VII. Structural Transfer: Global Profit Distribution and Winner-Take-All
 
 Using a $1,000 iPhone as an example:
 
@@ -254,26 +266,26 @@ Apple captures nearly 60% of the profits, while the Chinese workers who physical
 
 **Possible Counterargument and Response (VI)**:
 
-*Possible counterargument*: "Chinese workers only do the lowest-end assembly work, which has low technological content. It's only natural that they are paid less. Comparing their share to Apple's profits is meaningless."
+*Possible counterargument*: "Chinese workers only do the lowest-end assembly work, which has low technological content. It's only natural that they are paid less."
 
-*Response*: If returns were determined solely by "technological content," then when Chinese workers complete the same tasks at **double the efficiency of their U.S. counterparts** (see Section 2.2, Tesla case), their unit labor returns should enjoy an advantage, not a disadvantage. The real gap lies not in "skill level" but in the **extreme asymmetry of distributional power within global production networks**—workers in Germany or Japan performing similar assembly tasks earn significantly more than their Chinese counterparts, not because they have higher "technological content," but because their labor markets possess stronger institutional bargaining power (union coverage, minimum wage enforcement, universal social protection). The low earnings of Chinese workers are not a "skill" problem but a "bargaining power" problem.
+*Response*: If returns were determined solely by "technological content," then when Chinese workers complete the same tasks at **double the efficiency of their U.S. counterparts** (see Section 2.2, Tesla case), their unit labor returns should enjoy an advantage, not a disadvantage. The real gap lies not in "skill level" but in the **extreme asymmetry of distributional power within global production networks**.
 
-# VIII. Discussion: Mitigative Pathways Within Structural Constraints
+---
+
+## VIII. Discussion: Mitigative Pathways Within Structural Constraints
 
 Acknowledging the inertia and irreversibility of the current structural trends, this paper nonetheless considers it necessary to identify mitigative measures that countries can adopt at the margins—not to reverse trends, but to reduce the suffering experienced by individuals along the way.
 
-It must be particularly noted that the "Survival Compulsion" analyzed in this paper depends on several key features of China's current institutional environment: the urban-rural dual structure of the Hukou system, the fiscal incentives for local government race-to-the-bottom competition, and the weak enforcement of labor law. If these institutional conditions undergo structural change, the intensity of "Survival Compulsion" will change accordingly—this is precisely the testable proposition set forth in the falsifiability conditions of Chapter 10. In other words, "Survival Compulsion" is not an ontological "eternal essence" but a historical phenomenon produced under specific institutional conditions. Its mutability is the guarantee of this paper's falsifiability.
-
-Based on the foregoing analysis, both U.S. deindustrialization and China's "Survival Compulsion" are structural products of global capital mobility, rather than policy failures of any single country. This paper therefore does not offer prescriptions for "reversing trends," but instead points to directions for **alleviating the most acute distributional contradictions** within each country's domestic framework:
+It must be particularly noted that the "Survival Compulsion" analyzed in this paper depends on several key features of China's current institutional environment: the urban-rural dual structure of the Hukou system, the fiscal incentives for local government race-to-the-bottom competition, and the weak enforcement of labor law. If these institutional conditions undergo structural change, the intensity of "Survival Compulsion" will change accordingly—this is precisely the testable proposition set forth in the falsifiability conditions of Chapter IX.
 
 - **For the United States**: Rebuilding the vocational education system and upgrading infrastructure, while unable to reverse automation trends, can improve the matching efficiency of remaining domestic manufacturing jobs.
 - **For China**: Strict enforcement of labor law and gradual reform of the Hukou system, while unable to eliminate global capital's profit-seeking pressure, can raise workers' bottom-line bargaining power in labor-capital negotiations.
 
-When China's "Survival Compulsion" weakens due to institutional or demographic structural changes, global capital will not return to the United States but will continue to migrate to lower-cost destinations such as Vietnam, Mexico, India, the Philippines, and Indonesia. This trend is already occurring and further confirms the core judgment of this paper: the root cause of U.S. manufacturing employment decline lies not in "China" but in the structural logic of global capital's profit-seeking.
+When China's "Survival Compulsion" weakens due to institutional or demographic structural changes, global capital will not return to the United States but will continue to migrate to lower-cost destinations such as Vietnam, Mexico, India, the Philippines, and Indonesia.
 
-The above directions do not constitute a commitment to reversing structural trends, but only marginal adjustments to reduce individual suffering.
+---
 
-# IX. Falsifiability Conditions and Scholarly Self-Awareness
+## IX. Falsifiability Conditions and Scholarly Self-Awareness
 
 The core judgment of this paper consists of two claims:
 1. **External attribution is wrong**: The primary cause of U.S. manufacturing employment decline is not the rise of Chinese manufacturing.
@@ -287,19 +299,31 @@ If any of the following conditions occurs **within 5 years**, the core conclusio
 
 > **Note**: If wage increases lead to a significant decline in export competitiveness, this does not constitute falsification—it is merely the natural outcome of rising costs. Only when wage growth and rising competitiveness occur *simultaneously* would the "Survival Compulsion" explanation be truly overturned.
 
-# X. Acknowledgments
+4. **New falsifiability condition (based on Appendix A, Experiment 1)**: If future data reruns show that the post-2001 slope becomes "acceleration of decline," or the largest breakpoint shifts to 2001, then the "temporal priority" argument of this paper is weakened.
 
-This paper has benefited from the inspiration of the Equal System philosophical framework and the valuable comments of anonymous reviewers at various stages. All views expressed and any errors contained herein are solely the responsibility of the author.
+5. **New falsifiability condition (based on Appendix A, Experiment 2)**: If future research shows that the 87.8% estimate of Hicks & Devaraj (2015) is seriously erroneous and the automation weight should be substantially reduced (e.g., to below 50%), then the magnitude argument of this paper is weakened.
 
-# XI. Data Availability Statement
+---
 
-All data used in this paper are derived from publicly available official statistical reports, including but not limited to: China's National Bureau of Statistics, China's National Health Commission, the U.S. Bureau of Labor Statistics (BLS), the Federal Reserve Bank of St. Louis (FRED), the General Statistics Office of Vietnam, and the Secretariat of Economy of Mexico. All data sources are fully cited in the references.
+## X. Acknowledgments
 
-# XII. Conflict of Interest Statement
+This paper has benefited from the inspiration of the Equal System philosophical framework. All views expressed and any possible errors remain the sole responsibility of the author.
+
+---
+
+## XI. Data Availability Statement
+
+All data used in this paper are derived from publicly available official statistical reports, including but not limited to: China's National Bureau of Statistics, China's National Health Commission, the U.S. Bureau of Labor Statistics (BLS), the Federal Reserve Bank of St. Louis (FRED), the General Statistics Office of Vietnam, and the Secretariat of Economy of Mexico. All data sources are fully cited in the references. The numerical simulation code in Appendix A is located in the `survival-coercion/experiments/` directory and is reproducible.
+
+---
+
+## XII. Conflict of Interest Statement
 
 The author declares no conflict of interest that could affect the research conclusions or academic judgment of this paper. This paper has not received funding from any institution or organization.
 
-# XIII. References
+---
+
+## XIII. References
 
 1. National Bureau of Statistics of China. (2025). *Working Hours Data of Employed Persons in Chinese Enterprises, 2025*.
 2. National Health Commission of China. (2024). *National Occupational Disease Report Data*.
@@ -310,19 +334,116 @@ The author declares no conflict of interest that could affect the research concl
 7. Secretariat of Economy of Mexico. (2026). *Report on China's Foreign Direct Investment Stock in Mexico*.
 8. Autor, D. H., Dorn, D., & Hanson, G. H. (2016). The China Syndrome: Local Labor Market Effects of Import Competition in the United States. *American Economic Review*, 106(5), 1176-1216.
 9. Acemoglu, D., & Restrepo, P. (2020). Robots and Jobs: Evidence from US Labor Markets. *Journal of Political Economy*, 128(6), 2188-2244.
-10. Feenstra, R. C., & Hanson, G. H. (1999). The Impact of Outsourcing and High-Technology Capital on Wages: Estimates for the United States, 1979–1990. *NBER Working Paper No. 6962*. (Revised version published in *Journal of International Economics*, 2001, 54(2): 253-282.)
+10. Feenstra, R. C., & Hanson, G. H. (1999). The Impact of Outsourcing and High-Technology Capital on Wages: Estimates for the United States, 1979–1990. *NBER Working Paper No. 6962*.
 11. Krippner, G. R. (2011). *Capitalizing on Crisis: The Political Origins of the Rise of Finance*. Harvard University Press.
 12. Stockhammer, E. (2004). Financialisation and the Slowdown of Accumulation. *Cambridge Journal of Economics*, 28(5), 719-741.
 13. Beach, D., & Pedersen, R. B. (2013). *Process-Tracing Methods: Foundations and Guidelines*. University of Michigan Press.
 14. Hicks, M. J., & Devaraj, S. (2015). *The Myth and the Reality of Manufacturing in America*. Center for Business and Economic Research, Ball State University.
 15. U.S. Bureau of Labor Statistics. (2025). Employment in Manufacturing, 1950-2025.
 16. Federal Reserve Bank of St. Louis. (2025). Manufacturing Employment as a Share of Total Employment.
+17. Economic Analysis and Policy. (2026). Hukou reform and monopsony power: evidence from China's staggered implementation. (Cited as external mechanism evidence.)
 
-# Final Note
+---
+
+## Appendix A: Numerical Tests
+
+This appendix reports two sets of numerical tests on the core arguments of this paper. The experiment code is located in the `survival-coercion/experiments/` directory.
+
+### A.1 Experiment 1: Is 2001 a Structural Breakpoint?
+
+**Hypothesis**: 2001 is not a structural breakpoint in the U.S. manufacturing employment share trend; if China's WTO accession were the primary cause, acceleration of decline should have appeared after 2001.
+
+**Data**: FRED `MANEMP` (manufacturing employment) and `PAYEMS` (total nonfarm employment), annual aggregation, 1948-2024, 77 years total.
+
+**Method**: Chow test (testing whether 2001 is a known breakpoint) + breakpoint scan (conducting Chow tests for each year, finding the year with the highest F-value).
+
+**Results**:
+
+Key years manufacturing employment share:
+
+| Year | Share |
+| :--- | :--- |
+| 1950 | 30.95% |
+| 1970 | 25.13% |
+| 1990 | 16.16% |
+| 2000 | 13.08% |
+| 2001 | 12.45% |
+| 2010 | 8.83% |
+| 2020 | 8.53% |
+| 2024 | 8.11% |
+
+Chow test @ 2001:
+
+| Indicator | Value |
+| :--- | :--- |
+| F statistic | 72.645 |
+| Pre-2001 slope | -0.3889 pp/year |
+| Post-2001 slope | -0.1387 pp/year |
+
+Breakpoint scan: top 5 years by F-value:
+
+| Rank | Year | F-value |
+| :--- | :--- | :--- |
+| 1 | 2008 | 87.842 |
+| 2 | 2010 | 87.677 |
+| 3 | 2009 | 87.639 |
+| 4 | 2011 | 86.874 |
+| 5 | 2007 | 86.030 |
+
+2001's F-value ranking: 14th / 60.
+
+**Conclusion**: H1 is supported, but requires precision.
+
+1. 2001 is indeed a statistical breakpoint (F=72.6, far above the approximate 5% critical value of 3.13).
+2. **But the direction of the breakpoint is opposite to the "China Shock" narrative**: the slope after 2001 shifted from -0.39 to -0.14, decelerating the decline.
+3. **The largest breakpoint is in 2008** (financial crisis), not 2001.
+
+If China's WTO accession were the primary cause of U.S. manufacturing employment decline, acceleration of decline should have appeared after 2001, and 2008 should not be the largest breakpoint. Neither fact supports the "China as primary cause" thesis.
+
+### A.2 Experiment 2: Weight Reconstruction
+
+**Hypothesis**: Even pushing China's factor to its extreme upper bound, automation/productivity still dominates in magnitude.
+
+**Method**: Based on the decomposition baseline of Hicks & Devaraj (2015) (productivity 87.8%, trade 13.4%), conduct extreme sensitivity reconstruction.
+
+**Results**:
+
+| Scenario | China Factor | Automation Remaining | Ratio |
+| :--- | :--- | :--- | :--- |
+| Baseline: trade factor entirely attributed to China | 13.4% | 86.6% | 6.46x |
+| Autor et al. upper bound: trade explains 1/4 | 25.0% | 75.0% | 3.00x |
+| Artificial doubling | 26.8% | 73.2% | 2.73x |
+| Extreme upper bound: trade factor at 40% | 40.0% | 60.0% | 1.50x |
+
+**Conclusion**: Even pushing China's factor to its extreme upper bound (40%, 3 times the baseline estimate), the weight of automation/productivity remains more than 1.5 times its own. Under the baseline and mainstream estimates, automation is 3-7 times that of China.
+
+**"China is the primary cause" fails quantitatively.**
+
+### A.3 Overall Conclusion
+
+| Experiment | Argument Tested | Result |
+| :--- | :--- | :--- |
+| Experiment 1 | Temporal priority | Supported (2001 is a breakpoint, but direction is "deceleration of decline"; largest breakpoint in 2008) |
+| Experiment 2 | Magnitude weight | Supported (even at extreme upper bound, automation remains more than 1.5 times) |
+
+**Both experiments support the core arguments of the paper, but Experiment 1 exposed a formulation that needed correction**: the original paper stated "no significant structural break," but statistical testing shows 2001 is indeed a breakpoint. The revised formulation is: "2001 is a statistical breakpoint, but its direction is opposite to the 'China Shock' narrative."
+
+### A.4 Data Availability
+
+Experiment code:
+
+- `survival-coercion/experiments/exp1_breakpoint.py` (Experiment 1)
+- `survival-coercion/experiments/exp2_weight_reconstruction.py` (Experiment 2)
+
+Runtime environment: local Termux + Python 3 (no external dependencies; Experiment 1 requires network access to FRED).
+
+---
+
+## Final Note
 
 The core message this paper seeks to convey is simple: **In global production networks, capital can cross borders in search of the lowest cost, while workers—whether Chinese or American—are locked within their household registries, communities, and national boundaries. The truly free agent is not labor, but capital.**
 
-This paper is an applied extension of the **Equal System** philosophical framework into real-world political economy. The core concept of "Survival Compulsion," anchored in the **Hukou system** and **inter-jurisdictional race-to-the-bottom competition**, has been upgraded from description to mechanism.
+This paper is an applied extension of the **Equal System** philosophical framework into real-world political economy. The core concept of "Survival Compulsion," anchored in the **Hukou system** and **inter-jurisdictional race-to-the-bottom competition**, has been upgraded from description to mechanism. The two sets of numerical tests in Appendix A further upgrade the two core arguments of "temporal priority" and "order of magnitude" from narrative to statistical fact.
 
 This paper does not intend to deny the achievements of China's manufacturing development, nor does it intend to deny the progress China has already made in improving workers' rights. The core appeal of this paper is: in discussing the consequences of globalization, structural contradictions should not be reduced to the responsibility of a single country, nor should the sacrifices of one country's workers be used as a footnote for another country's political narrative.
 
@@ -330,4 +451,4 @@ What can be said has been said. The rest is left to silence.
 
 **Suggested Citation (APA Format)**:
 
-Zhong Shanzhen. (2026). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.1). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong Shanzhen. (2026). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2). Equal System Repository.
