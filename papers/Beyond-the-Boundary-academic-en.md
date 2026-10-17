@@ -1,35 +1,33 @@
----
-title: "Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition"
-author: "Zhong, Shanzhen"
-version: "1.7"
-date: "2026-08-16"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [Equal System, philosophical positioning, uncertainty subsumption, directional signal, descriptive meta-theory, philosophical dialogue]
----
-
 # Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition
 
+| Item | Content |
+| :--- | :--- |
+| Title | Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition |
+| Author | Zhong, Shanzhen |
+| Version | 1.9 |
+| Date | 2026-08-16 |
+| License | CC BY-NC 4.0 |
+| Keywords | Equal System, philosophical positioning, uncertainty subsumption, directional signal, descriptive meta-theory, philosophical dialogue |
 
-> **Core Proposition**: The task of this paper is not to propose a new theory, but to position the Equal System within a dialogue with the history of philosophy. Equal System seeks to terminate the game of "defining goodness, virtue, and justice," and to reframe these questions as descriptive analyses of "how directional signals are locked, maintained, and subsumed within systems." It does not lie on the extension of the history of philosophy—it lies **beyond the boundary**.
-
+> **Core Proposition**: The task of this paper is not to propose a new theory, but to position the Equal System within a dialogue with the history of philosophy, confirming its place at the current stage. Equal System no longer participates in the competition to "define goodness, virtue, and justice," but turns instead to describing the structure of that competition itself. It does not claim to have terminated the game; it simply declines to keep playing it. It does not lie on the extension of the history of philosophy—it lies **beyond the boundary** of the definition game. The conclusion of the current stage is not the end of the system, but the starting point of the next.
 
 ---
 
 ## Methodological Statement
 
-This paper is a **positioning paper**. Its core mode of argumentation is **positional argumentation**—it does not re-defend the first principles of the entire system (those propositions have been defended in the other ten papers), but rather argues for the position of these principles on the philosophical map. This paper defends the meta-proposition that **Equal System lies beyond the boundary**.
+This paper is a **positioning paper**. Its core mode of argumentation is **positional argumentation**—it does not re-defend the first principles of the entire system (those propositions have been defended in the other nine papers), but rather argues for the position of these principles on the philosophical map. This paper defends the meta-proposition that **Equal System lies beyond the boundary of the definition game**.
 
 The scope of dialogue in this paper is limited to classical philosophy (Plato to Kant) and select modern philosophers (Nietzsche, Wittgenstein, etc.). This limitation is intentional: Equal System is a foundational framework, and its primary interlocutors are those thinkers who raised foundational philosophical questions. Dialogue with contemporary ethics (Rawls, Nussbaum, MacIntyre, etc.) is possible, but lies beyond the scope of this paper.
 
-Additionally, this paper brings Equal System into dialogue with the natural sciences (quantum mechanics, thermodynamics, cosmology) to demonstrate the empirical grounding of the system—its core propositions are not pure speculation, but philosophical translations of structures already confirmed by physics.
+Additionally, this paper brings Equal System into dialogue with the natural sciences (quantum mechanics, thermodynamics, cosmology) to demonstrate the empirical grounding of the system—its core propositions are not pure speculation, but philosophical descriptions corresponding to structures already confirmed by physics.
 
 > **On the Meaning of "Boundary"**
 >
-> The "boundary" used in this paper refers to the endpoint of the interval within which certainty signals are defined. Within the boundary, signals have meaning and definition; beyond the boundary, signals are **undefined**—not zero, but no longer defined. "Beyond the boundary" is Equal System's own position: it does not attempt to provide new definitions, but describes the structure of definitional failure.
+> The "boundary" used in this paper refers to the endpoint of the interval within which certainty signals are defined. Within the boundary, signals have meaning and definition; beyond the boundary, signals are **undefined**—not zero, but no longer defined.
+>
+> The title **"Beyond the Boundary"** refers to **beyond the boundary of the definition game**, not **beyond the boundary of system operations**. Equal System is still a system, still within the boundary. It has not "stepped outside" the boundary; it has only, from within the boundary, described how a system marks its own boundary. *On the Limits of Meaning* has already shown: beyond the boundary is not a "place to walk out to," but a marker produced by the system internally. Equal System's position is the position of this marker.
 >
 > The title **"Beyond the Boundary"** is a spatial metaphor. If certainty is likened to light in a room, then the "boundary" is the wall of the room—light is defined within the wall; beyond the wall is not darkness, but a place where you no longer use the language of "light" to describe. The same applies to certainty: defined within the interval, undefined outside it.
-
 
 ---
 
@@ -37,13 +35,13 @@ Additionally, this paper brings Equal System into dialogue with the natural scie
 
 Before entering the dialogue, it is necessary to first draw the map.
 
-Equal System is a philosophical system composed of ten papers. Its starting point is *On the Limits of Meaning*, and its endpoint is this paper, *Beyond the Boundary*. Its core question is:
+Equal System at its current stage consists of ten papers. The starting point of the current stage is *On the Limits of Meaning*, and the conclusion of the current stage is this paper, *Beyond the Boundary*. This is not the end of the system—the system continues, and more papers are to come. The task of this paper is to confirm the work of the current stage. Its core question is:
 
 > **Where does certainty come from, and where does it go?**
 
 ### Core Concepts
 
-Before proceeding, it is necessary to define the two most central concepts in Equal System:
+Before proceeding, it is necessary to define the most central concepts in Equal System:
 
 > **Directional Signal**: A guiding certainty locked by a system during operations, pointing toward the system's own maintenance and operational continuity. It differs from descriptive certainty (e.g., "today's temperature is 25°C") in being *navigational* (e.g., "the system should maintain itself in this direction"). Goodness, virtue, and justice are not content, but specific types of directional signals.
 
@@ -51,7 +49,7 @@ Before proceeding, it is necessary to define the two most central concepts in Eq
 
 > **To Be Subsumed**: The process by which a certainty signal, upon the completion of an operation, re-merges back into uncertainty. This is the operational-level expression of entropy increase.
 
-### Structure of the Ten Papers
+### The Ten Papers of the Current Stage
 
 **Foundational Layer: How Certainty Operates**
 
@@ -62,19 +60,19 @@ Before proceeding, it is necessary to define the two most central concepts in Eq
 
 **Middle Layer: Institutions and Exchange**
 
-- *Signal, Exchange, and Institutional Stability*: Institutions maintain themselves through signal exchange; the failure of exchange is the starting point of institutional dissolution.
-- *Survival Compulsion and U.S. Industrial Decline*: U.S. industrial decline originates in capital logic, financialization, and automation, not in the rise of Chinese manufacturing.
+- *Signal, Exchange, and System Stability*: Institutions maintain themselves through signal exchange; the failure of exchange is the starting point of institutional dissolution.
+- *Survival Compulsion and U.S. Manufacturing Employment Decline*: U.S. manufacturing employment decline originates in capital logic, financialization, and automation, not in the rise of Chinese manufacturing.
 
 **Applications: Ethics and Existentialism**
 
-- *The Undefinability of Goodness, Virtue, and Justice*: Goodness, virtue, and justice are not definable content, but directional signals locked within boundaries by systems.
+- *An Operational Description of Goodness, Virtue, and Justice*: Goodness, virtue, and justice are not definable content, but directional signals locked within boundaries by systems.
 - *Who Is the Father?*: Men cannot obtain paternity confirmation equivalent to women, because the right of confirmation is structurally asymmetrical between genders.
 
 **Dialogue: With the History of Philosophy**
 
 - *The Command Body and Kant*: Kant's direction was correct (autonomy), but he did not discuss in detail the difficulties of autonomy in the empirical world—these difficulties arise from an external structure, the "Command Body."
 
-**Positioning: Review and Conclusion**
+**Positioning: Confirmation of the Current Stage**
 
 - *Beyond the Boundary*: This paper.
 
@@ -82,8 +80,13 @@ Before proceeding, it is necessary to define the two most central concepts in Eq
 >
 > **Certainty is condensed from uncertainty, maintained within a finite interval, and subsumed at the boundary.**
 >
-> This is not an opinion. It is a philosophical translation of quantum mechanics (uncertainty as the default state), thermodynamics (entropy increase is irreversible), and cosmology (visible matter constitutes only 5%).
+> This is not a conclusion derived from physics. It is a philosophical description corresponding to structures already confirmed by quantum mechanics (uncertainty as the default state), thermodynamics (entropy increase is irreversible), and cosmology (visible matter constitutes only 5%). Physics is the manifestation of the same structure at the physical level; Equal System is the description of this structure at the operational level.
 
+### Note on the Experimental Appendices
+
+Of the ten papers, seven include structural-model appendices: *Uncertainty Subsumption*, *Boundary Acceleration*, *Signal, Exchange, and System Stability*, *The Limited-Interval Principle*, *An Operational Description of Goodness, Virtue, and Justice*, *Who Is the Father?*, and *The Command Body and Kant*. These appendices test each paper's core structural claims using executable models. They do not change the philosophical nature of the papers, but they upgrade "conceptual analysis" to "testable structural propositions."
+
+*On the Limits of Meaning* and this paper are definitional/positioning papers and do not include structural-model experiments. Their criteria of validity are internal consistency, conceptual stress-testing, and genealogical accuracy, not numerical verification.
 
 ---
 
@@ -114,7 +117,7 @@ Kant anchored goodness in practical reason, holding that rational subjects can l
 
 Equal System's response is: rational autonomy itself is also a directional signal—it was a directional signal locked by the Enlightenment system under its specific boundary conditions. Kant's "categorical imperative" was a product of its era, not a transhistorical truth.
 
-But Equal System's engagement with Kant goes further. In *The Command Body and Kant*, the system addresses a question Kant did not discuss in detail: the difficulty of autonomy in the empirical world. Kant held that "ought" implies "can," but *The Command Body and Kant* argues that the difficulty of "can" is compressed by an external structure—the Command Body compresses the time and space for rational reflection by controlling survival resources. Kant described the destination; Equal System marks the slope of the road. This is not "surpassing" Kant, but continuing the inquiry where Kant stopped. (For the full development of this argument, see *The Command Body and Kant*.)
+But Equal System's engagement with Kant goes further. In *The Command Body and Kant*, the system addresses a question Kant did not discuss in detail: the difficulty of autonomy in the empirical world. Kant held that "ought" implies "can," but *The Command Body and Kant* argues that the difficulty of "can" is compressed by an external structure—the Command Body compresses the time and space for rational scrutiny by controlling survival resources. Kant described the destination; Equal System marks the slope of the road. This is not "surpassing" Kant, but continuing the inquiry where Kant stopped.
 
 **Moore: Goodness as an Indefinable Simple Property**
 
@@ -138,7 +141,7 @@ Nietzsche revealed how the content of "goodness" is shaped by power relations an
 
 **Wittgenstein: Goodness Cannot Be Spoken, Remain Silent**
 
-The dialogue here is with Wittgenstein's early position in the *Tractatus Logico-Philosophicus* (1921). Wittgenstein drew a boundary between the sayable and the unsayable, placing goodness, ethics, and value beyond that boundary, advocating silence (*Tractatus*, 6.421-6.522; 7). Equal System agrees with this judgment—goodness is indeed indefinable. But Equal System takes one further step: silence is not the end. Beyond the boundary is not emptiness, but the operational field where certainty condenses and is subsumed. Wittgenstein's demarcation is a positive philosophical act, but he "stopped at the boundary"; Equal System attempts to move beyond the boundary and describe the structure beyond it.
+The dialogue here is with Wittgenstein's early position in the *Tractatus Logico-Philosophicus* (1921). Wittgenstein drew a boundary between the sayable and the unsayable, placing goodness, ethics, and value beyond that boundary, advocating silence (*Tractatus*, 6.421-6.522; 7). Equal System agrees with this judgment—goodness is indeed indefinable. But Equal System takes one further step: silence is not the end. Equal System has not "stepped outside" the boundary; it has only treated "silence" itself as an internal marker to be described—silence is not a stance toward the outside of the boundary, but what the system says to itself: "This is where it stops." Wittgenstein's demarcation is a positive philosophical act, but he stopped at the boundary and remained silent; Equal System, from within the boundary, describes how the marker of "silence" is produced by the system.
 
 **Heidegger: Being as Being-in-the-World**
 
@@ -160,15 +163,15 @@ Zhuangzi said all things transform cyclically, without fixed essence (*Qiwulun*)
 
 **Quantum Mechanics: Particles Have No Definite Position Before Measurement**
 
-Equal System's "certainty is condensed from uncertainty" is a philosophical translation of wavefunction collapse. Quantum mechanics shows that, prior to measurement, particles exist in superpositions of multiple possibilities (Feynman et al., 1963; Heisenberg, 1958). Measurement collapses the wavefunction to a definite state—this is the physical version of "certainty condensed from uncertainty." Equal System generalizes this logic from the micro to all levels.
+Equal System's "certainty is condensed from uncertainty" corresponds structurally to wavefunction collapse. Quantum mechanics shows that, prior to measurement, particles exist in superpositions of multiple possibilities (Feynman et al., 1963; Heisenberg, 1958). Measurement collapses the wavefunction to a definite state—this is the physical version of "certainty condensed from uncertainty." Equal System generalizes this logic from the micro to all levels, but this is not derived from physics; it is a philosophical description corresponding to structures already confirmed by physics.
 
 **Thermodynamics: Entropy Increase Is Irreversible**
 
-Equal System's "certainty is subsumed at the boundary" is a philosophical translation of entropy increase. The second law of thermodynamics states that the entropy of an isolated system always increases (Clausius, 1865; Atkins, 2018). Ordered structures necessarily evolve toward disorder—Equal System translates this logic into the process of certainty being subsumed.
+Equal System's "certainty is subsumed at the boundary" corresponds structurally to entropy increase. The second law of thermodynamics states that the entropy of an isolated system always increases (Clausius, 1865; Atkins, 2018). Ordered structures necessarily evolve toward disorder—Equal System translates this logic into the process of certainty being subsumed.
 
 **Cosmology: Visible Matter Constitutes Only 5%, Dark Energy Dominates**
 
-Equal System's "uncertainty is the default state of the universe" is a philosophical translation of cosmological observations. 95% of the universe is dark matter and dark energy, not directly observable (Perlmutter et al., 1999; Riess et al., 1998). Certainty—all visible matter and structure—is but a tiny ripple on the cosmic background.
+Equal System's "uncertainty is the default state of the universe" corresponds structurally to cosmological observations. 95% of the universe is dark matter and dark energy, not directly observable (Perlmutter et al., 1999; Riess et al., 1998). Certainty—all visible matter and structure—is but a tiny ripple on the cosmic background.
 
 ### Addressed
 
@@ -178,7 +181,6 @@ Equal System's "uncertainty is the default state of the universe" is a philosoph
 | "What is justice?" | Justice is fairness / to each his due | Justice is the sense of order from signal alignment within a system. It has no independent content. |
 | "Where does meaning come from?" | Meaning comes from God / reason / existence | Meaning comes from the operation of the system locking directional signals within uncertainty. |
 | "What should I do?" | Follow moral laws / pursue happiness | This question lies beyond Equal System's boundary—it is descriptive, not normative. |
-
 
 ---
 
@@ -204,6 +206,7 @@ Equal System's four labels correspond respectively to its methodology, unit of a
 | **An existentialist post-structuralism** | Equal System holds that meaning is generated in operation and subsumed at the boundary—situated between existentialism (meaning must be created) and post-structuralism (meaning is fluid). |
 | **A naturalistic meta-ethics** | Equal System uses physics (quantum mechanics, thermodynamics) and systems theory to explain ethical phenomena—reducing ethics to describable structures. |
 
+**Supplementary Note**: These four labels describe Equal System's methodological posture, not its empirical content. Its empirical content has already been tested by structural models in the appendices of seven papers; these labels describe how it *works*, not what it *concludes*.
 
 ---
 
@@ -214,7 +217,7 @@ Equal System's four labels correspond respectively to its methodology, unit of a
 - Explain why definitions of "goodness," "virtue," and "justice" always fail
 - Describe how moral concepts are locked, maintained, and subsumed within systems
 - Provide an alternative to the "definition game"
-- Terminate the invalid question "what is goodness?"
+- No longer participate in the invalid question "what is goodness?", but turn instead to describing the structure of that question itself
 
 ### What It Cannot Do
 
@@ -243,12 +246,11 @@ If any of the following conditions hold, Equal System's core claims would be ove
 
 To date, no such evidence exists.
 
-
 ---
 
 ## V. Gesture
 
-If the preceding "Conclusion" is a summary of Equal System's position on the philosophical map, then "Gesture" is how you might continue walking after reading the map.
+If the preceding "Conclusion" is a summary of Equal System's position at its current stage, then "Gesture" is how you might continue walking after reading the map.
 
 Remember that image—on the beach of uncertainty, you build a sandcastle. The tide will come, but you still build.
 
@@ -258,13 +260,13 @@ Then, if you are willing, this is no longer a place where reason can continue to
 
 You see the Milky Way.
 
-You feel small, you feel alone. You think of the rise and fall of countless civilizations—they existed, and they have departed. The Sphinx stands guard over the tomb of millennia of civilizations. That sea of stars, you may never see with your own eyes.
+You feel small, you feel alone. You think of the rise and fall of countless civilizations—their traces have congealed in the desert, silent as the Sphinx. That sea of stars, you may never see with your own eyes.
 
 But you raise your hand, and wave.
 
 A farewell, and a first encounter.
 
-This is Equal System's final gesture.
+This is Equal System's posture at its current stage. The system will continue, but this posture will not change—no matter how many papers are added later, building sandcastles, looking at starlight, and waving will always be how it faces uncertainty.
 
 It promises no eternity, no arrival. It promises only this: upon uncertainty, you have manufactured certainty; at the end of meaning, you have waved your hand. Sandcastles will be smoothed over, stars will die, the starlight of civilizations you cannot reach—but you existed within a finite interval.
 
@@ -272,12 +274,11 @@ You built a sandcastle. You saw starlight. You waved.
 
 That is enough.
 
-
 ---
 
 ## Conclusion
 
-Equal System is not the next answer in the history of philosophy. It is the termination of the "game of defining goodness."
+Equal System is not the next answer in the history of philosophy. It is a withdrawal from the "game of defining goodness."
 
 - It poses **different questions** to Plato, Aristotle, Kant, and Moore—not "what is goodness," but "how is goodness locked within systems."
 - It **incorporates** the insights of Nietzsche, Wittgenstein, Heidegger, Sartre, Camus, and Zhuangzi—and provides them with structure.
@@ -288,12 +289,11 @@ Equal System is not the next answer in the history of philosophy. It is the term
 
 **What is it not?** Normative ethics, relativism, nihilism, philosophy of language.
 
-**Where is its boundary?** It can describe operations, but cannot provide content. It can terminate the definition game, but cannot tell you "what you should do."
+**Where is its boundary?** It can describe operations, but cannot provide content. It can withdraw from the definition game, but cannot tell you "what you should do."
 
-**What is its final gesture?** Build sandcastles, look up at the stars, and wave.
+**What is its posture?** Build sandcastles, look up at the stars, and wave.
 
-> **This is Equal System's place in the history of philosophy: it does not lie on the extension of the history of philosophy—it lies beyond the boundary.**
-
+> **This is Equal System's position at its current stage: it does not lie on the extension of the history of philosophy—it lies beyond the boundary of the definition game. The conclusion of the current stage is not the end of the system, but the starting point of the next.**
 
 ---
 
@@ -301,26 +301,25 @@ Equal System is not the next answer in the history of philosophy. It is the term
 
 This paper has benefited from the entire Equal System philosophical corpus of ten papers, and from all the interlocutors throughout the history of philosophy—from Plato to Zhuangzi, from Kant to Wittgenstein. All views expressed and any possible errors remain the sole responsibility of the author.
 
-
 ---
 
 ## References
 
 ### Equal System Series Papers
 
-All Equal System series papers are accessible via the following repository:  
+All Equal System series papers are accessible via the following repository:
 https://github.com/maxlanceund/equal-system
 
-1. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 2.0).
-2. Zhong, Shanzhen. (2026b). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 1.0).
-3. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 2.0).
-4. Zhong, Shanzhen. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 2.0).
-5. Zhong, Shanzhen. (2026e). *Signal, Exchange, and Institutional Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 1.0).
-6. Zhong, Shanzhen. (2026f). *Survival Compulsion and U.S. Industrial Decline: A Causal Reconstruction in Political Economy* (Version 4.1).
-7. Zhong, Shanzhen. (2026g). *The Undefinability of Goodness, Virtue, and Justice* (Version 1.6).
-8. Zhong, Shanzhen. (2026h). *Who Is the Father?—Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.0).
-9. Zhong, Shanzhen. (2026i). *The Command Body and Kant: Toward an Empirical Path to Autonomy* (Version 2.0).
-10. Zhong, Shanzhen. (2026j). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7).
+1. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1).
+2. Zhong, Shanzhen. (2026b). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3).
+3. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2).
+4. Zhong, Shanzhen. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2).
+5. Zhong, Shanzhen. (2026e). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.1).
+6. Zhong, Shanzhen. (2026f). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2).
+7. Zhong, Shanzhen. (2026g). *An Operational Description of Goodness, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1).
+8. Zhong, Shanzhen. (2026h). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.2).
+9. Zhong, Shanzhen. (2026i). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1).
+10. Zhong, Shanzhen. (2026j). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.9).
 
 ### Philosophical Works
 
@@ -345,9 +344,8 @@ https://github.com/maxlanceund/equal-system
 26. Perlmutter, S. et al. (1999). "Measurements of Ω and Λ from 42 High-Redshift Supernovae." *The Astrophysical Journal*, 517(2): 565-586.
 27. Riess, A. G. et al. (1998). "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant." *The Astronomical Journal*, 116(3): 1009-1038.
 
-
 ---
 
 ## Recommended Citation
 
-Zhong, Shanzhen. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.7). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.9). Equal System Repository.
