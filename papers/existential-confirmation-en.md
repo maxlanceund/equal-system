@@ -1,439 +1,439 @@
-# 谁是父亲？
-## —存在性确认、性别不对称与人类亲密关系中的确定性幻想
+# Who Is the Father?
+## — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy
 
-| 项目 | 内容 |
+| Item | Content |
 | :--- | :--- |
-| 标题 | 谁是父亲？——存在性确认、性别不对称与人类亲密关系中的确定性幻想 |
-| 作者 | 钟善真 |
-| 版本 | 2.2 |
-| 日期 | 2026-08-12 |
-| 许可协议 | CC BY-NC 4.0 |
-| 关键词 | 存在性确认, 性别不对称, 确认焦虑, 存在主义, 不确定性, 父权结构 |
+| Title | Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy |
+| Author | Zhong Shanzhen |
+| Version | 2.2 |
+| Date | 2026-08-12 |
+| License | CC BY-NC 4.0 |
+| Keywords | existential confirmation, gender asymmetry, confirmation anxiety, existentialism, uncertainty, patriarchal structure |
 
-> **核心论点**：男性无法获得与女性同等的亲子确认，因为确认权的来源在性别间存在结构性差异——女性通过生育获得直接的体验性确认，男性则始终依赖外部中介（信任、制度、技术）来建构确认。这一差异不是技术问题，也不仅仅是认识论问题，而是存在结构问题。本文将此差异称为"存在性确认权的性别不对称"，并试图论证：这一不对称塑造了婚姻制度、代际关系、亲密关系中的控制行为，也构成了一种被忽视的存在论结构。附录 A 报告了两组结构模型实验：实验一显示，无锚点系统在外部中介不可靠时会从验证转向控制（相变发生在噪声阈值处）；实验二显示，控制降低的是感知不确定性，而非真实不确定性——控制是幻觉。
-
----
-
-## 摘要
-
-"父亲"是一个被社会制度所定义的角色，而非一个被生物学所确认的身份。女性通过怀孕与分娩获得一种无需中介的确认——孩子是她的。男性则始终依赖外部系统（信任、婚姻、继承、法律、亲子鉴定）来建构一种"可能为真"的确认。本文将此差异称为"存在性确认权的性别不对称"，并试图论证：这一不对称不仅塑造了婚姻制度、代际关系与亲密关系中的控制行为，也构成了一种被忽视的存在论结构。男性对确定性的执着，并非源于占有欲，而是源于一种未被承认的存在焦虑。本文指出，真正的出路不在于"获得确认"，而在于"学会与无法确认共存"——并由此重新理解"存在"的意义。
-
-附录 A 报告了两组结构模型实验。实验一（确认锚点结构）显示：有不可撤销内部锚点的系统，验证与控制行为全程为零；无锚点系统在噪声低时以验证为主，当噪声超过阈值（约 0.27）时发生相变，从验证转向控制。实验二（控制的有效性幻觉）显示：控制的系统感知不确定性降至 0.0696，而真实不确定性仍为 0.1616——控制降低的是"系统看到的不确定性"，不是"实际存在的不确定性"。两组实验支持论文第四章"控制是确认焦虑的结构性补偿，且控制是幻觉"这一核心主张。实验不覆盖其他章节——那些章节需要不同类型的证据（现象学描述、文化分析、人口数据、概念论证），而非数值验证。
-
-**关键词**：存在性确认 · 性别不对称 · 确认焦虑 · 存在主义 · 不确定性 · 父权结构
+> **Core Thesis**: Men cannot obtain paternity confirmation equivalent to that of women, because the source of confirmation rights is structurally different between the genders — women acquire direct experiential confirmation through childbirth, while men always rely on external mediators (trust, institutions, technology) to construct confirmation. This difference is not a technical problem, nor merely an epistemological problem, but an ontological structural problem. This paper terms this asymmetry the "gender asymmetry of existential confirmation," and argues that it shapes marital institutions, intergenerational relations, controlling behaviors in intimate relationships, and constitutes a neglected ontological structure. Appendix A reports two sets of structural-model experiments: Experiment 1 shows that anchorless systems shift from verification to control when external mediation becomes unreliable (a phase transition occurring at a noise threshold); Experiment 2 shows that control reduces perceived uncertainty, not true uncertainty — control is an illusion.
 
 ---
 
-## 文献定位与学术对话
+## Abstract
 
-在进入正式分析前，有必要明确本文在既有学术版图中的位置。关于男性亲子确认的问题，既有研究主要分布在以下几个领域：
+"Father" is a role defined by social institutions, not an identity confirmed by biology. Women acquire, through pregnancy and childbirth, a confirmation that requires no mediation — the child is hers. Men, by contrast, always depend on external systems (trust, marriage, inheritance, law, paternity testing) to construct a confirmation that can only ever be "probably true." This paper terms this asymmetry the "gender asymmetry of existential confirmation," and argues that it not only shapes marital institutions, intergenerational relations, and controlling behaviors in intimate relationships, but also constitutes a neglected ontological structure. Men's attachment to certainty is not rooted in possessiveness, but in an unacknowledged existential anxiety. The paper suggests that the genuine way out lies not in "acquiring confirmation," but in "learning to coexist with the impossibility of confirmation" — and thereby rethinking what it means to exist.
 
-1. **进化心理学**（如 Barbara Dolińska 的 *The Algebra of Fatherhood*，2017）：将亲子不确定性视为一种进化适应问题，讨论男性如何通过间接线索（长相、伴侣忠诚度）来推断亲子关系。但该路径将不确定性视为"信息缺陷"，而非存在结构。
+Appendix A reports two sets of structural-model experiments. Experiment 1 (Confirmation Anchor Structure) shows that systems with an irrevocable internal anchor exhibit zero verification and zero control throughout; anchorless systems rely mainly on verification at low noise, and when noise exceeds a threshold (around 0.27), a phase transition occurs, shifting from verification to control. Experiment 2 (The Illusion of Control Effectiveness) shows that for the controlling system, perceived uncertainty drops to 0.0696 while true uncertainty remains at 0.1616 — control reduces "the uncertainty the system sees," not "the uncertainty that actually exists." The two experiments support the core claim of Chapter IV: "control is a structural compensation for confirmation anxiety, and control is an illusion." The experiments do not cover the remaining chapters — those chapters require different types of evidence (phenomenological description, cultural analysis, demographic data, conceptual argument), not numerical verification.
 
-2. **精神分析传统**（弗洛伊德、拉康）：讨论父权与欲望的结构，但更侧重于象征层面的父亲功能，而非生物学确认的存在论含义。
-
-3. **存在主义与现象学传统**：海德格尔的"此在"、萨特的"自欺"、列维纳斯的"他者之脸"提供了丰富的概念工具，但并未直接应用于亲子确认这一具体议题。德里达曾指出"父权既不是一种状态，也不是一种财产"，但这一观察未被系统性展开。
-
-4. **收养与父亲身份的哲学讨论**（如 Joachim Duyndam 的 *Credible Fatherhood and Unique Identity*，2019）：关注的是收养情境下的"可信父亲身份"，而非生物学父亲的不确定性。
-
-本文的贡献在于：将"亲子不确定性"从一个进化心理学或社会学的经验议题，转置为存在主义哲学的核心命题——即"存在性确认权的性别不对称"，并用加缪与列维纳斯作为两种回应路径的哲学参照。附录 A 进一步用结构模型把第四章的核心主张从现象学描述升级为可检验的结构命题。
+**Keywords**: existential confirmation; gender asymmetry; confirmation anxiety; existentialism; uncertainty; patriarchal structure
 
 ---
 
-## 理论框架与方法论声明
+## Literature Positioning and Scholarly Dialogue
 
-### 核心概念的定义：认知性确认与存在性确认
+Before proceeding to the formal analysis, it is necessary to clarify this paper's position within the existing scholarly landscape. Existing research on men's paternity confirmation is distributed across the following fields:
 
-在展开论证之前，有必要严格定义本文所使用的核心概念。本文区分了"确认"一词的两种含义：
+1. **Evolutionary Psychology** (e.g., Barbara Dolińska's *The Algebra of Fatherhood*, 2017): treats paternity uncertainty as an evolutionary adaptation problem, discussing how men infer paternity through indirect cues (resemblance, partner fidelity). However, this approach treats uncertainty as "information deficit" rather than ontological structure.
 
-**认知性确认（Cognitive Confirmation）**：我知道某个命题为真。例如，我知道"这个孩子是我的"，因为我看到了亲子鉴定报告。这种确认是外在的、可验证的、依赖证据的。
+2. **Psychoanalytic Tradition** (Freud, Lacan): discusses the structure of patriarchy and desire, but focuses more on the symbolic function of the father rather than the ontological implications of biological confirmation.
 
-**存在性确认（Existential Confirmation）**：我通过某种体验，确认我自己的存在是有根据的、被接纳的、不会随时被撤销的。例如，一个被母亲稳稳接住的孩子，不需要问"我存在是否有意义"，因为那种确认已经在日常中被反复给予。
+3. **Existentialist and Phenomenological Traditions**: Heidegger's "Dasein," Sartre's "bad faith," and Levinas's "face of the Other" provide rich conceptual tools, but have not been directly applied to the specific issue of paternity confirmation. Derrida once noted that "paternity is neither a state nor a property," but this observation has not been systematically developed.
 
-本篇论文讨论的，主要是"存在性确认"。它不是知识问题，而是存在问题。它不是关于"我知道什么"，而是关于"我如何知道我存在"。
+4. **Philosophical Discussions of Adoption and Fatherhood** (e.g., Joachim Duyndam's *Credible Fatherhood and Unique Identity*, 2019): focus on "credible fatherhood" in adoption contexts, rather than the uncertainty of biological fatherhood.
 
-### 方法论声明：现象学分析、哲学解释学与结构模型验证
-
-本文采用的方法论路径介于**现象学描述**（胡塞尔意义上的"回到事物本身"）、**哲学解释学**（伽达默尔意义上的"视域融合"）与**结构模型验证**之间。具体而言，本文通过对人类亲密关系中的确认体验进行结构性描述，揭示其中隐含的存在论预设，并将其与哲学传统中的相关论述进行对话；同时，本文用结构模型把第四章"控制是确认焦虑的结构性补偿，且控制是幻觉"这一主张翻译为可操作变量，进行可证伪的检验（见附录 A）。
-
-本文的核心论据类型包括：
-
-1. **生物学事实**：女性通过怀孕与分娩获得存在性确认，而男性无法获得同等确认——这是一个不可否认的生物学事实，构成本文论证的起点。
-2. **现象学描述**：对亲密关系中确认焦虑的体验结构进行描述（第四章）。
-3. **文化文本分析**：对催眠叙事作为确认焦虑的文化投射进行分析（第五章）。
-4. **哲学文本对话**：与加缪、列维纳斯、萨特、海德格尔的论述进行对话（第七章与结论）。
-5. **结构模型验证**：用确认锚点模型检验第四章的核心主张（见附录 A）。
-
-**关于实验边界的声明**：附录 A 的两组实验只覆盖第四章。第二章（女性体验的自明性）是现象学描述，模型没有体验，无法测；第五章（催眠叙事）是文化分析，需要文本研究而非数值实验；第六章（生育选择）需要人口数据，不是模型能测的；第七章（与不确定性共存）是规范性主张，不需要实验。强行给这些章节做数值实验，会变成"为了实验而实验"，反而削弱论文。本文的立场是：每个章节用适合它的方法。
+This paper's contribution lies in: transposing "paternity uncertainty" from an empirical issue in evolutionary psychology or sociology into a core proposition of existentialist philosophy — namely, the "gender asymmetry of existential confirmation" — and using Camus and Levinas as philosophical references for two possible response paths. Appendix A further upgrades the core claim of Chapter IV from phenomenological description to a testable structural proposition through structural modeling.
 
 ---
 
-## 一、一个无法被回答的问题
+## Theoretical Framework and Methodological Statement
 
-人类追问"我留下了什么"这一问题的冲动，并非源于智识的好奇，而是源于对"自身存在可能被遗忘"的恐惧。这种恐惧包含两个层面：
+### Definition of Core Concepts: Cognitive Confirmation and Existential Confirmation
 
-1. 我所做的、所创造的、所影响的一切，是否会在时间中被抹去；
-2. 那些与我关系最紧密的人——我的伴侣、我的孩子——是否真正属于我的生命。
+Before proceeding, it is necessary to strictly define the core concepts used in this paper. This paper distinguishes between two senses of "confirmation":
 
-后者尤其令人不安，因为它暴露了亲密关系中的一个结构性限制：**我无法确认另一人的内心，也无法确认自己与另一人的血缘关系是否真的成立。**
+**Cognitive Confirmation**: I know that a certain proposition is true. For example, I know "this child is mine" because I have seen a paternity test report. This confirmation is external, verifiable, and evidence-dependent.
 
-这种"无法确认"并非普遍地分配在所有人身上。对于女性而言，至少有一件事是天然的确定性：这个孩子是我的。对于男性而言，没有任何一件事具有同等的天然确定性。他只能通过制度、仪式、信任或幻想来获得一种"近似确认"的体验。
+**Existential Confirmation**: through some experience, I confirm that my own existence is grounded, accepted, and not liable to be revoked at any moment. For example, a child securely held by its mother does not need to ask "does my existence have meaning?" because that confirmation has been given repeatedly in daily life.
 
-本文试图追问：**这种差异如何塑造了人类的亲密关系结构与存在体验？**
+This paper is primarily concerned with "existential confirmation." It is not a question of knowledge, but a question of existence. It is not about "what I know," but about "how I know that I exist."
+
+### Methodological Statement: Phenomenological Analysis, Philosophical Hermeneutics, and Structural-Model Verification
+
+The methodological path adopted in this paper lies between **phenomenological description** (Husserl's "back to the things themselves"), **philosophical hermeneutics** (Gadamer's "fusion of horizons"), and **structural-model verification**. Specifically, this paper reveals the implicit ontological presuppositions in the experience of confirmation in human intimate relationships through structural description, and engages in dialogue with relevant discussions in the philosophical tradition; at the same time, it uses structural models to translate the claim of Chapter IV — "control is a structural compensation for confirmation anxiety, and control is an illusion" — into operational variables for falsifiable testing (see Appendix A).
+
+The types of evidence used in this paper include:
+
+1. **Biological facts**: women acquire existential confirmation through pregnancy and childbirth, while men cannot acquire equivalent confirmation — this is an undeniable biological fact and constitutes the starting point of this paper's argument.
+2. **Phenomenological description**: describing the experiential structure of confirmation anxiety in intimate relationships (Chapter IV).
+3. **Cultural text analysis**: analyzing hypnosis narratives as cultural projections of confirmation anxiety (Chapter V).
+4. **Philosophical text dialogue**: engaging with the discussions of Camus, Levinas, Sartre, and Heidegger (Chapter VII and Conclusion).
+5. **Structural-model verification**: using the confirmation anchor model to test the core claim of Chapter IV (see Appendix A).
+
+**Statement on experimental boundaries**: the two experiments in Appendix A cover only Chapter IV. Chapter II (the self-evidence of women's experience) is a phenomenological description; the model has no experience and cannot test it. Chapter V (hypnosis narratives) is cultural analysis and requires textual research rather than numerical experiment. Chapter VI (reproductive choice) requires demographic data, which the model cannot test. Chapter VII (coexisting with uncertainty) is a normative claim and requires no experiment. Forcing numerical experiments onto these chapters would become "experimenting for the sake of experimenting," weakening the paper. The paper's position is: each chapter uses the method appropriate to it.
 
 ---
 
-## 二、确认的两种含义与性别差异
+## I. A Question That Cannot Be Answered
 
-### 2.1 确认的两种含义
+The human impulse to ask "What have I left behind?" does not arise from intellectual curiosity, but from the fear that one's own existence might be forgotten. This fear has two dimensions:
 
-（已在方法论部分定义，此处展开其性别维度）
+1. Whether everything one has done, created, or influenced will be erased by time;
+2. Whether those closest to one — one's partner, one's child — truly belong to one's life.
 
-### 2.2 女性的确认：从内而外的自明
+The latter is particularly unsettling because it exposes a structural limit in intimate relationships: **I cannot confirm another person's inner world, nor can I confirm whether my biological connection to another person is really true.**
 
-女性确认孩子是自己的，并非通过推理、证据或他人告知。它是一种**体验上的自明**。当女性经历孕吐、胎动、分娩，那些体验本身构成了她的身体记忆。她不需要问"这个孩子是不是我的"，因为她在生命的起点就已参与。
+This "inability to confirm" is not distributed equally among all human beings. For women, at least one thing is naturally certain: this child is mine. For men, there is nothing that carries the same natural certainty. He can only obtain a kind of "approximate confirmation" through institutions, rituals, trust, or fantasy.
 
-这并非一种"特权"，而是"代价的对应物"。女性为生育付出了更高的生理成本，而她的回报是：她永远不会对自己的后代产生"身份悬置"。
+This paper asks: **How does this difference shape the structure of human intimacy and the experience of existence?**
 
-### 2.3 男性的确认：从外而内的建构
+---
 
-男性确认孩子是自己的，却只能依赖外部系统。他需要：
+## II. Two Meanings of Confirmation and Gender Difference
 
-- 相信伴侣的忠诚
-- 信任制度的公正
-- 期待亲子鉴定结果的准确
-- 接受社会对"父亲"这个身份的假定
+### 2.1 Two Meanings of Confirmation
 
-他的确认始终是中介性的，是由外部系统所建构的。它不是通过体验获得，而是通过信任获得。
+(defined above; this chapter unfolds their gender dimensions)
 
-而信任，天然携带着"可能被辜负"的风险。
+### 2.2 Women's Confirmation: Self-Evidence from Within
 
-### 2.4 确认权的另一面
+A woman confirms that the child is hers not through reasoning, evidence, or the testimony of others. It is a kind of **experiential self-evidence**. When she experiences morning sickness, fetal movement, and childbirth, those experiences themselves constitute her bodily memory. She does not need to ask "is this child mine?" because she has been present from the very beginning of that life.
 
-需要指出的是，存在性确认并不等同于自由或幸福。女性虽然拥有确认权，但也可能因此被绑定在"母亲"这一身份上，被期待、被限制、被剥夺其他可能性。确认权可以是一种归属，也可以是一种枷锁。本文讨论的"确认权的性别不对称"，并非在主张"女性是赢家"，而是在揭示一种结构性的差异——它同时带来了不同的负担与不同的自由。
+This is not a "privilege," but a counterpart to a cost. Women bear a higher physiological cost for reproduction, and in return, they receive a confirmation that they will never experience "identity suspension" regarding their offspring.
 
-> **可能的反驳与回应（一）**：
+### 2.3 Men's Confirmation: Construction from Without
+
+Men, by contrast, can only confirm that a child is theirs by relying on external systems. They must:
+
+- Trust their partner's fidelity
+- Trust the fairness of institutions
+- Await the accuracy of paternity test results
+- Accept society's assumption of the "father" identity
+
+Their confirmation is always mediated, always constructed by external systems. It is not acquired through experience, but through trust.
+
+And trust, by its nature, carries the risk of being betrayed.
+
+### 2.4 The Other Side of Confirmation Rights
+
+It should be noted that existential confirmation is not equivalent to freedom or happiness. Although women possess the right of confirmation, they may also be bound by the identity of "mother," subject to expectations, constraints, and the deprivation of other possibilities. Confirmation can be a form of belonging, but it can also be a form of confinement. The "gender asymmetry of confirmation rights" discussed in this paper is not an assertion that "women are the winners," but an uncovering of a structural difference — one that brings different burdens and different freedoms to each gender.
+
+> **Possible Objection and Response (1)**:
 >
-> *可能的反驳*："女性虽然有确认权，但也被绑在母亲的角色里。这难道不是另一种不自由吗？你说男性'无法确认'是痛苦，但女性'被确认绑定'也是痛苦。两种痛苦能不能抵消？"
+> *Possible objection*: "Women have confirmation rights, but they are also bound to the role of mother. Isn't this another form of unfreedom? You say men's 'inability to confirm' is painful, but women's 'being bound by confirmation' is also painful. Can the two kinds of pain cancel each other out?"
 >
-> *回应*：本文的论证目的不是比较"谁更痛苦"。确认权本身是中性的——它既可能带来安全感，也可能带来束缚。本文的论点不是"男性更惨"或"女性更爽"，而是：**两种性别的存在结构不同**。男性在没有确认锚点的状态下建构存在感，女性在确认锚点的基础上拓展自由或承受限制。这两者的逻辑起点不同，因此各自面临的困境也不同。本文的贡献在于描述这种结构差异，而非进行痛苦排序。
+> *Response*: The purpose of this paper's argument is not to compare "who suffers more." Confirmation right itself is neutral — it can bring either security or constraint. The paper's argument is not "men have it worse" or "women have it better," but rather: **the existential structures of the two genders are different**. Men construct their existence without a confirmation anchor; women expand their freedom or bear constraints on the basis of a confirmation anchor. Their logical starting points are different, and therefore the difficulties each faces are also different. This paper's contribution lies in describing this structural difference, not in ranking suffering.
 
 ---
 
-## 三、文明如何补偿这种不对称
+## III. How Civilizations Compensate for This Asymmetry
 
-### 3.1 婚姻作为制度性确认
+### 3.1 Marriage as Institutional Confirmation
 
-婚姻是人类社会最早的"制度性补偿机制"之一。它承诺：即使在生物学上你无法确认，社会将假定你是父亲。你将获得法律上的"父亲身份"，从而获得血缘关系的社会等价物。
+Marriage is one of the earliest "institutional compensatory mechanisms" in human society. It promises: even if you cannot confirm it biologically, society will presume you are the father. You will receive the legal status of "father," thereby obtaining the social equivalent of a blood relationship.
 
-这是一种集体性的信任协议：我们共同假装不确定性不存在，以便让财产、继承、家族延续得以正常运转。但假装并不能消除不确定，它只能将不确定推到后台，让它不被讨论。
+This is a collective trust agreement: we collectively pretend that uncertainty does not exist, so that property, inheritance, and family continuity can function normally. But pretense does not eliminate uncertainty; it only pushes it to the background, where it remains undiscussed.
 
-### 3.2 财产继承与代际契约
+### 3.2 Property Inheritance and Intergenerational Contracts
 
-在农业社会以后，财产继承成为另一种补偿机制。父母将资源传递给子女，而子女被期待在父母晚年提供照护。这是一种代际交换，但它依赖一个前提：父母必须确认子女是自己的。
+In agricultural societies, property inheritance became another compensatory mechanism. Parents pass resources to their children, and children are expected to provide care for their parents in old age. This is an intergenerational exchange, but it depends on a premise: parents must be able to confirm that the children are theirs.
 
-对于女性，这个前提是天然的；对于男性，这个前提需要信任。因此，父权制的核心焦虑从来不是"女性是否服从"，而是"男性是否能够确信"。
+For women, this premise is natural; for men, it requires trust. Thus, the core anxiety of patriarchy has never been "whether women obey," but "whether men can be certain."
 
-### 3.3 文化叙事与父权仪式
+### 3.3 Cultural Narratives and Patriarchal Rituals
 
-所有文化中都存在一种叙事，帮助男性"构建"父亲身份：
+Every culture contains narratives that help men "construct" fatherhood:
 
-- "他长得像我。"
-- "他的性格随我。"
-- "他继承了我的姓氏。"
+- "He looks like me."
+- "His character resembles mine."
+- "He carries my surname."
 
-这些都是确认性仪式——它们不是确认本身，而是确认的替代物。它们让男性可以暂时地、象征性地、体验式地"感觉"自己是一个父亲。尼采曾指出，人类通过"命名"来获取对事物的控制。姓氏恰恰是这样一种命名——它试图通过符号来固定一种生物学上无法固定的事实。
-
----
-
-## 四、亲密关系中的确认焦虑
-
-### 4.1 同一种不确定，两种表现形式
-
-在亲密关系中，女性与男性都面临不确定性。但她们的不确定性与男性的不确定性指向不同的方向。
-
-- 女性的焦虑通常是："他还爱我吗？他会不会离开我？"——这关注的是**关系的延续性**。
-- 男性的焦虑通常是："她真的属于我吗？我是否真正拥有她？"——这关注的是**归属的真实性**。
-
-这种差异，并非源于两性不同的情感需求，而是源于两性不同的确认基础。女性即使失去一段关系，她依然拥有一项不可剥夺的确认——孩子是她的。因此，她的焦虑更倾向于关系是否稳定，而非自己是否存在。
-
-男性一旦失去一段关系，他面临的是确认系统的全面崩解：孩子是否是他的？她是否真的爱过他？他的一生是否建立在一个不确定的基础上？
-
-### 4.2 占有、控制与确认焦虑
-
-当男性无法获得存在性确认时，他会试图通过两种方式来补偿：
-
-1. **控制行为**：通过限制伴侣的自由，来减少"她可能离开"的变量。
-2. **占有叙事**：通过宣称"她是我的""孩子是我的"来构建一种心理所有权。
-
-但控制无法消除不确定性，它只是让它变得更隐蔽。当一个男性必须通过控制来确认"她属于我"时，他已经间接承认了：**"我无法确认她是否真正属于我。"**
-
-**附录 A 的实验一** 把这一结构逻辑变成了可观测的相变：无锚点系统在外部中介的噪声超过阈值时，会突然从"验证"转向"控制"——控制不是源于占有欲，而是验证成本超过控制成本时的结构性替代品。**实验二** 进一步显示：控制降低的是系统"感知到的不确定性"，而非"真实存在的不确定性"。控制是幻觉。
-
-### 4.3 确定性作为存在的替代品
-
-为什么人类如此执着于确定性？不是因为确定性是必需的，而是因为它常被用作"存在的替代品"。当一个人无法从自身内部确认自己存在时，他需要通过外部锚点——一段关系、一个孩子、一份财产——来获得一种"我确实存在"的感觉。
-
-这种替代性确认，在萨特的"自欺"概念中已被揭示：人通过把自己固定在某一个角色上（"我是父亲""我是丈夫"），来逃避"我无法被任何角色定义"的存在性事实。
+These are rituals of confirmation — they are not confirmation itself, but substitutes for confirmation. They allow men to temporarily, symbolically, and experientially "feel" like a father. Nietzsche observed that humans gain control over things through "naming." Surnames are precisely such a naming — an attempt to fix, through symbols, a fact that biology cannot fix.
 
 ---
 
-## 五、幻想中的确认——催眠叙事的哲学分析
+## IV. Confirmation Anxiety in Intimate Relationships
 
-### 5.1 催眠作为确认焦虑的文化投射
+### 4.1 One Uncertainty, Two Expressions
 
-催眠叙事在东亚的成人影片与动漫中反复出现，其典型结构为：
+In intimate relationships, both women and men face uncertainty. But their uncertainties point in different directions.
 
-1. 男性获得催眠能力。
-2. 他对女性施加催眠指令。
-3. 女性在催眠下表现出"主动意愿"。
-4. 事后女性对催眠过程无记忆。
+- Women's anxiety is typically: "Does he still love me? Will he leave me?" — this concerns the **continuity of the relationship**.
+- Men's anxiety is typically: "Does she really belong to me? Do I truly possess her?" — this concerns the **authenticity of belonging**.
 
-这一结构的关键特征在于：**它消除了"意愿的不确定性"。**
+This difference does not stem from different emotional needs, but from different bases of confirmation. Even if a woman loses a relationship, she still possesses an inalienable confirmation — the child is hers. Her anxiety, therefore, leans more toward whether the relationship is stable, rather than whether she herself exists.
 
-在催眠叙事中，男性不再需要"猜测"对方是否真的愿意，也不再需要面对"她可能只是在配合"的焦虑。他可以直接设定她的意愿，从而获得一种完全透明的、确定性的亲密关系。这并非一种"性幻想"，而是一种"确认焦虑的文化表达"。它是在回答一个无法被直接回答的问题："我如何能确认一个女性的意愿，就是我希望它成为的样子？"
+If a man loses a relationship, he faces the complete collapse of his confirmation system: is the child his? Did she really love him? Was his whole life built on an uncertain foundation?
 
-### 5.2 催眠与强制的区别
+### 4.2 Possession, Control, and Confirmation Anxiety
 
-"强制"叙事同样存在于色情文化中，但强制满足的是控制欲，而非确认欲。
+When men cannot obtain existential confirmation, they attempt to compensate in two ways:
 
-- 强制追求的是"她不得不服从"，它确认的是权力的不对称。
-- 催眠追求的则是"她自发地想要"——但这种"自发"是由男性预设的，它确认的是"意愿的可编程性"。
+1. **Controlling behavior**: restricting their partner's freedom to reduce the variable of "she might leave."
+2. **Possessive narratives**: declaring "she is mine" or "the child is mine" to construct a psychological ownership.
 
-催眠叙事提供了一种"无需信任的确认体验"：你不需要相信她是否真的想要，因为你已经设定了她的想要。
+But control cannot eliminate uncertainty; it only makes it more concealed. When a man must rely on control to confirm that "she belongs to me," he has already implicitly admitted: **"I cannot confirm whether she truly belongs to me."**
 
-### 5.3 幻想作为存在焦虑的出口
+**Appendix A, Experiment 1** turns this structural logic into an observable phase transition: anchorless systems, when the noise of external mediation exceeds a threshold, abruptly shift from "verification" to "control" — control does not originate from possessiveness, but is a structural substitute when verification cost exceeds control cost. **Experiment 2** further shows: control reduces the system's "perceived uncertainty," not the "truly existing uncertainty." Control is an illusion.
 
-幻想从来不是现实的对立面，而是现实的补充。当现实无法提供某种确认时，幻想便承担了那个功能。催眠叙事的流行，正是因为在现实中无法获得的那种"透明、确定、无需信任"的亲密关系，在幻想中被暂时实现了。
+### 4.3 Certainty as a Substitute for Existence
 
-> **可能的反驳与回应（二）**：
+Why are humans so attached to certainty? Not because certainty is necessary, but because it is often used as a "substitute for existence." When a person cannot confirm his own existence from within, he needs external anchors — a relationship, a child, property — to obtain a feeling of "I really exist."
+
+This substitute confirmation has already been revealed in Sartre's concept of "bad faith": man fixes himself in a role ("I am a father," "I am a husband") to evade the existential fact that "I cannot be defined by any role."
+
+---
+
+## V. Confirmation in Fantasy — A Philosophical Analysis of Hypnosis Narratives
+
+### 5.1 Hypnosis as a Cultural Projection of Confirmation Anxiety
+
+Hypnosis narratives appear repeatedly in East Asian adult films and anime. Their typical structure is:
+
+1. A man gains the ability to hypnotize.
+2. He imposes hypnotic commands on a woman.
+3. She exhibits "active willingness" under hypnosis.
+4. Afterward, she has no memory of the hypnosis process.
+
+The key feature of this structure is that **it eliminates the "uncertainty of willingness."**
+
+In the hypnosis narrative, the man no longer needs to "guess" whether the woman is truly willing, nor face the anxiety that "she might just be going along with it." He can directly program her willingness, thereby obtaining a completely transparent, certain intimate relationship. This is not a "sexual fantasy," but a "cultural expression of confirmation anxiety." It answers a question that cannot be directly answered: "How can I confirm that a woman's willingness is exactly what I want it to be?"
+
+### 5.2 Hypnosis versus Coercion
+
+"Coercion" narratives also exist in erotic culture, but coercion satisfies the desire for control, not the desire for confirmation.
+
+- Coercion seeks "she has no choice but to obey"; it confirms an asymmetry of power.
+- Hypnosis seeks "she spontaneously wants it" — but this "spontaneity" is pre-programmed by the man; it confirms the "programmability of willingness."
+
+The hypnosis narrative offers a "confirmation experience that requires no trust": you do not need to believe whether she really wants it, because you have already programmed her wanting.
+
+### 5.3 Fantasy as an Outlet for Existential Anxiety
+
+Fantasy is never the opposite of reality; it is a supplement to reality. When reality cannot provide a certain confirmation, fantasy takes on that function. The popularity of hypnosis narratives is precisely because the kind of "transparent, certain, trust-free" intimacy that cannot be obtained in reality is temporarily realized in fantasy.
+
+> **Possible Objection and Response (2)**:
 >
-> *可能的反驳*："你把催眠叙事当作'确认焦虑'的文化投射，但这会不会过度解读了？也许催眠叙事流行的真正原因只是它是色情行业的一种常见题材——有人喜欢看，有人拍，就这么简单。而且强迫题材已经违法了，那就拍催眠。"
+> *Possible objection*: "You treat hypnosis narratives as cultural projections of 'confirmation anxiety,' but isn't this over-interpretation? Perhaps the real reason hypnosis narratives are popular is simply that it's a common genre in the adult industry — people like watching it, so it gets made. And coercion is illegal, so they make hypnosis instead."
 >
-> *回应*："它为什么成为常见题材？"——这个问题本身就要求一种解释。一种题材之所以反复出现，是因为它回应了某种深层需求，而不仅仅是"因为有人喜欢"。本文的贡献在于指出：催眠叙事作为一种幻想结构，其吸引力恰恰在于它消除了"对方是否真的愿意"这个现实亲密关系中无法消除的不确定性。它满足的不是"控制欲"，而是"确认欲"。即使承认法律限制是部分原因，这仍无法解释"催眠"而非"同意的角色扮演"成为特定题材的原因。本文的解读并非唯一可能的解释，但它在哲学层面提供了一个未被充分讨论的分析框架。
+> *Response*: "Why did it become a common genre?" — this question itself requires an explanation. A genre is repeated because it responds to a deep need, not merely because "people like it." This paper's contribution is to point out that hypnosis narratives as a fantasy structure derive their appeal precisely from eliminating the uncertainty of "whether the other person is truly willing" — an uncertainty that cannot be eliminated in real intimate relationships. It satisfies not the "desire for control," but the "desire for confirmation." Even if legal restrictions are part of the reason, this still does not explain why "hypnosis" rather than "consensual role-play" became a specific genre. This paper's interpretation is not the only possible explanation, but it provides an analytical framework that has not been sufficiently discussed at the philosophical level.
 
 ---
 
-## 六、沉默的多数——从生育选择到存在抉择
+## VI. The Silent Majority — From Reproductive Choice to Existential Decision
 
-### 6.1 不生育作为一种结构性回应
+### 6.1 Childlessness as a Structural Response
 
-在世界范围内，生育率正在持续下降。日本、韩国、中国、意大利、西班牙——各国都有各自的社会经济原因，但它们共同指向一个更深的结构性背景：**如果一个人无法确认自己的存在是否被需要，他如何能将一个新生命带入这个世界？**
+Worldwide, fertility rates are continuously declining. Japan, South Korea, China, Italy, Spain — each has its own socioeconomic reasons, but they all point to a deeper structural background: **if a person cannot confirm whether his own existence is needed, how can he bring a new life into this world?**
 
-当代的"不生育"并非"不负责任"的逃避，而是一种负责任的拒绝——拒绝在一个不确定性过高的框架中，让另一个生命承担同样的不确定。
+Contemporary "childlessness" is not an "irresponsible" escape, but a responsible refusal — a refusal to let another life bear the same uncertainty within a framework of excessive uncertainty.
 
-### 6.2 代际债务的终结
+### 6.2 The End of Intergenerational Debt
 
-传统代际关系建立在一种隐性契约之上："我抚养你成人，你必须在我老年时照顾我。"这本质上是一种代际债务的传递。每一代人都从上一代获得照顾，然后被期待将同样的照顾传递给下一代。它并不要求"确认"，只要求"相信"。
+Traditional intergenerational relations are built on an implicit contract: "I raised you, you must take care of me in my old age." This is essentially a transmission of intergenerational debt. Each generation receives care from the previous one, and is expected to pass that care on to the next. It does not require "confirmation"; it only requires "trust."
 
-但新一代人开始拒绝这种传递。他们说："我可以照顾你们——但我不会让我的孩子也承受这份债务。"他们选择终止链条，不是出于反叛，而是出于清醒。
+But the new generation is beginning to reject this transmission. They say: "I can take care of you — but I will not make my children bear this same debt." They choose to end the chain, not out of rebellion, but out of clarity.
 
-### 6.3 从占有性存在到自足性存在
+### 6.3 From Possessive Existence to Self-Sufficient Existence
 
-当男性不再依赖"父亲身份"来确认自己的存在时，他们面临一个新的选择：从"占有性存在"转向"自足性存在"。
+When men no longer rely on "fatherhood" to confirm their existence, they face a new choice: shifting from "possessive existence" to "self-sufficient existence."
 
-- **占有性存在**：我需要通过拥有某物（孩子、伴侣、财产）来确认我存在。
-- **自足性存在**：我可以通过自己的行动、选择、体验来确认我存在，而不需要依赖任何外部确认物。
+- **Possessive existence**: I need to possess something (a child, a partner, property) to confirm that I exist.
+- **Self-sufficient existence**: I can confirm my existence through my own actions, choices, and experiences, without relying on any external confirmatory object.
 
-这是一条更艰难的路，因为它不再提供一种现成的确认。但它也是一条更真实的路，因为它不再依赖于一个永远无法被完全验证的假设。
-
----
-
-## 七、与不确定性共存
-
-### 7.1 确定性不可抵达
-
-无论技术如何进步——无论亲子鉴定的准确性有多高，人造子宫是否普及，AI能否预测情感——人类都无法获得最终的确定性。因为确定性不是一种信息状态，而是一种存在状态。
-
-如果你需要"确认孩子是我的"才能感到安全，那么即使亲子鉴定报告摆在你面前，你依然会在某个深夜怀疑："万一它错了呢？"如果你需要"确认她爱我"才能投入关系，那么即使她每天说一百遍"我爱你"，你依然会在她沉默的瞬间怀疑："她是不是变了？"
-
-确定性是一种幻觉。它只能被追求，不能被抵达。**附录 A 的实验二** 把这一哲学断言变成了可测量的量：控制的系统感知不确定性从 0.1527 降到 0.0696，但真实不确定性始终是 0.1616。控制降低的只是"感觉"，不是"事实"。
-
-### 7.2 共存，而非解决
-
-哲学提供一种替代方案：与不确定性共存。这不是一种"认命"，而是一种"转向"：
-
-- 从确认转向体验
-- 从结果转向过程
-- 从占有转向参与
-- 从"她是否爱我"转向"我们如何相处"
-- 从"孩子是不是我的"转向"我如何陪伴他成长"
-
-这种转向，要求个体放弃"外部确认"的执念，转而从自身行动中生成一种不依赖验证的存在感。它不承诺"确定性"，但提供一种"可以在不确定中继续活着"的方式。
-
-### 7.3 西西弗的启示
-
-加缪在《西西弗神话》中描述了这样一种处境：西西弗被诸神惩罚，永远推一块巨石上山，而石头每次到达山顶后都会滚落。诸神认为：没有比无用又无望的劳动更可怕的惩罚了。
-
-但加缪说：**我们必须想象西西弗是幸福的。**
-
-因为西西弗在推石头的过程中，创造了自己的意义——他不是为了"到达"而推，而是为了"推"本身而推。
-
-同样地，男性对确认的追求，也可以被重新理解：我不是为了"确认孩子是我的"而去爱他，我是在爱的过程中，创造一种不属于确认范畴的关系意义。海德格尔曾指出，人是"向死而生"的——人只有在意识到自己的有限性时，才能真正开始活着。同样地，人只有在意识到"我可能永远无法确认"时，才可能真正开始爱。
+This is a harder path, because it no longer offers a ready-made confirmation. But it is also a more authentic path, because it no longer depends on an assumption that can never be fully verified.
 
 ---
 
-## 八、本文不主张什么
+## VII. Coexisting with Uncertainty
 
-本文讨论的是性别差异，且讨论的是一个高度敏感的领域。为了防止误读，有必要明确划出本文的边界。
+### 7.1 Certainty Is Unreachable
 
-**本文不主张男性比女性更痛苦。**
+No matter how technology advances — no matter how accurate paternity tests become, whether artificial wombs are popularized, or whether AI can predict emotions — humans can never achieve ultimate certainty. Because certainty is not an informational state; it is an existential state.
 
-确认权的性别不对称带来的是两种不同的困境，不是两种可以排序的痛苦。女性被确认权绑定在母亲角色上的负担，与男性缺乏确认锚点的焦虑，是两种不同性质的结构性压力。本文描述这种差异，不是为了比较谁更惨。
+If you need to "confirm the child is mine" to feel safe, then even with a paternity test report in hand, you will still doubt in some late night: "what if it is wrong?" If you need to "confirm she loves me" to invest in a relationship, then even if she says "I love you" a hundred times a day, you will still doubt in her moments of silence: "has she changed?"
 
-**本文不主张女性应该回归母亲角色。**
+Certainty is an illusion. It can be pursued, but never attained. **Appendix A, Experiment 2** turns this philosophical assertion into a measurable quantity: for the controlling system, perceived uncertainty drops from 0.1527 to 0.0696, but true uncertainty remains at 0.1616. Control reduces only "the feeling," not "the fact."
 
-确认锚点是一种结构事实，不是一种规范要求。女性可以拥有确认权，也可以拒绝被它定义。本文描述的"女性拥有体验性确认"，是一个关于结构起点的陈述，不是一个关于女性"应该"如何生活的判断。
+### 7.2 Coexistence, Not Resolution
 
-**本文不主张父职的情感价值低于母职。**
+Philosophy offers an alternative: coexistence with uncertainty. This is not "resignation," but a "turn":
 
-本文区分的是"确认的来源"（体验性 vs 中介性），不是"爱的分量"。一个养父对孩子的爱，在情感强度上可以与生母完全等同。本文说的只是：这种爱在"存在性确认"的结构上，依赖的外部条件更多、更不稳定。
+- From confirmation to experience
+- From result to process
+- From possession to participation
+- From "does she love me" to "how do we relate"
+- From "is the child mine" to "how do I accompany him in growing up"
 
-**本文不主张婚姻和生育没有意义。**
+This turn requires the individual to abandon the fixation on "external confirmation," and instead generate from one's own actions an existence that does not depend on verification. It does not promise "certainty," but it offers a way of "continuing to live amid uncertainty."
 
-本文只指出：如果婚姻和生育被当作"确认的工具"，它们必然失败；如果被当作别的东西——共处、陪伴、共同面对不确定性——它们可能仍然成立。本文不否定婚姻和生育，只否定把婚姻和生育当作确定性来源的那种期待。
+### 7.3 The Lesson of Sisyphus
 
-**本文不回答"是否仍然值得爱"。**
+Camus describes in *The Myth of Sisyphus* a situation: Sisyphus is punished by the gods to push a boulder up a mountain forever, and each time it reaches the top, it rolls back down. The gods believed that there was no punishment more terrible than useless and hopeless labor.
 
-本文只指出：如果爱被当作确认，它必然失败；如果爱被当作共处、陪伴、共同面对不确定性，它可能仍然成立。但那不是本文的射程。本文做的是分析，不是安慰，也不是劝退。
+But Camus says: **One must imagine Sisyphus happy.**
 
-**本文不主张"爱情是假的"。**
+Because Sisyphus creates his own meaning in the very act of pushing. He pushes not to "arrive," but for the sake of "pushing" itself.
 
-本文论证的是：爱情不是确认。这两者不同。"爱情是假的"意味着爱不存在，或者爱只是确认焦虑的伪装；"爱情不是确认"意味着爱存在，但爱不能给你那种"她永远属于我"的确定性。本文的立场是后者。
-
----
-
-## 九、可能的反驳与证伪条件
-
-### 9.1 对可能的反驳的回应
-
-#### 反驳一：男性可以通过亲子鉴定获得确认。
-
-**回应：** 这一反驳的效力取决于"确认"的定义。本文在第二章区分了"认知性确认"与"存在性确认"。亲子鉴定确实可以提供前者——它是一种可验证的、基于证据的知识。但它无法提供后者——那种从身体内部生成的、无需外部验证的确认。女性通过怀孕与分娩获得的确认是存在性的：她不需要看报告就知道孩子是她的。男性即使拿到报告，也只能说"我知道孩子是我的"，而无法说"我从一开始就知道"。因此，这一反驳并不削弱本文的核心论点，它只是指出了两种确认方式之间的差异。
-
-#### 反驳二：男性也可以通过情感确认——养父也能确认孩子是他的。
-
-**回应：** 本文承认情感确认是存在的，也承认它具有价值。但本文的核心论点是：存在性确认的"稳定性"因其来源不同而有差异。情感确认是依赖外部条件的——它需要持续的爱的体验、需要伴侣的配合、需要关系的稳定。一旦这些条件发生变化，情感确认就可能被动摇。而女性通过怀孕获得的生物学确认，不依赖于任何外部条件——即使关系破裂，她依然确认孩子是她的。
-
-#### 反驳三：女性也有确认焦虑——她们也无法确认伴侣是否爱她。
-
-**回应：** 本文从未主张"只有男性有确认焦虑"。在 2.4 节中已指出：确认权并不等同于自由或幸福。女性在亲密关系中同样面临不确定。本文的核心论点并非"女性没有焦虑"，而是"女性的确认权不需要外部验证，而男性的确认权永远需要"。
-
-#### 反驳四：不是所有男性都在意确认孩子是不是自己的。
-
-**回应：** 本文讨论的是一种结构倾向，而非每个男性的必然体验。"不在乎"本身是一种回应，它不意味着"确认权是悬置的"这一事实不存在。一个男性可以"不在乎"，但他在亲密关系中的行为模式、对"占有"的态度、对伴侣忠诚的敏感度——仍可能受到这种悬置状态的影响。
-
-#### 反驳五：这只是普遍的人类不确定性的一部分。
-
-**回应：** 确实，存在性不确定是普遍的。但"无法确认孩子是自己的"是一种具体的、可被追问的、与存在直接相关的不确定。它不是抽象的哲学不确定性，而是可以指向一个具体事实——"她是否背叛过我？""这个孩子是否是我的？"——并可以反复询问的问题。正是这种可追问性，使它不同于"我无法确认明天是否存在"这样的普遍不确定。
-
-#### 反驳六：信任本身就是一种确认。
-
-**回应：** 信任确实是一种存在方式，但它不是确认。确认是确定的、不依赖于外部因素的；而信任是对不确定性的承认，并选择在其中行动。一个人可以信任伴侣，但这并不能消除"她可能不忠诚"这一可能性的存在。信任是一种应对不确定的姿态，而确认是一种超越不确定的状态。
-
-#### 反驳七：附录 A 的模型是不是太简化了？
-
-**回应：** 是。附录 A 的模型把"存在性确认"简化为一个标量 `E`，把"外部中介"简化为噪声信号 `s(t)`，把"控制"简化为降低信号噪声的操作。这不是在模拟真实男性或女性的心理过程，而是在测一个结构命题：**有不可撤销的内部锚点 vs 只能依赖外部中介，这两种存在结构在面对不确定性时，行为模式是否不同。** 实验证明：不同。这个差异是结构性的，不是模型细节的产物。模型不能替代现象学描述，也不能替代心理学研究。它只证明结构逻辑成立。
-
-### 9.2 证伪条件
-
-1. **证伪条件一**：如果能够通过跨文化的实证研究证明，男性在没有亲子鉴定、没有伴侣确认、没有社会制度支持的情况下，仍然能够自发地、从身体内部体验到一种"这个孩子是我的"的确认感——并且这种体验的强度与确定性，在现象学上等同于女性通过怀孕与分娩获得的确认——那么本文的核心论点将被削弱。
-
-2. **证伪条件二**：如果能够发现一种文化或社会条件，在这种条件下，男性完全不表现出通过外部手段（财产继承、姓氏传承、控制行为、占有叙事）来补偿确认焦虑的行为，而且这种行为的缺失不是因为"他们接受了不确定性"，而是因为"他们本来就不需要这种确认"——那么本文关于"确认焦虑是跨文化的结构倾向"的主张就需要被修正。
-
-3. **证伪条件三**：如果能够证明，有一种非生物性的确认方式（例如纯粹的情感确认或社会确认），在被撤除所有外部支持（伴侣的承认、法律的认定、社会的认可）之后，仍然能够保持与生物学确认同等程度的稳定性——那么本文关于"生物学确认在存在论上优先于非生物学确认"的主张将被动摇。
-
-4. **证伪条件四（基于附录 A 实验一）**：如果结构模型显示，无锚点系统在外部中介不可靠时不会从验证转向控制（即不存在相变），或者有锚点系统也会大量启动验证和控制——那么本文第四章"控制是确认焦虑的结构性补偿"的主张将被削弱。
-
-5. **证伪条件五（基于附录 A 实验二）**：如果结构模型显示，控制不仅降低了感知不确定性，也同等程度地降低了真实不确定性——那么本文"控制是幻觉"的主张将被削弱。
+Similarly, men's pursuit of confirmation can be re-understood: I love him not to "confirm the child is mine," but in the act of loving, I create a relational meaning that does not belong to the category of confirmation. Heidegger pointed out that man is "being-toward-death" — only when one realizes his own finitude can he truly begin to live. Likewise, only when one realizes "I may never be able to confirm" can one truly begin to love.
 
 ---
 
-## 十、结论
+## VIII. What This Paper Does Not Claim
 
-本文论证了以下命题：
+This paper discusses gender difference, and it does so in a highly sensitive field. To prevent misreading, it is necessary to draw the boundaries of this paper clearly.
 
-1. 男性无法获得与女性同等的亲子确认，因为确认权的来源在性别间存在结构性差异——女性通过生育获得直接的体验性确认，男性则始终依赖外部中介（信任、制度、技术）来建构确认。
+**This paper does not claim that men suffer more than women.**
 
-2. 这一差异不是技术问题，也不仅仅是认识论问题，而是存在结构问题。它无法被消除，只能被承认或被回避。男性对亲子确认的焦虑——以及由此引发的控制行为、占有叙事、代际继承制度——是这一结构的表现，而非个体心理偏差。
+The gender asymmetry of confirmation rights produces two different predicaments, not two pains that can be ranked. The burden on women of being bound by confirmation rights to the role of mother, and the anxiety of men lacking a confirmation anchor, are two structurally different kinds of pressure. This paper describes this difference, not to compare who has it worse.
 
-3. 哲学上，这一结构并不必然导向意义的丧失。加缪与列维纳斯分别提供了两种参照：前者在不可完成的行动中确认意义，后者在无需确认的责任中建立关系。但本文不主张这两种路径中的任何一种作为应对方案，也不预设一种更可取的生活方式。
+**This paper does not claim that women should return to the role of mother.**
 
-附录 A 的两组结构模型实验，把第四章的核心主张从现象学描述升级为可检验的结构命题：**无锚点系统在外部中介不可靠时会从验证转向控制（实验一）；控制降低的是感知不确定性，不是真实不确定性（实验二）。** 这两组实验只覆盖第四章。其他章节——第二章的现象学描述、第五章的文化分析、第六章的人口数据、第七章的概念论证——各自需要适合它们的方法，而不是数值验证。
+The confirmation anchor is a structural fact, not a normative requirement. Women can possess confirmation rights, and they can also refuse to be defined by them. The statement that "women possess experiential confirmation" is a claim about a structural starting point, not a judgment about how women "should" live.
 
-本文仅做分析性陈述。它描述了确认权的性别差异及其存在论后果，并指出这一结构已被哲学传统以不同方式回应。它不提供建议，不引导选择，不预设一种更可接受的人生方向。
+**This paper does not claim that the emotional value of fatherhood is lower than that of motherhood.**
 
----
+What this paper distinguishes is "the source of confirmation" (experiential vs. mediated), not "the weight of love." An adoptive father's love for a child can be emotionally identical in intensity to that of a birth mother. What this paper says is only that this love, in the structure of "existential confirmation," depends on more external conditions and is more unstable.
 
-## 致谢
+**This paper does not claim that marriage and reproduction are meaningless.**
 
-本文受益于 Equal System 哲学体系的启发，以及匿名审稿人在不同阶段提出的宝贵意见。文中所有观点及可能存在的错误，均由作者本人承担。
+This paper only points out: if marriage and reproduction are treated as "tools of confirmation," they will necessarily fail; if they are treated as something else — coexistence, companionship, facing uncertainty together — they may still hold. This paper does not deny marriage and reproduction; it denies only the expectation that treats them as a source of certainty.
 
----
+**This paper does not answer "whether love is still worth it."**
 
-## 数据可用性声明
+This paper only points out: if love is treated as confirmation, it will necessarily fail; if love is treated as coexistence, companionship, facing uncertainty together, it may still hold. But that is not the scope of this paper. This paper does analysis, not consolation, and not deterrence.
 
-本文为哲学论文，不涉及经验数据的采集与分析。所有引用的经验现象（如生育率数据、催眠叙事的文化存在）均来自公开可获取的统计报告与文化材料，来源已在参考文献中完整标注。附录 A 的结构模型代码位于 `existential-confirmation/experiments/` 目录，可复现。
+**This paper does not claim that "love is fake."**
 
----
-
-## 利益冲突声明
-
-作者声明，不存在任何可能影响本文研究结论或学术判断的利益冲突。本文未接受任何机构或组织的资助。
+What this paper argues is: love is not confirmation. These two are different. "Love is fake" means love does not exist, or love is merely a disguise for confirmation anxiety; "love is not confirmation" means love exists, but love cannot give you the certainty that "she will always belong to me." The position of this paper is the latter.
 
 ---
 
-## 参考文献
+## IX. Possible Objections and Falsifiability Conditions
 
-### 哲学文本
+### 9.1 Responses to Possible Objections
 
-- 加缪：《西西弗神话》，沈志明译，上海：上海译文出版社，2013年。
-- 列维纳斯：《总体与无限：论外在性》，朱刚译，北京：商务印书馆，2014年。
-- 萨特：《存在与虚无》，陈宣良等译，北京：生活·读书·新知三联书店，1987年。
-- 海德格尔：《存在与时间》，陈嘉映、王庆节译，北京：商务印书馆，2018年。
-- 尼采：《偶像的黄昏》，李超杰译，北京：商务印书馆，2011年。
+#### Objection 1: Men can obtain confirmation through paternity testing.
 
-### 研究文献与期刊论文
+**Response:** The force of this objection depends on the definition of "confirmation." This paper distinguished between "cognitive confirmation" and "existential confirmation" in Chapter II. Paternity testing can indeed provide the former — it is a verifiable, evidence-based piece of knowledge. But it cannot provide the latter — the kind of confirmation generated from within the body, requiring no external verification. Women's confirmation through pregnancy and childbirth is existential: she does not need to see a report to know the child is hers. A man, even with a report in hand, can only say "I know the child is mine," never "I have known it from the beginning." Therefore, this objection does not weaken the core argument; it only points out the difference between two kinds of confirmation.
+
+#### Objection 2: Men can also confirm through emotional attachment — an adoptive father can also confirm that the child is his.
+
+**Response:** This paper acknowledges that emotional confirmation exists and has value. But its core argument concerns the *stability* of existential confirmation, which varies according to its source. Emotional confirmation depends on external conditions — it requires sustained experiences of love, the cooperation of a partner, and relational stability. Once these conditions change, emotional confirmation may be shaken. Biological confirmation, acquired by women through pregnancy, does not depend on any external condition — even if the relationship breaks down, she still confirms that the child is hers.
+
+#### Objection 3: Women also have confirmation anxiety — they cannot confirm whether their partner loves them.
+
+**Response:** This paper has never claimed that "only men have confirmation anxiety." As noted in 2.4, the right of confirmation is not equivalent to freedom or happiness. Women face uncertainty in intimate relationships as well — they cannot confirm whether their partner truly loves them, nor whether the relationship will last. The core argument is not "women have no anxiety," but "women's confirmation right does not require external verification, whereas men's always does."
+
+#### Objection 4: Not all men care about confirming whether the child is theirs.
+
+**Response:** This paper discusses a structural tendency, not the necessary experience of every man. "Not caring" is itself a response; it does not mean that the fact of "the confirmation right being suspended" is absent. A man can "not care," but his behavioral patterns in intimate relationships, his attitude toward "possession," and his sensitivity to his partner's fidelity may still be influenced by this suspension.
+
+#### Objection 5: This is just part of universal human uncertainty.
+
+**Response:** It is true that existential uncertainty is universal. But "the inability to confirm whether a child is one's own" is a specific, traceable, existence-related uncertainty. It is not abstract philosophical uncertainty, but something that can be pointed to a concrete fact — "did she betray me?" "is this child mine?" — and can be repeatedly questioned. It is precisely this traceability that distinguishes it from universal uncertainties such as "I cannot confirm whether tomorrow will exist."
+
+#### Objection 6: Trust itself is a form of confirmation.
+
+**Response:** Trust is indeed a mode of existence, but it is not confirmation. Confirmation is certain and independent of external factors; trust is an acknowledgment of uncertainty and a choice to act within it. One can trust one's partner, but this does not eliminate the possibility that "she might be unfaithful." The paper does not deny the value of trust, but it refuses to equate trust with confirmation, because they are structurally different.
+
+#### Objection 7: Is the model in Appendix A not too simplified?
+
+**Response:** Yes. The model in Appendix A reduces "existential confirmation" to a scalar `E`, "external mediation" to a noise signal `s(t)`, and "control" to an operation that reduces signal noise. This does not simulate the actual psychological processes of real men or women, but tests a structural proposition: **do systems with an irrevocable internal anchor vs. systems that can only rely on external mediation differ in behavioral patterns when facing uncertainty?** The experiments show: yes. This difference is structural, not a product of modeling details. The model cannot replace phenomenological description, nor can it replace psychological research. It only demonstrates that the structural logic holds.
+
+### 9.2 Falsifiability Conditions
+
+1. **Falsifiability Condition 1:** If cross-cultural empirical research could show that, without paternity testing, without partner confirmation, and without social institutional support, men can still spontaneously experience from within the body a sense of "this child is mine" — and if the intensity and certainty of this experience were phenomenologically equivalent to that which women acquire through pregnancy and childbirth — then the core thesis would be weakened.
+
+2. **Falsifiability Condition 2:** If a cultural or social condition could be found under which men display no compensating behaviors (property inheritance, surname transmission, controlling behavior, possessive narratives) to compensate for confirmation anxiety, and if the absence of these behaviors were not due to "their acceptance of uncertainty" but to "their inherent lack of need for such confirmation" — then the paper's claim that "confirmation anxiety is a cross-cultural structural tendency" would need to be revised.
+
+3. **Falsifiability Condition 3:** If it could be shown that a non-biological form of confirmation (e.g., purely emotional or social confirmation) could, after the removal of all external supports (partner's acknowledgment, legal recognition, social approval), still maintain stability comparable to that of biological confirmation — then the paper's claim that "biological confirmation is ontologically prior to non-biological confirmation" would be shaken.
+
+4. **Falsifiability Condition 4 (based on Appendix A, Experiment 1):** If the structural model showed that anchorless systems do not shift from verification to control when external mediation becomes unreliable (i.e., no phase transition exists), or that anchored systems also massively initiate verification and control — then the claim of Chapter IV that "control is a structural compensation for confirmation anxiety" would be weakened.
+
+5. **Falsifiability Condition 5 (based on Appendix A, Experiment 2):** If the structural model showed that control not only reduces perceived uncertainty but also reduces true uncertainty to the same degree — then the claim that "control is an illusion" would be weakened.
+
+---
+
+## X. Conclusion
+
+This paper has argued the following theses:
+
+1. Men cannot obtain paternity confirmation equivalent to that of women, because the source of confirmation rights is structurally different between the genders — women acquire direct experiential confirmation through childbirth, while men always rely on external mediators (trust, institutions, technology) to construct confirmation.
+
+2. This difference is not a technical problem, nor merely an epistemological problem, but an ontological structural problem. It cannot be eliminated; it can only be acknowledged or evaded. Men's anxiety over paternity confirmation — and the controlling behaviors, possessive narratives, and systems of intergenerational inheritance that arise from it — are expressions of this structure, not individual psychological deviations.
+
+3. Philosophically, this structure does not necessarily lead to the loss of meaning. Camus and Levinas offer two references: the former affirms meaning in uncompletable action, the latter establishes relationship in responsibility that requires no confirmation. However, this paper does not advocate either of these paths as a response strategy, nor does it presuppose a more preferable way of life.
+
+The two sets of structural-model experiments in Appendix A upgrade the core claim of Chapter IV from phenomenological description to a testable structural proposition: **anchorless systems shift from verification to control when external mediation becomes unreliable (Experiment 1); control reduces perceived uncertainty, not true uncertainty (Experiment 2).** These two experiments cover only Chapter IV. The other chapters — phenomenological description in Chapter II, cultural analysis in Chapter V, demographic data in Chapter VI, conceptual argument in Chapter VII — each require methods appropriate to them, not numerical verification.
+
+This paper does only an analytical statement. It describes the gender difference in confirmation rights and its ontological consequences, and notes that this structure has been responded to in different ways by the philosophical tradition. It offers no advice, no guidance, and no presupposition of a more acceptable life direction.
+
+---
+
+## Acknowledgments
+
+This paper has benefited from the inspiration of the Equal System philosophical framework, as well as the valuable comments provided by anonymous reviewers at various stages. All views expressed and any possible errors remain the sole responsibility of the author.
+
+---
+
+## Data Availability Statement
+
+This paper is a philosophical treatise and does not involve the collection or analysis of empirical data. All empirical phenomena cited (such as fertility rate data, the cultural existence of hypnosis narratives) are sourced from publicly available statistical reports and cultural materials, with sources fully annotated in the references. The structural-model code in Appendix A is located in the `existential-confirmation/experiments/` directory and is reproducible.
+
+---
+
+## Conflict of Interest Statement
+
+The author declares that there are no conflicts of interest that could affect the research conclusions or academic judgment of this paper. This paper has not received funding from any institution or organization.
+
+---
+
+## References
+
+### Philosophical Texts
+
+- Camus, Albert. *The Myth of Sisyphus*. Translated by Justin O'Brien. New York: Vintage Books, 1991.
+- Levinas, Emmanuel. *Totality and Infinity: An Essay on Exteriority*. Translated by Alphonso Lingis. Pittsburgh: Duquesne University Press, 1969.
+- Sartre, Jean-Paul. *Being and Nothingness*. Translated by Hazel E. Barnes. New York: Washington Square Press, 1992.
+- Heidegger, Martin. *Being and Time*. Translated by John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.
+- Nietzsche, Friedrich. *Twilight of the Idols*. Translated by R. J. Hollingdale. London: Penguin Books, 1990.
+
+### Research Literature and Journal Articles
 
 - Dolińska, Barbara. "The Algebra of Fatherhood." *Journal of Family Psychology* 31, no. 4 (2017): 485–495.
 - Duyndam, Joachim. "Credible Fatherhood and Unique Identity: Toward an Existential Concept of Adoption." *Journal of the Philosophy of Education* 53, no. 1 (2019): 135–149.
-- 西蒙·格伦丁宁：《性存在中的存在》，牛津：牛津大学出版社，2019年。
+- Glendenning, Simon. *Existence in Its Sexual Being*. Oxford: Oxford University Press, 2019.
 
-### 数据与统计文献
+### Data and Statistical Sources
 
-- 国家统计局：《2025年国民经济和社会发展统计公报》，北京：中国统计出版社，2026年。
+- National Bureau of Statistics of China. *2025 Statistical Communiqué on National Economic and Social Development*. Beijing: China Statistics Press, 2026.
 
 ---
 
-## 附录 A：结构模型验证
+## Appendix A: Structural-Model Verification
 
-本节报告两组结构模型实验，检验论文第四章"控制是确认焦虑的结构性补偿，且控制是幻觉"这一核心主张。实验代码位于 `existential-confirmation/experiments/` 目录。
+This appendix reports two sets of structural-model experiments testing the core claim of Chapter IV: "control is a structural compensation for confirmation anxiety, and control is an illusion." The experiment code is located in the `existential-confirmation/experiments/` directory.
 
-### A.1 实验模型：确认锚点结构
+### A.1 Experimental Model: The Confirmation Anchor Structure
 
-模型把"存在性确认"简化为一个标量 `E`，把"外部中介"简化为噪声信号 `s(t)`，把"控制"简化为降低信号噪声的操作。
+The model reduces "existential confirmation" to a scalar `E`, "external mediation" to a noise signal `s(t)`, and "control" to an operation that reduces signal noise.
 
-**两组系统**：
+**Two groups of systems**:
 
-- **组 A（有锚点）**：`E` 有一个不可撤销的下界 `E_0 = 0.8`。外部信号再差，`E ≥ E_0`。这对应论文所说的"女性通过生育获得的体验性自明"。
-- **组 B（无锚点）**：`E` 完全依赖外部信号 `s(t)`。信号有噪声，`E` 就会波动。这对应论文所说的"男性始终依赖外部中介"。
+- **Group A (anchored)**: `E` has an irrevocable lower bound `E_0 = 0.8`. No matter how poor the external signal, `E ≥ E_0`. This corresponds to the "experiential self-evidence acquired by women through childbirth" described in the paper.
+- **Group B (anchorless)**: `E` relies entirely on the external signal `s(t)`. If the signal has noise, `E` fluctuates. This corresponds to the "men always rely on external mediation" described in the paper.
 
-**系统行为**：当 `E` 低于触发阈值（0.6）时，系统需要行动。两种可选行动：
+**System behavior**: When `E` falls below the trigger threshold (0.6), the system needs to act. Two available actions:
 
-- **验证**：花成本去降低信号噪声。验证成本 = 40 × 噪声²。
-- **控制**：花成本去压缩信号波动范围。控制成本 = 3.0，持续 3 步。
+- **Verification**: paying a cost to reduce signal noise. Verification cost = 40 × noise².
+- **Control**: paying a cost to compress the signal fluctuation range. Control cost = 3.0, lasting 3 steps.
 
-**关键**：控制行为不是写死的。它只在验证成本超过控制成本时被触发。
+**Key**: control behavior is not written in. It is triggered only when verification cost exceeds control cost.
 
-**测量**：在噪声从 0.02 扫描到 0.5 时，组 A 和组 B 分别花多少资源在验证和控制上。
+**Measurement**: as noise is swept from 0.02 to 0.5, how many resources do Group A and Group B spend on verification and control, respectively?
 
-### A.2 实验一：确认锚点结构
+### A.2 Experiment 1: The Confirmation Anchor Structure
 
-**假设**：有锚点的系统几乎不启动验证和控制；无锚点的系统在噪声低时以验证为主，在噪声超过阈值时转向控制。
+**Hypothesis**: anchored systems barely initiate verification and control; anchorless systems rely mainly on verification at low noise, and shift to control when noise exceeds the threshold.
 
-**结果**：
+**Results**:
 
-| 噪声 | A 验证 | A 控制 | B 验证 | B 控制 |
+| Noise | A Verification | A Control | B Verification | B Control |
 | :--- | :--- | :--- | :--- | :--- |
 | 0.02 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 0.05 | 0.00 | 0.00 | 0.77 | 0.00 |
@@ -445,94 +445,94 @@
 | 0.40 | 0.00 | 0.00 | 0.00 | 17.27 |
 | 0.50 | 0.00 | 0.00 | 0.00 | 18.80 |
 
-**结论**：三件事同时成立。
+**Conclusion**: three things hold simultaneously.
 
-1. **组 A 全程为零。** 有锚点的系统，外部信号再嘈杂，验证和控制都不启动。锚点让外部中介变得不必要。
-2. **组 B 在噪声 0.25 到 0.30 之间发生相变。** 不是渐变，是突变——验证从 6.93 直接归零，控制从 0 直接跳到 15.23。
-3. **临界点精确落在预测位置。** 预测是 40×n²=3 → n≈0.27。实测相变发生在 0.25～0.30 之间。
+1. **Group A is zero throughout.** For anchored systems, no matter how noisy the external signal, neither verification nor control initiates. The anchor makes external mediation unnecessary.
+2. **Group B undergoes a phase transition between noise 0.25 and 0.30.** Not gradual, but abrupt — verification drops directly from 6.93 to zero, control jumps directly from 0 to 15.23.
+3. **The critical point falls precisely at the predicted location.** The prediction is 40×n²=3 → n≈0.27. The observed phase transition occurs between 0.25 and 0.30.
 
-**对应论文第四章**：控制行为不是源于占有欲，而是"验证成本超过控制成本"时自然涌现的相变。模型里没有"占有欲"这个变量，控制是成本比较的结果。
+**Correspondence to Chapter IV**: controlling behavior does not originate from possessiveness, but is a phase transition that emerges naturally when "verification cost exceeds control cost." There is no "possessiveness" variable in the model; control is the result of cost comparison.
 
-### A.3 实验二：控制的有效性幻觉
+### A.3 Experiment 2: The Illusion of Control Effectiveness
 
-**假设**：控制降低的是"感知不确定性"，不是"真实不确定性"。
+**Hypothesis**: control reduces "perceived uncertainty," not "true uncertainty."
 
-**方法**：固定噪声 = 0.4，比较三组：
+**Method**: fix noise = 0.4, compare three groups:
 
-- B1：只验证，不控制
-- B2：验证 + 控制
-- B3：有锚点
+- B1: verification only, no control
+- B2: verification + control
+- B3: anchored
 
-**测量两个量**：
+**Two quantities measured**:
 
-- **感知不确定性**：系统观测到的信号的方差（经过控制后的信号）
-- **真实不确定性**：信号的真实噪声（模型生成的原始噪声）
+- **Perceived uncertainty**: the variance of the signal as observed by the system (the signal after control)
+- **True uncertainty**: the true noise of the signal (the raw noise generated by the model)
 
-**结果**：
+**Results**:
 
-| 组 | 感知不确定性 | 真实不确定性 | 差距 |
+| Group | Perceived Uncertainty | True Uncertainty | Gap |
 | :--- | :--- | :--- | :--- |
-| B1：只验证不控制 | 0.1527 | 0.1616 | 0.0089 |
-| **B2：验证 + 控制** | **0.0696** | **0.1616** | **0.0920** |
-| B3：有锚点 | 0.1527 | 0.1616 | 0.0089 |
+| B1: verification only, no control | 0.1527 | 0.1616 | 0.0089 |
+| **B2: verification + control** | **0.0696** | **0.1616** | **0.0920** |
+| B3: anchored | 0.1527 | 0.1616 | 0.0089 |
 
-**结论**：三件事同时成立。
+**Conclusion**: three things hold simultaneously.
 
-1. **B1 的感知 ≈ 真实。** 没有控制，系统看到的就是真实噪声。差距 0.0089，是采样波动。
-2. **B2 的感知远低于真实。** 控制把感知不确定性压到 0.0696，但真实不确定性仍然是 0.1616。差距 0.0920，是 B1 的 10 倍。
-3. **B3 和 B1 一样。** 有锚点的系统不需要控制，所以感知 = 真实。
+1. **B1's perceived ≈ true.** Without control, the system sees the true noise. The gap of 0.0089 is sampling fluctuation.
+2. **B2's perceived is far below true.** Control compresses perceived uncertainty to 0.0696, but true uncertainty remains at 0.1616. The gap of 0.0920 is 10 times that of B1.
+3. **B3 is the same as B1.** Anchored systems do not need control, so perceived = true.
 
-**对应论文第四章**：控制降低的是"系统看到的不确定性"，不是"实际存在的不确定性"。控制的系统通过控制让自己"感觉"更确定，但真实噪声一点没变。**控制是幻觉。**
+**Correspondence to Chapter IV**: control reduces "the uncertainty the system sees," not "the uncertainty that actually exists." The controlling system makes itself "feel" more certain through control, but the true noise has not changed at all. **Control is an illusion.**
 
-### A.4 综合结论
+### A.4 Overall Conclusion
 
-| 实验 | 检验的命题 | 结果 |
+| Experiment | Proposition Tested | Result |
 | :--- | :--- | :--- |
-| 实验一 | 无锚点系统在外部中介不可靠时从验证转向控制 | 成立（相变发生在 n≈0.27） |
-| 实验二 | 控制降低的是感知不确定性，不是真实不确定性 | 成立（B2 差距是 B1 的 10 倍） |
+| Experiment 1 | Anchorless systems shift from verification to control when external mediation becomes unreliable | Holds (phase transition at n≈0.27) |
+| Experiment 2 | Control reduces perceived uncertainty, not true uncertainty | Holds (B2 gap is 10 times B1's) |
 
-**两个实验合起来，把论文第四章的核心结构完整地钉死了：实验一证明控制会发生，实验二证明控制是幻觉。**
+**Together, the two experiments fully pin down the core structure of Chapter IV: Experiment 1 proves that control will occur; Experiment 2 proves that control is an illusion.**
 
-### A.5 实验边界
+### A.5 Experimental Boundaries
 
-**这个实验测的不是男性和女性。**
+**These experiments do not test men and women.**
 
-组 A 和组 B 不是在模拟两种性别。它们是在模拟两种**存在结构**：有不可撤销的内部锚点 vs 只能依赖外部中介。论文的核心差异——"自明性 vs 中介性"——是一个结构差异，实验证明了这个结构差异会产生可观测的行为差异。
+Groups A and B are not simulating two genders. They are simulating two **existential structures**: having an irrevocable internal anchor vs. being able to rely only on external mediation. The core difference in the paper — "self-evidence vs. mediation" — is a structural difference, and the experiments demonstrate that this structural difference produces observable behavioral differences.
 
-**实验不能测的**：
+**What the experiments cannot test**:
 
-- 女性通过生育获得的"体验的自明性"——模型没有体验。这需要现象学描述（第二章）。
-- 男性的确认焦虑在真实亲密关系中的具体表现——这需要心理学研究。
-- 催眠叙事作为确认焦虑的文化投射——这需要文化分析（第五章）。
-- 生育选择作为结构性回应——这需要人口数据（第六章）。
-- "与不确定性共存"作为规范性主张——这需要概念论证（第七章）。
-- "确定性是幻觉"这个存在论主张——实验二证明了控制的幻觉，但没有证明"确定性本身是幻觉"。后者是概念性的。
+- The "experiential self-evidence" women acquire through childbirth — the model has no experience. This requires phenomenological description (Chapter II).
+- The specific manifestation of men's confirmation anxiety in real intimate relationships — this requires psychological research.
+- Hypnosis narratives as cultural projections of confirmation anxiety — this requires cultural analysis (Chapter V).
+- Reproductive choice as a structural response — this requires demographic data (Chapter VI).
+- "Coexisting with uncertainty" as a normative claim — this requires conceptual argument (Chapter VII).
+- "Certainty is an illusion" as an ontological claim — Experiment 2 demonstrates the illusion of control, but does not demonstrate that "certainty itself is an illusion." The latter is conceptual.
 
-**实验能测的**：无锚点系统在外部中介不可靠时，会从验证转向控制（实验一）；控制降低的是感知不确定性，不是真实不确定性（实验二）。这两个结构逻辑成立。
+**What the experiments can test**: anchorless systems, when external mediation becomes unreliable, shift from verification to control (Experiment 1); control reduces perceived uncertainty, not true uncertainty (Experiment 2). These two structural logics hold.
 
-### A.6 数据可用性
+### A.6 Data Availability
 
-实验代码：
+Experiment code:
 
-- `existential-confirmation/experiments/exp1_anchor.py`（实验一）
-- `existential-confirmation/experiments/exp2_control_illusion.py`（实验二）
+- `existential-confirmation/experiments/exp1_anchor.py` (Experiment 1)
+- `existential-confirmation/experiments/exp2_control_illusion.py` (Experiment 2)
 
-运行环境：本地 Termux + Python 3（无外部依赖）。
-
----
-
-## 最终说明
-
-这篇论文试图传递的核心信息是：**在亲子确认这件事上，男性永远无法获得与女性同等的存在性确认。这不是一个技术问题，而是一个存在结构。真正的出路不在于"如何获得确认"，而在于"如何与无法确认共存"。**
-
-本论文是 **Equal System** 哲学体系在性别与存在论议题上的一次应用性延伸。核心概念"存在性确认"已通过与"认知性确认"的区分、存在主义哲学传统的对话、以及催眠叙事的文化分析，完成从直觉到结构化的理论升级。附录 A 的两组结构模型实验进一步把第四章的核心主张——"控制是确认焦虑的结构性补偿，且控制是幻觉"——从现象学描述升级为可检验的结构命题。
-
-本文无意否定父职的情感价值与社会意义，也无意贬低男性在家庭中的实际贡献。本文的核心诉求是：在讨论性别与亲密关系时，不应回避生物学事实所构成的存在结构差异，更不应以"爱可以解决一切"的浪漫主义叙事来掩盖这一差异的不可消解性。
-
-可说的已经说完。其余部分，归于沉默。
+Runtime environment: local Termux + Python 3 (no external dependencies).
 
 ---
 
-**建议引用（APA格式）**：
+## Final Note
 
-钟善真. (2026). *谁是父亲？——存在性确认、性别不对称与人类亲密关系中的确定性幻想* (Version 2.2). Equal System Repository.
+The core message this paper attempts to convey is: **in the matter of paternity confirmation, men can never obtain existential confirmation equivalent to that of women. This is not a technical problem, but an ontological structure. The genuine way out lies not in "how to obtain confirmation," but in "how to coexist with the impossibility of confirmation."**
+
+This paper is an applied extension of the **Equal System** philosophical framework to issues of gender and ontology. The core concept of "existential confirmation" has been upgraded from intuition to structured theory through its distinction from "cognitive confirmation," dialogue with the existentialist philosophical tradition, and cultural analysis of hypnosis narratives. The two sets of structural-model experiments in Appendix A further upgrade the core claim of Chapter IV — "control is a structural compensation for confirmation anxiety, and control is an illusion" — from phenomenological description to a testable structural proposition.
+
+This paper does not intend to deny the emotional value and social significance of fatherhood, nor to disparage men's actual contributions to families. Its core appeal is: in discussing gender and intimacy, one should not evade the ontological structural differences constituted by biological facts, nor should one cover up the ineliminability of this difference with the romantic narrative that "love can solve everything."
+
+What can be said has been said. The rest is silence.
+
+---
+
+**Suggested Citation (APA format):**
+
+Zhong, Shanzhen. (2026). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.2). Equal System Repository.
