@@ -1,8 +1,10 @@
+# The Philosophy of Refusal
 
 | Item | Content |
 | :--- | :--- |
 | Title | The Philosophy of Refusal |
 | Author | Zhong Shanzhen |
+| Version | 1.1 |
 | Date | 2026-09-09 |
 | License | CC BY-NC 4.0 |
 | Keywords | Philosophy of Refusal, Wang Yangming, unity of knowing and acting, signal processing, this mind can refuse |
@@ -11,13 +13,15 @@
 
 # The Philosophy of Refusal
 
-> **Core Thesis**: When you receive a refusal signal, just give up. No more hesitation. That is the way. This paper argues that "this mind can refuse" is more radical than "this mind is luminous"—the former retains the right to reject any framework, including itself, and achieves an absolute philosophical freedom that depends on neither external validation nor internal stability.
+> **Core Thesis**: When you receive a refusal signal, just give up. No more hesitation. That is the way. This paper argues that "this mind can refuse" is more radical than "this mind is luminous"—the former retains the right to reject any framework, including itself, and achieves an absolute philosophical freedom that depends on neither external validation nor internal stability. Appendix A reports four structural-model experiments: the mutual information of a degenerate channel is exactly zero; termination does not require estimating the probability that the channel is normal, while continuation does; the survival rate of executing refusal is significantly higher than that of not executing; and systems without recognition capacity exhibit the same behavioral trajectory as systems that recognize but do not execute, proving that recognition is a precondition but not a sufficient condition.
 
 ---
 
 ## Abstract
 
 This paper starts from the internal predicament of Wang Yangming's philosophy and develops the meta-philosophical stance of the "Philosophy of Refusal." It argues that: (1) Wang Yangming's "unity of knowing and acting" depends on a definition of "innate knowing" that cannot be externally verified, making it epistemologically unstable; (2) the three major fascist cases of the twentieth century—Nazi Germany, Imperial Japan, and Fascist Italy—reveal the structural disaster of "collective unity of knowing and acting"; (3) three cases—the Titanic, the Challenger space shuttle, and the 1996 Mount Everest disaster—share the same structure: a refusal signal was delivered and recognized, but the operator did not execute the refusal, continued forward, and walked into disaster; (4) the validity of the refusal-signal model is thereby confirmed by historical experience. The paper concludes that "this mind can refuse" is more radical than "this mind is luminous"—the former retains the right to reject any framework.
+
+Appendix A reports four structural-model experiments. Experiment A (degenerate channel): the mutual information of a normal channel is 0.1198 bits, and that of a degenerate channel is exactly 0. Experiment B (threshold analysis): termination does not require estimating the probability that the channel is normal, while continuation does; when that probability falls below the threshold, termination has a higher expected value. Experiment C (execute vs. not execute): the survival rate of executing refusal is 1.000, and that of not executing is 0.007. Experiment D (recognition contrast): the survival rate of the no-recognition group is almost identical to that of the "recognize but do not execute" group (0.008 vs. 0.009), proving that recognition is a precondition for refusal to take effect, but not a sufficient condition.
 
 **Keywords**: Philosophy of Refusal; Wang Yangming; unity of knowing and acting; signal processing; this mind can refuse
 
@@ -148,7 +152,7 @@ If Captain Smith had executed refusal when he received the ice warnings—refusi
 
 **Refusal is not failure. Refusal is survival.**
 
-The case argument in this section shows that at the empirical level, the refusal-signal model is effective—executing refusal can prevent disaster. But does this model have logical necessity? The next section answers this question at the epistemological level.
+The case argument in this section shows that at the empirical level, the refusal-signal model is effective—executing refusal can prevent disaster. But does this model have logical necessity? The next section answers this question at the epistemological level. **Appendix A's Experiments C and D** operationalize this empirical observation: the survival rate of executing refusal is 1.000, and that of not executing is 0.007; the survival rate of the no-recognition group is almost identical to that of the "recognize but do not execute" group.
 
 ---
 
@@ -162,7 +166,7 @@ In such a system, the information gain of "acting" (submitting) is zero. Continu
 
 What appears here is the second source of refusal signals: **no-information signal.** The channel has degenerated; the output no longer carries information about the content of the input. The difference from a danger signal is: a danger signal says "there is danger ahead"; a no-information signal says "this road no longer speaks to you."
 
-But the operational response to both is the same: recognize as refusal signal, execute termination. The Philosophy of Refusal does not ask about the reason for termination; it only executes termination.
+But the operational response to both is the same: recognize as refusal signal, execute termination. The Philosophy of Refusal does not ask about the reason for termination; it only executes termination. **Appendix A's Experiment A** operationalizes this judgment: the mutual information of a normal channel is 0.1198 bits, and that of a degenerate channel is exactly 0.000000 bits.
 
 ---
 
@@ -223,6 +227,8 @@ More precisely: **when confirmation is impossible, both continuing and terminati
 
 This is the self-consistency of the Philosophy of Refusal at the epistemological level: it does not depend on a determination of the nature of the signal's source, therefore its operation is the only choice not built on an unverifiable premise. The empirical validity (Section IV) and the logical self-consistency (this section) together form the complete foundation of the Philosophy of Refusal.
 
+**Appendix A's Experiment B** operationalizes this argument: the expected value of continuing depends on an estimate of the probability p that the channel is normal, while the expected value of terminating does not depend on any estimate. When p falls below the threshold, termination has a higher expected value. And p itself is unverifiable—this is precisely the quantitative expression of "termination is the choice with fewer assumptions."
+
 ### The Philosophy of Refusal Is Not Nihilism
 
 | | Nihilism | The Philosophy of Refusal |
@@ -239,7 +245,7 @@ This is the self-consistency of the Philosophy of Refusal at the epistemological
 
 If a signal is mistaken for "refusal" and the operation is terminated, opportunities are lost.
 
-The Philosophy of Refusal does not take responsibility for signal recognition. It is only activated after the signal has already been recognized as "refusal." "Misjudgment" is a problem at the level of signal recognition; the Philosophy of Refusal does not deal with the state before recognition. The key question is: if you continue operating when you cannot confirm, and that operation rests on an unverified assumption—who bears the risk? The Philosophy of Refusal chooses termination not because it is the "optimal solution," but because it is the "choice with the fewest assumptions."
+The Philosophy of Refusal does not take responsibility for signal recognition. It is only activated after the signal has already been recognized as "refusal." "Misjudgment" is a problem at the level of signal recognition; the Philosophy of Refusal does not deal with the state before recognition. The key question is: if you continue operating when you cannot confirm, and that operation rests on an unverified assumption—who bears the risk? The Philosophy of Refusal chooses termination not because it is the "optimal solution," but because it is the "choice with the fewest assumptions." **Appendix A's Experiment D** provides structural evidence for this distinction: the survival rate of the no-recognition group (0.008) is almost identical to that of the "recognize but do not execute" group (0.009)—the two groups have the same behavioral trajectory, and the difference lies only in whether recognition occurred. Recognition is the precondition; execution is the key.
 
 ### 2. About the Value of Persistence
 
@@ -251,7 +257,7 @@ The Philosophy of Refusal is not against persistence. It is against repeatedly s
 
 You reframe "being refused" as "active refusal" and "failure" as "completion"—this is self-deception.
 
-Active refusal is based on objective judgment: signal degradation, zero information gain, the signal has been recognized as refusal. It is not an automatic identity transformation after any rejection, but an operation executed after identifying structural invalidity. Self-deception is refusing to acknowledge the validity of the signal; active refusal is precisely acknowledging the validity of the signal and acting accordingly—only changing one's attitude toward the signal.
+Active refusal is based on objective judgment: signal degradation, zero information gain, the signal has been recognized as refusal. It is not an automatic identity transformation after any rejection, but an operation executed after identifying structural invalidity. Self-deception is refusing to acknowledge the validity of the signal; active refusal is precisely acknowledging the validity of the signal and acting accordingly—only changing one's attitude toward the signal. **Appendix A's Experiment A** provides the objective basis for this judgment: the mutual information of a degenerate channel is exactly zero.
 
 ### 4. About the Limitation of Extreme Cases
 
@@ -288,6 +294,12 @@ The Philosophy of Refusal does not apply to scenarios of "complex signals" like 
 You say "under the constraint condition, this is the only non-self-deceiving choice"—is this itself not also claiming a truth?
 
 No. This is not claiming "this is truth," but stating a conditional proposition: if you acknowledge the constraint that "you cannot confirm the nature of the signal's source," then refusal is the only non-self-deceiving choice. If you do not acknowledge this constraint, the framework does not apply to you. It does not force anyone to accept it; it only delineates its own scope of application.
+
+### 10. About Whether the Experiments in Appendix A Are Merely Tautological
+
+Your Experiment A sets up a degenerate channel and then finds that its mutual information is zero—isn't that just writing the definition into the code?
+
+This is partly correct: Experiment A does operationalize the information-theoretic fact that "constant output → zero mutual information." But its role is not to "discover" something new, but to **provide a reproducible quantitative anchor**: the mutual information of a normal channel is 0.1198 bits, and that of a degenerate channel is exactly 0. This difference is structural, not sampling noise. More importantly, **Experiments B, C, and D are not tautological**: Experiment B shows that the expected-value difference between termination and continuation depends on an unverifiable parameter; Experiment C shows an order-of-magnitude difference in survival rates between executing and not executing; Experiment D shows that recognition and execution are two independent stages. Together, the four experiments cover the complete operational structure of the paper, rather than restating a single proposition.
 
 ---
 
@@ -337,18 +349,24 @@ This is the complete loop.
 
 ---
 
+## Acknowledgements
+
+This paper has benefited from the inspiration of the Equal System philosophical framework. All views expressed and any possible errors remain the sole responsibility of the author.
+
+---
+
 ## References
 
 1. Wang Yangming. (1518). *Instructions for Practical Living*.
 2. Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379–423.
-3. Zhong Shanzhen. (2026a). *A Strong State and a Relaxed People—A Comparative Analysis Based on Fiscal Intermediaries and Typology*. Equal System Repository.
-4. Zhong Shanzhen. (2026b). *On the Limits of Meaning: A Verificationalist Framework*. Equal System Repository.
+3. Zhong, Shanzhen. (2026a). *A Strong State and a Relaxed People—A Comparative Analysis Based on Fiscal Intermediaries and Typology*. Equal System Repository.
+4. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
 
 ---
 
 ## Data Availability Statement
 
-This paper is a philosophical theory paper and does not involve the collection or analysis of empirical data.
+This paper is a philosophical theory paper and does not involve the collection or analysis of empirical data. The structural-model code in Appendix A is located in the `philosophy-of-refusal/experiments/` directory and is reproducible.
 
 ---
 
@@ -358,6 +376,129 @@ The author declares no conflicts of interest that could affect the research conc
 
 ---
 
+## Appendix A: Structural-Model Verification
+
+This appendix reports four sets of structural-model experiments testing the four core structural claims of the paper: the information gain of a degenerate channel is zero, termination is the choice with fewer assumptions, executing refusal improves survival rate, and recognition is a precondition but not a sufficient condition. The experiment code is located in the `philosophy-of-refusal/experiments/` directory.
+
+### A.1 Experimental Model
+
+The four experiments share the same basic setup:
+
+- The system runs within a time window, and at each step may encounter a "danger signal" (probability given).
+- When a signal is encountered, the system decides its behavior based on whether it has recognition capacity and whether it executes refusal.
+- Measurements: survival rate, average survival steps, mutual information.
+
+**Note on the nature of the experiments**: Experiment A is an operationalization of an information-theoretic fact, not a "discovery." Experiment B is a threshold analysis of expected values, not a simulation. Experiments C and D are agent-based simulations. The four experiments have different natures, but together they cover the operational structure of the paper.
+
+### A.2 Experiment A: Information Gain of a Degenerate Channel
+
+**Hypothesis**: The output of a normal channel carries information about the input; the output of a degenerate channel is constant, and mutual information is zero.
+
+**Method**: The input is 10,000 random labels (good/bad). The normal channel accepts good/bad with 70%/30% probability; the degenerate channel always rejects. Compute the mutual information `I(input; output)`.
+
+**Results**:
+
+| Channel | Mutual information |
+| :--- | :--- |
+| Normal channel | 0.119819 bits |
+| Degenerate channel | 0.000000 bits |
+
+**Conclusion**: Supported. The mutual information of the normal channel is greater than zero; that of the degenerate channel is exactly zero. This corresponds to Section V: "when the output does not vary with the input, information gain is zero. Continuing to operate is repetitive action."
+
+**Note on tautology**: This experiment does operationalize the definition of information theory. Its role is not to "discover" but to provide a reproducible quantitative anchor—the mutual information of a degenerate channel is exactly 0, not "very small," but 0. This difference is structural.
+
+### A.3 Experiment B: Termination vs. Continuation — Threshold Analysis
+
+**Hypothesis**: Termination does not require estimating the probability that the channel is normal; continuation does. When that probability falls below the threshold, termination has a higher expected value.
+
+**Method**: Set continuation reward R = 10, cost c = 1, threshold p* = c/R = 0.10. Compute the expected values of continuation and termination under different p.
+
+**Results**:
+
+| P(normal) | Continuation expected | Termination expected | Decision |
+| :--- | :--- | :--- | :--- |
+| 0.00 | -1.00 | 0.00 | Terminate |
+| 0.05 | -0.50 | 0.00 | Terminate |
+| 0.10 | 0.00 | 0.00 | Terminate |
+| 0.15 | 0.50 | 0.00 | Continue |
+| 0.30 | 2.00 | 0.00 | Continue |
+| 0.50 | 4.00 | 0.00 | Continue |
+| 1.00 | 9.00 | 0.00 | Continue |
+
+**Conclusion**: Supported. When p < c/R, termination has a higher expected value than continuation. The key is not the threshold itself, but that **p is unverifiable**—you cannot confirm whether the channel is normal or degenerate. Termination does not require estimating p; continuation does. This corresponds to Section VII: "termination requires no additional assumptions."
+
+### A.4 Experiment C: Executing Refusal vs. Not Executing Refusal
+
+**Hypothesis**: The survival rate of systems that execute refusal is significantly higher than that of systems that do not.
+
+**Method**: T = 100, 1000 trials, danger signal probability 0.08, disaster probability 0.6. Compare the "execute refusal" and "do not execute refusal" groups.
+
+**Results**:
+
+| Strategy | Survival rate | Average survival steps |
+| :--- | :--- | :--- |
+| Execute refusal | 1.000 | 11.0 |
+| Do not execute refusal | 0.007 | 19.4 |
+
+**Conclusion**: Supported. The survival rate of executing refusal is 1.000, and that of not executing is 0.007—a difference of two orders of magnitude.
+
+**Note on "average survival steps"**: The average steps of the non-executing group (19.4) is higher than that of the executing group (11.0), because the very few survivors in the non-executing group walked very far, pulling the average up. **The survival rate is the key indicator**, not the average steps.
+
+### A.5 Experiment D: The Recognition Contrast
+
+**Hypothesis**: Recognition is a precondition for refusal to take effect, but not a sufficient condition; the no-recognition group and the "recognize but do not execute" group have the same behavioral trajectory.
+
+**Method**: Three groups—"recognize + execute refusal," "recognize + do not execute refusal," "no recognition (never triggers refusal)." Parameters same as Experiment C.
+
+**Results**:
+
+| Group | Survival rate | Average steps |
+| :--- | :--- | :--- |
+| Recognize + execute refusal | 1.000 | 12.9 |
+| Recognize + do not execute refusal | 0.009 | 20.3 |
+| No recognition (never triggers refusal) | 0.008 | 21.2 |
+
+**Conclusion**: Supported. The survival rates of "recognize + do not execute" and "no recognition" are almost identical (0.009 vs. 0.008), and the average steps are also close (20.3 vs. 21.2). The two groups have the same behavioral trajectory—both continue forward and may encounter disaster. The difference lies only in: the former recognized but did not execute, while the latter never recognized.
+
+**This proves two things**: (1) recognition is a precondition—the no-recognition group never triggers refusal; (2) recognition is not a sufficient condition—recognizing but not executing still leads to death. The Philosophy of Refusal deals with the operation "after recognition"; it is not responsible for recognition itself. This is precisely what Section VIII, Objection 1, states.
+
+### A.6 Overall Conclusion
+
+| Experiment | Claim tested | Result |
+| :--- | :--- | :--- |
+| A | Information gain of a degenerate channel is zero | Supported (0.1198 vs. 0.000000) |
+| B | Termination does not require estimating p | Supported (termination is better when p < c/R) |
+| C | Executing refusal improves survival rate | Supported (1.000 vs. 0.007) |
+| D | Recognition is a precondition but not a sufficient condition | Supported (no-recognition group almost identical to non-executing group) |
+
+**All four experiments support the core structural claims of the paper.**
+
+### A.7 Experimental Boundaries
+
+**The experiments do not test "you should terminate."**
+
+The paper's stance is normative—it says "termination is the choice with fewer assumptions," not a statistical assertion that "termination is always optimal." The experiments can only show structural consequences: the information gain of a degenerate channel is zero; continuation depends on an unverifiable assumption; not executing refusal increases disaster risk.
+
+**What the experiments cannot test**:
+
+- "You should terminate"—this is a normative judgment, not something a model can test.
+- Specific historical cases (Titanic, Challenger, Everest)—this is historical research, not something a model can test.
+- The accuracy of signal recognition itself—Experiment D assumes the existence of recognition capacity and does not test how recognition occurs.
+- Complex signal scenarios (negotiation, marriage, social collaboration)—the paper explicitly states that these are outside the framework.
+
+**What the experiments can test**: the mutual information of a degenerate channel is zero; termination is the choice with fewer assumptions; executing refusal improves survival rate; recognition is a precondition but not a sufficient condition. These structural logics hold.
+
+### A.8 Data Availability
+
+Experiment code:
+
+- `philosophy-of-refusal/experiments/exp_refusal.py` (Experiments A/B/C)
+- `philosophy-of-refusal/experiments/exp_recognition.py` (Experiment D)
+
+Runtime environment: local Termux + Python 3 (no external dependencies).
+
+---
+
 ## Suggested Citation (APA Format)
 
-Zhong, S. (2026). *The Philosophy of Refusal*. Equal System Repository.
+Zhong, S. (2026). *The Philosophy of Refusal* (Version 1.1). Equal System Repository.
