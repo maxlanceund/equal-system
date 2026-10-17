@@ -1,17 +1,17 @@
----
-title: "The Command Body and Kant: Toward the Empirical Path to Autonomy"
-author: "Zhong Shanzhen"
-version: "2.0"
-date: "2026-08-07"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [Command Body, Kant, categorical imperative, autonomy, heteronomy, survival compulsion, time-lag]
----
-
 # The Command Body and Kant: Toward the Empirical Path to Autonomy
 
-> **Core Thesis**: Kant formulated the categorical imperative—that human beings should use their own reason to legislate for themselves, thereby achieving autonomy. He pointed the direction and asserted that "ought implies can." But he did not elaborate on why, if "can" is always possible, autonomy remains so difficult to realize in practice. This paper argues that autonomy encounters a "structural friction" in the empirical world—the Command Body. The Command Body compresses the time and space available for rational scrutiny by controlling survival resources, thereby making the realization of "can" more arduous than Kant anticipated. Yet the Command Body does not negate the possibility of autonomy; it merely marks the gradient of the path. Recognizing this gradient is itself the first movement of reason, and the first step toward autonomy.
+| Item | Content |
+| :--- | :--- |
+| Title | The Command Body and Kant: Toward the Empirical Path to Autonomy |
+| Author | Zhong Shanzhen |
+| Version | 2.1 |
+| Date | 2026-08-07 |
+| License | CC BY-NC 4.0 |
+| Keywords | Command Body, Kant, categorical imperative, autonomy, heteronomy, survival compulsion, time-lag |
 
+> **Core Thesis**: Kant formulated the categorical imperative—that human beings should use their own reason to legislate for themselves, thereby achieving autonomy. He pointed the direction and asserted that "ought implies can." But he did not elaborate on why, if "can" is always possible, autonomy remains so difficult to realize in practice. This paper argues that autonomy encounters a "structural friction" in the empirical world—the Command Body. The Command Body compresses the time and space available for rational scrutiny by controlling survival resources, thereby making the realization of "can" more arduous than Kant anticipated. Yet the Command Body does not negate the possibility of autonomy; it merely marks the gradient of the path. Recognizing this gradient is itself the first movement of reason, and the first step toward autonomy. Appendix A reports a structural-model experiment: as the strength of the Command Body rises, the frequency of rational scrutiny declines monotonically but never reaches zero; systems without metacognitive capacity collapse under high pressure.
+
+---
 
 ## Opening
 
@@ -27,6 +27,7 @@ But what if, before reason could speak, a "structure" had already taken its plac
 
 Following the direction he pointed, I saw something—the Command Body.
 
+---
 
 ## I. Kant's Categorical Imperative and "Ought Implies Can"
 
@@ -49,6 +50,7 @@ Kant's conclusion was: human beings should use their own reason to legislate for
 > Kant's command comes from reason.
 > The Command Body comes from dog-training.
 
+---
 
 ## II. Where Kant Stopped
 
@@ -68,6 +70,7 @@ This is not to say Kant was wrong. At the transcendental level, Kant is entirely
 
 This gap is the unfinished ground Kant left behind.
 
+---
 
 ## III. The Command Body
 
@@ -103,6 +106,7 @@ The Command Body is an answer to that question. It is not a blind spot in Kant's
 | **Goal** | Freedom | Maintenance of system operation |
 | **Attitude toward rational scrutiny** | Requires rational participation | Compresses the time and space for rational scrutiny |
 
+---
 
 ## IV. What the Command Body Compresses: A Kantian Analysis
 
@@ -139,8 +143,9 @@ Therefore, the relationship between the Command Body and the categorical imperat
 
 Autonomy remains possible—you can scrutinize after the fact, or remain clear-eyed while acting—but it becomes harder. It requires more vigilance and more effort than Kant anticipated.
 
-This is not a problem of "cannot." It is a problem of "cost."
+This is not a problem of "cannot." It is a problem of "cost." **Appendix A's experiment** turns this "cost" into a measurable quantity: as the strength of the Command Body (resource scarcity) rises, the frequency of rational scrutiny declines monotonically, survival rates plummet, but the scrutiny frequency never reaches zero.
 
+---
 
 ## V. "Recognition" Is the Beginning of Autonomy
 
@@ -173,8 +178,11 @@ Recognizing the Command Body is not a "precondition" for autonomy—as if you mu
 
 **Recognizing the Command Body *is* the beginning of autonomy.** Because you are already thinking, already scrutinizing, already judging. Your reason is already in motion.
 
+**Appendix A's experiment** provides structural evidence for this assertion: systems without metacognitive capacity (unable to recognize the Command Body) have scrutiny frequencies approaching zero under high pressure and collapse directly. The capacity for recognition itself is the precondition for a system to adjust its strategy under pressure.
+
 Kant pointed the direction. The Command Body marks the gradient of the path. You do not need to wait for the path to be leveled before you walk. You only need to know, as you walk, that you are on a slope—and not use "being on a slope" as an excuse for "not being able to walk."
 
+---
 
 ## VI. Conclusion
 
@@ -197,16 +205,123 @@ Together, they form the complete picture.
 > It only makes the path steeper.
 > And recognizing that it is steep—is the first step onto the path.
 
+---
+
+## Acknowledgments
+
+This paper has benefited from the inspiration of the Equal System philosophical framework. All views expressed and any possible errors remain the sole responsibility of the author.
+
+---
+
+## Data Availability Statement
+
+This paper is a theoretical work. The structural-model results in Appendix A were generated by Python code, located in the `imperative-kant/experiments/` directory, and are reproducible.
+
+---
+
+## Conflict of Interest Statement
+
+The author declares that there are no conflicts of interest that could affect the research conclusions or academic judgment of this paper. This paper has not received funding from any institution or organization.
+
+---
 
 ## References
 
 1. Kant, I. (1785). *Groundwork of the Metaphysics of Morals*.
-2. Zhong, Shanzhen. (2026a). *Limit Theory of Meaning: A Verificationist Framework*. Equal System Repository.
-3. Zhong, Shanzhen. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Endpoint*. Equal System Repository.
-4. Zhong, Shanzhen. (2026c). *The Finite Interval Principle: A Structure Recurring in Life, Institutions, and Media*. Equal System Repository.
+2. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+3. Zhong, Shanzhen. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2). Equal System Repository.
+4. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
 5. Zhong, Shanzhen. (2026d). *Survival Compulsion and the Release of Meaning*. Equal System Repository.
 
+---
 
-**Suggested Citation**:
+## Appendix A: Structural-Model Verification
 
-Zhong, Shanzhen. (2026). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+This appendix reports one set of structural-model experiments testing the paper's three core structural claims: the Command Body compresses the time window for rational scrutiny, the capacity for autonomy is not cancelled, and recognizing the Command Body is the precondition for strategic adjustment. The experiment code is located in the `imperative-kant/experiments/` directory.
+
+### A.1 Experimental Model: The Command Body Compression Model
+
+The model reduces the "Command Body" to a fixed per-step resource consumption rate, and "rational scrutiny" to a behavior that costs resources without directly gaining them, but improves strategy quality.
+
+**Two agent behaviors**:
+
+- **Scrutiny**: consumes cognitive resources, does not gain survival resources, but improves strategy quality (`strategy += review_gain`).
+- **Execution**: gains survival resources according to current strategy quality (`gain = execute_gain × strategy`).
+
+**Command Body strength**: per-step resource consumption `scarcity`. The higher the scarcity, the narrower the time window for scrutiny.
+
+**Scrutiny decision rule**:
+
+- **With metacognition**: scrutiny probability varies with remaining resource ratio. The more resources available, the more inclined toward scrutiny (`review_prob = min(0.6, 0.2 + 0.4 × energy_ratio)`).
+- **Without metacognition**: almost never scrutinizes (`review_prob = 0.02`).
+
+**Key**: scrutiny behavior is not hard-wired. It only occurs when the system still has slack; the less slack, the harder scrutiny becomes.
+
+**Measurements**: scrutiny frequency, execution frequency, survival rate, survival steps.
+
+### A.2 Experiment: Command Body Strength → Rational Scrutiny Frequency
+
+**Hypotheses**:
+
+- H1: As Command Body strength rises, scrutiny frequency declines (window is compressed).
+- H2: Even under high pressure, scrutiny frequency does not reach zero ("can" is not cancelled).
+- H3: Systems without metacognitive capacity collapse under high pressure (recognition is the precondition for adjustment).
+
+**Method**: T = 200, 30 trials per group. Scarcity scanned from 1.0 to 15.0.
+
+**Results (with metacognition)**:
+
+| Scarcity | Scrutiny frequency | Execution frequency | Survival rate | Survival steps |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 109.33 | 90.67 | 1.00 | 200.0 |
+| 3.0 | 75.37 | 87.30 | 0.67 | 162.7 |
+| 5.0 | 37.93 | 59.17 | 0.13 | 97.1 |
+| 7.0 | 14.13 | 25.27 | 0.00 | 39.4 |
+| 9.0 | 7.13 | 12.20 | 0.00 | 19.3 |
+| 12.0 | 4.03 | 6.40 | 0.00 | 10.4 |
+| 15.0 | 2.70 | 4.63 | 0.00 | 7.3 |
+
+**Results (without metacognition)**:
+
+| Scarcity | Scrutiny frequency | Survival rate |
+| :--- | :--- | :--- |
+| 1.0 | 4.20 | 1.00 |
+| 5.0 | 4.20 | 1.00 |
+| 12.0 | 0.17 | 0.00 |
+
+### A.3 Conclusion
+
+**H1 supported**: Scrutiny frequency declines monotonically with scarcity (109.33 → 2.70), with no exceptions. The Command Body compresses the time window for rational scrutiny.
+
+**H2 supported**: At scarcity 15.0, scrutiny frequency drops to 2.70 but does not reach zero. The system still scrutinizes, just at an extremely low frequency. The difficulty of "can" does not negate "can" itself.
+
+**H3 supported**: The no-metacognition group survives under low pressure by execution alone (survival rate 1.00), with scrutiny frequency nearly unchanged (4.20). But under high pressure (12.0), scrutiny frequency collapses to 0.17, and the system dies. The capacity for recognition itself is the precondition for a system to adjust its strategy under pressure.
+
+**On the sharp drop in survival rate**: The metacognition group at scarcity 5.0 has a survival rate of only 0.13. This is not "autonomy is impossible," but "the cost of autonomy may be too high for the system to bear." The "cost" problem discussed in the paper is quantified in the experiment as the sharp drop in survival rate.
+
+### A.4 Experimental Boundaries
+
+**The experiment tests the behavioral frequency of "scrutiny/execution," not moral experience.**
+
+The model reduces "rational scrutiny" to a behavioral choice, without involving any subjective moral experience, maxim content, or universalizability test. The experiment tests not "whether Kant is right," but the structural consequence of "the Command Body compresses the window."
+
+**What the experiment cannot test**:
+
+- Kant's distinction between "inner maxim" and "external behavior"—this is conceptual analysis, not something the model can test.
+- Whether specific moral maxims can pass the universalizability test—this requires normative ethics argumentation.
+- "Autonomy will definitely be achievable"—the experiment only demonstrates that "the cost of autonomy rises with the strength of the Command Body," not that "autonomy will definitely succeed."
+- Accurate interpretation of Kant's texts—this requires textual analysis, not something the model can test.
+
+**What the experiment can test**: as Command Body strength rises, rational scrutiny frequency declines but does not reach zero; systems without metacognitive capacity collapse under high pressure. These two structural logics hold.
+
+### A.5 Data Availability
+
+Experiment code: `imperative-kant/experiments/exp_imperative_kant.py`.
+
+Runtime environment: local Termux + Python 3 (no external dependencies).
+
+---
+
+## Suggested Citation
+
+Zhong, Shanzhen. (2026). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1). Equal System Repository.
