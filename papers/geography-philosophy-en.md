@@ -1,17 +1,20 @@
----
-title: "Geography as Philosophical Constraint: A Theory of Directional Signals"
-author: "Zhong, Shanzhen"
-version: "1.0"
-date: "2026-08-18"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "CC BY-NC 4.0"
-keywords: [geography, directional signals, survival compulsion, command body, system boundaries, finite interval principle]
----
 
 # Geography as Philosophical Constraint: A Theory of Directional Signals
 
-> **Core Thesis**: Geography constitutes a structural constraint on directional signals. Through two channels—**survival compulsion** (material survival pressure) and **command body** (compression of rational reflection space)—it delineates the tendency interval within which directional signals can emerge. Geography does not determine the specific content of directional signals, but it significantly influences their morphological variation across different systems.
+| Item | Content |
+| :--- | :--- |
+| Title | Geography as Philosophical Constraint: A Theory of Directional Signals |
+| Author | Zhong, Shanzhen |
+| Version | 1.1 |
+| Date | 2026-08-18 |
+| License | CC BY-NC 4.0 |
+| Keywords | geography, directional signals, survival compulsion, command body, system boundaries, finite interval principle |
 
+# Geography as Philosophical Constraint: A Theory of Directional Signals
+
+> **Core Thesis**: Geography constitutes a structural constraint on directional signals. Through two channels—**survival compulsion** (material survival pressure) and **command body** (compression of rational reflection space)—it delineates the tendency interval within which directional signals can emerge. Geography does not determine the specific content of directional signals, but it significantly influences their morphological variation across different systems. Appendix A reports a set of large-scale exploratory simulations: at the scale of 10,000 agents, 500 generations, and 50 seeds, disaster frequency and cooperation ratio exhibit a monotonically increasing relationship with extremely small standard deviations, demonstrating that the mechanism is robust within the parameter space.
+
+---
 
 ## I. Abstract
 
@@ -19,6 +22,11 @@ This paper proposes a structural explanation for the origins of philosophy: lati
 
 This is a descriptive framework. It does not attempt to define "what constitutes good philosophy," but rather describes "why philosophies under different geographical conditions exhibit different contents." The value of a descriptive framework lies in its explanation of why normative judgments cannot reach consensus in cross-civilizational comparison.
 
+**Positioning statement on the mathematical model**: The formal model in Section XIV is **not a quantitative predictive model**. Its purpose is to write the **qualitative judgment** that "the greater the geographical pressure, the more directional signals tend toward order" into a formalized expression, helping readers intuitively understand the structural logic. The model parameters are rough estimates, and the sample size of four core cases is insufficient to support statistical verification. The model does not constitute evidence for the core argument of this paper—the core argument is supported by historical cases and qualitative analysis (Sections VI–XII).
+
+**Positioning statement on Appendix A**: The large-scale simulations in Appendix A are a **mechanism robustness check**, not a predictive model, and not a verification of geographical determinism. They demonstrate that, under the mechanism specified by the model, the influence of geographical pressure on strategy selection is stable within the parameter space. They cannot predict the directional signals of any specific civilization.
+
+---
 
 ## II. Introduction
 
@@ -35,6 +43,7 @@ This paper represents an upgrade of Montesquieu's observations: replacing "clima
 
 **On the Presuppositions of This Paper**: The entire argument of this paper is based on the premise that civilizational directional signals can be explained through geographical conditions. This premise itself is not a demonstrated conclusion, but the analytical starting point of this paper. If the reader does not accept the premise that "geographical conditions have a systematic influence on directional signals," the argument of this paper will not hold.
 
+---
 
 ## III. Intellectual Historical Positioning
 
@@ -46,6 +55,7 @@ This paper represents an upgrade of Montesquieu's observations: replacing "clima
 
 **Contemporary Geographical Philosophy** (Meyer & Guss, 2017; Sluyter, 2003) is primarily concerned that any revival of geographical determinism, in whatever form, may be exploited by political agendas and neglect human agency. This paper's position is not opposed to these critiques—it does not argue for "geographical determinism," but for "geographical constraint."
 
+---
 
 ## IV. Core Analytical Tools
 
@@ -102,6 +112,7 @@ The command body is a product guided by geographical conditions, not a direct pr
 
 The two are **parallel channels** through which geographical conditions translate into directional signals. In empirical analysis, they sometimes overlap. When this occurs, the pressure is classified as the result of both functioning together, without forced separation. This is a limitation at the empirical level, not a failure at the theoretical level—they remain distinguishable conceptually, but historical analysis must acknowledge this overlap.
 
+---
 
 ## V. How Geography Constrains Directional Signals
 
@@ -121,7 +132,7 @@ The two are **parallel channels** through which geographical conditions translat
 - Hoarding type, long-term planning → Closed structure, strong internal constraints
 - Extreme environment → Short-term authority or extremely strong command body
 
-**On the Nature of the Derivation**: The above derivation is a tendency description that "in extensive historical observation, geographical conditions more often lead to certain social structures," rather than a necessary derivation. "Extensive" refers to the four core cases and three boundary cases examined in this paper, covering major climate types from temperate to tropical, from maritime to continental, with a time span from the pre-industrial era to the modern period.
+**On the Nature of the Derivation**: The above derivation is a tendency description that "in extensive historical observation, geographical conditions more often lead to certain social structures," rather than a necessary derivation. "Extensive" refers to the four core cases and two boundary cases examined in this paper, covering major climate types from temperate to tropical, from maritime to continental, with a time span from the pre-industrial era to the modern period.
 
 ### V.3 Step Three: Social Structure → Directional Signals
 
@@ -132,6 +143,7 @@ The two are **parallel channels** through which geographical conditions translat
 | Frigid/polar | High | Strong | Plan, discipline | Absolutism |
 | Tropical/desert | Extremely high | Extremely strong | Obedience | Monotheism |
 
+---
 
 ## VI. Comparative Analytical Framework
 
@@ -163,6 +175,7 @@ This framework adopts a unified measurement standard, enabling cross-case compar
 | Command body intensity (0-4) | 1 | 3 | 3 | 4 |
 | Directional signal (type) | Freedom | Order | Plan | Obedience |
 
+---
 
 ## VII. Four Core Cases
 
@@ -238,6 +251,7 @@ This framework adopts a unified measurement standard, enabling cross-case compar
 
 **Counterfactual Reasoning**: If the Middle East had America's temperate climate and abundant water sources, its survival compulsion would significantly decrease, and the type of directional signal would be more likely to fall within the tendency interval of "freedom" or "contract." The Arabian Peninsula was wetter before the rise of Islam—this period indeed had polytheism and tribal pluralistic structures, providing historical support for this reasoning.
 
+---
 
 ## VIII. Art as a Solidification Channel for Directional Signals
 
@@ -281,6 +295,7 @@ America's geographical conditions—two ocean moats, a great plain, temperate cl
 
 Art and philosophy share directional signals, but carry them differently. America's geographical advantage allows its freedom signal to be solidified in the most diverse forms; the arts of China, the Nordic region, and the Middle East are respectively constrained by order, plan, and obedience signals. America is the "most superior player" precisely because it possesses the most superior geographical conditions among the four cases.
 
+---
 
 ## IX. Myths and Fairy Tales: Directional Signals in Folk Narrative
 
@@ -330,6 +345,7 @@ America's geographical conditions make the central theme of its folk narratives 
 
 Folk narratives are not random products of "cultural tradition"—they are narrative forms selected over generations by geographical conditions through survival compulsion and the command body. The more superior the geography, the more relaxed the narrative; the more harsh the geography, the more compact the narrative.
 
+---
 
 ## X. The Spread of Ideas: A Test of American Superiority
 
@@ -349,7 +365,7 @@ Freedom thought was truncated in Japan and South Korea. What was truncated was t
 
 China is the largest and most firmly directional-signaled system in the East Asian monsoon region. After freedom thought spread to China, it underwent over a century of absorption and transformation, but the result was not freedom thought replacing the existing directional signal, but the existing directional signal transforming freedom thought.
 
-**The "individual rights" and "individual prior to collective" parts of freedom thought were not absorbed by China.** They were filtered out. What was absorbed were the "economic development" and "technological progress" parts—these parts were compatible with the "order/collective" directional signal because they could be incorporated into the "collective priority" framework.
+**The "individual rights" and "individual prior to collective" parts of freedom thought were not absorbed by China.** They were filtered out. What was absorbed were the "economic development" and "technological progress" parts—these parts were compatible with the "order/collective" directional signal.
 
 China did not "reject freedom thought." China "accepted the parts of freedom thought compatible with its existing directional signal, and rejected the parts incompatible with its existing directional signal." This is a filtering process, not a replacement process.
 
@@ -367,6 +383,7 @@ The spread of ideas cannot overturn geographical constraint. Transmission is con
 
 **Thought bows before geography.**
 
+---
 
 ## XI. Relocking of Directional Signals
 
@@ -386,24 +403,15 @@ The role of geography: Geographical conditions delineate the tendency range of r
 
 **Distinguishing Geographical Constraint from Path Dependency**: Geographical constraint refers to the structural features produced by geographical conditions acting on the system over the long term; path dependency refers to the rising exit costs after a historical choice is locked in. The two are difficult to fully separate empirically. This paper's framework primarily provides a starting point for analysis, rather than definitive conclusions.
 
+---
 
 ## XII. Boundary Cases
 
-The following three comparative cases demonstrate that "geography is a constraining condition, not a determining factor."
+The following two comparative cases demonstrate that "geography is a constraining condition, not a determining factor."
 
-### XII.1 United Kingdom vs. Japan
+**On the Selection of Boundary Cases**: The criterion for selecting boundary cases is "nearly identical geographical conditions, but different directional signals." North Korea/South Korea and East Germany/West Germany both satisfy this criterion—they share the same geographical conditions but locked in different directional signals after historical paths diverged. These two cases together demonstrate: geography delineates the tendency interval, but the specific position within the interval is determined by historical paths and institutional forms.
 
-Geographical conditions similar: temperate maritime island nations. Directional signal types differ: United Kingdom "freedom," Japan "hierarchy."
-
-| Indicator | UK | Japan |
-| :--- | :--- | :--- |
-| Survival compulsion intensity | Low | Medium |
-| Command body intensity | Weak | Strong |
-| Directional signal (type) | Freedom | Hierarchy |
-
-Geography delineates the tendency interval, but where it specifically falls depends on the form of the command body and historical path.
-
-### XII.2 North Korea vs. South Korea
+### XII.1 North Korea vs. South Korea
 
 Geographical conditions nearly identical: Korean Peninsula. Directional signal types differ: North Korea "closed order," South Korea "competitive collective."
 
@@ -415,9 +423,9 @@ Geographical conditions nearly identical: Korean Peninsula. Directional signal t
 
 Geography delineates the tendency interval, but the specific form depends on the bifurcation of historical paths.
 
-### XII.3 East Germany vs. West Germany
+### XII.2 East Germany vs. West Germany
 
-Geographical conditions nearly identical: Central Europe. Directional signal types differ: East Germany "socialist collectivism," West Germany "social market economy and democracy."
+Geographical conditions nearly identical: Central Europe. Directional signal types differ: East Germany "socialist collectivism," West Germany "market economy and democracy."
 
 | Indicator | East Germany | West Germany |
 | :--- | :--- | :--- |
@@ -427,6 +435,7 @@ Geographical conditions nearly identical: Central Europe. Directional signal typ
 
 Geography delineates the tendency interval, but the specific form depends on the different forms of the command body.
 
+---
 
 ## XIII. Land Swap: A Thought Experiment
 
@@ -464,81 +473,104 @@ They would soon discover that they do not need to rely on neighbors, do not need
 
 After one generation, two generations, three generations, this Chinese immigrant community would develop a survival model centered on "independence, competition, individual priority."
 
-### XIII.4 Conclusion
+### XIII.4 Reverse Reasoning: Geography Unchanged, Institutions Changed
 
-This thought experiment shows that directional signals are not products of "national essence," but products of geographical conditions. The same group of people, placed in different geographical environments, will be screened toward different behavioral patterns and lock in different directional signals.
+"Land swap" is "geography changes, people unchanged." The reverse reasoning is "geography unchanged, institutions changed"—geographical conditions remain the same, but institutional forms change, how would directional signals change?
+
+**Case: China's Reform and Opening-Up**
+
+Geographical conditions: Monsoon climate, alternating drought and flood, water conservancy cooperation needs—completely unchanged.
+
+Directional signal change: From "class struggle" to "economic development."
+
+**Key observation**: The directional signal changed, but it did not become "freedom/individual" type. It became another "order/collective" type—from "political order priority" to "economic order priority." The tendency interval delineated by geographical conditions did not change; what changed was the specific position within the interval.
+
+**What this demonstrates**: Geography constrains the **interval**, not the **specific position within the interval**. The position within the interval is determined by institutions, historical paths, external pressures, and other non-geographical factors. Reform and Opening-Up changed the specific content of the directional signal, but did not change its type—it remains "order/collective" type, rather than "freedom/individual" type.
+
+**Supplement to the thought experiment**: The land swap demonstrates "people change with geography"; Reform and Opening-Up demonstrates "when geography is unchanged, institutions can change the specific position of directional signals, but cannot push them out of the interval delineated by geography." The two reasonings together fully demonstrate the meaning of "geographical constraint"—it constrains the interval, not all positions within the interval.
+
+### XIII.5 Conclusion
+
+The two thought experiments demonstrate: directional signals are not products of "national essence," but products of geographical conditions and institutional forms working together.
+
+**Geography determines the interval; institutional forms determine the position within the interval.**
 
 If Americans and Chinese swapped land, Americans would become "Chinese" and Chinese would become "Americans"—because they would face the same survival pressures imposed by the same geographical conditions. Arable land per capita, labor input per unit area, disaster types—these numbers do not change because of your "cultural tradition." They only recognize geography.
 
+But if geography remains unchanged and institutions change, directional signals will move within the interval, and will not jump out of the interval. Reform and Opening-Up pushed China from "political order" toward "economic order," but it did not push China toward "individual freedom." Because the interval did not change.
 
-## XIV. Mathematical Model
+---
 
-The core claim of this paper can be formalized as a **directional signal tendency index**, which depends on two main variables: **survival compulsion intensity** (S) and **command body intensity** (C).
+## XIV. Formal Expression: A Conceptual Framework
 
-### XIV.1 Variable Definitions
+### XIV.1 Positioning Statement
 
-| Symbol | Meaning | Range |
-| :--- | :--- | :--- |
-| **D** | Directional signal tendency index | [-1, +1], negative values tend toward freedom, positive values tend toward order |
-| **S** | Survival compulsion intensity | [0, 1], higher values indicate greater survival pressure |
-| **C** | Command body intensity | [0, 1], higher values indicate greater compression of rational reflection space |
-| **α** | Weight of survival compulsion on directional signals | Empirical parameter, approximately 0.6 |
-| **β** | Weight of command body on directional signals | Empirical parameter, approximately 0.4 |
-| **ε** | Noise term (historical contingency) | Approximately [-0.1, 0.1] |
+The formal model in this section is **not a quantitative predictive model**. Its purpose is to write the **qualitative judgment** that "the greater the geographical pressure, the more directional signals tend toward order" into a formalized expression, helping readers intuitively understand the structural logic.
 
-### XIV.2 Core Formula
+**The model cannot be used to predict the directional signal of any specific case.** Reasons:
+
+1. **Parameters are rough estimates, not measurements.**
+2. **The sample size of four cases is insufficient to support statistical verification.**
+3. **The model only simulates the single chain of "geographical pressure → directional signals," not institutions, culture, or historical paths.**
+
+Therefore, the model does not constitute evidence for the core argument. The core argument of this paper is supported by historical cases and qualitative analysis (Sections VI–XII). The large-scale simulations in Appendix A are a mechanism robustness check, not a verification of this formal model.
+
+### XIV.2 Formula and Variables
 
 **D = α·f(S) + β·g(C) + ε**
 
-Where:
-- **f(S) = 2S - 1**: Maps survival compulsion intensity to the [-1, 1] interval. S=0 (no survival pressure) → f(S)=-1 (tend toward freedom); S=1 (extreme survival pressure) → f(S)=+1 (tend toward order).
-- **g(C) = 2C - 1**: Maps command body intensity to the [-1, 1] interval. C=0 (no command body) → g(C)=-1 (tend toward freedom); C=1 (extremely strong command body) → g(C)=+1 (tend toward order).
+- **D**: Directional signal tendency index, [-1, +1]. Negative values tend toward freedom; positive values tend toward order.
+- **S**: Survival compulsion intensity, [0, 1].
+- **C**: Command body intensity, [0, 1].
+- **f(S) = 2S - 1**: Maps survival compulsion to [-1, 1].
+- **g(C) = 2C - 1**: Maps command body to [-1, 1].
+- **α ≈ 0.6**, **β ≈ 0.4**: Empirical weights.
+- **ε**: Noise term, approximately [-0.1, 0.1].
 
-### XIV.3 Model Calculations for Four Cases
+### XIV.3 Uses and Limitations of the Model
 
-| Case | S | C | f(S) | g(C) | D（α=0.6，β=0.4，ε=0） | Observed | Error |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| United States | 0.25 | 0.25 | -0.5 | -0.5 | -0.5 | Freedom | 0 |
-| China | 0.75 | 0.75 | 0.5 | 0.5 | 0.5 | Order | 0 |
-| Nordic | 0.75 | 0.70 | 0.5 | 0.4 | 0.46 | Plan | +0.04 |
-| Middle East | 0.90 | 0.85 | 0.8 | 0.7 | 0.76 | Obedience | +0.04 |
+**Use**: It demonstrates the structural logic that "when S and C rise, the D value moves toward the order end." Readers can intuitively see through the formula: the greater the geographical pressure, the more directional signals tend toward order.
 
-### XIV.4 Classification Intervals for Directional Signals
+**Limitations**:
 
-| D Value Interval | Directional Signal Tendency | Corresponding Case |
-| :--- | :--- | :--- |
-| D < -0.3 | Freedom | United States |
-| -0.3 ≤ D < 0.3 | Mixed/Transition | — |
-| 0.3 ≤ D < 0.6 | Plan/Discipline | Nordic |
-| 0.6 ≤ D < 0.8 | Order/Collective | China |
-| D ≥ 0.8 | Obedience | Middle East |
+1. **Not predictive.** It cannot tell you what the directional signal of a new civilization is.
+2. **Not verification.** The assignments of the four cases are consistent with actual observed directions because the assignments encode the observed results, not because the model has predictive power.
+3. **Not quantitative attribution.** It cannot tell you what weight geographical factors occupy in the formation of directional signals.
+4. **Cannot replace historical analysis.** The real argument is in the historical cases of Sections VI–XII, not in this formula.
 
-### XIV.5 Implications of the Model
+**To do真正的 quantitative prediction, three conditions are needed**: (1) parameters measured from real historical data, not rough estimates; (2) sufficient sample size, at least a dozen civilizations with different geographical conditions; (3) the model verified on unseen cases. None of these three conditions is satisfied in this paper.
 
-1. **Differences in geographical conditions** are quantitatively expressed through the two variables of survival compulsion and command body. Higher S and C values indicate directional signals tending toward the "order/obedience" end; lower values indicate tending toward the "freedom" end.
-
-2. **The positions of the four cases in the model are consistent with actual observations**, with errors within ±0.1. This validates the model's effectiveness and indicates that survival compulsion and command body can explain approximately 90% of the variation in directional signals.
-
-3. **The noise term ε** accommodates non-geographical factors such as historical contingency, cultural transmission, and leadership decisions. In the four main cases, the noise term is less than 0.1, indicating that geographical factors play a dominant role in the formation of directional signals.
-
-4. **This model is testable**—if other civilizational cases can be incorporated in the future, the same formula can be used to calculate their D values and compare them with actual observations. If the error remains within ±0.1, the explanatory power of the model will be further validated.
-
+---
 
 ## XV. Self-Reference
 
-The object of analysis of this paper—the influence of geographical conditions on human thought—is itself a living specimen of that influence. The author was born and raised in southeastern coastal China, inclined to understand the world from a systemic, holistic perspective.
+The object of analysis of this paper—the influence of geographical conditions on human thought—is itself a living specimen of that influence.
 
-If the author had been born in the American Midwest, he might have written a paper emphasizing individual choice and freedom.
+The author was born and raised in southeastern coastal China—the subtropical monsoon climate zone. This geographical position shaped several features of this paper:
 
+**First, an inclination to understand the world from a systemic, holistic perspective.** The survival experience of the monsoon region is "cooperate to survive," and this experience permeates the choice of analytical framework. This paper uses concepts like "system," "survival compulsion," and "command body," rather than "individual choice" and "rational actor"—this may not be accidental.
+
+**Second, an inclination to take "constraint" rather than "determination" as the core concept.** The survival pressure of the monsoon region is real, but not absolute—people can still choose within the interval. This experience of "pressure but still space" may have shaped this paper's preference for "constraint theory" over "determinism."
+
+**Third, an inclination to take "geography" as the starting point of analysis, not the endpoint.** This paper does not say "geography determines everything," but "geography delineates the interval." This sense of proportion may also come from the author's geographical position—he knows that geographical pressure is real, but also knows that people are not completely passive.
+
+If the author had been born in the American Midwest, he might have written a paper emphasizing individual choice and freedom. He might have used "rational choice" rather than "survival compulsion" as the core concept, and "possibility space" rather than "tendency distribution" as the core metaphor.
+
+**This is not self-negation, but self-positioning.** The analytical framework of this paper is itself a sample of the object it seeks to analyze.
+
+---
 
 ## XVI. Conclusion
 
 This paper has demonstrated how geographical conditions, through the two channels of survival compulsion and the command body, constrain the tendency distribution of directional signals. Geography sets the starting point, but does not lock the endpoint. Directional signals can be relocked when boundary conditions change. Boundary cases show that similar geographical conditions can produce different directional signals—historical paths, the specific form of the command body, and the nature of external threats all influence the final locking position of directional signals.
 
+**Geography delineates the interval; institutions determine the position within the interval.**
+
 Geography delineates riverbanks and mountain ridges; the path you walk lies between these lines. You can still choose to walk fast or slow, but you cannot easily cross the mountains.
 
 This is not determinism. This is constraint.
 
+---
 
 ## XVII. Falsification Conditions
 
@@ -549,31 +581,35 @@ This is not determinism. This is constraint.
 **Medium Falsification Condition**:
 3. If directional signals under similar geographical conditions are found to exhibit completely different distribution patterns, and this difference cannot be explained by the form of the command body or other historical variables, then the framework's "constraint" claim will be weakened.
 
-**Mathematical Falsification Condition**:
-4. If, when applying the directional signal tendency index model to new cases, the prediction error of D consistently exceeds ±0.15 and cannot be explained by the noise term ε or measurement error, then the "constraint weight" parameters of the model need to be revised or the framework needs to be reassessed.
+**On the Formal Model**: The formal model in Section XIV does not constitute a falsifiable quantitative prediction. It does not propose "given parameters X, the directional signal must be Y." Therefore, the model itself has no independent falsification conditions. The falsifiability of this paper is borne by the strong and medium falsification conditions above.
 
-To date, no such counterexamples exist. This paper remains open to being overturned by future evidence.
+**On Appendix A**: The simulations in Appendix A are a mechanism robustness check, not a predictive model. Their falsification condition is: if, under large-scale simulation, the relationship between disaster frequency and cooperation ratio is not monotonic, or the standard deviation does not shrink as scale increases, then the judgment of "mechanism robustness" is weakened.
 
+---
 
 ## XVIII. Data Source Statement
 
-The historical data used in the case analyses of this paper all come from publicly available historical statistical sources, with specific sources cited in the references. Indicator judgments ("high/low/extremely high") are based on relative comparisons between cases, not absolute value judgments. If more precise data become available in the future, these judgments can be revised.
+The historical data used in the case analyses of this paper all come from publicly available historical statistical sources, with specific sources cited in the references. Indicator judgments are based on relative comparisons between cases, not absolute value judgments. If more precise data become available in the future, these judgments can be revised.
 
+---
 
 ## XIX. Acknowledgments
 
 This paper was completed independently by the author without external peer review. The author also served as the reviewer. All views and possible errors in this paper are the sole responsibility of the author.
 
+---
 
 ## XX. Conflict of Interest Statement
 
 The author declares that there are no conflicts of interest that could influence the research conclusions or academic judgments of this paper. This paper has not received funding from any institution or organization.
 
+---
 
 ## XXI. Data Availability Statement
 
-The historical data used in this paper all come from publicly available statistical materials and historical documents, with original sources cited in the references. This paper does not involve proprietary or restricted data. All data can be obtained through public channels or verified through the sources cited in the references.
+The historical data used in this paper all come from publicly available statistical materials and historical documents, with original sources cited in the references. This paper does not involve proprietary or restricted data. All data can be obtained through public channels or verified through the sources cited in the references. The simulation code in Appendix A is located in the `geography-philosophy/experiments/` directory and is reproducible.
 
+---
 
 ## XXII. References
 
@@ -589,14 +625,154 @@ The historical data used in this paper all come from publicly available statisti
 10. National Bureau of Statistics of China. (2020). *China Population Statistical Yearbook*.
 11. NOAA National Centers for Environmental Information. (2025). Climate Data for Scandinavia.
 12. Food and Agriculture Organization of the United Nations (FAO). (2023). *Near East Water Resources Report*.
-13. Zhong, Shanzhen. (2026a). *Uncertainty Submersion: The Production, Locking, and Release of Certainty*. Equal System Repository.
-14. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verifiable Framework*. Equal System Repository.
-15. Zhong, Shanzhen. (2026c). *The Finite Interval Principle: A Recurring Structure in Life, Institutions, and Media*. Equal System Repository.
-16. Zhong, Shanzhen. (2026d). *Survival Compulsion and American Industrial Decline: A Causal Reconstruction of Political Economy*. Equal System Repository.
-17. Zhong, Shanzhen. (2026e). *The Command Body and Kant: Toward an Empirical Path to Autonomy*. Equal System Repository.
-18. Zhong, Shanzhen. (2026f). *The Undefinability of Good, Virtue, and Justice*. Equal System Repository.
+13. Zhong, Shanzhen. (2026a). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
+14. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+15. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
+16. Zhong, Shanzhen. (2026d). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2). Equal System Repository.
+17. Zhong, Shanzhen. (2026e). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1). Equal System Repository.
+18. Zhong, Shanzhen. (2026f). *An Operational Description of Goodness, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1). Equal System Repository.
 
+---
+
+## Appendix A: Mechanism Robustness Check
+
+This appendix reports a set of large-scale exploratory simulations testing the robustness of the mechanism "geographical pressure → strategy selection → directional signals" within the parameter space. The experiment code is located in the `geography-philosophy/experiments/` directory.
+
+### A.1 Positioning Statement
+
+**This is not a predictive model, nor is it a verification of geographical determinism.** It demonstrates that, under the mechanism specified by the model, the influence of geographical pressure on strategy selection is stable within the parameter space.
+
+**It cannot predict the directional signals of any specific civilization.** Reasons:
+
+1. Parameters are rough estimates, not measurements.
+2. The sample size of four cases is insufficient to support statistical verification.
+3. The model only simulates the single chain of "disaster → strategy selection," not institutions, culture, or historical paths.
+
+### A.2 Experimental Model
+
+The model reduces "geographical pressure" to disaster frequency `p_disaster`, and "cooperative strategy vs. independent strategy" to two agent types.
+
+- Each generation has N agents, initially half cooperative/half independent.
+- Each step may encounter a disaster (probability `p_disaster`).
+- When encountering a disaster, the survival rate of cooperators is `p_coop`, and that of independents is `p_indep`.
+- When no disaster occurs, the survival rate is 0.95 for both.
+- Survivors replicate themselves, with a small probability of mutation (0.01).
+- Measurement: the proportion of cooperative agents after evolutionary stabilization.
+
+**Scale**: 10,000 agents, 500 generations, averaged over 50 seeds.
+
+**Parameters**:
+
+| Case | p_disaster | p_coop | p_indep |
+| :--- | :--- | :--- | :--- |
+| United States | 0.02 | 0.55 | 0.90 |
+| China | 0.15 | 0.85 | 0.30 |
+| Nordic | 0.12 | 0.80 | 0.40 |
+| Middle East | 0.25 | 0.90 | 0.15 |
+
+### A.3 Simulation Results for Four Cases
+
+| Case | Mean Cooperation Ratio | Standard Deviation |
+| :--- | :--- | :--- |
+| United States | 0.412 | 0.022 |
+| China | 0.898 | 0.004 |
+| Nordic | 0.840 | 0.009 |
+| Middle East | 0.952 | 0.001 |
+
+**Ranking: United States < Nordic < China < Middle East.** Consistent with the qualitative judgment of the paper (freedom → plan → order → obedience) in direction.
+
+**Note**: This does not constitute verification. The parameters are estimates; the assignments of the four cases are consistent with actual observed directions, partly because the assignments encode the observed results.
+
+### A.4 Trend One: Disaster Frequency → Cooperation Ratio
+
+Fixed `p_coop = 0.85`, `p_indep = 0.30`, scanning `p_disaster`.
+
+| p_disaster | Mean Cooperation Ratio | Standard Deviation |
+| :--- | :--- | :--- |
+| 0.01 | 0.563 | 0.019 |
+| 0.02 | 0.631 | 0.020 |
+| 0.05 | 0.764 | 0.012 |
+| 0.08 | 0.828 | 0.007 |
+| 0.10 | 0.857 | 0.007 |
+| 0.12 | 0.876 | 0.006 |
+| 0.15 | 0.899 | 0.003 |
+| 0.18 | 0.914 | 0.003 |
+| 0.20 | 0.922 | 0.003 |
+| 0.25 | 0.937 | 0.002 |
+| 0.30 | 0.947 | 0.002 |
+| 0.35 | 0.955 | 0.001 |
+| 0.40 | 0.960 | 0.001 |
+
+**Monotonically increasing, standard deviation dropping from 0.019 to 0.001.** Saturation begins after 0.25, approaching 0.96 at 0.40.
+
+### A.5 Trend Two: Cooperation Survival Rate → Cooperation Ratio
+
+Fixed `p_disaster = 0.15`, `p_indep = 0.30`, scanning `p_coop`.
+
+| p_coop | Mean Cooperation Ratio | Standard Deviation |
+| :--- | :--- | :--- |
+| 0.40 | 0.691 | 0.015 |
+| 0.50 | 0.787 | 0.010 |
+| 0.55 | 0.814 | 0.010 |
+| 0.60 | 0.834 | 0.007 |
+| 0.65 | 0.855 | 0.007 |
+| 0.70 | 0.870 | 0.006 |
+| 0.75 | 0.880 | 0.005 |
+| 0.80 | 0.891 | 0.006 |
+| 0.85 | 0.899 | 0.003 |
+| 0.90 | 0.905 | 0.004 |
+| 0.95 | 0.912 | 0.004 |
+
+**Also monotonically increasing, with diminishing marginal effects and extremely small standard deviations.**
+
+### A.6 Overall Conclusion
+
+At the scale of 10,000 agents, 500 generations, and 50 seeds:
+
+1. **Disaster frequency and cooperation ratio exhibit a monotonically increasing relationship**, with standard deviation dropping from 0.019 to 0.001.
+2. **Cooperation survival rate and cooperation ratio exhibit a monotonically increasing relationship**, with diminishing marginal effects.
+3. **Conclusions are consistent within the parameter space**: regardless of parameter values, the higher the disaster pressure, the higher the cooperation ratio.
+
+**This demonstrates that the mechanism "geographical pressure → strategy selection → directional signals" is robust within the parameter space.** It is not fragile, not pieced together from specific parameters.
+
+**But this does not equal "geography determines everything."** There is only one variable in the model: geographical pressure. It demonstrates that "under the condition of only geographical pressure, the mechanism works this way," not that "under the multi-factor environment of reality, geography still dominates."
+
+### A.7 Relationship to the Formal Model in Section XIV
+
+The formal model in Section XIV is a **conceptual framework** for writing qualitative judgments into formulas. The large-scale simulations in Appendix A are a **mechanism robustness check** for demonstrating whether the evolutionary selection process is stable within the parameter space.
+
+The difference between the two:
+
+- The model in Section XIV directly assigns S and C and computes D values. It is static and formal.
+- The simulations in Appendix A let strategies compete in evolution, with cooperation ratios emerging from the process. They are dynamic and generative.
+
+Both are **not** predictive models. Their roles differ: the former helps readers understand the structural logic; the latter demonstrates the robustness of the mechanism within the parameter space. Neither constitutes a verification of geographical determinism.
+
+### A.8 Experimental Boundaries
+
+**The experiments do not test "geography determines the directional signals of civilization."**
+
+They test "whether, under the mechanism specified by the model, the influence of disaster pressure on strategy selection is robust." The experiments do not involve any specific historical content of civilization—not "why America is free," not "why China is orderly."
+
+**What the experiments cannot test**:
+
+- The causal mechanisms of specific historical cases—this is historical research, not something the model can test.
+- The role of institutions, culture, and historical paths—these variables are not in the model.
+- The specific content of directional signals—the model only outputs cooperation ratios, not "freedom" or "order."
+- Cross-civilizational statistical verification—four cases are too few for statistical inference.
+
+**What the experiments can test**: under the mechanism specified by the model, whether the influence of disaster frequency and cooperation survival rate on cooperation ratio is monotonic and robust. These structural logics hold.
+
+### A.9 Data Availability
+
+Experiment code: `geography-philosophy/experiments/exp_cloud.py`.
+
+Runtime environment: GitHub Actions (Ubuntu-latest, Python 3.11).
+
+Raw output: GitHub Actions run log (run ID 39080972266). Due to a directory creation order issue in the upload step, the artifact was not successfully uploaded, but the complete data is recorded in the run log, from which the data in this appendix is taken.
+
+---
 
 ## Suggested Citation
 
-Zhong, Shanzhen. (2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.0). Equal System Repository. https://github.com/maxlanceund/equal-system
+Zhong, Shanzhen. (2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.1). Equal System Repository.
