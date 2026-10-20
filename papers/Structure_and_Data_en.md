@@ -5,17 +5,17 @@
 | :--- | :--- |
 | Title | Structure and Data — On the Structural Facts Long Ignored by Economic Data |
 | Author | Zhong Shanzhen |
-| Version | 8.5 (English translation) |
+| Version | 9.0 (English translation) |
 | Date | 2026-10 |
 | License | CC BY-NC 4.0 |
-| Keywords | structural judgment, measurability hegemony, layered rigidity, structural reproduction, bottom 50% income share, instrumentalization of human beings, China |
-| JEL Classification | D31, D63, O15 |
+| Keywords | structural judgment, measurability hegemony, layered rigidity, structural reproduction, bottom 50% income share, gender structure, power structure, instrumentalization of human beings, China |
+| JEL Classification | D31, D63, O15, J16, D72 |
 
-**Abstract**: This paper distinguishes two levels: structural judgment and empirical hypothesis. The structural judgment is: "The poor do not possess wealth; the rich possess wealth; the state extracts resources from the majority through taxation, but the direction of redistribution is not determined by the majority; growth does not change this structure." **"The structure has not moved" refers to the third layer (budget constraints and exit rights); the first layer (distributional outcomes) is conditionally rigid and can be partially corrected; the second layer (extraction and redistribution) is more rigid.** The three layers differ in rigidity: the first layer is rigid under weak redistribution and partially correctable under strong redistribution; the second layer is more rigid; the third layer is most rigid. The third layer reproduces itself through four mechanisms: the rescue expectations of soft budget constraints, the survival costs of asymmetric exit rights, the path dependence of the tax structure, and the self-preservation of the administrative system. The empirical hypothesis concerns the relationship between "growth × redistribution → bottom 50% share" as measurable proxies. The interaction term is insignificant (t = 1.40), the Bootstrap 95% confidence interval crosses zero, and the coefficient disappears after adding controls; the convergence effect is statistically significant (t = −3.91), with China as a counterexample. These results negate the empirical hypothesis, not the structural judgment. Using aggregated data to negate a pre-aggregation structure is a category error. The role of data is to test proxy variables, not to adjudicate whether a structure exists. Judging "unmeasurable" as "nonexistent" is measurability hegemony; treating data as the end and human beings as the means is the instrumentalization of human beings. The validity of the structural judgment rests on three grounds—logical coherence, the impossibility of macro-level reverse inference, and falsifiability—not on statistical significance. Cross-national data show that the bottom 50% share is shrinking in the US, Germany, Australia, Sweden, and South Korea, while rising in Latin America, the UK, France, Japan, and Canada; China's bottom 50% share fell from 27.0% to 15.0% during 1978–2005 and declined by only another 1.3 percentage points during 2005–2023.
+**Abstract**: This paper distinguishes two levels: structural judgment and empirical hypothesis. The structural judgment is: "The poor do not possess wealth; the rich possess wealth; the state extracts resources from the majority through taxation, but the direction of redistribution is not determined by the majority; growth does not change this structure." "The structure has not moved" refers to the third layer (budget constraints and exit rights); the first layer (distributional outcomes) is conditionally rigid and can be partially corrected; the second layer (extraction and redistribution) is more rigid. The third layer has two manifest dimensions: gender and power. In the gender dimension, women cannot exit reproduction, and men cannot exit production; in the power dimension, the rules of the lock are set by those with rule-making power. The empirical hypothesis concerns the relationship between "growth × redistribution → bottom 50% share" as measurable proxies. The interaction term is insignificant (t = 1.40), the Bootstrap 95% confidence interval crosses zero, and the coefficient disappears after adding controls; the convergence effect is statistically significant (t = −3.91), with China as a counterexample. These results negate the empirical hypothesis, not the structural judgment. Using aggregated data to negate a pre-aggregation structure is a category error. The role of data is to test proxy variables, not to adjudicate whether a structure exists. Judging "unmeasurable" as "nonexistent" is measurability hegemony; treating data as the end and human beings as the means is the instrumentalization of human beings. The validity of the structural judgment rests on three grounds—logical coherence, the impossibility of macro-level reverse inference, and falsifiability—not on statistical significance. Cross-national data show that the bottom 50% share is shrinking in the US, Germany, Australia, Sweden, and South Korea, while rising in Latin America, the UK, France, Japan, and Canada; China's bottom 50% share fell from 27.0% to 15.0% during 1978–2005 and declined by only another 1.3 percentage points during 2005–2023. Gender structure manifestations: the unpaid labor gender ratio is 1.87 times; women's total labor time is 49 minutes/day more; the unexplained portion of the wage gap is 81.5%; men's unpaid labor is 1 hour 52 minutes/day; men's share in care occupations is 2%–10%; men's concentration in high-risk industries is 78%–85%. Power structure manifestations: decision-making positions, resource allocation power, rule-making power, and discursive power are highly concentrated.
 
-**Keywords**: structural judgment; measurability hegemony; layered rigidity; structural reproduction; bottom 50% income share; instrumentalization of human beings; China
+**Keywords**: structural judgment; measurability hegemony; layered rigidity; structural reproduction; bottom 50% income share; gender structure; power structure; instrumentalization of human beings; China
 
-**JEL Classification**: D31; D63; O15
+**JEL Classification**: D31; D63; O15; J16; D72
 
 ---
 
@@ -29,13 +29,13 @@ Measurability hegemony relies on an unproven assumption: that measuring instrume
 
 What this paper does is lay out the structure and silence the sentence "the data do not support it, therefore the structure does not exist."
 
-**This paper focuses on one structural fact—the position of the bottom has not moved—and analyzes its three layers.** The structural judgment is: the poor do not possess wealth; the rich possess wealth; the state extracts resources from the majority through taxation, but the direction of redistribution is not determined by the majority; growth does not change this structure, only the way it is seen. The empirical hypothesis is: using measurable proxies, can we observe the relationships predicted by the structural judgment?
+**This paper focuses on one structural fact—the position of the bottom has not moved—and analyzes its three layers.** The structural judgment is: the poor do not possess wealth; the rich possess wealth; the state extracts resources from the majority through taxation, but the direction of tax redistribution is not determined by the majority; growth does not change this structure, only the way it is seen. The empirical hypothesis is: using measurable proxies, can we observe the relationships predicted by the structural judgment?
 
 **"Long-term" here is relative to the 10–20-year windows of mainstream empirical research.** The cross-national data cover 1995–2023 (28 years), and the Chinese long series covers 1978–2023 (45 years), sufficient to observe both change and invariance in structure.
 
 The relationship between the two levels is: **empirical hypotheses can be negated by data; structural judgments cannot be adjudicated by data.** Data negate relationships among proxy variables, not the structure itself.
 
-The paper is organized as follows: Section II reviews the literature; Section III presents the structural judgment (including layered rigidity and structural reproduction); Section IV describes data and methods; Section V reports cross-national divergence; Section VI reports the Chinese case and institutional mechanisms; Section VII reports three asynchronous improvements; Section VIII reports tax structure and the direction of redistribution; Section IX reports tests of the empirical hypothesis; Section X discusses methodological boundaries; Section XI offers boundary clarifications with mainstream economics; Section XII concludes.
+The paper is organized as follows: Section II reviews the literature; Section III presents the structural judgment (including layered rigidity and structural reproduction); Section IV describes data and methods; Section V reports cross-national divergence; Section VI reports the Chinese case and institutional mechanisms; Section VII reports three asynchronous improvements; Section VIII reports the two manifest dimensions of the third layer (gender and power); Section IX reports tax structure and the direction of redistribution; Section X reports tests of the empirical hypothesis; Section XI discusses methodological boundaries; Section XII offers boundary clarifications with mainstream economics; Section XIII concludes.
 
 ---
 
@@ -65,13 +65,13 @@ But this literature does not ask: the first layer was corrected—what about the
 
 Macro aggregation bias has a long history within economics. Theil (1954) systematically addressed aggregation bias. The Austrian tradition is sharper in its critique of "macro formalism": if micro behavior is not repeated daily, there is no reason to believe macro variables possess intertemporal aggregation constancy (Lachmann, 1973; Rizzo, 1978).
 
-This literature is the direct interlocutor of this paper's concept of measurability hegemony. But existing critiques mostly remain at the level of "aggregation has bias" and "macro is not micro." This paper's proposition is stronger: **macro descriptions are non-injective; reverse inference from macro to micro structure is mathematically impossible.** This is not "measurement error"; it is "the impossibility of reverse inference." Another paper by this author, *On the Structural Sources of Irreversibility: The Non-Injectivity of Macro Descriptions and Its Epistemological Consequences*, provides the formal foundation for this proposition; this paper applies it to distributional structure.
+This literature is the direct interlocutor of this paper's concept of measurability hegemony. But existing critiques mostly remain at the level of "aggregation has bias" and "macro is not micro." This paper's proposition is stronger: **macro descriptions are non-injective; reverse inference from macro to micro structure is mathematically impossible.** This is not "measurement error"; it is "the impossibility of reverse inference." Another paper by this author, *On the Structural Sources of Irreversibility*, provides the formal foundation for this proposition; this paper applies it to distributional structure.
 
 ### 2.5 Ethical Critique
 
 Categories such as "human capital," "demographic dividend," and "low-end labor" systematically place human beings in the position of "means." Kant's proposition that "human beings are ends, not means" has echoes within economics. Qian Yingyi (2014) noted that in modern economics, "people are not only tools but also ends." A more systematic discussion comes from the moral-philosophical reading of Marx's theory of surplus value: Marx's critique is rooted in Kant's core view that "human beings are ends," revealing the structural injustice of treating people merely as means (Wang Qingjie, 2024).
 
-This literature supports the judgment in Section 10.4. But existing discussions mostly remain at the normative appeal that "economics should treat people as ends." The contribution of this paper is to point out: this is not a normative problem; it is a problem of linguistic structure. The choice of indicators, the division of groups, and the naming of variables are themselves judgments. The "value neutrality" of empirical economics is an illusion—not because it has no value judgments, but because it hides them behind data.
+This literature supports the judgment in Section 11.4. But existing discussions mostly remain at the normative appeal that "economics should treat people as ends." The contribution of this paper is to point out: this is not a normative problem; it is a problem of linguistic structure. The choice of indicators, the division of groups, and the naming of variables are themselves judgments. The "value neutrality" of empirical economics is an illusion—not because it has no value judgments, but because it hides them behind data.
 
 ### 2.6 Positioning Relative to Specific Literature
 
@@ -169,7 +169,11 @@ The four mechanisms support each other: the soft-budget-constrained sector needs
 
 **Chinese institutional indicators**: Out-of-pocket medical spending 32.17% (2023); education spending as a share of income for low-income households 56.8%; social spending about 9.0% of GDP (IMF COFOG 2023 / PIIE).
 
-**Methods**: Trend decomposition (earliest 3 years vs. latest 3 years), group comparison, correlation coefficients, interaction regression (with Bootstrap and placebo tests).
+**Gender structure indicators**: Time Use Survey (2024), CHIP/CFPS related estimates, BO decomposition literature, occupational segregation index literature, official statistics on gender composition of care occupations.
+
+**Power structure indicators**: NPC composition (2023), gender composition of civil service by rank, A-share board composition, WID wealth distribution, public data on administrative approvals and qualification requirements, estimates on industry association and media appointments. **Note: Some power structure indicators are academic estimates or rough estimates by this paper; scopes are not uniform and are individually annotated in the main text.**
+
+**Methods**: Trend decomposition (earliest 3 years vs. latest 3 years), group comparison, correlation coefficients, interaction regression (with Bootstrap and placebo tests), structural manifestation (multi-indicator consistency judgment).
 
 **Data scope note**: Cross-national data use World Bank Open Data (1995–2023); the Chinese long series uses WID (1978–2023). The two time windows differ and are not directly comparable. China's bottom 50% share changes by +1.75 pp within the World Bank window and by −13.3 pp within the WID long series (1978–2023); the difference comes from different starting points—the World Bank window starts in 1995 and misses the sharp contraction of 1978–1995, while WID starts in 1978 and covers the full trajectory. The two sources are not contradictory; the windows differ.
 
@@ -263,7 +267,7 @@ The relationship between the third layer and the first two layers is: soft budge
 
 **Concrete forms of asymmetric exit rights**: the hukou system suppresses migrant workers' bargaining power—they cannot access urban public services, dare not lose jobs, dare not bargain. Collective land ownership prevents farmers from converting land into urban capital, leaving land as a last resort. Survival costs (housing, medical care, education) are determined by structure, not by individual choice. The poor cannot stop working; the rich can. This asymmetry is the second manifestation of the third-layer structure in China.
 
-**Magnitudes**: The debt ratio of local SOEs has long been higher than that of private firms (about 60% vs. 50%, 2023, Ministry of Finance/SASAC口径); the hukou urbanization rate (about 47%) is significantly lower than the常住 population urbanization rate (about 65%) (2023, National Bureau of Statistics); the housing price-to-income ratio in first-tier cities exceeds 20 times (2024, E-house Research Institute estimate, varying by city and method). These numbers are observable traces of the third-layer structure in China.
+**Magnitudes**: The debt ratio of local SOEs has long been higher than that of private firms (about 60% vs. 50%, 2023, Ministry of Finance/SASAC scope); the hukou urbanization rate (about 47%) is significantly lower than the resident population urbanization rate (about 65%) (2023, National Bureau of Statistics); the housing price-to-income ratio in first-tier cities exceeds 20 times (2024, E-house Research Institute estimate, varying by city and method). These numbers are observable traces of the third-layer structure in China.
 
 **What this set of mechanisms says**: China has developed for more than forty years; GDP rose, infrastructure was built, cities lit up. But the third-layer structure—who is entitled to lose, who is entitled not to play—has not moved. Development changed the manifestations of the entitlement structure, not the entitlement structure itself.
 
@@ -327,9 +331,80 @@ Germany 2022: the lowest decile's inflation was 10.5%, the highest decile's 9.2%
 
 ---
 
-## VIII. Tax Structure and the Direction of Redistribution: Manifestation of the Second-Layer Structure
+## VIII. The Two Manifest Dimensions of the Third Layer: Gender and Power
 
-### 8.1 Tax Burden Structure
+The third layer is budget constraints and exit rights. It has two manifest dimensions: **gender** asks "who is allocated where"; **power** asks "who is entitled to allocate." The two dimensions intersect but do not coincide.
+
+### 8.1 Structural Judgment: Both Sexes Are Locked; the Rules of the Lock Are Set by Those with Rule-Making Power
+
+In the gender dimension: women cannot exit reproduction (care responsibilities), and men cannot exit production (breadwinner responsibilities). Women entering production pay the cost of "not like a woman"; men entering reproduction pay the cost of "not like a man."
+
+In the power dimension: who is entitled to define the boundary between "reproduction" and "production," and who is excluded from the definition. Decision-making positions, resource allocation power, rule-making power, and discursive power constitute the four observable dimensions of the power structure.
+
+**The two dimensions intersect but do not coincide.** Powerless men and powerless women share the same position on "having no rule-making power"; powerful women are inside the power structure, but very few, and pay the cost of "not like a woman." Gender structure asks "who is allocated where"; power structure asks "who is entitled to allocate."
+
+### 8.2 Manifestation on the Female Side
+
+**Indicator 1: Female/male labor force participation ratio.** 81.5% in 2012, 84.0% in 2024. On the surface, the gender gap is narrowing. But this ratio rose because male participation fell faster (77.3%→70.3%), not because female participation rose (63.0%→59.0%). This is "relative change within joint decline," not evidence of structural loosening.
+
+**Indicator 2: Gender ratio of unpaid labor time.** In 2024, women 3 hours 29 minutes/day, men 1 hour 52 minutes/day; women are 1.87 times men. Women bear 97 minutes more unpaid labor per day. This ratio does not change with educational improvement.
+
+**Indicator 3: Total labor time (paid + unpaid).** Weighted, women 392 minutes/day, men 343 minutes/day; women 49 minutes more per day. "Women exiting labor" is an illusion—labor has not disappeared; it has shifted from paid to unpaid.
+
+**Indicator 4: Structural component of the wage gap.** The unexplained portion in BO decomposition is 81.5%; the childbearing wage penalty is 29.1% in the market sector and 12.2% in the state sector. Cost allocation is an institutional arrangement, not an individual choice.
+
+**Indicator 5: Occupational gender segregation index.** Unit heads 4.23, professional and technical personnel 4.26, far higher than commercial service personnel 1.31. Women entering the tertiary sector is not "preference" but segregation.
+
+### 8.3 Manifestation on the Male Side
+
+**Indicator 6: Male labor force participation is also falling.** From 77.3% in 2012 to 70.3% in 2024, a decline of 7.0 pp, 1.8 times the female decline. This is not "men exiting" but production-side jobs shrinking; men are also being squeezed out, though their absolute level remains higher than women's.
+
+**Indicator 7: Male participation in reproductive labor is extremely low.** Unpaid labor 1 hour 52 minutes/day (women 3 hours 29 minutes), emotional labor 18 minutes/day (women 45 minutes), ratio 2.5:1. This is not "male coldness" but the structure not training men to do this.
+
+**Indicator 8: Male share in care occupations is extremely low.** Kindergarten teachers 2%, registered nurses 3%, domestic service workers 10%. This is not "men are unsuitable" but these occupations are marked as "women's work"; men entering pay the social evaluation cost of "not like a man."
+
+**Indicator 9: Men are concentrated in high-risk/high-pressure industries.** Construction 82%, mining 85%, transportation and warehousing 78%, finance 55%, IT 68%. This is not "male benefit" but men being locked into instrumental roles.
+
+**Indicator 10: Male overwork and mental health indicators are worse.** Average weekly hours 48.2h vs. 44.6h; overwork ratio 42% vs. 28%; suicide rate 8.5 vs. 4.2 per 100,000; alcohol use disorder 7.8% vs. 1.2%. Men are not "freer"; they are more locked into the production side.
+
+**Boundary that must be noted**: Higher male suicide and alcohol disorder rates cannot be simply attributed to "being locked into the production side." Other factors are also at work: lower help-seeking willingness among men, different social support networks, suppressed emotional expression. These factors are related to "production-side lock-in" but are not the same thing. These indicators manifest "the consequences of men being locked into the production side," not "production-side lock-in is the sole cause."
+
+### 8.4 Manifestation on the Power Side
+
+**Indicator 11: Decision-making positions are not a mirror of population proportions.** Among NPC deputies, Party and government leaders account for 33%, frontline workers and farmers 16%; women at the provincial/ministerial level and above account for only 11%, at the department/bureau level 15%, at the county/division level 22%. The higher the rank, the fewer women; the more concentrated the power, the narrower the representation. This is not "who is right or wrong" but "who is entitled to participate in rule-making."
+
+**Indicator 12: Resource allocation power is highly concentrated.** 55% of credit flows to SOEs (estimate), land finance accounts for 35% of local revenue (estimate), the top 10% of households own 68% of wealth (WID data). Resource allocation is not a "natural market outcome" but a structure of "who is entitled to allocate resources."
+
+**Indicator 13: Rule-making power is concentrated in approval and recommendation processes.** 1,200 administrative approval items (estimate), 72 qualification requirements, 3,500 national pilot programs; 70% of industry association presidents are recommended by supervising agencies (estimate). The space for "industry self-governance" is limited; rule-making power is concentrated at the administrative level.
+
+**Indicator 14: Discursive power is concentrated at the intersection of administrative appointment and commercial promotion.** 95% of media and 80% of journal management are administratively appointed (estimates); 60% of trending topics are commercially promoted (estimate); algorithm explainability is 0.15 (rough estimate by this paper). "What is seen" is determined by a few positions.
+
+**Data source annotation**: NPC composition, female provincial/ministerial share, and WID wealth data are official statistics or academic databases; SOE credit share, land finance share, administrative approval counts, industry association recommendation ratio, media/journal appointment ratios, trending topic commercial promotion ratio, and algorithm explainability are academic estimates or rough estimates by this paper, with non-uniform scopes, for directional reference only.
+
+### 8.5 What This Set of Data Says
+
+Fourteen indicators, two dimensions, one structure: **formal equality changed the first layer; the third layer has not moved.**
+
+- Gender dimension: female paid labor participation is falling, the unpaid labor gender ratio is rigid, and the unexplained portion of the wage gap dominates; male unpaid labor is extremely low, male share in care occupations is extremely low, and male concentration in high-risk industries is extremely high.
+- Power dimension: decision-making positions are highly concentrated, resource allocation power is concentrated, rule-making power is concentrated in approval processes, and discursive power is concentrated at the intersection of administrative and commercial positions.
+
+**Both sexes are locked, in different ways; the rules of the lock are set by those with rule-making power.** Gender structure asks "who is allocated where"; power structure asks "who is entitled to allocate." The two intersect but do not coincide.
+
+**The precise meaning of "asymmetric loosening"**: the first layer of gender structure is moving (education, law, female representation 26.9%), the third layer has not moved; the rule-making power concentration of the power structure has not moved overall. It is not "gender is already good, power is not yet good"; it is "the first layer of gender structure is moving, and the third layer of both dimensions has not moved."
+
+### 8.6 Falsifiability
+
+**Gender dimension**: If female paid labor participation rises, the gender wage gap narrows, and female management share increases, while male unpaid labor time rises significantly, male share in care occupations rises significantly, and male overwork and mental health indicators fall significantly—the structure is symmetrically loosening.
+
+**Power dimension**: If the proportion of frontline workers and farmers among NPC deputies rises significantly (e.g., from 16% to above 25%), the female provincial/ministerial share rises significantly (e.g., from 11% to above 20%), the SOE credit share falls significantly (e.g., from 55% to below 40%), administrative approval items fall sharply (e.g., from 1,200 to below 600), the direct election ratio of industry association presidents rises significantly, and algorithm explainability rises significantly (e.g., from 0.15 to above 0.50)—the distribution structure of rule-making power is loosening.
+
+If the gender side is moving and the power side is not, it is "the first layer of gender structure is moving; the rule-making power concentration of the power structure has not moved."
+
+---
+
+## IX. Tax Structure and the Direction of Redistribution: Manifestation of the Second-Layer Structure
+
+### 9.1 Tax Burden Structure
 
 China's tax system is dominated by indirect taxes. Value-added tax and consumption tax account for the bulk of tax revenue. Indirect taxes are regressive: the poor spend a higher share of income on consumption, so their effective indirect tax burden is heavier. Direct taxes (personal income tax, property tax) account for a low share, with weak top-end adjustment.
 
@@ -337,7 +412,7 @@ China's tax system is dominated by indirect taxes. Value-added tax and consumpti
 
 **Reading**: Taxation extracts resources from the majority, but the burden distribution is regressive. The poor's effective tax burden is heavier; this is the manifestation of the extraction structure.
 
-### 8.2 Direction of Tax Use
+### 9.2 Direction of Tax Use
 
 Table 6 China's social spending and out-of-pocket public service shares
 
@@ -351,13 +426,13 @@ Data sources: National Bureau of Statistics; IMF COFOG; PIIE; OECD.
 
 **Reading**: Taxes are extracted, but the reflow to the bottom is low. Social spending is about 9% of GDP, far below the OECD average; out-of-pocket medical spending is two to three times that of Germany, Japan, and the US; education spending is 56.8% of income for low-income households. Extraction is high; reflow is low—this is the manifestation of the redistribution direction.
 
-### 8.3 Administrative Absorption
+### 9.3 Administrative Absorption
 
 Nominal welfare expansion, but the increment may be absorbed by the administrative system (management costs, outsourcing, employment), so beneficiaries' real benefits do not increase. This is the tax-dimension expression of "bad intervention crowding out good intervention" in *Resolve and Clearing*: fiscal resources flow to inefficient sectors or the administrative system rather than to livelihood protection.
 
 **Reading**: The increment of welfare expansion does not necessarily reach the poor. Nominal expansion, no real benefit increase—this is the manifestation of administrative absorption.
 
-### 8.4 Conclusion on the Second-Layer Structure
+### 9.4 Conclusion on the Second-Layer Structure
 
 The regressive tax burden structure, the low reflow through spending, and administrative absorption of increments—these three together are the manifestation of the second-layer structure:
 
@@ -365,9 +440,9 @@ The regressive tax burden structure, the low reflow through spending, and admini
 
 ---
 
-## IX. Tests of the Empirical Hypothesis: Insignificant Results and Honest Reporting
+## X. Tests of the Empirical Hypothesis: Insignificant Results and Honest Reporting
 
-### 9.1 Descriptive Grouping
+### 10.1 Descriptive Grouping
 
 **Empirical hypothesis**: Using tax revenue as a share of GDP as a proxy for redistribution capacity, the relationship between growth and changes in the bottom 50% share is near zero in the low-tax group and positive in the high-tax group.
 
@@ -382,7 +457,7 @@ Data source: World Bank Open Data; author's calculations.
 
 **Reading**: The grouping suggests a direction—near-zero correlation in the low-tax group and positive correlation in the high-tax group. But group correlation is not a statistically significant moderating effect; an interaction test is needed.
 
-### 9.2 Convergence Effect
+### 10.2 Convergence Effect
 
 Table 8 Multiple regression of changes in the bottom 50% share
 
@@ -400,7 +475,7 @@ Note: 32 countries. Dependent variable: change in bottom 50% share (pp). Data so
 
 **Reading**: The coefficient on the initial bottom 50% share is −0.2806, t = −3.91, significant at the 1% level. The convergence effect is the statistically most robust signal in the data. But China is a counterexample: its initial share in 1978 was 27.0%, which by convergence logic should have had ample room for improvement, yet it contracted sharply. The convergence effect holds in the cross-section but not in China's long series—it depends on institutional conditions.
 
-### 9.3 Interaction Term: Exploratory Test, Not Statistically Significant
+### 10.3 Interaction Term: Exploratory Test, Not Statistically Significant
 
 Interaction regression: Δshare = 5.70 − 0.97·growth − 0.280·tax + 0.075·(growth × tax)
 
@@ -420,7 +495,7 @@ Note: Controls include initial bottom 50% share, GDP per capita level, and trade
 
 **Result**: The interaction term is positive (+0.0748), but t = 1.40, below the 5% significance threshold; the Bootstrap 95% CI crosses zero; the placebo test p = 0.087; after adding controls the coefficient falls to +0.0124 (t = 0.26). The empirical hypothesis is not statistically supported. This result is recorded as exploratory only and does not constitute a core conclusion.
 
-### 9.4 Interpreting the Test Results of the Empirical Hypothesis
+### 10.4 Interpreting the Test Results of the Empirical Hypothesis
 
 The interaction term is insignificant; the convergence effect is significant. The two results must be understood separately.
 
@@ -432,9 +507,9 @@ The significant convergence effect indicates that a lower initial share predicts
 
 ---
 
-## X. Methodological Boundaries: Measurability Hegemony, Instrumentalization of Human Beings, and the Grounds of the Structural Judgment
+## XI. Methodological Boundaries: Measurability Hegemony, Instrumentalization of Human Beings, and the Grounds of the Structural Judgment
 
-### 10.1 What Is Measurability Hegemony
+### 11.1 What Is Measurability Hegemony
 
 Mainstream economics has an unspoken premise: **what is measurable exists; what is not measurable does not exist.**
 
@@ -442,13 +517,13 @@ Its manifestations: if structure is unmeasurable, structure does not exist; if b
 
 This paper calls it "measurability hegemony." Its essence: **mistaking the measuring instrument for existence itself.** That a structure is unmeasurable does not mean it does not exist; it means the instrument cannot measure it. Judging "unmeasurable" as "nonexistent" is methodological overreach.
 
-### 10.2 Why Measurability Hegemony Does Not Hold
+### 11.2 Why Measurability Hegemony Does Not Hold
 
 Measurability hegemony relies on an unproven assumption: that measuring instruments are complete. But measuring instruments are never complete. Macro data are the afterimage of aggregation; structure is the reality before aggregation. Judging reality by its afterimage is a category error.
 
 Data can say "this proxy did not capture it," not "the structure does not exist." Data can say "this coefficient is insignificant," not "the structural judgment is wrong." **The role of data is to test proxy variables, not to adjudicate whether a structure exists.**
 
-### 10.3 The Role of Data in This Paper: From "Insignificant" to "Evidence of the Crime"
+### 11.3 The Role of Data in This Paper: From "Insignificant" to "Evidence of the Crime"
 
 The interaction term is insignificant, the Bootstrap CI crosses zero, and the coefficient disappears after adding controls. These results show that, with tax/GDP as a proxy and in the existing sample, no statistically significant moderating effect is observed.
 
@@ -463,7 +538,7 @@ Data in this paper are not evidence; they are evidence of the crime. What they p
 
 **Data are not wrong, but what data say is not the whole.** Data say "averages are rising," "Gini is falling," "labor share is recovering," "real consumption is growing." These are true. But data do not say "the bottom share has not moved," "improvement has not reached the bottom," "the middle layer took the bulk," "the poor face higher inflation." Data say what they can say, not everything. Treating "what data say" as "everything" is not data lying; it is hearing only half the sentence.
 
-### 10.4 Instrumentalization of Human Beings and the Illusion of Value Neutrality
+### 11.4 Instrumentalization of Human Beings and the Illusion of Value Neutrality
 
 Measurability hegemony is epistemological overreach: judging "unmeasurable" as "nonexistent." It has an ethical counterpart: **treating "measurable values" as the end of human beings and human beings as the means to produce those values.**
 
@@ -479,7 +554,7 @@ Three terms, one direction—human beings are no longer ends; they are means. Th
 
 **This is not rhetoric; it is grammatical analysis: in the sentence structure of empirical economics, the subject is data, the object is the human being, and the predicate is "worth how much."** Data are the subject, the human being is the object; the human being is not the subject of the sentence—in this language, the human being is not a subject from the start.
 
-### 10.5 The Relationship Between the Two Errors and Why This Layer Is More Fundamental
+### 11.5 The Relationship Between the Two Errors and Why This Layer Is More Fundamental
 
 Measurability hegemony and the instrumentalization of human beings are two sides of the same defect:
 
@@ -492,7 +567,7 @@ Together, they are the bad habit of economics: **it describes human beings with 
 
 **Tax injustice can be patched within the tax system. Instrumental language cannot be fixed unless the language changes.** Changing the language means changing the question: not "how much is this person worth," but "how is this person living."
 
-### 10.6 Grounds of the Structural Judgment
+### 11.6 Grounds of the Structural Judgment
 
 If data cannot adjudicate, on what grounds does the structural judgment rest? There are three grounds, all independent of statistical significance.
 
@@ -510,9 +585,9 @@ If data cannot adjudicate, on what grounds does the structural judgment rest? Th
 
 **Echo with *Resolve and Clearing***: The mixed results of the ten rounds of regressions in that paper are precisely the econometric manifestation of "macro data cannot support reverse inference to micro structure." Four directions correct, four reversed, two insignificant—this is not a failure of theoretical judgment but the systemic failure of macro data on structural problems. The two papers share the same methodological foundation: macro descriptions are non-injective; reverse inference is impossible.
 
-### 10.7 Methodological Position of Structural Analysis
+### 11.7 Methodological Position of Structural Analysis
 
-**Section 10.6 explained the grounds of the structural judgment; this section explains the position of structural analysis within existing methodological traditions.**
+**Section 11.6 explained the grounds of the structural judgment; this section explains the position of structural analysis within existing methodological traditions.**
 
 The structural analysis in this paper is not an isolated methodological invention. It is related to three existing traditions, but its position differs.
 
@@ -526,41 +601,41 @@ The structural analysis in this paper is not an isolated methodological inventio
 
 ---
 
-## XI. Boundary Clarifications with Mainstream Economics
+## XII. Boundary Clarifications with Mainstream Economics
 
 Mainstream economics, upon seeing this paper, will raise five standard types of challenge. This paper clarifies the applicable boundaries one by one.
 
-### 11.1 Boundary Clarification 1: Falsifiability of the Structural Judgment
+### 12.1 Boundary Clarification 1: Falsifiability of the Structural Judgment
 
 **Mainstream economics' standard**: You say "the structure has not moved," but Latin America's share is rising, China's is stabilizing, and the US's is shrinking—you can always explain it away with "layered rigidity." This is not science; it is an unfalsifiable narrative.
 
-**Clarification**: The structural judgment is falsifiable. Falsification conditions are specified in Sections 3.4 and 10.6: if the third-layer structure is broken, the structural judgment is falsified. If Latin America's share rises while its tax structure becomes progressive, social spending rises to OECD levels, and soft-budget-constrained sectors disappear, the structural judgment is falsified. What falsifies it is not statistical significance but institutional change. This is not "unfalsifiable"; it is "a different falsification standard." Mainstream economics' falsification standard is "insignificant coefficient = wrong hypothesis." This paper's falsification standard is "institutional change = structure loosened." The two standards apply to different levels; it is not that this paper has no standard.
+**Clarification**: The structural judgment is falsifiable. Falsification conditions are specified in Sections 3.4 and 11.6: if the third-layer structure is broken, the structural judgment is falsified. If Latin America's share rises while its tax structure becomes progressive, social spending rises to OECD levels, and soft-budget-constrained sectors disappear, the structural judgment is falsified. What falsifies it is not statistical significance but institutional change. This is not "unfalsifiable"; it is "a different falsification standard." Mainstream economics' falsification standard is "insignificant coefficient = wrong hypothesis." This paper's falsification standard is "institutional change = structure loosened." The two standards apply to different levels; it is not that this paper has no standard.
 
-### 11.2 Boundary Clarification 2: Causal Identification and Structural Judgment
+### 12.2 Boundary Clarification 2: Causal Identification and Structural Judgment
 
 **Mainstream economics' standard**: Your interaction term t = 1.40, insignificant, disappears after controls. You have no causal identification; your conclusion is unreliable.
 
 **Clarification**: This paper does not claim causal identification. It claims that macro data cannot in principle support reverse inference to micro structure. This is not "I did not do causal identification"; it is "causal identification does not apply at the structural level." What you identify with DID, IV, or RDD are "causal effects among measurable proxies," not "whether a structure exists." Causal identification and structural judgment apply to different levels. If mainstream economics insists that "without causal identification it is not economics," then this paper acknowledges that it is not a mainstream economics paper. It is structural analysis. The standard of structural analysis is not causal identification but logical coherence, the impossibility of reverse inference, and falsifiability.
 
-### 11.3 Boundary Clarification 3: Using an Indicator vs. Treating It as the End
+### 12.3 Boundary Clarification 3: Using an Indicator vs. Treating It as the End
 
 **Mainstream economics' standard**: You criticize "instrumentalization of human beings" and say "bottom 50% share" turns people into percentages. But you use this indicator throughout the paper. You are self-contradictory.
 
 **Clarification**: This paper uses "bottom 50% share" but does not treat it as the end. It uses it to manifest structure. It does not say "raising the share is the end." It says: the share is a means; the human being is the end. Using an indicator is not the same as treating it as the end. A doctor using a thermometer to measure temperature is not treating the patient as a thermometer. This paper uses the share to manifest structure, not to treat the bottom as a carrier of shares. Mainstream economics' problem is treating the thermometer as the patient.
 
-### 11.4 Boundary Clarification 4: Latin America's Rising Share and the Structural Judgment
+### 12.4 Boundary Clarification 4: Latin America's Rising Share and the Structural Judgment
 
 **Mainstream economics' standard**: Brazil +4.27, Peru +7.78, Chile +5.12—Latin America's bottom share is rising substantially. The structure is clearly changing; saying it has not moved is selective blindness.
 
 **Clarification**: What changed in Latin America is the first layer (distributional outcomes), not the third layer (budget constraints and exit rights). Latin America raised the bottom share through cash transfers, but the tax structure did not change (still regressive), social spending did not rise to OECD levels, soft-budget-constrained sectors did not disappear, and the poor still had to sell their labor to survive. The first layer moved; the third layer did not. This is layered manifestation, not falsification of "the structure has not moved." If mainstream economics insists that "a rising share means the structure has changed," then this paper acknowledges that, under the narrow definition "structure = distributional outcomes," Latin America's structure changed. But this paper's structural definition has three layers. Looking only at the first layer is a narrow definition; all three layers together are this paper's structural judgment.
 
-### 11.5 Boundary Clarification 5: The Chinese Case and Counterfactuals
+### 12.5 Boundary Clarification 5: The Chinese Case and Counterfactuals
 
 **Mainstream economics' standard**: You say China's trajectory results from three mechanisms. But you have no counterfactual—if the hukou system were different, if land finance were different, what would China look like? You do not answer.
 
 **Clarification**: This paper does not conduct counterfactual inference. It conducts mechanism analysis: mechanisms present, trajectory present; mechanisms change, trajectory changes. The correspondence between mechanisms and trajectory is the object of analysis. Counterfactual inference is a different question, and this paper does not answer it. If mainstream economics insists that "without counterfactuals it is not causal analysis," then this paper acknowledges that it is not causal analysis. It is mechanism analysis. The standard of mechanism analysis is not counterfactuals but the correspondence between mechanisms and trajectory. The two standards apply to different levels.
 
-### 11.6 Conclusion of Boundary Clarifications
+### 12.6 Conclusion of Boundary Clarifications
 
 > Mainstream economics raises five standard types of challenge: unfalsifiable, no causal identification, self-contradictory, Latin American counterexample, no counterfactuals. This paper clarifies each: different falsification standards, causal identification does not apply at the structural level, using an indicator is not treating it as the end, Latin America is layered manifestation, mechanism analysis does not require counterfactuals.
 >
@@ -568,7 +643,7 @@ Mainstream economics, upon seeing this paper, will raise five standard types of 
 
 ---
 
-## XII. Conclusion
+## XIII. Conclusion
 
 **The structure has not moved.**
 
@@ -579,6 +654,8 @@ The poor do not possess wealth; the rich possess wealth; the state extracts reso
 **Relationship between the two levels**: What data negate is the empirical hypothesis, not the structural judgment. Using aggregated data to negate a pre-aggregation structure is a category error. Judging "unmeasurable" as "nonexistent" is measurability hegemony; treating data as the end and human beings as the means is instrumentalization. Both errors share the same root: mistaking the measuring instrument for existence itself. The grounds of the structural judgment are logical coherence, the impossibility of macro-level reverse inference, and falsifiability—not statistical significance. This shares the same methodological foundation as *On the Structural Sources of Irreversibility*.
 
 **Data manifest the structure**: cross-national divergence (the US, Germany, Australia, Sweden, and South Korea shrinking; Latin America, the UK, France, Japan, and Canada rising—layered manifestation); China's trajectory (sharp contraction 1978–2005, low-level stabilization 2005–2023, three institutional mechanisms in sequence); three asynchronous improvements (Gini r = +0.112; labor elasticity 0.22; inflation premium 1.3–1.4 pp); tax structure (regressive indirect taxes, social spending 9%, out-of-pocket medical 32%, out-of-pocket education 56.8%). These are evidence of the crime, not evidence. What they prove is not that the structure exists, but that four illusions mask the structure.
+
+**Manifestation of gender and power**: The third layer has two dimensions. In the gender dimension, women cannot exit reproduction (unpaid labor gender ratio 1.87 times, total labor time 49 minutes/day more, unexplained wage gap 81.5%), and men cannot exit production (unpaid labor 1 hour 52 minutes/day, care occupation share 2%–10%, high-risk industry concentration 78%–85%, overwork ratio 42%). In the power dimension, decision-making positions, resource allocation power, rule-making power, and discursive power are highly concentrated. **Both sexes are locked, in different ways; the rules of the lock are set by those with rule-making power.** The precise meaning of "asymmetric loosening" is: the first layer of gender structure is moving, and the third layer of both dimensions has not moved.
 
 **The structure has not moved. Data can see it, but cannot prove it.**
 
@@ -594,7 +671,7 @@ The author declares no conflict of interest that could affect the research concl
 
 ## Data Availability Statement
 
-The data in this paper come from World Bank Open Data, WID.world, the National Bureau of Statistics of China, the flow-of-funds accounts, the German Council of Economic Experts, the UK Office for National Statistics, the European Central Bank, and IMF COFOG. All data are publicly available. Replication scripts are available in the `majority-share/` directory.
+The data in this paper come from World Bank Open Data, WID.world, the National Bureau of Statistics of China, the flow-of-funds accounts, the German Council of Economic Experts, the UK Office for National Statistics, the European Central Bank, IMF COFOG, the Time Use Survey, CHIP/CFPS related literature, the population census, and the labor statistics yearbook. All data are publicly available. Replication scripts are available in the `majority-share/` and `gender-power/` directories.
 
 ## References
 
@@ -606,6 +683,7 @@ The data in this paper come from World Bank Open Data, WID.world, the National B
 - Kornai, J. (1980). *Economics of Shortage*. North-Holland.
 - Lachmann, L. M. (1973). *Macro-economic Thinking and the Market Economy*. Institute of Economic Affairs.
 - National Bureau of Statistics of China. (2024). *China Statistical Yearbook*.
+- National Bureau of Statistics of China. (2024). Third National Time Use Survey.
 - OECD. (2024). Social Expenditure Database.
 - Piketty, T. (2014). *Capital in the Twenty-First Century*. Harvard University Press.
 - Piketty, T., Yang, L., & Zucman, G. (2019). Capital accumulation, private property, and rising inequality in China, 1978–2015. *American Economic Review*, 109(7), 2469–2496.
