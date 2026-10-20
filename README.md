@@ -189,7 +189,9 @@ Equal System — 平等制
 | [国强与民松（学术版）](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong (Academic Version)](papers/Guoqiang_Minsong_en.md) |
 | [紧绷即底气（学术版）](papers/paper_resilience_zh.md) | [Resilience in Tension (Academic Version)](papers/paper_resilience_en.md) |
 | [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
-| [定力与出清：论政策干预的结构性边界（学术版）](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing: On the Structural Boundaries of Policy Intervention (Academic Version)](papers/structural-trap-and-monetary-standoff-en.md) |
+| [定力与出清（学术版）](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing (Academic Version)](papers/structural-trap-and-monetary-standoff-en.md) |
+| [结构与数据（学术版）](papers/Structure_and_Data_cn.md) | [Structure and Data (Academic Version)](papers/Structure_and_Data_en.md) |
+
 <br>
 <hr>
 <br>
