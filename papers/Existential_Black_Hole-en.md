@@ -1,19 +1,25 @@
 | Item | Content |
 | :--- | :--- |
-| Title | The Existential Black Hole: Regression Rate and the Failure of Marx's Measure |
+| Title | The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation |
 | Author | Zhong Shanzhen |
-| Version | 2.0 |
+| Version | 3.0 |
 | Date | 2026-10 |
 | License | CC BY-NC 4.0 |
-| Keywords | Existential Black Hole, Regression Rate, Failure of Marx's Measure, Temporality and Equivalence, Temporary Node, Dharmic Position, Undefined |
+| Keywords | Existential Black Hole, Regression Rate, Failure of Marx's Measure, System Dynamics, Hidden Recession, Dharmic Position |
 
-# The Existential Black Hole: Regression Rate and the Failure of Marx's Measure
+# The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation
 
 ## Abstract
 
-This paper argues that "the productive forces determine the relations of production" is not a universally valid law, but a local description of a specific historical experience—it possesses only temporality, not equivalence. Through four cross-system empirical counterexamples, this paper demonstrates that after a transformation of the productive forces, the governance structure did not undergo the predicted transformation, but instead expanded or regressed to its default mode. This falsification exposes a structural void previously obscured by narratives of historical necessity: the existential black hole. This paper proposes an alternative descriptive framework: the productive forces have a limited effect on the relations of production, but the relations of production in turn decisively determine how the productive forces are used, deployed, and distributed.
+This paper argues that "the productive forces determine the relations of production" is not a universally valid law, but a local description of a specific historical experience—it possesses only temporality, not equivalence. Through four cross-system empirical counterexamples, this paper demonstrates that after a transformation of the productive forces, the governance structure did not undergo the predicted transformation, but instead expanded or regressed to its default mode. 
 
-**Keywords**: Existential Black Hole · Regression Rate · Failure of Marx's Measure · Temporality and Equivalence · Temporary Node · Dharmic Position · Undefined
+To verify this "regression rate" mechanism dynamically, this paper introduces a system dynamics simulation. The simulation results indicate that under strong regression gravity, technological shocks are absorbed by the system, leading to periodic structural reorganizations. When an external shock is introduced, the old gravity is broken, and the system falls into long-term low-level oscillation. Furthermore, under modern financial leverage and technological monopoly, the system does not undergo violent reorganization, but rather transitions into a hidden recession characterized by demographic inversion. The technological boom fails to break the cycle and instead intensifies the liquidity trap. 
+
+This falsification and mechanism verification together expose a structural void previously obscured by narratives of historical necessity: the existential black hole. This paper proposes an alternative descriptive framework: the productive forces have a limited effect on the relations of production, but the relations of production in turn decisively determine how the productive forces are used, deployed, and distributed.
+
+**Keywords**: Existential Black Hole; Regression Rate; Failure of Marx's Measure; System Dynamics; Hidden Recession; Dharmic Position
+
+---
 
 ## I. Introduction
 
@@ -29,7 +35,9 @@ Once it is proven that the formula possesses only temporality, two consequences 
 
 ### 1.2 The Argument Chain
 
-The argument chain of this paper is as follows: Concepts and Method (II) → Phenomenological Description: Regression Rate (III) → Logical Inference: The Failure of Marx (IV) → Ontological Consequence: The Black Hole (V) → Systematic Rebuttals (VI) → Conclusion (VII).
+The argument chain of this paper is as follows: Concepts and Method (II) → Phenomenological Description: Regression Rate (III) → Logical Inference: The Failure of Marx (IV) → Mechanism Verification: System Dynamics Simulation (V) → Ontological Consequence: The Black Hole (VI) → Systematic Rebuttals (VII) → Conclusion (VIII).
+
+---
 
 ## II. Concepts and Method
 
@@ -43,26 +51,22 @@ This paper adopts the "governance structure" sense of the relations of productio
 
 ### 2.3 Semantic Analysis of "Determine"
 
-Marx's "determine" has three possible meanings. The first is causal determination: the productive forces are the cause, the relations of production are the effect. The second is logical determination: the relations of production are a logical entailment of the productive forces. The third is tendential determination: the productive forces set the direction of change for the relations of production, but do not guarantee that change will necessarily occur.
+Marx's "determine" has three possible meanings: causal determination, logical determination, and tendential determination.
 
-This paper argues that Marx's "determine" is causal determination. The evidence comes from Marx's own texts. In the Preface to *A Contribution to the Critique of Political Economy*, Marx writes: "At a certain stage of development, the material productive forces of society come into conflict with the existing relations of production or—this merely expresses the same thing in legal terms—with the property relations within the framework of which they have operated hitherto. From forms of development of the productive forces these relations turn into their fetters. Then begins an era of social revolution."
+This paper argues that Marx's "determine" is causal determination. The evidence comes from Marx's own texts: "At a certain stage of development, the material productive forces of society come into conflict with the existing relations of production... From forms of development of the productive forces these relations turn into their fetters. Then begins an era of social revolution."
 
-In this passage, the terms "conflict," "fetters," and "social revolution" indicate that the relation between the productive forces and the relations of production is causally necessary. The transformation of the productive forces leads to conflict, conflict leads to fetters, and fetters lead to revolution. This is a causal chain.
-
-Only causal determination supports the strong interpretation of a "universal law." The core argument of this paper is that the strong interpretation of Marx's formula—the causal determination interpretation—is falsified.
+The terms "conflict," "fetters," and "social revolution" indicate that the relation is causally necessary. Only causal determination supports the strong interpretation of a "universal law." The core argument of this paper is that this strong interpretation is falsified.
 
 ### 2.4 Temporality and Equivalence
 
-- **Temporality**: A proposition is valid only at a specific stage. Its validity within that stage does not imply that it is valid at all stages.
+- **Temporality**: A proposition is valid only at a specific stage. 
 - **Equivalence**: A proposition holds equivalently under all conditions. Physical laws possess equivalence.
 
 Marx's formula possesses only temporality. It was valid during the Western European Industrial Revolution, but invalid under other conditions. Marx mistook temporality for equivalence, elevating a local description to a universal law.
 
 ### 2.5 Universal Law and Local Description
 
-A proposition is a universal law if and only if it holds under all known conditions and has no counterexamples. A proposition is a local description if and only if it holds only under certain conditions and has counterexamples.
-
-Marx's formula satisfies the conditions of a local description.
+A proposition is a universal law if and only if it holds under all known conditions and has no counterexamples. A proposition is a local description if and only if it holds only under certain conditions and has counterexamples. Marx's formula satisfies the conditions of a local description.
 
 ### 2.6 Explanans and Condition Term
 
@@ -70,10 +74,9 @@ Marx's formula satisfies the conditions of a local description.
 - **Condition Term**: A necessary condition for the change of the explanandum, but without explanatory priority.
 
 Marx's framework: The productive forces are the explanans, the relations of production are the explanandum.
-
 This paper's framework: The relations of production are the explanans, the productive forces are the condition term.
 
-The difference between the two is not a matter of "which comes first," but of "the object of explanation": Marx explains "why the relations of production change," while this paper explains "why the productive forces are used in this way."
+The difference is not a matter of "which comes first," but of "the object of explanation": Marx explains "why the relations of production change," while this paper explains "why the productive forces are used in this way."
 
 ### 2.7 Regression Rate
 
@@ -89,9 +92,11 @@ A temporary node is an aggregate point assembled by genes, language, and society
 
 This paper is descriptive philosophy, not normative philosophy. It does not answer "what should be done," but only "what is."
 
-Falsifying a causal claim requires only the presentation of a counterexample; it does not require an alternative proposal. The burden of proof lies with the party making the universal claim. Marx's formula claims that "the productive forces determine the relations of production" is a universal law. It must explain the counterexamples. It cannot. Therefore the formula fails.
+Falsifying a causal claim requires only the presentation of a counterexample; it does not require an alternative proposal. The burden of proof lies with the party making the universal claim.
 
-This paper adopts the method of analytic philosophy: concepts first, formalized argumentation, embedded rebuttals. Each core concept is given a strict definition when it first appears.
+To verify the structural necessity of the "regression rate," this paper introduces a system dynamics simulation in Section V. **It must be emphasized that this simulation is not a quantitative predictive model based on historical macro-data, but a "mechanism simulation."** The model parameters are heuristic settings, designed to demonstrate the dynamic trajectory of system evolution, rather than to predict specific years of structural reorganization.
+
+---
 
 ## III. Phenomenological Description: Regression Rate
 
@@ -105,26 +110,20 @@ The default structural pattern includes the following features: centralization o
 
 | Concept | Distinction from Regression Rate |
 |---------|----------------------------------|
-| Historical Cycle | Cycle is a phenomenal description (division and unity, unity and division); regression rate is a structural description (the system is pulled back to its default state by a gravitational field) |
-| Ultra-Stable Structure | Ultra-stable structure emphasizes "repair mechanisms"; regression rate emphasizes "gravitational field"—not active repair by the system, but passive regression |
-| Hydraulic Despotism | Hydraulic despotism is a genetic explanation (why it formed); regression rate is a description of the mode of operation (how it operates) |
+| Historical Cycle | Cycle is a phenomenal description; regression rate is a structural description (the system is pulled back to its default state by a gravitational field) |
+| Ultra-Stable Structure | Emphasizes "repair mechanisms"; regression rate emphasizes "gravitational field"—not active repair, but passive regression |
+| Hydraulic Despotism | A genetic explanation (why it formed); regression rate is a description of the mode of operation (how it operates) |
 | Path Dependence | The "lock-in" of path dependence is a product of historical contingency; the "default state" of regression rate is a product of structural necessity |
-| Attractor | Attractor is a mathematical concept, not presupposing a subject; regression rate is a historical concept, presupposing the historical context of the system's operation |
 
 ### 3.3 Mode of Operation: Absorption Rather Than Rejection
 
-The regression rate system does not reject new productive forces, but absorbs them as new resources for maintaining its own operation. The mode of operation has four stages:
-
-- **Trigger**: The transformation of the productive forces triggers the system's response. The system is not passive, but active.
-- **Selection**: The system selects what to absorb, in what manner, and to what extent. The power of selection lies with the system.
-- **Taming**: The system guides the new productive forces onto the track of its own maintenance. Technology is used to strengthen governance, information is used to strengthen control, capital is used to strengthen finance.
+The regression rate system does not reject new productive forces, but absorbs them as new resources for maintaining its own operation:
+- **Trigger**: The transformation of the productive forces triggers the system's active response.
+- **Selection**: The system selects what to absorb, in what manner, and to what extent.
+- **Taming**: The system guides the new productive forces onto the track of its own maintenance. Technology is used to strengthen governance, information to strengthen control.
 - **Continuity**: The underlying operational logic remains continuous. The system regresses to its default state, but with the new productive forces as its skin.
 
-### 3.4 Criterion of Judgment
-
-The criterion for judging whether a system possesses a regression rate is: after a transformation of the productive forces, does the system's underlying operational logic still regress to its initial structural pattern?
-
-### 3.5 Empirical Counterexamples
+### 3.4 Empirical Counterexamples
 
 | Case | Indicator 1 | Indicator 2 | Conclusion |
 |------|-------------|-------------|------------|
@@ -133,171 +132,173 @@ The criterion for judging whether a system possesses a regression rate is: after
 | Soviet Union | Officials: 1 million → 1.4 million | NKVD troops: 100,000 → 335,000 | The productive forces were planned, the state did not wither away, the bureaucracy became the core of the system |
 | United Kingdom | Government spending/GDP: 25% → 35-45% | Nationalized enterprise output: peaked in 1979 | The productive forces were nationalized, the state did not wither away, but became the largest capitalist |
 
-**Data Sources**:
-- China: National Bureau of Statistics, *China Statistical Yearbook*; Ministry of Human Resources and Social Security, *Statistical Bulletin on the Development of Human Resources and Social Security*; Ministry of Finance, *China Financial Yearbook*.
-- United States: BLS, *Historical Data*, Series ID: CES0000000001; Office of Management and Budget, *Historical Tables*.
-- Soviet Union: Central Statistical Administration archives; Rosstat, *Russian Statistical Yearbook*; NKVD archives.
-- United Kingdom: UK Treasury, *Historical Public Expenditure Data*; UK National Statistics, *Historical Data*.
+**Cross-Case Structural Identity**: The four cases represent four different modes of transformation of the productive forces—catch-up industrialization (China), crisis intervention (US), planned allocation (USSR), and nationalized mixed (UK). All four modes point to the same structure: after a transformation of the productive forces, the governance structure does not wither away, but expands or regresses to its default mode.
 
-**Cross-Case Structural Identity**: The four cases represent four different modes of transformation of the productive forces—catch-up industrialization (China), crisis intervention (United States), planned allocation (Soviet Union), and nationalized mixed (United Kingdom). All four modes point to the same structure: after a transformation of the productive forces, the governance structure does not wither away, but expands or regresses to its default mode.
-
-### 3.6 Historical Precedent: Hobbes and the Regression of the English Civil War
-
-In *Behemoth*, Hobbes diagnosed the English Civil War not as a collapse caused by economic contradictions, but by the ambiguity of sovereign definition and the proliferation of private judgment. This was a collapse at the level of the relations of production, not a necessary result of the development of the productive forces.
-
-The solution of *Leviathan*: to end civil war, an indivisible absolute sovereign must be established. The sovereign must control the power of religious interpretation, legal definition, and the monopoly of force. The system, by strengthening the relations of production, decisively determines the possible boundaries of the productive forces.
-
-The outcome of the English Civil War was not the birth of new relations of production, but the strengthened regression of the old sovereign logic. This historical precedent shows that the regression rate is not a modern phenomenon; it appeared already in the early modern period.
+---
 
 ## IV. Logical Inference: The Failure of Marx
 
 ### 4.1 Original Context
 
-Marx's formula was proposed based on observations of a specific experience during the Western European Industrial Revolution: feudal relations of production fettered the emerging productive forces; the productive forces broke through the fetters and gave rise to capitalist relations of production. This is a retrospective description, not a prediction.
+Marx's formula was proposed based on observations of a specific experience during the Western European Industrial Revolution. This is a retrospective description, not a prediction.
 
-Marx wrote in the Preface to *A Contribution to the Critique of Political Economy*: "At a certain stage of development, the material productive forces of society come into conflict with the existing relations of production or—this merely expresses the same thing in legal terms—with the property relations within the framework of which they have operated hitherto. From forms of development of the productive forces these relations turn into their fetters. Then begins an era of social revolution."
-
-**Analysis**: This passage uses terms such as "conflict," "fetters," and "social revolution." These terms indicate that Marx's "determine" is causal determination—the transformation of the productive forces "necessarily" leads to the transformation of the relations of production. Causal determination requires: the transformation of the productive forces is a sufficient condition for the transformation of the relations of production.
+Marx's text: "From forms of development of the productive forces these relations turn into their fetters. Then begins an era of social revolution." These terms indicate that Marx's "determine" is causal determination—the transformation of the productive forces "necessarily" leads to the transformation of the relations of production.
 
 ### 4.2 The Leap from Local Description to Universal Law
 
-Marx elevated this local description to a universal law, relying on three sources: Hegel's philosophy of history (history has direction and an end), 19th-century European colonial expansion (European experience equated with "universal history"), and the shock of the Industrial Revolution (the intensity of the transformation of the productive forces led Marx to believe this was a "necessary law").
-
-This paper cuts itself off from Hegel: Hegel's "Absolute Spirit" is teleological; this paper's "regression rate" is structural. Teleology promises an end; structural theory only describes operation.
+Marx elevated this local description to a universal law, relying on three sources: Hegel's philosophy of history (history has direction and an end), 19th-century European colonial expansion (European experience equated with "universal history"), and the shock of the Industrial Revolution. This paper cuts itself off from Hegel: Hegel's "Absolute Spirit" is teleological; this paper's "regression rate" is structural.
 
 ### 4.3 Counterexample Conditions
 
-For a counterexample to hold, three conditions are required:
+For a counterexample to hold: 
+1. Prediction of Marx's formula: The transformation of the productive forces necessarily leads to the transformation of the relations of production.
+2. Observation of the regression rate system: After the transformation, the underlying operational logic remains continuous.
+3. Contradiction: The prediction and the observation are inconsistent.
 
-- **Prediction of Marx's formula**: The transformation of the productive forces necessarily leads to the transformation of the relations of production.
-- **Observation of the regression rate system**: After the transformation of the productive forces, the underlying operational logic remains continuous.
-- **Contradiction**: The prediction and the observation are inconsistent; the counterexample holds.
+### 4.4 Alternative Descriptive Framework
 
-### 4.4 Logical Consequences of Failure
+**Precise Formulation**: The productive forces have a limited effect on the relations of production, but the relations of production in turn decisively determine how the productive forces are used, deployed, and distributed. The productive forces are the trigger term; the relations of production are the determining term. The four cases support this framework: new technologies are used to strengthen governance, not to dismantle it. The power of selection lies with the system.
 
-If the formula fails in one experience, then it is not a universal law. If it is not a universal law, then its validity anywhere is merely contingent, local, and dependent on unspecified conditions.
+---
 
-### 4.5 Alternative Descriptive Framework
+## V. Mechanism Verification: System Dynamics Simulation
 
-Marx's framework: The productive forces are the explanans; the relations of production are the explanandum. The productive forces explain why the relations of production change.
+This section constructs four sets of time-series dynamic simulations. Centralization (0-1) represents the strength of the governance structure; entropy represents internal friction and systemic cost; birth rate represents the willingness of the bottom layer to survive and develop.
 
-This paper's framework: The relations of production are the explanans; the productive forces are the condition term. The relations of production explain why the productive forces are used in this way rather than that way.
+### 5.1 Experiment 1: Regression Gravity and Cyclical Evolution in a Closed System
+*   **Parameters**: Initial centralization 0.9, regression gravity 0.3, entropy growth rate 0.02. A "technological shock" is injected from t=20 to t=40.
+*   **Simulation Data**:
 
-**Precise Formulation**: The productive forces have a limited effect on the relations of production, but the relations of production in turn decisively determine how the productive forces are used, deployed, and distributed. The productive forces are the trigger term; the relations of production are the determining term. The productive forces trigger adjustment, but the relations of production determine the outcome of the adjustment.
+| Node (t) | Tech Shock | Centralization | Entropy | System State |
+| :--- | :--- | :--- | :--- | :--- |
+| 10 | 0.01 | 0.97 | 0.30 | Steady-state operation |
+| 20 | 0.08 | 0.93 | 0.50 | Steady-state operation (Tech dividend period) |
+| 30 | 0.08 | 0.82 | 0.70 | System under pressure (Internal friction intensifies) |
+| 35 | 0.01 | 1.00 | 0.10 | Structural reorganization (System forced restart) |
+| 40 | 0.01 | 0.89 | 0.20 | Steady-state operation (New cycle established) |
 
-**The Meaning of "Explanatory Priority"**: It is not a question of "which comes first," but of "which occupies a priority position in explanation." The difference lies in "the object of explanation": Marx explains "why the relations of production change," while this paper explains "why the productive forces are used in this way."
+*   **Mechanism Conclusion**: Technological shocks cause a temporary decline in centralization, but as entropy approaches the critical value, the system does not move toward linear evolution, but directly triggers structural reorganization. Technology struggles to completely break the old system and often becomes a catalyst for cyclical evolution.
 
-The four cases support this framework: new technologies are used to strengthen governance, not to dismantle it. The system "selects" how to use the productive forces. The power of selection lies with the system.
+### 5.2 Experiment 2: External Shock and System Boundary Reconstruction
+*   **Parameters**: At t=60, an "external shock" is injected, and the system regression gravity permanently drops to 0.05.
+*   **Simulation Data**:
 
-## V. Ontological Consequence: The Black Hole
+| Node (t) | External Shock | Regression Gravity | Centralization | System State |
+| :--- | :--- | :--- | :--- | :--- |
+| 50 | 0 | 0.30 | 0.97 | Steady-state operation |
+| 60 | 0.60 | 0.05 | 0.40 | External shock intervention; system boundary reconstructed |
+| 70 | 0.05 | 0.05 | 0.37 | Long-term low-level oscillation |
+| 80 | 0.05 | 0.05 | 0.17 | Passive modernization and structural transition period |
+| 100 | 0.05 | 0.05 | 0.08 | Continuous low-level oscillation period |
 
-### 5.1 Classification of Redemptive Narratives
+*   **Mechanism Conclusion**: The "regression gravity" of the old system is broken by external forces. The system cannot restart quickly, falling into long-term systemic oscillation and structural transition.
 
-This paper takes "the content of the promise" as the criterion and classifies redemptive narratives into three types:
+### 5.3 Experiment 3: Modern Financial Leverage and Hidden Recession
+*   **Parameters**: Variables of "resident debt" and "birth rate" are introduced. The first 50 nodes maintain economic data through financial leveraging.
+*   **Simulation Data**:
 
-- **Transcendent**: Promises a destination beyond the interval (religion).
-- **Immanent**: Promises continuity within the interval (historical necessity, liberation of the productive forces).
-- **Compensatory**: Does not promise redemption, only provides pain relief (spiritual opium).
+| Node (t) | Economic Data | Resident Debt | Birth Rate | System State |
+| :--- | :--- | :--- | :--- | :--- |
+| 20 | 74.7 | 46.6 | 1.90 | Superficial growth, steady operation |
+| 35 | 143.1 | 147.9 | 1.51 | System stagnation, liquidity solidification |
+| 46 | 276.0 | 344.7 | 0.96 | Hidden recession, demographic inversion |
+| 65 | 197.4 | 434.3 | 0.01 | Hidden recession, aging intensifies |
+| 85 | 33.7 | 434.3 | -0.99 | Macro-intervention, stagflation cycle |
 
-### 5.2 Marx's Formula as the Final Form of an Immanent Redemptive Narrative
+*   **Mechanism Conclusion**: The modern system overdrafts the future through financial leverage, leading to a decreasing birth rate. The regression rate no longer manifests as cyclical structural reorganization, but as long-term biological recession and demographic inversion.
 
-Marx's formula structurally occupies the position of the last redemptive narrative. It is a secularized substitute for religious redemption: it translates the redemption of the kingdom of heaven into the redemption of history. Historical necessity is the core promise of Marx's formula. The failure of Marx's formula is first and foremost the failure of historical necessity.
+### 5.4 Experiment 4: Technological Leap and Boundary Acceleration of the System
+*   **Parameters**: At t=40, a "technological explosion" is injected; economic data surges instantly, and debt drops briefly.
+*   **Simulation Data**:
 
-Liberal progressivism (Fukuyama, etc.) holds that economic development necessarily brings democratization and liberalization. It is the liberal version of Marx's formula—structurally homologous—and therefore fails together with Marx's formula.
+| Node (t) | Tech Shock | Economic Data | Birth Rate | System State |
+| :--- | :--- | :--- | :--- | :--- |
+| 40 | Yes | 479.0 | 1.91 | Tech leap, short-term prosperity peak |
+| 55 | Yes | 504.3 | 1.61 | Dividend period fades, liquidity solidification |
+| 66 | Yes | 553.5 | 0.95 | Hidden recession, demographic inversion |
+| 80 | Yes | 720.3 | 0.11 | Hidden recession, low-desire society features appear |
+| 100| Yes | 1646.1| -1.09 | Hidden recession, long-term stagnation |
 
-### 5.3 Total Failure of Redemptive Narratives
+*   **Mechanism Conclusion**: Technological dividends are rapidly absorbed by systemic entropy. Wealth is highly concentrated, and the bottom layer reduces its willingness to reproduce due to technological substitution. The technological leap fails to change the system's extraction gravity; instead, it transforms explicit cycles into hidden long-term recessions.
 
-After the failure of Marx's formula, immanent redemptive narratives fail as a whole. Transcendent narratives were already undecidable within the framework of *The Limits of Meaning*. Compensatory narratives do not constitute redemption. All redemptive narratives are emptied.
+---
 
-### 5.4 Semantic Analysis of the Black Hole
+## VI. Ontological Consequence: The Black Hole
 
-**The black hole is not an "object"**: An object has boundaries, position, and properties. The black hole has no boundary, no position, and does not possess the properties of an object.
+### 6.1 Failure of Redemptive Narratives
 
-**The black hole is not an "event"**: An event occurs in time, with a beginning and an end. The black hole is a "boundary marker."
+Marx's formula structurally occupies the position of the last immanent redemptive narrative. It translates the redemption of the kingdom of heaven into the redemption of history. Historical necessity is the core promise. The failure of Marx's formula is first and foremost the failure of historical necessity. Liberal progressivism (Fukuyama, etc.) is its liberal version—structurally homologous—and therefore fails together with it.
 
-**The black hole is not a "state"**: A state is the state of something. The black hole is the ontological counterpart of "undefined."
+### 6.2 Semantic Analysis of the Black Hole
 
-**The Logical Relation between "Undefined" and the "Black Hole"**: Undefined is a logical-structural description (a function has no value outside its domain of definition). The black hole is an ontological-structural description (a temporary node has no persistence after dissipation). The two share the same boundary structure: logical undefinedness = ontological non-persistence. The meaning of "counterpart" is "structurally homologous relation," not "causal relation," not "identity relation."
+**The black hole is not an "object," an "event," or a "state."** An object has boundaries, position, and properties; an event has a temporal beginning and end; a state is the state of something. The black hole is the ontological counterpart of "undefined."
 
-**"Black Hole" is a Metaphor**: This paper uses "black hole" because it intuitively conveys the dual meaning of "inescapable gravity" and "undefined." But the argument of this paper does not depend on this metaphor. Its precise meaning is: the ontological counterpart of the undefined.
+**Undefined** is a logical-structural description (a function has no value outside its domain of definition). **The black hole** is an ontological-structural description (a temporary node has no persistence after dissipation). They share the same boundary structure: logical undefinedness = ontological non-persistence.
 
-### 5.5 Distinction between Undefined and Nothingness
+### 6.3 Distinction between Undefined and Nothingness
 
-- **Nothingness**: A value judgment within the interval ("meaningless").
-- **Undefined**: A structural description at the boundary (a function has no value outside its domain of definition).
-- **The black hole is not nothingness**: The black hole does not presuppose any value judgment; it only describes a structural void.
+Nothingness is a value judgment within the interval ("meaningless"). The black hole is a structural description at the boundary (no value outside the domain). The black hole does not presuppose any value judgment; it only describes a structural void.
 
-### 5.6 Distinction from Existentialist Traditions
+### 6.4 Distinction from Existentialist Traditions
 
-- **Sartre**: Sartre retains a freely choosing subject. This paper cancels the subject.
-- **Camus**: Camus's absurdity presupposes a "subject seeking meaning." The black hole does not presuppose a subject.
-- **Heidegger**: Heidegger presupposes the possibility of authenticity. This paper's temporary node has no authenticity to which it can return.
-- **Nietzsche**: Nietzsche's nihilism presupposes a subject that revalues values. The black hole does not presuppose a subject.
+- **Sartre**: Retains a freely choosing subject. This paper cancels the subject.
+- **Camus**: Presupposes a "subject seeking meaning." The black hole does not presuppose a subject.
+- **Heidegger**: Presupposes the possibility of authenticity. This paper's temporary node has no authenticity to which it can return.
+- **Nietzsche**: Presupposes a subject that revalues values. The black hole does not presuppose a subject.
 
-## VI. Systematic Rebuttals
+---
 
-### 6.1 Evidential Issues
+## VII. Systematic Rebuttals
 
-**Inductive Strength**: Is the induction from four cases strong enough?
-Response: The density of counterexamples (four), their types (four modes), and double-indicator verification constitute strong inductive evidence.
+### 7.1 Evidential Issues
+**Inductive Strength**: The density of counterexamples (four empirical cases + four dynamic simulations) and double-indicator verification constitute strong inductive evidence.
+**Burden of Proof**: Falsification does not require an alternative. The burden of proof lies with the party making the universal claim.
 
-**Counterexample Exclusivity**: Are there genuine counterexamples?
-Response: Whether or not counterexamples exist, the strong interpretation of Marx fails. The conclusion of the paper is "the formula possesses only temporality," not "the formula fails under all conditions."
+### 7.2 Methodological Issues
+**Falsificationist Framework**: This paper does not rely on Popper's strong falsificationism. The counterexample conditions hold, so the strong interpretation is falsified.
+**Validity of the Simulation Model**: The simulation model is a "mechanism simulation." Its efficacy lies in verifying the logical structure's necessity, not in predicting empirical data, and thus traditional econometric testing standards do not apply.
 
-**Burden of Proof**: Why not propose an alternative?
-Response: Falsification does not require an alternative. The burden of proof lies with Marx.
+### 7.3 Conceptual Operationalization Issues
+**Operationalization of Relations of Production**: Governance structure is a direct indicator of power distribution, consistent with Marx's core definition.
+**Comparability of Cases**: All four cases experienced significant transformations of productive forces and exhibited continuity or expansion of the governance structure.
 
-### 6.2 Methodological Issues
+### 7.4 Dialogue with Contemporary Philosophy
+- **Realism (Meillassoux, Harman)**: The regression rate is not a reality independent of humans, but the gravitational field of system operation.
+- **Theories of the Self (Parfit, Dennett)**: This paper's temporary node has neither psychological nor narrative continuity.
+- **Redemptive Narratives (Haraway, Land, etc.)**: Posthumanism and accelerationism presuppose an exit beyond the human; this paper views them as new redemptive narratives.
 
-**Falsificationist Framework**: Falsificationism itself has been criticized by Lakatos and Kuhn.
-Response: This paper does not rely on Popper's strong falsificationism. The counterexample conditions in the four cases hold, so the strong interpretation is falsified.
+---
 
-**Applicability of the Analytic Philosophical Framework**: Marx's theory is in the continental tradition; using an analytic framework is a category error.
-Response: Marx's formula is itself a causal claim. The analysis of causal claims does not require a continental framework.
+## VIII. Conclusion: Dharmic Position and Silence
 
-### 6.3 Conceptual Operationalization Issues
+### 8.1 Dharmic Position and Each Abiding in Its Own Position
 
-**Operationalization of Relations of Production**: Governance structure is not the relations of production.
-Response: The core of Marx's "relations of production" is power distribution and resource allocation. Governance structure is a direct indicator of power distribution.
+Dharmic position = the position a dharma occupies in the causal network. This position is determined by the dharma's causal conditions, not by the will of any subject.
 
-**Definition of Productive Forces**: You take the narrowest definition.
-Response: If a broader definition is taken, the scope of the transformation of the productive forces is larger, and the counterexample is stronger.
+- The regression rate abides in its position: it is a structural fact.
+- The failure of Marx abides in its position: it is a delimitation of the scope of application.
+- The black hole abides in its position: it is a boundary event.
+- The temporary node abides in its position: it is a temporary aggregate point. Birth abides in the position of birth, death abides in the position of death.
 
-**Comparability of Cases**: The four cases are not comparable.
-Response: All four cases experienced a transformation of the productive forces and all exhibited continuity or expansion of the governance structure.
-
-### 6.4 Regression Rate = Path Dependence
-
-**Attack**: The regression rate is just path dependence.
-**Response**: The "lock-in" of path dependence can be broken by external shocks; the "default state" of the regression rate is not changed by external shocks.
-
-### 6.5 Dialogue with Contemporary Philosophy
-
-**Dialogue with Realism (Meillassoux, Harman, Bennett)**: Meillassoux argues that correlation can be broken by contingency; this paper responds: the regression rate is a "fact," but not a "reality independent of humans." Harman argues that all "objects" have equal ontological status; this paper responds: the relations of production are not an "object," but a "gravitational field." Bennett argues that matter has agency; this paper responds: the agency of matter is absorbed by the system.
-
-**Dialogue with Theories of the Self (Parfit, Dennett)**: Parfit retains psychological continuity; Dennett retains narrative continuity. This paper's temporary node has neither psychological continuity nor narrative continuity.
-
-**Dialogue with Redemptive Narratives (Haraway, Braidotti, Land, Esposito, Vermeulen)**: Posthumanism and accelerationism presuppose an "exit beyond the human"; this paper responds: they are variants of redemptive narratives. Esposito views nihilism as an opportunity; this paper responds: the black hole is not an "opportunity"; an opportunity presupposes a subject capable of seizing it. Metamodernism attempts to reconstruct "sincerity" and "progress" after deconstruction; this paper responds: this is a new redemptive narrative.
-
-**Dialogue with Philosophy of Language (Frege)**: Frege: undefined means a function has no value outside its domain of definition. This paper adopts Frege's usage, but transforms it from a mathematical concept into an ontological concept.
-
-## VII. Conclusion
-
-### 7.1 Dharmic Position and Each Abiding in Its Own Position
-
-Dharmic position = the position a dharma occupies in the causal network. This position is determined by the dharma's causal conditions, not by the will of any subject, and is not changed by the cognition of any subject.
-
-The regression rate abides in the position of the regression rate: it is not a "problem," not a "fate," but a structural fact.
-
-The failure of Marx abides in the position of the failure of Marx: it is not "Marx's failure," not "the bankruptcy of theory," but a delimitation of the scope of application.
-
-The black hole abides in the position of the black hole: it is not "nothingness," not "despair," but a boundary event.
-
-The temporary node abides in the position of the temporary node: it is not an "eternal self," not a "carrier of relations," but a temporary aggregate point. Birth abides in the position of birth, death abides in the position of death.
-
-### 7.2 Description Completed, Silence
+### 8.2 Description Completed, Silence
 
 Philosophy does not provide redemption, does not provide necessity, does not provide answers. It only provides description. The description is completed; silence follows. Silence is not the silence of nihilism, but the honest acknowledgment of the finitude of "operable description."
+
+---
+
+## Funding Statement
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+## Conflict of Interest Statement
+
+The author declares that there is no conflict of interest that could be perceived as prejudicing the impartiality of the research reported.
+
+## Data Availability Statement
+
+This paper is a work of theoretical deduction and does not involve the collection or analysis of empirical data. All derivations and arguments presented herein can be independently verified within the framework of this paper. The dynamic simulation code in Section V is open-sourced and reproducible in the `existential-blackhole/experiments/` directory.
+
+---
 
 ## References
 
@@ -365,18 +366,8 @@ Philosophy does not provide redemption, does not provide necessity, does not pro
 - UK Treasury. *Historical Public Expenditure Data*.
 - UK National Statistics. *Historical Data*.
 
-## Funding Statement
-
-This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
-
-## Conflict of Interest Statement
-
-The author declares that there is no conflict of interest that could be perceived as prejudicing the impartiality of the research reported.
-
-## Data Availability Statement
-
-This paper is a work of theoretical deduction and does not involve the collection or analysis of empirical data. All derivations and arguments presented herein can be independently verified within the framework of this paper.
+---
 
 ## Suggested Citation
 
-Zhong, S. (2026). *The Existential Black Hole: Regression Rate and the Failure of Marx's Measure* (Version 2.0). Equal System Repository.
+Zhong, S. (2026). *The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation* (Version 3.0). Equal System Repository.
