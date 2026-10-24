@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="art-appreciation/images/ON DIGNITY-cn.png" width="60%" alt="On Dignity Cover" />
+  <!-- 注意路径前面的 ../ ，如果还是不出来，你可以试试把 ../ 删掉 -->
+  <img src="../art-appreciation/images/ON%20DIGNITY-cn.png" width="60%" alt="On Dignity Cover" />
 </div>
 
 <br>
