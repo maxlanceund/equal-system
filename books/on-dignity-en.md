@@ -58,7 +58,7 @@ In this sense,<br>
 It must be clarified here:<br>
 this text's refutation of Kant is not to prove the absolute error of his theoretical system,<br>
 but to point out that—<br>
-although this text's construction of inner dignity shares a structural isomorphism with Kant's ultimate goal (i.e., establishing the supreme value of humanity),<br>
+although this text's construction of inner dignity shares a structural isomorphism with Kant's ultimate goal,<br>
 our paths to this goal have diverged.<br>
 <b>He walked toward the transcendental clouds, while this text is grounded in the finite flesh.</b>
 
@@ -152,30 +152,36 @@ but an existence rooted in my flesh!</b><br>
 <b>And the death of dignity is precisely this supreme glory!</b><br>
 <br>
 So then. Transcend everything, Head of Philosophers!<br>
-O Nietzsche, Nietzsche.<br>
-Your death is precisely what despises those vulgar commoners,<br>
-and let them stay far away from your kingdom of God!<br>
-We are one and the same.<br>
+<b>O Nietzsche, Nietzsche!</b><br>
+Your death is your absolute contempt for those vulgar commoners!<br>
+Let them stay far away from your Kingdom of God!<br>
+<b>We are one and the same!</b><br>
 <br>
-Within the Kingdom of the Head of Philosophers, sing joyfully to the fullest.<br>
-Laugh wildly beneath the ancient Greek temples,<br>
-the Head of Philosophers sees your fall amidst the thunder and lightning.<br>
+Within the Kingdom of the Head of Philosophers, sing joyfully to the fullest!<br>
+Laugh wildly beneath the ancient Greek temples!<br>
+The Head of Philosophers sees your fall amidst the thunder and lightning!<br>
 <br>
-<b>We are the lawgivers, legislating the laws of this universe and all things!</b><br>
+<b>We are the lawgivers!</b><br>
+<b>Legislating the laws of this universe and all things!</b><br>
 <b>We are the great prophets begotten of death and pain!</b><br>
-<b>We shall see that dead heaven burn anew,<br>
-we shall cast the blood of sacrificial slaughter into the furnace, and forge that blade.</b><br>
+<b>We shall see that dead heaven burn anew!</b><br>
+<b>We shall cast the blood of sacrificial slaughter into the furnace,</b><br>
+<b>And forge that blade!</b><br>
 <br>
 <b>We sever it!</b><br>
 <b>We sever you!</b><br>
 <br>
-Foolish man, how filthy your blood is, how ugly,<br>
-The Son of Man said he would trade your life for a mule, yet you are worthless.<br>
+Foolish man, how filthy your blood is, how ugly.<br>
+The Son of Man said he would trade your life for a mule,<br>
+yet you are worthless.<br>
 <br>
-For your baseness lies in my kingdom, yet not in the kingdom of God.<br>
+For your baseness lies in my kingdom,<br>
+yet not in the kingdom of God.<br>
 <br>
-<b>Ha! The Kingdom of God is within my Kingdom,<br>
-yet you beg for scraps like a dog in my Kingdom, for you will never repent.</b>
+<b>Ha!</b><br>
+<b>The Kingdom of God is within my Kingdom!</b><br>
+<b>Yet you beg for scraps like a dog in my Kingdom,</b><br>
+<b>For you will never repent!</b>
 
 <br>
 <br>
