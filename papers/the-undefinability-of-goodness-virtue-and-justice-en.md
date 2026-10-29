@@ -1,9 +1,10 @@
+
 # An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework
 
 | Item | Content |
 | :--- | :--- |
 | Title | An Operational Description of Goodness, Virtue, and Justice — A Non-Essentialist Framework |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 2.1 |
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
@@ -29,9 +30,9 @@ This paper is descriptive rather than normative—it does not answer "what kind 
 
 This paper's dialogue partner is G.E. Moore's core argument in *Principia Ethica* (1903): Moore argued that "good" is an indefinable, simple property, and that any attempt to define "good" in terms of other concepts commits the "naturalistic fallacy." This paper agrees with the conclusion that "good is indefinable," but differs in reasoning: Moore held that "good" is indefinable because it is a simple, non-natural property; this paper holds that "good" is indefinable because it is itself a directional signal—its content shifts with boundary conditions and cannot be fixed in any definition.
 
-This paper does not attempt to refute the natural law tradition (Aquinas, 1274) or contemporary realist positions (Boyd, 1988), as they operate at a different theoretical level: they are normative (answering "what is good"), while this paper is descriptive (answering "how goodness is identified within systems"). The contribution of this paper lies in applying the foundational framework of *Uncertainty Subsumption* (Zhong Shanzhen, 2026a)—the condensation, maintenance, and subsumption of certainty from uncertainty—to the core concepts of ethics, providing an observational framework that does not depend on "the essence of goodness." Appendix A further upgrades the core structural claims of this framework from conceptual analysis to testable structural propositions.
+This paper does not attempt to refute the natural law tradition (Aquinas, 1274) or contemporary realist positions (Boyd, 1988), as they operate at a different theoretical level: they are normative (answering "what is good"), while this paper is descriptive (answering "how goodness is identified within systems"). The contribution of this paper lies in applying the foundational framework of *Uncertainty Subsumption* (Lance, 2026a)—the condensation, maintenance, and subsumption of certainty from uncertainty—to the core concepts of ethics, providing an observational framework that does not depend on "the essence of goodness." Appendix A further upgrades the core structural claims of this framework from conceptual analysis to testable structural propositions.
 
-This paper is an **applied ethics** paper within the Equal System series. It sits above *Uncertainty Subsumption* (foundational: how certainty condenses and is submerged) (Zhong Shanzhen, 2026a) and *The Limit Theory of Meaning* (middle layer: how certainty operates within boundaries) (Zhong Shanzhen, 2026b), applying the foundational framework to the core concepts of ethics.
+This paper is an **applied ethics** paper within the Equal System series. It sits above *Uncertainty Subsumption* (foundational: how certainty condenses and is submerged) (Lance, 2026a) and *The Limit Theory of Meaning* (middle layer: how certainty operates within boundaries) (Lance, 2026b), applying the foundational framework to the core concepts of ethics.
 
 ---
 
@@ -84,7 +85,7 @@ This thesis consists of three levels:
 
 ### Methodological Statement: Structural Correspondence, Historical Observation, and Structural-Model Verification
 
-The method adopted in this paper is a combination of **structural correspondence**, **historical observation**, and **structural-model verification**. Specifically, this paper does not provide new definitions, nor does it attempt to derive the content of goodness from first principles. The work of this paper is: to apply the framework of *Uncertainty Subsumption* (Zhong Shanzhen, 2026a) to the core concepts of ethics, identifying their nature as directional signals rather than objects of certainty; at the same time, it uses structural models to translate the three core structural claims into operational variables for falsifiable testing (see Appendix A).
+The method adopted in this paper is a combination of **structural correspondence**, **historical observation**, and **structural-model verification**. Specifically, this paper does not provide new definitions, nor does it attempt to derive the content of goodness from first principles. The work of this paper is: to apply the framework of *Uncertainty Subsumption* (Lance, 2026a) to the core concepts of ethics, identifying their nature as directional signals rather than objects of certainty; at the same time, it uses structural models to translate the three core structural claims into operational variables for falsifiable testing (see Appendix A).
 
 The historical observations in this paper are used only to demonstrate the condensation and transformation trajectories of directional signals under different boundary conditions, and do not constitute verification of any definition. The structural-model verification in Appendix A tests three structural claims (content shifts with boundaries, validity ceases with operations, re-condensation after failure) and does not verify any specific moral content.
 
@@ -316,7 +317,7 @@ This paper's posture is itself an operation: not locking, not defining, not pres
 
 ## Acknowledgements
 
-This paper has benefited from the foundational framework of *Uncertainty Subsumption* (Zhong Shanzhen, 2026a), and from those directional signals in history that were defined and then failed. The argumentative structure of this paper has been influenced by the Equal System philosophical system. All views and possible errors are the sole responsibility of the author.
+This paper has benefited from the foundational framework of *Uncertainty Subsumption* (Lance, 2026a), and from those directional signals in history that were defined and then failed. The argumentative structure of this paper has been influenced by the Equal System philosophical system. All views and possible errors are the sole responsibility of the author.
 
 ---
 
@@ -336,8 +337,8 @@ The author declares no conflicts of interest that could affect the research conc
 
 1. Aquinas, T. (1274). *Summa Theologiae*.
 2. Boyd, R. (1988). "How to Be a Moral Realist." In *Essays on Moral Realism*, ed. G. Sayre-McCord. Ithaca: Cornell University Press.
-3. Zhong, Shanzhen. (2026a). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
-4. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+3. Lance, Max. (2026a). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
+4. Lance, Max. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
 5. Moore, G. E. (1903). *Principia Ethica*. Cambridge: Cambridge University Press.
 6. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*. London: Routledge.
 
@@ -355,7 +356,7 @@ The model reduces "directional signal" to the system's propensity weights over a
 - The environment has two boundary conditions: abundant and scarce.
 - In the abundant environment, cooperation has the highest payoff; in the scarce environment, competition has the highest payoff.
 - The system updates the weights of its directional signal each step based on feedback (refreshing), choosing the action with the highest weight as its current dominant direction.
-- The system has fault tolerance: "operation ceases" is only判定 when low payoffs persist for 5 consecutive steps, or accumulated damage reaches 10.
+- The system has fault tolerance: "operation ceases" is only determined when low payoffs persist for 5 consecutive steps, or accumulated damage reaches 10.
 
 **Measurements**:
 
@@ -446,4 +447,4 @@ Runtime environment: local Termux + Python 3 (no external dependencies).
 
 ## Recommended Citation
 
-Zhong, Shanzhen. (2026). *An Operational Description of Goodness, Virtue, and Justice — A Non-Essentialist Framework* (Version 2.1). Equal System Repository.
+Lance, Max. (2026). *An Operational Description of Goodness, Virtue, and Justice — A Non-Essentialist Framework* (Version 2.1). Equal System Repository.
