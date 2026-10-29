@@ -44,33 +44,6 @@
 </table>
 
 <br>
-
-### 2. The Weight of a Lychee / 《从长安的荔枝到哈耶克的警告》
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub">
-        <img src="art-appreciation/images/cover2.png" width="45%" alt="从长安的荔枝到哈耶克的警告" />
-      </a>
-      <br><br>
-      <strong><a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-cn.epub">📥 下载 EPUB</a></strong>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub">
-        <img src="art-appreciation/images/cover.png" width="45%" alt="The Weight of a Lychee" />
-      </a>
-      <br><br>
-      <strong><a href="https://github.com/maxlanceund/equal-system/releases/download/v1.0/The.Weight.of.a.Lychee-en.epub">📥 Download EPUB</a></strong>
-    </td>
-  </tr>
-</table>
-
-> **English**: A work of critical reasoning, not a policy paper, not an academic treatise, not a casual essay. It begins with a lychee in ancient Rome and traces a chain of logic through Power Illusion, correction failure, free markets, openness, and the warning of Hayek.
-> 
-> **中文**：一部思辨性著作，不是政策文件，不是学术专著，也不是随笔。从唐朝长安的一颗荔枝出发，沿着一条逻辑链，追问权力幻觉、纠错失灵、自由市场、开放与哈耶克的警告。
-
-<br>
 <hr>
 <br>
 
