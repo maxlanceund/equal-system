@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 标题 | 拒绝哲学论 |
-| 作者 | 钟善真 |
+| 作者 | Max Lance |
 | 版本 | 1.1 |
 | 日期 | 2026-09-09 |
 | 许可协议 | CC BY-NC 4.0 |
@@ -359,8 +359,8 @@
 
 1. 王阳明. (1518). *传习录*.
 2. Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379–423.
-3. 钟善真. (2026a). *国强与民松——基于财政中介与类型学的比较分析*. Equal System Repository.
-4. 钟善真. (2026b). *论意义的界限：一个可证实主义框架* (Version 5.1). Equal System Repository.
+3. Max Lance. (2026a). *国强与民松——基于财政中介与类型学的比较分析*. Equal System Repository.
+4. Max Lance. (2026b). *论意义的界限：一个可证实主义框架* (Version 5.1). Equal System Repository.
 
 ---
 
@@ -501,4 +501,4 @@
 
 ## 建议引用（APA 格式）
 
-钟善真. (2026). *拒绝哲学论* (Version 1.1). Equal System Repository.
+Max Lance. (2026). *拒绝哲学论* (Version 1.1). Equal System Repository.
