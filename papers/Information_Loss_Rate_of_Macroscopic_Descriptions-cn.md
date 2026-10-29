@@ -5,7 +5,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | **标题** | 宏观描述的信息损失率——不可识别性的信息论解释及其跨学科类比 |
-| **作者** | 钟善真 |
+| **作者** | Max Lance |
 | **日期** | 2026-09-22（修订版：2026-09-26，Version 14.0） |
 | **许可协议** | CC BY-NC 4.0 |
 | **关键词** | 信息损失率, 非单射性, 率失真理论, 不可识别性, 粗粒化标度律, 有限尺寸修正, 临界现象, 时间反演对称性, 布尔网络, 神经网络 |
@@ -927,9 +927,9 @@ D_f 的变化范围由层维度决定。10 维的输出层，D_f 被锁在 0.6 �
 
 [15] Wilson, K. G. (1971). Renormalization Group and Critical Phenomena. *Physical Review B*, 4(9), 3174-3183.
 
-[16] 钟善真. (2026). *信息丢失的一个后果——论统一纲领与时间箭头的同一来源* (Version 7.0). Equal System Repository.
+[16] Max Lance. (2026). *信息丢失的一个后果——论统一纲领与时间箭头的同一来源* (Version 7.0). Equal System Repository.
 
-[17] 钟善真. (2026). *论不可逆性的结构性来源——宏观描述的非单射性及其认识论后果* (Version 29.0). Equal System Repository.
+[17] Max Lance. (2026). *论不可逆性的结构性来源——宏观描述的非单射性及其认识论后果* (Version 29.0). Equal System Repository.
 
 ---
 
@@ -947,4 +947,4 @@ D_f 的变化范围由层维度决定。10 维的输出层，D_f 被锁在 0.6 �
 
 **建议引用（APA格式）** ：
 
-钟善真. (2026). *宏观描述的信息损失率——不可识别性的信息论解释及其跨学科类比* (Version 14.0). Equal System Repository.
+Max Lance. (2026). *宏观描述的信息损失率——不可识别性的信息论解释及其跨学科类比* (Version 14.0). Equal System Repository.
