@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 标题 | 不确定性吞没：确定性的产生、锁定与释放 |
-| 作者 | 钟善真 |
+| 作者 | Max Lance |
 | 版本 | 2.3 |
 | 日期 | 2026-08 |
 | 许可协议 | CC BY-NC 4.0 |
@@ -96,9 +96,9 @@
 
 在量子力学中，这个过程被描述为"测量"。粒子在测量前处于叠加态（不确定性），可以用波函数表示为：
 
-```math
+$$
 |\psi\rangle = \sum_i c_i |s_i\rangle
-```
+$$
 
 (式1)
 
@@ -106,9 +106,9 @@
 
 测量时，波函数坍缩到某个本征态（确定性）：
 
-```math
+$$
 |\psi\rangle \rightarrow |s_0\rangle
-```
+$$
 
 (式2)
 
@@ -128,9 +128,9 @@
 
 在形式上，热力学第二定律可表述为：孤立系统的熵变满足
 
-```math
+$$
 \Delta S \geq 0
-```
+$$
 
 (式3)
 
@@ -140,9 +140,9 @@
 
 《边界加速》描述了确定性被吞没前的信号密度升高。设 D(t) 为信号密度（系统在时间 t 携带的可识别信号量），T 为边界时间，则：
 
-```math
+$$
 D(T) = 0
-```
+$$
 
 (式4)
 
@@ -170,9 +170,9 @@ D(T) = 0
 
 熵的统计定义——玻尔兹曼公式——给出了明确的对应关系：
 
-```math
+$$
 S = k_B \ln W
-```
+$$
 
 (式5)
 
@@ -272,8 +272,8 @@ S = k_B \ln W
 5. Wheeler, J. A., & Zurek, W. H. (1983). 量子理论与测量. 普林斯顿大学出版社.
 6. Wittgenstein, L. (1922). 逻辑哲学论. 伦敦：Routledge.
 7. Zurek, W. H. (2003). 退相干、指针态与量子经典过渡. 现代物理评论, 75(3): 715-775.
-8. 钟善真 (2026a). 意义极限论：一个可证实主义框架 (Version 3.0). Equal System Repository.
-9. 钟善真 (2026b). 边界加速：终点前的信号压缩与释放 (Version 3.1). Equal System Repository.
+8. Max Lance (2026a). 意义极限论：一个可证实主义框架 (Version 3.0). Equal System Repository.
+9. Max Lance (2026b). 边界加速：终点前的信号压缩与释放 (Version 3.1). Equal System Repository.
 
 ---
 
@@ -432,4 +432,4 @@ Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Construct
 
 建议引用（APA格式）：
 
-钟善真 (2026). 不确定性吞没：确定性的产生、锁定与释放 (Version 2.3). Equal System Repository.
+Max Lance (2026). 不确定性吞没：确定性的产生、锁定与释放 (Version 2.3). Equal System Repository.
