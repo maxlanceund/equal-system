@@ -5,7 +5,7 @@
 | Item | Content |
 | :--- | :--- |
 | **Title** | On the Structural Source of Irreversibility — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences |
-| **Author** | Zhong Shanzhen |
+| **Author** | Max Lance |
 | **Date** | 2026-09-20 |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | aggregation mapping, non-injectivity, irreversibility, coarse-graining, naturalism |
@@ -292,7 +292,7 @@ The core contributions of this paper are:
 
 [10] Wilson, M. (2017). *Physics Avoidance*. Oxford University Press.
 
-[11] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+[11] Lance, M. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
 
 ---
 
@@ -310,4 +310,4 @@ The author declares that there are no conflicts of interest that could affect th
 
 **Suggested Citation (APA Format)**:
 
-Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+Lance, M. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
