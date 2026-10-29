@@ -1,5 +1,5 @@
 <div align="center">
-  Wealth corrupts the human heart; abundance lies in good customs and reverence for truth.
+  Wealth corrupts the heart; abundance comes of good custom and awe of truth.
 </div>
 
 <br>
