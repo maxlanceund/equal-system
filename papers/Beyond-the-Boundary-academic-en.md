@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition |
-| Author | Zhong, Shanzhen |
+| Author | Max Lance |
 | Version | 1.9 |
 | Date | 2026-08-16 |
 | License | CC BY-NC 4.0 |
@@ -66,7 +66,7 @@ Before proceeding, it is necessary to define the most central concepts in Equal 
 **Applications: Ethics and Existentialism**
 
 - *An Operational Description of Goodness, Virtue, and Justice*: Goodness, virtue, and justice are not definable content, but directional signals locked within boundaries by systems.
-- *Who Is the Father?*: Men cannot obtain paternity confirmation equivalent to women, because the right of confirmation is structurally asymmetrical between genders.
+- *No Father*: Men cannot obtain paternity confirmation equivalent to women, because the right of confirmation is structurally asymmetrical between genders.
 
 **Dialogue: With the History of Philosophy**
 
@@ -84,7 +84,7 @@ Before proceeding, it is necessary to define the most central concepts in Equal 
 
 ### Note on the Experimental Appendices
 
-Of the ten papers, seven include structural-model appendices: *Uncertainty Subsumption*, *Boundary Acceleration*, *Signal, Exchange, and System Stability*, *The Limited-Interval Principle*, *An Operational Description of Goodness, Virtue, and Justice*, *Who Is the Father?*, and *The Command Body and Kant*. These appendices test each paper's core structural claims using executable models. They do not change the philosophical nature of the papers, but they upgrade "conceptual analysis" to "testable structural propositions."
+Of the ten papers, seven include structural-model appendices: *Uncertainty Subsumption*, *Boundary Acceleration*, *Signal, Exchange, and System Stability*, *The Limited-Interval Principle*, *An Operational Description of Goodness, Virtue, and Justice*, *No Father*, and *The Command Body and Kant*. These appendices test each paper's core structural claims using executable models. They do not change the philosophical nature of the papers, but they upgrade "conceptual analysis" to "testable structural propositions."
 
 *On the Limits of Meaning* and this paper are definitional/positioning papers and do not include structural-model experiments. Their criteria of validity are internal consistency, conceptual stress-testing, and genealogical accuracy, not numerical verification.
 
@@ -310,16 +310,16 @@ This paper has benefited from the entire Equal System philosophical corpus of te
 All Equal System series papers are accessible via the following repository:
 https://github.com/maxlanceund/equal-system
 
-1. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1).
-2. Zhong, Shanzhen. (2026b). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3).
-3. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2).
-4. Zhong, Shanzhen. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2).
-5. Zhong, Shanzhen. (2026e). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.1).
-6. Zhong, Shanzhen. (2026f). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2).
-7. Zhong, Shanzhen. (2026g). *An Operational Description of Goodness, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1).
-8. Zhong, Shanzhen. (2026h). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.2).
-9. Zhong, Shanzhen. (2026i). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1).
-10. Zhong, Shanzhen. (2026j). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.9).
+1. Lance, Max. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1).
+2. Lance, Max. (2026b). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3).
+3. Lance, Max. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2).
+4. Lance, Max. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2).
+5. Lance, Max. (2026e). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.1).
+6. Lance, Max. (2026f). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2).
+7. Lance, Max. (2026g). *An Operational Description of Goodness, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1).
+8. Lance, Max. (2026h). *No Father: Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.2).
+9. Lance, Max. (2026i). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1).
+10. Lance, Max. (2026j). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.9).
 
 ### Philosophical Works
 
@@ -348,4 +348,4 @@ https://github.com/maxlanceund/equal-system
 
 ## Recommended Citation
 
-Zhong, Shanzhen. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.9). Equal System Repository.
+Lance, Max. (2026). *Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition* (Version 1.9). Equal System Repository.
