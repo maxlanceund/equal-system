@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | The Philosophy of Refusal |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 1.1 |
 | Date | 2026-09-09 |
 | License | CC BY-NC 4.0 |
@@ -202,9 +202,7 @@ But proving at the empirical level that "executing refusal can prevent disaster"
 ### Operational Structure
 
 ```
-
 Signal delivered → recognized as "refusal signal" → terminate operation
-
 ```
 
 This structure does not question the nature of the signal's source, does not distinguish whether the other party is "truth" or "environment," and does not distinguish whether the signal is a danger signal or a no-information signal.
@@ -359,8 +357,8 @@ This paper has benefited from the inspiration of the Equal System philosophical 
 
 1. Wang Yangming. (1518). *Instructions for Practical Living*.
 2. Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379–423.
-3. Zhong, Shanzhen. (2026a). *A Strong State and a Relaxed People—A Comparative Analysis Based on Fiscal Intermediaries and Typology*. Equal System Repository.
-4. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+3. Lance, Max. (2026a). *A Strong State and a Relaxed People—A Comparative Analysis Based on Fiscal Intermediaries and Typology*. Equal System Repository.
+4. Lance, Max. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
 
 ---
 
@@ -501,4 +499,4 @@ Runtime environment: local Termux + Python 3 (no external dependencies).
 
 ## Suggested Citation (APA Format)
 
-Zhong, S. (2026). *The Philosophy of Refusal* (Version 1.1). Equal System Repository.
+Lance, M. (2026). *The Philosophy of Refusal* (Version 1.1). Equal System Repository.
