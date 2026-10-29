@@ -1,6 +1,6 @@
 ---
 title: "Equal System: A Social Structure Design for the Post-Scarcity Era"
-author: "Zhong Shanzhen"
+author: "Max Lance"
 version: "1.0"
 date: "2026-06"
 repository: "https://github.com/maxlanceund/equal-system"
