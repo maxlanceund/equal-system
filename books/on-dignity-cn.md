@@ -1,5 +1,10 @@
 
-财富反噬人心，丰裕在于善良的风俗和对真理的敬畏。
+<div align="center">
+  财富反噬人心，丰裕在于善良的风俗和对真理的敬畏。
+</div>
+
+<br>
+
 <div align="center">
   <img src="../art-appreciation/images/ON%20DIGNITY-cn.png" width="35%" alt="On Dignity Cover" />
 </div>
