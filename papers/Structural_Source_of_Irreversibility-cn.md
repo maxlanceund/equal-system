@@ -5,7 +5,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | **标题** | 论不可逆性的结构性来源——宏观描述的非单射性及其认识论后果 |
-| **作者** | 钟善真 |
+| **作者** | Max Lance |
 | **日期** | 2026-09-20 |
 | **许可协议** | CC BY-NC 4.0 |
 | **关键词** | 聚合映射，非单射性，不可逆性，粗粒化，自然主义 |
@@ -292,7 +292,7 @@ $$
 
 [10] Wilson, M. (2017). *Physics Avoidance*. Oxford University Press.
 
-[11] 钟善真. (2026). *论不可逆性的结构性来源——宏观描述的非单射性及其认识论后果* (Version 29.0). Equal System Repository.
+[11] Max Lance. (2026). *论不可逆性的结构性来源——宏观描述的非单射性及其认识论后果* (Version 29.0). Equal System Repository.
 
 ---
 
@@ -310,4 +310,4 @@ $$
 
 **建议引用（APA格式）**：
 
-钟善真. (2026). *论不可逆性的结构性来源——宏观描述的非单射性及其认识论后果* (Version 29.0). Equal System Repository.
+Max Lance. (2026). *论不可逆性的结构性来源——宏观描述的非单射性及其认识论后果* (Version 29.0). Equal System Repository.
