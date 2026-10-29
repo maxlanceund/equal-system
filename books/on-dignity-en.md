@@ -175,13 +175,9 @@ Foolish man, how filthy your blood is, how ugly.<br>
 The Son of Man said he would trade your life for a mule,<br>
 yet you are worthless.<br>
 <br>
-For your baseness lies in my kingdom,<br>
-yet not in the kingdom of God.<br>
-<br>
+For your baseness is not in my kingdom—<br>
 <b>Ha!</b><br>
-<b>The Kingdom of God is within my Kingdom!</b><br>
-<b>Yet you beg for scraps like a dog in my Kingdom,</b><br>
-<b>For you will never repent!</b>
+Yet my kingdom is within the Kingdom of God.
 
 <br>
 <br>
