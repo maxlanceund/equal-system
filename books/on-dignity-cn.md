@@ -1,3 +1,5 @@
+
+财富反噬人心，丰裕在于善良的风俗和对真理的敬畏。
 <div align="center">
   <img src="../art-appreciation/images/ON%20DIGNITY-cn.png" width="35%" alt="On Dignity Cover" />
 </div>
@@ -170,9 +172,9 @@
 <b>我们斩断它！</b><br>
 <b>我们斩断你！</b><br>
 <br>
-愚蠢的人，可你的血真脏，真丑陋。<br>
-人子说要拿你命换一只骡子，<br>
-却不值钱了。<br>
+愚蠢的人，你的血真脏，真丑陋。<br>
+他们来，要拿你命换一只骡子。<br>
+人子来，却要为你舍命。<br>
 <br>
 因你的卑贱，不在我的国里——<br>
 <b>呵！</b><br>
