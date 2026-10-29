@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 标题 | 有限区间原则：一个在生命、制度与媒介中重复出现的结构 |
-| 作者 | 钟善真 |
+| 作者 | Max Lance |
 | 版本 | 3.2 |
 | 日期 | 2026-08 |
 | 许可协议 | CC BY-NC 4.0 |
@@ -224,17 +224,17 @@
 
 ### Equal System 系列论文
 
-1. 钟善真. (2026a). *意义极限论：一个可证实主义框架* (Version 5.1). Equal System Repository.
+1. Max Lance. (2026a). *意义极限论：一个可证实主义框架* (Version 5.1). Equal System Repository.
 
-2. 钟善真. (2026b). *边界加速：终点前的信号压缩与释放* (Version 3.2). Equal System Repository.
+2. Max Lance. (2026b). *边界加速：终点前的信号压缩与释放* (Version 3.2). Equal System Repository.
 
-3. 钟善真. (2026c). *信号、交换与制度稳定性——一个基于意义极限论的私有制分析* (Version 3.1). Equal System Repository.
+3. Max Lance. (2026c). *信号、交换与制度稳定性——一个基于意义极限论的私有制分析* (Version 3.1). Equal System Repository.
 
-4. 钟善真. (2026d). *不确定性吞没：确定性的产生、锁定与释放* (Version 2.3). Equal System Repository.
+4. Max Lance. (2026d). *不确定性吞没：确定性的产生、锁定与释放* (Version 2.3). Equal System Repository.
 
 ### 语音数据
 
-5. 钟善真. (2026). *语音观察与声音日记*. Equal System Repository, /voice-journal & /hypotheses/hypothesis-001.
+5. Max Lance. (2026). *语音观察与声音日记*. Equal System Repository, /voice-journal & /hypotheses/hypothesis-001.
 
 ### 学术文献
 
@@ -368,4 +368,4 @@
 
 **建议引用（APA格式）：**
 
-钟善真. (2026). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
+Max Lance. (2026). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
