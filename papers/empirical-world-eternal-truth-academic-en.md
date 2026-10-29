@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | Empirical World, Eternal Truth |
-| Author | Shanzhen Zhong |
+| Author | Max Lance |
 | Version | 3.9 |
 | Date | 2026-08-26 |
 | License | CC BY-NC 4.0 |
@@ -534,4 +534,4 @@ Runtime environment: local Termux + Python 3 (no external dependencies).
 
 **Suggested citation (APA format):**
 
-Zhong, S. (2026). *Empirical World, Eternal Truth* (Version 3.9). Equal System Repository.
+Lance, M. (2026). *Empirical World, Eternal Truth* (Version 3.9). Equal System Repository.
