@@ -5,7 +5,7 @@
 | Item | Content |
 | :--- | :--- |
 | **Title** | One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time |
-| **Author** | Zhong Shanzhen |
+| **Author** | Max Lance |
 | **Date** | 2026-09-20 |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | Information loss, non-injectivity, arrow of time, unification program, descriptive origin |
@@ -152,23 +152,23 @@ Let the micro state space be Ω, and the macro state space be M.
 
 **Definition 3 (fiber)**: for each y ∈ M, the fiber of y under f is
 
-```math
+$$
 f^{-1}(y) = \{x \in \Omega : f(x) = y\}.
-```
+$$
 
 For each z ∈ M′, the fiber of z under g ∘ f is
 
-```math
+$$
 (g \circ f)^{-1}(z) = \{x \in \Omega : (g \circ f)(x) = z\}.
-```
+$$
 
 ### 2. Micro Dynamics
 
 Let there be an evolution family {Uₜ} on Ω, where t ∈ ℝ and Uₜ: Ω → Ω is a bijection satisfying:
 
-```math
+$$
 U_0 = \mathrm{id}_\Omega, \qquad U_{t+s} = U_t \circ U_s.
-```
+$$
 
 Micro evolution is fully reversible: Uₜ⁻¹ = U₋ₜ exists.
 
@@ -176,33 +176,33 @@ Micro evolution is fully reversible: Uₜ⁻¹ = U₋ₜ exists.
 
 **Definition 4 (induced macro dynamics)**: the induced macro evolution family {Tₜ} is defined by the commuting relation:
 
-```math
+$$
 f \circ U_t = T_t \circ f.
-```
+$$
 
 That is, the following diagram commutes:
 
-```math
+$$
 \begin{array}{ccc}
 \Omega & \xrightarrow{U_t} & \Omega \\
 \downarrow f & & \downarrow f \\
 M & \xrightarrow{T_t} & M
 \end{array}
-```
+$$
 
 **Key observation**: the induced macro dynamics Tₜ is fully reversible.
 
 **Proof**: by the commuting relation, for any t,
 
-```math
+$$
 f \circ U_{-t} = T_{-t} \circ f.
-```
+$$
 
 Therefore
 
-```math
+$$
 T_t \circ T_{-t} \circ f = T_t \circ f \circ U_{-t} = f \circ U_t \circ U_{-t} = f \circ \mathrm{id}_\Omega = f.
-```
+$$
 
 If f is surjective, then Tₜ ∘ T₋ₜ = id_M. Hence Tₜ is reversible.
 
@@ -212,9 +212,9 @@ If f is surjective, then Tₜ ∘ T₋ₜ = id_M. Hence Tₜ is reversible.
 
 The core structure of this paper is a **projection chain**:
 
-```math
+$$
 \Omega \xrightarrow{f} M \xrightarrow{g} M'.
-```
+$$
 
 **First layer**: f: Ω → M. Projection from micro state space to complete macro state space.
 
@@ -243,9 +243,9 @@ The "one consequence" claim of this paper is a **physical claim**, applicable to
 
 Physical macro dynamics T′ₜ is defined by the commuting relation:
 
-```math
+$$
 g \circ T_t = T'_t \circ g.
-```
+$$
 
 ### 6. Coarse-Graining Irreversibility Theorem
 
@@ -261,21 +261,21 @@ Assume T′ₜ is injective.
 
 From g(y₁) = g(y₂), we have
 
-```math
+$$
 T'_t(g(y_1)) = T'_t(g(y_2)).
-```
+$$
 
 By the commuting relation,
 
-```math
+$$
 T'_t(g(y_1)) = g(T_t(y_1)), \qquad T'_t(g(y_2)) = g(T_t(y_2)).
-```
+$$
 
 Therefore
 
-```math
+$$
 g(T_t(y_1)) = g(T_t(y_2)).
-```
+$$
 
 This contradicts the assumption g(Tₜ(y₁)) ≠ g(Tₜ(y₂)).
 
@@ -369,9 +369,9 @@ If g ∘ f: Ω → M′ is not injective, then there is no map h: M′ → Ω su
 
 **Proof**: suppose such an h exists. Since g ∘ f is not injective, take x₁ ≠ x₂ with (g ∘ f)(x₁) = (g ∘ f)(x₂). Then
 
-```math
+$$
 x_1 = h((g \circ f)(x_1)) = h((g \circ f)(x_2)) = x_2,
-```
+$$
 
 a contradiction. Q.E.D.
 
@@ -700,7 +700,7 @@ The challenges of this paper:
 
 [17] Zwanzig, R. (1960). Ensemble Method in the Theory of Irreversibility. *Journal of Chemical Physics*, 33(5), 1338-1341.
 
-[18] Zhong Shanzhen. (2026). *One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+[18] Max Lance. (2026). *One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
 
 ---
 
@@ -718,4 +718,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA)**:
 
-Zhong Shanzhen. (2026). *One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+Max Lance. (2026). *One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
