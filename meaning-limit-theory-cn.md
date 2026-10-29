@@ -1,6 +1,6 @@
 ---
 title: "意义极限论"
-author: "钟善真"
+author: "Max Lance"
 version: "1.0"
 date: "2026-08-23"
 repository: "https://github.com/maxlanceund/equal-system"
