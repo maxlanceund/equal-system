@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 标题 | 绝对他者：从基因随机性到意识客体化的存在论批判 |
-| 作者 | 钟善真 |
+| 作者 | Max Lance |
 | 版本 | 9.4 |
 | 日期 | 2026-08 |
 | 许可协议 | CC BY-NC 4.0 |
@@ -505,11 +505,11 @@
 
 ### Equal System 系列论文
 
-1. 钟善真. (2026a). *不确定性吞没：确定性的产生、锁定与释放* (Version 2.3). Equal System Repository.
-2. 钟善真. (2026b). *善、美德与正义的操作化描述——一种非本质主义的理解框架* (Version 2.1). Equal System Repository.
-3. 钟善真. (2026c). *论意义的界限：一个可证实主义框架* (Version 5.1). Equal System Repository.
-4. 钟善真. (2026d). *边界加速：终点前的信号压缩与释放* (Version 3.2). Equal System Repository.
-5. 钟善真. (2026e). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
+1. Max Lance. (2026a). *不确定性吞没：确定性的产生、锁定与释放* (Version 2.3). Equal System Repository.
+2. Max Lance. (2026b). *善、美德与正义的操作化描述——一种非本质主义的理解框架* (Version 2.1). Equal System Repository.
+3. Max Lance. (2026c). *论意义的界限：一个可证实主义框架* (Version 5.1). Equal System Repository.
+4. Max Lance. (2026d). *边界加速：终点前的信号压缩与释放* (Version 3.2). Equal System Repository.
+5. Max Lance. (2026e). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
 
 ### 学术文献
 
@@ -558,4 +558,4 @@
 
 ## 建议引用
 
-钟善真. (2026). *绝对他者：从基因随机性到意识客体化的存在论批判* (Version 9.4). Equal System Repository.
+Max Lance. (2026). *绝对他者：从基因随机性到意识客体化的存在论批判* (Version 9.4). Equal System Repository.
