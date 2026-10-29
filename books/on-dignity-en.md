@@ -1,4 +1,10 @@
 <div align="center">
+  Wealth corrupts the human heart; abundance lies in good customs and reverence for truth.
+</div>
+
+<br>
+
+<div align="center">
   <img src="../art-appreciation/images/ON%20DIGNITY-en.png" width="35%" alt="On Dignity Cover" />
 </div>
 
@@ -154,7 +160,7 @@ but an existence rooted in my flesh!</b><br>
 So then. Transcend everything, Head of Philosophers!<br>
 <b>O Nietzsche, Nietzsche!</b><br>
 Your death is your absolute contempt for those vulgar commoners!<br>
-<b>Let them stay far away from our kingdom!</b><br>
+<b>Let them get out of our kingdom!</b><br>
 <b>We are one and the same!</b><br>
 <br>
 Within the Kingdom of the Head of Philosophers, sing joyfully to the fullest!<br>
@@ -172,8 +178,8 @@ The Head of Philosophers sees your fall amidst the thunder and lightning!<br>
 <b>We sever you!</b><br>
 <br>
 Foolish man, how filthy your blood is, how ugly.<br>
-The Son of Man said he would trade your life for a mule,<br>
-yet you are worthless.<br>
+They come to trade your life for a mule.<br>
+The Son of Man comes to give his life for you.<br>
 <br>
 For your baseness is not in my kingdom—<br>
 <b>Ha!</b><br>
