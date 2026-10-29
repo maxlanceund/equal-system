@@ -1,10 +1,9 @@
-
 # Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction
 
 | Item | Content |
 | :--- | :--- |
 | Title | Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 4.2 |
 | Date | 2026-08-02 |
 | License | CC BY-NC 4.0 |
@@ -451,4 +450,4 @@ What can be said has been said. The rest is left to silence.
 
 **Suggested Citation (APA Format)**:
 
-Zhong Shanzhen. (2026). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2). Equal System Repository.
+Lance, Max. (2026). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2). Equal System Repository.
