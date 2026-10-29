@@ -1,10 +1,9 @@
-
 # Geography as Philosophical Constraint: A Theory of Directional Signals
 
 | Item | Content |
 | :--- | :--- |
 | Title | Geography as Philosophical Constraint: A Theory of Directional Signals |
-| Author | Zhong, Shanzhen |
+| Author | Max Lance |
 | Version | 1.1 |
 | Date | 2026-08-18 |
 | License | CC BY-NC 4.0 |
@@ -538,7 +537,7 @@ Therefore, the model does not constitute evidence for the core argument. The cor
 3. **Not quantitative attribution.** It cannot tell you what weight geographical factors occupy in the formation of directional signals.
 4. **Cannot replace historical analysis.** The real argument is in the historical cases of Sections VI–XII, not in this formula.
 
-**To do真正的 quantitative prediction, three conditions are needed**: (1) parameters measured from real historical data, not rough estimates; (2) sufficient sample size, at least a dozen civilizations with different geographical conditions; (3) the model verified on unseen cases. None of these three conditions is satisfied in this paper.
+**To achieve truly quantitative prediction, three conditions are needed**: (1) parameters measured from real historical data, not rough estimates; (2) sufficient sample size, at least a dozen civilizations with different geographical conditions; (3) the model verified on unseen cases. None of these three conditions is satisfied in this paper.
 
 ---
 
@@ -625,12 +624,12 @@ The historical data used in this paper all come from publicly available statisti
 10. National Bureau of Statistics of China. (2020). *China Population Statistical Yearbook*.
 11. NOAA National Centers for Environmental Information. (2025). Climate Data for Scandinavia.
 12. Food and Agriculture Organization of the United Nations (FAO). (2023). *Near East Water Resources Report*.
-13. Zhong, Shanzhen. (2026a). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
-14. Zhong, Shanzhen. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
-15. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
-16. Zhong, Shanzhen. (2026d). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2). Equal System Repository.
-17. Zhong, Shanzhen. (2026e). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1). Equal System Repository.
-18. Zhong, Shanzhen. (2026f). *An Operational Description of Goodness, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1). Equal System Repository.
+13. Lance, Max. (2026a). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
+14. Lance, Max. (2026b). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+15. Lance, Max. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
+16. Lance, Max. (2026d). *Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction* (Version 4.2). Equal System Repository.
+17. Lance, Max. (2026e). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1). Equal System Repository.
+18. Lance, Max. (2026f). *An Operational Description of Goodness, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1). Equal System Repository.
 
 ---
 
@@ -775,4 +774,4 @@ Raw output: GitHub Actions run log (run ID 39080972266). Due to a directory crea
 
 ## Suggested Citation
 
-Zhong, Shanzhen. (2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.1). Equal System Repository.
+Lance, Max. (2026). *Geography as Philosophical Constraint: A Theory of Directional Signals* (Version 1.1). Equal System Repository.
