@@ -1,10 +1,9 @@
-
 # The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media
 
 | Item | Content |
 | :--- | :--- |
 | Title | The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 3.2 |
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
@@ -225,17 +224,17 @@ The author declares that there are no conflicts of interest that could affect th
 
 ### Equal System Series Papers
 
-1. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+1. Lance, Max. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
 
-2. Zhong, Shanzhen. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2). Equal System Repository.
+2. Lance, Max. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2). Equal System Repository.
 
-3. Zhong, Shanzhen. (2026c). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.1). Equal System Repository.
+3. Lance, Max. (2026c). *Signal, Exchange, and System Stability: An Analysis of Private Property Based on the Limit Theory of Meaning* (Version 3.1). Equal System Repository.
 
-4. Zhong, Shanzhen. (2026d). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
+4. Lance, Max. (2026d). *Uncertainty Subsumption: The Production, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
 
 ### Voice Data
 
-5. Zhong, Shanzhen. (2026). *Phonetic Observations and Voice Journal*. Equal System Repository, /voice-journal & /hypotheses/hypothesis-001.
+5. Lance, Max. (2026). *Phonetic Observations and Voice Journal*. Equal System Repository, /voice-journal & /hypotheses/hypothesis-001.
 
 ### Academic Literature
 
@@ -369,4 +368,4 @@ This paper is one of the foundational papers of the **Equal System** philosophic
 
 **Suggested Citation (APA format):**
 
-Zhong, Shanzhen. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
+Lance, Max. (2026). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
