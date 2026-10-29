@@ -5,7 +5,7 @@
 | Item | Content |
 | :--- | :--- |
 | **Title** | Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy |
-| **Author** | Zhong Shanzhen |
+| **Author** | Max Lance |
 | **Date** | 2026-09-22 (Revised: 2026-09-26, Version 14.0) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks, neural networks |
@@ -927,9 +927,9 @@ The code for this appendix is reproducible in the GitHub repository maxlanceund/
 
 [15] Wilson, K. G. (1971). Renormalization Group and Critical Phenomena. *Physical Review B*, 4(9), 3174-3183.
 
-[16] Zhong, S. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+[16] Lance, M. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
 
-[17] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+[17] Lance, M. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
 
 ---
 
@@ -947,4 +947,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 14.0). Equal System Repository.
+Lance, M. (2026). *Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy* (Version 14.0). Equal System Repository.
