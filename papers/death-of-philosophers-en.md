@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 9.2 |
 | Date | 2026-09-17 |
 | License | CC BY-NC 4.0 |
@@ -443,4 +443,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA):**
 
-Zhong, Shanzhen (2026). *The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy* (Version 9.2). Equal System Repository.
+Lance, Max (2026). *The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy* (Version 9.2). Equal System Repository.
