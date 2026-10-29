@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 标题 | 命令体与康德：走向自律的经验之路 |
-| 作者 | 钟善真 |
+| 作者 | Max Lance |
 | 版本 | 2.1 |
 | 日期 | 2026-08-07 |
 | 许可协议 | CC BY-NC 4.0 |
@@ -228,10 +228,10 @@
 ## 参考文献
 
 1. 康德，伊曼努尔。《道德形而上学奠基》。1785。
-2. 钟善真. (2026a). *意义极限论：一个可证实主义框架* (Version 5.1). Equal System Repository.
-3. 钟善真. (2026b). *边界加速：终点前的信号压缩与释放* (Version 3.2). Equal System Repository.
-4. 钟善真. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
-5. 钟善真. (2026d). *生存强制力与意义的释放*. Equal System Repository.
+2. Max Lance. (2026a). *意义极限论：一个可证实主义框架* (Version 5.1). Equal System Repository.
+3. Max Lance. (2026b). *边界加速：终点前的信号压缩与释放* (Version 3.2). Equal System Repository.
+4. Max Lance. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
+5. Max Lance. (2026d). *生存强制力与意义的释放*. Equal System Repository.
 
 ---
 
@@ -324,4 +324,4 @@
 
 ## 建议引用
 
-钟善真. (2026). *命令体与康德：走向自律的经验之路* (Version 2.1). Equal System Repository.
+Max Lance. (2026). *命令体与康德：走向自律的经验之路* (Version 2.1). Equal System Repository.
