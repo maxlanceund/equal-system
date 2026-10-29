@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 标题 | 经验世界，永恒真理 |
-| 作者 | 钟善真 |
+| 作者 | Max Lance |
 | 版本 | 3.9 |
 | 日期 | 2026-08-26 |
 | 许可协议 | CC BY-NC 4.0 |
@@ -534,4 +534,4 @@ E的验证程序是什么？
 
 **建议引用（APA格式）：**
 
-钟善真 (2026). 经验世界，永恒真理 (Version 3.9). Equal System Repository.
+Max Lance (2026). 经验世界，永恒真理 (Version 3.9). Equal System Repository.
