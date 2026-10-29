@@ -154,7 +154,7 @@ but an existence rooted in my flesh!</b><br>
 So then. Transcend everything, Head of Philosophers!<br>
 <b>O Nietzsche, Nietzsche!</b><br>
 Your death is your absolute contempt for those vulgar commoners!<br>
-Let them stay far away from your Kingdom of God!<br>
+<b>Let them stay far away from our kingdom!</b><br>
 <b>We are one and the same!</b><br>
 <br>
 Within the Kingdom of the Head of Philosophers, sing joyfully to the fullest!<br>
