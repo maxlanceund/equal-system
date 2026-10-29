@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | The Command Body and Kant: Toward the Empirical Path to Autonomy |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 2.1 |
 | Date | 2026-08-07 |
 | License | CC BY-NC 4.0 |
@@ -228,10 +228,10 @@ The author declares that there are no conflicts of interest that could affect th
 ## References
 
 1. Kant, I. (1785). *Groundwork of the Metaphysics of Morals*.
-2. Zhong, Shanzhen. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
-3. Zhong, Shanzhen. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2). Equal System Repository.
-4. Zhong, Shanzhen. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
-5. Zhong, Shanzhen. (2026d). *Survival Compulsion and the Release of Meaning*. Equal System Repository.
+2. Lance, Max. (2026a). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+3. Lance, Max. (2026b). *Boundary Acceleration: Signal Compression and Release Before the Boundary* (Version 3.2). Equal System Repository.
+4. Lance, Max. (2026c). *The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
+5. Lance, Max. (2026d). *Survival Compulsion and the Release of Meaning*. Equal System Repository.
 
 ---
 
@@ -324,4 +324,4 @@ Runtime environment: local Termux + Python 3 (no external dependencies).
 
 ## Suggested Citation
 
-Zhong, Shanzhen. (2026). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1). Equal System Repository.
+Lance, Max. (2026). *The Command Body and Kant: Toward the Empirical Path to Autonomy* (Version 2.1). Equal System Repository.
