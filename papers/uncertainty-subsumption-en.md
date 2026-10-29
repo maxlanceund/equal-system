@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | Uncertainty Subsumption: The Production, Locking, and Release of Certainty |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 2.3 |
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
@@ -96,9 +96,9 @@ Thus, certainty is produced by operation, not inherent to the world. Since it is
 
 In quantum mechanics, this process is described as "measurement." Before measurement, the particle is in a superposition state (uncertainty), which can be expressed by the wavefunction:
 
-```math
+$$
 |\psi\rangle = \sum_i c_i |s_i\rangle
-```
+$$
 
 (Equation 1)
 
@@ -106,9 +106,9 @@ where |sᵢ⟩ are the various possible determinate states, cᵢ are the corresp
 
 Upon measurement, the wavefunction collapses to a particular eigenstate (certainty):
 
-```math
+$$
 |\psi\rangle \rightarrow |s_0\rangle
-```
+$$
 
 (Equation 2)
 
@@ -128,9 +128,9 @@ The direction of entropy increase is determinate. Any ordered structure that has
 
 Formally, the second law of thermodynamics can be stated as: the entropy change of an isolated system satisfies
 
-```math
+$$
 \Delta S \geq 0
-```
+$$
 
 (Equation 3)
 
@@ -140,9 +140,9 @@ The boundary is that position—the position where certainty must be returned. *
 
 *Boundary Acceleration* describes the increase in signal density before certainty is returned. Let D(t) be the signal density (the amount of identifiable signal carried by the system at time t), and T be the boundary time. Then:
 
-```math
+$$
 D(T) = 0
-```
+$$
 
 (Equation 4)
 
@@ -170,9 +170,9 @@ The second law of thermodynamics states: the entropy of an isolated system alway
 
 The statistical definition of entropy—the Boltzmann formula—provides a clear correspondence:
 
-```math
+$$
 S = k_B \ln W
-```
+$$
 
 (Equation 5)
 
@@ -272,8 +272,8 @@ The author declares that there are no conflicts of interest that could affect th
 5. Wheeler, J. A., & Zurek, W. H. (1983). Quantum Theory and Measurement. Princeton University Press.
 6. Wittgenstein, L. (1922). Tractatus Logico-Philosophicus. London: Routledge.
 7. Zurek, W. H. (2003). Decoherence, Pointer States, and the Quantum-Classical Transition. Reviews of Modern Physics, 75(3): 715-775.
-8. Zhong, Shanzhen. (2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
-9. Zhong, Shanzhen. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 3.1). Equal System Repository.
+8. Lance, Max. (2026a). On the Limits of Meaning: A Verificationist Framework (Version 3.0). Equal System Repository.
+9. Lance, Max. (2026b). Boundary Acceleration: Signal Compression and Release Before the Boundary (Version 3.1). Equal System Repository.
 
 ---
 
@@ -432,4 +432,4 @@ Kauffman, S. A. (1969). Metabolic Stability and Epigenesis in Randomly Construct
 
 Suggested Citation (APA format):
 
-Zhong, Shanzhen. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.3). Equal System Repository.
+Lance, Max. (2026). Uncertainty Subsumption: The Production, Locking, and Release of Certainty (Version 2.3). Equal System Repository.
