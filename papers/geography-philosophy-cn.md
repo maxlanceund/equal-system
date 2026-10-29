@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 标题 | 地理哲学论 |
-| 作者 | 钟善真 |
+| 作者 | Max Lance |
 | 版本 | 7.2 |
 | 日期 | 2026-08-18 |
 | 许可协议 | CC BY-NC 4.0 |
@@ -624,12 +624,12 @@
 10. 国家统计局. (2020). *中国人口统计年鉴*.
 11. NOAA National Centers for Environmental Information. (2025). Climate Data for Scandinavia.
 12. 联合国粮食及农业组织 (FAO). (2023). *近东地区水资源报告*.
-13. 钟善真. (2026a). *不确定性吞没：确定性的产生、锁定与释放* (Version 2.3). Equal System Repository.
-14. 钟善真. (2026b). *论意义的界限：一个可证实主义框架* (Version 5.1). Equal System Repository.
-15. 钟善真. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
-16. 钟善真. (2026d). *生存强制力与美国制造业就业衰退：一种政治经济学的因果重构* (Version 4.2). Equal System Repository.
-17. 钟善真. (2026e). *命令体与康德：走向自律的经验之路* (Version 2.1). Equal System Repository.
-18. 钟善真. (2026f). *善、美德与正义的操作化描述——一种非本质主义的理解框架* (Version 2.1). Equal System Repository.
+13. Max Lance. (2026a). *不确定性吞没：确定性的产生、锁定与释放* (Version 2.3). Equal System Repository.
+14. Max Lance. (2026b). *论意义的界限：一个可证实主义框架* (Version 5.1). Equal System Repository.
+15. Max Lance. (2026c). *有限区间原则：一个在生命、制度与媒介中重复出现的结构* (Version 3.2). Equal System Repository.
+16. Max Lance. (2026d). *生存强制力与美国制造业就业衰退：一种政治经济学的因果重构* (Version 4.2). Equal System Repository.
+17. Max Lance. (2026e). *命令体与康德：走向自律的经验之路* (Version 2.1). Equal System Repository.
+18. Max Lance. (2026f). *善、美德与正义的操作化描述——一种非本质主义的理解框架* (Version 2.1). Equal System Repository.
 
 ---
 
@@ -774,4 +774,4 @@
 
 ## 建议引用
 
-钟善真. (2026). *地理哲学论* (Version 7.2). Equal System Repository.
+Max Lance. (2026). *地理哲学论* (Version 7.2). Equal System Repository.
