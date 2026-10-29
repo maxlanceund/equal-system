@@ -1,6 +1,6 @@
 ---
 title: "平等制：后稀缺时代的社会结构设计"
-author: "钟善真"
+author: "Max Lance"
 version: "1.0"
 date: "2026-06"
 repository: "https://github.com/maxlanceund/equal-system"
