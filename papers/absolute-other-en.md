@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 9.3 |
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
@@ -505,11 +505,11 @@ Experiment code: `absolute-other/experiments/exp1_self_pointer.py`, `exp2_social
 
 ### Equal System Series Essays
 
-1. Zhong, S. (2026a). *Uncertainty Engulfment: The Generation, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
-2. Zhong, S. (2026b). *An Operational Description of Good, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1). Equal System Repository.
-3. Zhong, S. (2026c). *The Limits of Meaning: A Verificationalist Framework* (Version 5.1). Equal System Repository.
-4. Zhong, S. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Endpoint* (Version 3.2). Equal System Repository.
-5. Zhong, S. (2026e). *The Finite Interval Principle: A Recurring Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
+1. Lance, M. (2026a). *Uncertainty Engulfment: The Generation, Locking, and Release of Certainty* (Version 2.3). Equal System Repository.
+2. Lance, M. (2026b). *An Operational Description of Good, Virtue, and Justice: A Non-Essentialist Framework* (Version 2.1). Equal System Repository.
+3. Lance, M. (2026c). *The Limits of Meaning: A Verificationalist Framework* (Version 5.1). Equal System Repository.
+4. Lance, M. (2026d). *Boundary Acceleration: Signal Compression and Release Before the Endpoint* (Version 3.2). Equal System Repository.
+5. Lance, M. (2026e). *The Finite Interval Principle: A Recurring Structure in Life, Institutions, and Media* (Version 3.2). Equal System Repository.
 
 ### Academic Works
 
@@ -558,4 +558,4 @@ Experiment code: `absolute-other/experiments/exp1_self_pointer.py`, `exp2_social
 
 ## Suggested Citation
 
-Zhong, S. (2026). *The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness* (Version 9.3). Equal System Repository.
+Lance, M. (2026). *The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness* (Version 9.3). Equal System Repository.
