@@ -3,7 +3,7 @@
 | Item | Content |
 | :--- | :--- |
 | Title | On the Limits of Meaning: A Verificationist Framework |
-| Author | Zhong Shanzhen |
+| Author | Max Lance |
 | Version | 5.1 |
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
@@ -475,10 +475,10 @@ The author declares that there are no conflicts of interest that could affect th
 
 ### Equal System Series Papers
 
-1. Zhong, Shanzhen. (2026a). *Boundary Acceleration: Signal Compression and Release Before the Boundary*.
-2. Zhong, Shanzhen. (2026b). *The Limited-Interval Principle*.
-3. Zhong, Shanzhen. (2026c). *Uncertainty Subsumption*.
-4. Zhong, Shanzhen. (2026d). *Signal, Exchange, and System Stability*.
+1. Lance, Max. (2026a). *Boundary Acceleration: Signal Compression and Release Before the Boundary*.
+2. Lance, Max. (2026b). *The Limited-Interval Principle*.
+3. Lance, Max. (2026c). *Uncertainty Subsumption*.
+4. Lance, Max. (2026d). *Signal, Exchange, and System Stability*.
 
 ### Academic Literature
 
@@ -520,4 +520,4 @@ And silence itself is also a marker within the interval — it is what this pape
 
 **Suggested Citation (APA format):**
 
-Zhong, Shanzhen. (2026). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
+Lance, Max. (2026). *On the Limits of Meaning: A Verificationist Framework* (Version 5.1). Equal System Repository.
