@@ -1,10 +1,10 @@
-# Who Is the Father?
+# No Father
 ## — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy
 
 | Item | Content |
 | :--- | :--- |
-| Title | Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy |
-| Author | Zhong Shanzhen |
+| Title | No Father — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy |
+| Author | Max Lance |
 | Version | 2.2 |
 | Date | 2026-08-12 |
 | License | CC BY-NC 4.0 |
@@ -535,4 +535,4 @@ What can be said has been said. The rest is silence.
 
 **Suggested Citation (APA format):**
 
-Zhong, Shanzhen. (2026). *Who Is the Father? — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.2). Equal System Repository.
+Lance, Max. (2026). *No Father: Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy* (Version 2.2). Equal System Repository.
