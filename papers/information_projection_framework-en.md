@@ -5,7 +5,7 @@
 | Item | Content |
 | :--- | :--- |
 | **Title** | Information Projection Framework — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy |
-| **Author** | Zhong Shanzhen |
+| **Author** | Max Lance |
 | **Date** | 2026-09-22 (Revised: 2026-09-26, Version 15.0) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | information projection framework, information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks |
@@ -724,9 +724,9 @@ When N is large, H(attractors)/N → 0, so D_f → 1. When N is small, H(attract
 
 [15] Wilson, K. G. (1971). Renormalization Group and Critical Phenomena. *Physical Review B*, 4(9), 3174-3183.
 
-[16] Zhong, S. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
+[16] Lance, M. (2026). *A Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time* (Version 7.0). Equal System Repository.
 
-[17] Zhong, S. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+[17] Lance, M. (2026). *On the Structural Source of Irreversibility — The Non-Injectivity of Macroscopic Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
 
 ---
 
@@ -744,4 +744,4 @@ The author declares that there is no conflict of interest that could affect the 
 
 **Suggested Citation (APA format)**:
 
-Zhong, S. (2026). *Information Projection Framework — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy* (Version 15.0). Equal System Repository.
+Lance, M. (2026). *Information Projection Framework — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy* (Version 15.0). Equal System Repository.
