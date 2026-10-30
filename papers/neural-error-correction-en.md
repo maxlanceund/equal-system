@@ -5,7 +5,7 @@
 | Item | Content |
 | :--- | :--- |
 | **Title** | Error-Correcting Code Structure in Neural Networks — Non-Local Information Distribution, Task-Driven Effective Rank, and the Analogy with Black Holes |
-| **Author** | Zhong Shanzhen |
+| **Author** | Max Lance |
 | **Date** | 2026-09-26 (Revised: 2026-09-27, Version 3.3) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | error-correcting code, information distribution, conditional entropy, neural networks, holographic principle, quantum error correction, low-rank structure, task-driven, background mode |
@@ -725,12 +725,14 @@ Fits:
 #### 4. Saturation Check (New)
 
 ```
+
 k: 2 → 3,  Δr_eff/Δk = +3.74
 k: 3 → 4,  Δr_eff/Δk = +3.20
 k: 4 → 5,  Δr_eff/Δk = +4.02
 k: 5 → 6,  Δr_eff/Δk = +0.34   ← barely moves
 k: 6 → 8,  Δr_eff/Δk = +2.84   ← jumps again
 k: 8 → 10, Δr_eff/Δk = −0.06   ← negative
+
 ```
 
 **Not monotonic, not smooth saturation — it jitters.**
@@ -1000,4 +1002,4 @@ The author declares no conflict of interest that could affect the conclusions or
 
 **Suggested citation (APA):**
 
-Zhong, S. (2026). *Error-Correcting Code Structure in Neural Networks — Non-Local Information Distribution, Task-Driven Effective Rank, and the Analogy with Black Holes* (Version 3.3). Equal System Repository.
+Lance, M. (2026). *Error-Correcting Code Structure in Neural Networks — Non-Local Information Distribution, Task-Driven Effective Rank, and the Analogy with Black Holes* (Version 3.3). Equal System Repository.
