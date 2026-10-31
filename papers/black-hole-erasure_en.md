@@ -15,7 +15,11 @@
 
 ## Abstract
 
-The black hole information paradox remains an unresolved conflict between the unitarity of quantum mechanics and the thermal nature of Hawking radiation. While the holographic principle and the island formula suggest information is preserved through complex entanglement, a structural explanation for why the system necessitates extreme scrambling (thermalization) is often overlooked. We propose a phenomenological model—the Finite-Capacity Ontology—which posits that the event horizon functions as a finite-capacity quantum memory buffer. We demonstrate that when the local information density of infalling matter approaches the Bekenstein-Hawking entropy capacity, the system undergoes a non-unitary topological phase transition. Utilizing the monogamy of entanglement and the Ryu-Takayanagi formula, we show that information loss is structurally isomorphic to the collapse of spacetime connectivity. We derive the Dead-Equilibrium Master Equation for the exponential decay of entanglement entropy and propose falsifiable signatures in the damping tail of gravitational wave echoes.
+The black hole information paradox remains an unresolved conflict between the unitarity of quantum mechanics and the thermal nature of Hawking radiation. While the holographic principle and the island formula suggest information is preserved through complex entanglement, a structural explanation for why the system necessitates extreme scrambling (thermalization) is often overlooked. 
+
+We propose a phenomenological model—the Finite-Capacity Ontology—which posits that the event horizon functions as a finite-capacity quantum memory buffer. We demonstrate that when the local information density of infalling matter approaches the Bekenstein-Hawking entropy capacity, the system undergoes a non-unitary topological phase transition. 
+
+Utilizing the monogamy of entanglement and the Ryu-Takayanagi formula, we show that information loss is structurally isomorphic to the collapse of spacetime connectivity. We derive the Dead-Equilibrium Master Equation for the exponential decay of entanglement entropy and propose falsifiable signatures in the damping tail of gravitational wave echoes.
 
 ## 1. Introduction
 
