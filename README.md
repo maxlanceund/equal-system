@@ -143,7 +143,9 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [视界处的量子信息擦除（学术版）](papers/black-hole-erasure_cn.md) | [Quantum Erasure at the Horizon (Academic Version)](papers/black-hole-erasure_en.md) |
+| [黑洞信息擦除模型（学术版）](papers/black-hole-erasure_cn.md) | [Black Hole Erasure Model (Academic Version)](papers/black-hole-erasure_en.md) |
+
+
 
 <br>
 <hr>
