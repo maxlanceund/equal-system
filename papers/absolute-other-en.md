@@ -1,5 +1,3 @@
-# The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness
-
 | Item | Content |
 | :--- | :--- |
 | Title | The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness |
@@ -8,6 +6,12 @@
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
 | Keywords | Absolute Other, objectification of consciousness, genetic randomness, death's net, Sartre, Kant, Buddhist no-self, ontological freedom |
+
+---
+
+<br>
+
+# The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness
 
 ---
 

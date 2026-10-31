@@ -1,5 +1,3 @@
-# Relation Is Death: From the Emptiness of the Absolute Other to the Absolute Annihilation of the Subject
-
 | Item | Content |
 | :--- | :--- |
 | Title | Relation Is Death: From the Emptiness of the Absolute Other to the Absolute Annihilation of the Subject |
@@ -8,6 +6,12 @@
 | Date | 2026-09 |
 | License | CC BY-NC 4.0 |
 | Keywords | Relation is Death, Absolute Other, First-Person Loop, Physicalist Supervenience, Topological Privacy of Perspective, Absolute Unverifiability |
+
+---
+
+<br>
+
+# Relation Is Death: From the Emptiness of the Absolute Other to the Absolute Annihilation of the Subject
 
 ---
 

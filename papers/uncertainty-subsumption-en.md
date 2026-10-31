@@ -1,5 +1,3 @@
-# Uncertainty Subsumption: The Production, Locking, and Release of Certainty
-
 | Item | Content |
 | :--- | :--- |
 | Title | Uncertainty Subsumption: The Production, Locking, and Release of Certainty |
@@ -8,6 +6,12 @@
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
 | Keywords | uncertainty subsumption, certainty, entropy, observer, finite interval |
+
+---
+
+<br>
+
+# Uncertainty Subsumption: The Production, Locking, and Release of Certainty
 
 ---
 

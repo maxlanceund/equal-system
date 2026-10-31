@@ -1,6 +1,3 @@
-
-# An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework
-
 | Item | Content |
 | :--- | :--- |
 | Title | An Operational Description of Goodness, Virtue, and Justice — A Non-Essentialist Framework |
@@ -9,6 +6,12 @@
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
 | Keywords | goodness, virtue, justice, directional signal, uncertainty subsumption, operational description |
+
+---
+
+<br>
+
+# An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework
 
 > **Core Thesis**: This paper does not provide substantive definitions (i.e., fixed-content identifications) of goodness, virtue, and justice. Instead, it offers an operational description: they are empirically identifiable as directional signals locked by systems within operational windows—pointing toward the system's own maintenance and operational continuity, rather than fixed content. Appendix A reports three sets of structural-model experiments: Experiment 1 shows that the content of directional signals shifts with boundary conditions (abundance → cooperation, scarcity → competition); Experiment 2 shows that ceasing to refresh a directional signal causes it to fail (frozen group survival 62.4/100 vs. refreshing group 93.5/100); Experiment 3 shows that after a boundary shock, the old signal is submerged and a new signal is re-condensed (average flip time 5 steps).
 

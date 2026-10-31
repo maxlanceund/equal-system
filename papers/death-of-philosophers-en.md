@@ -1,5 +1,3 @@
-# The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy
-
 | Item | Content |
 | :--- | :--- |
 | Title | The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy |
@@ -8,6 +6,12 @@
 | Date | 2026-09-17 |
 | License | CC BY-NC 4.0 |
 | Keywords | Death of Socrates, Death of Confucius, Sense of Loss, Theory of Forms, Comparative Philosophy, Philosophical Practice |
+
+---
+
+<br>
+
+# The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy
 
 # The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy
 

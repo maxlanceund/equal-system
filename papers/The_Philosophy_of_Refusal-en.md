@@ -1,5 +1,3 @@
-# The Philosophy of Refusal
-
 | Item | Content |
 | :--- | :--- |
 | Title | The Philosophy of Refusal |
@@ -8,6 +6,12 @@
 | Date | 2026-09-09 |
 | License | CC BY-NC 4.0 |
 | Keywords | Philosophy of Refusal, Wang Yangming, unity of knowing and acting, signal processing, this mind can refuse |
+
+---
+
+<br>
+
+# The Philosophy of Refusal
 
 ---
 

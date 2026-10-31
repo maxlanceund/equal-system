@@ -1,5 +1,3 @@
-# Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition
-
 | Item | Content |
 | :--- | :--- |
 | Title | Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition |
@@ -8,6 +6,12 @@
 | Date | 2026-08-16 |
 | License | CC BY-NC 4.0 |
 | Keywords | Equal System, philosophical positioning, uncertainty subsumption, directional signal, descriptive meta-theory, philosophical dialogue |
+
+---
+
+<br>
+
+# Beyond the Boundary: Equal System in Dialogue with the Philosophical Tradition
 
 > **Core Proposition**: The task of this paper is not to propose a new theory, but to position the Equal System within a dialogue with the history of philosophy, confirming its place at the current stage. Equal System no longer participates in the competition to "define goodness, virtue, and justice," but turns instead to describing the structure of that competition itself. It does not claim to have terminated the game; it simply declines to keep playing it. It does not lie on the extension of the history of philosophy—it lies **beyond the boundary** of the definition game. The conclusion of the current stage is not the end of the system, but the starting point of the next.
 

@@ -1,5 +1,3 @@
-# The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation
-
 | Item | Content |
 | :--- | :--- |
 | Title | The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation |
@@ -8,6 +6,12 @@
 | Date | 2026-10 |
 | License | CC BY-NC 4.0 |
 | Keywords | Existential Black Hole, Regression Rate, Failure of Marx's Measure, System Dynamics, Hidden Recession, Structural Undefinedness |
+
+---
+
+<br>
+
+# The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation
 
 # The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation
 

@@ -1,5 +1,3 @@
-# Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction
-
 | Item | Content |
 | :--- | :--- |
 | Title | Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction |
@@ -8,6 +6,12 @@
 | Date | 2026-08-02 |
 | License | CC BY-NC 4.0 |
 | Keywords | survival compulsion, Hukou system, race-to-the-bottom, external attribution fallacy, U.S. deindustrialization, global capital, process-tracing |
+
+---
+
+<br>
+
+# Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction
 
 > **Core Thesis**: The root cause of U.S. manufacturing employment decline lies in its internal capital logic, financialization processes, and technological substitution—not in the rise of Chinese manufacturing. This paper introduces the concept of "Survival Compulsion" and, by anchoring it in the **Hukou (household registration) system** and **inter-jurisdictional race-to-the-bottom competition**, reconstructs it from a descriptive lament into a testable causal mechanism. Attributing U.S. manufacturing employment decline to China is an "external attribution fallacy" serving domestic political agendas. Appendix A reports two sets of numerical tests: the Chow test shows that 2001 is a statistical breakpoint, but the direction of the slope is "deceleration of decline," not "acceleration," and the largest breakpoint is in 2008; the weight reconstruction shows that even pushing China's factor to its extreme upper bound, automation remains more than 1.5 times its weight.
 

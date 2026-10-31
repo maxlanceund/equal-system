@@ -1,5 +1,3 @@
-# Empirical World, Eternal Truth
-
 | Item | Content |
 | :--- | :--- |
 | Title | Empirical World, Eternal Truth |
@@ -8,6 +6,12 @@
 | Date | 2026-08-26 |
 | License | CC BY-NC 4.0 |
 | Keywords | empirical world, eternal truth, cognitive suspension, operational semantics, temporal modality |
+
+---
+
+<br>
+
+# Empirical World, Eternal Truth
 
 > **Core Thesis**: Any proposition about the empirical world, if assigned the attribute "eternally true", is in a state of **cognitive suspension** with respect to cognitive operations. "Eternal" is not a predicate that can be verified by any empirical procedure; it is a temporal modality—a logical operator that alters the temporal scope of a proposition. It demands an infinite number of verifications within a finite time window, which is **structurally uncompletable**. This paper does not discuss whether "eternal truth exists"; it only discusses whether "eternal truth is accessible to empirical cognition". The conclusion is that, within the framework of operational semantics, eternal truth is not accessible. Within the framework of this paper, between the empirical world and eternal truth there is no passage—only a rupture. Appendix A reports three numerical experiments and one conceptual contrast: a finite agent's verdict on an "eternal proposition" is always cognitive suspension (VERIFIED is always 0); when the proposition is occasionally false, REFUTED appears but VERIFIED remains 0; after semantic change, suspension is further consolidated; and the conceptual contrast with a God's-eye view shows that suspension arises from finite cognitive structure, not from the concept of "eternity" itself.
 

@@ -1,5 +1,3 @@
-# Dead Equilibrium: Monetary Alienation, Debt Ontology, and the Dissolution of Social Relations
-
 | Item | Content |
 | :--- | :--- |
 | Title | Dead Equilibrium: Monetary Alienation, Debt Ontology, and the Dissolution of Social Relations |
@@ -8,6 +6,12 @@
 | Date | 2026-10-31 |
 | License | CC BY-NC 4.0 |
 | Keywords | dead equilibrium, monetary alienation, debt ontology, cooperation collapse, irreversible trust, scarring effect |
+
+---
+
+<br>
+
+# Dead Equilibrium: Monetary Alienation, Debt Ontology, and the Dissolution of Social Relations
 
 ---
 

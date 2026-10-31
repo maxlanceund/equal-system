@@ -1,5 +1,3 @@
-# Geography as Philosophical Constraint: A Theory of Directional Signals
-
 | Item | Content |
 | :--- | :--- |
 | Title | Geography as Philosophical Constraint: A Theory of Directional Signals |
@@ -8,6 +6,12 @@
 | Date | 2026-08-18 |
 | License | CC BY-NC 4.0 |
 | Keywords | geography, directional signals, survival compulsion, command body, system boundaries, finite interval principle |
+
+---
+
+<br>
+
+# Geography as Philosophical Constraint: A Theory of Directional Signals
 
 # Geography as Philosophical Constraint: A Theory of Directional Signals
 

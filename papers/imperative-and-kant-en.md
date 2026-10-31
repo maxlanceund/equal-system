@@ -1,5 +1,3 @@
-# The Command Body and Kant: Toward the Empirical Path to Autonomy
-
 | Item | Content |
 | :--- | :--- |
 | Title | The Command Body and Kant: Toward the Empirical Path to Autonomy |
@@ -8,6 +6,12 @@
 | Date | 2026-08-07 |
 | License | CC BY-NC 4.0 |
 | Keywords | Command Body, Kant, categorical imperative, autonomy, heteronomy, survival compulsion, time-lag |
+
+---
+
+<br>
+
+# The Command Body and Kant: Toward the Empirical Path to Autonomy
 
 > **Core Thesis**: Kant formulated the categorical imperative—that human beings should use their own reason to legislate for themselves, thereby achieving autonomy. He pointed the direction and asserted that "ought implies can." But he did not elaborate on why, if "can" is always possible, autonomy remains so difficult to realize in practice. This paper argues that autonomy encounters a "structural friction" in the empirical world—the Command Body. The Command Body compresses the time and space available for rational scrutiny by controlling survival resources, thereby making the realization of "can" more arduous than Kant anticipated. Yet the Command Body does not negate the possibility of autonomy; it merely marks the gradient of the path. Recognizing this gradient is itself the first movement of reason, and the first step toward autonomy. Appendix A reports a structural-model experiment: as the strength of the Command Body rises, the frequency of rational scrutiny declines monotonically but never reaches zero; systems without metacognitive capacity collapse under high pressure.
 
