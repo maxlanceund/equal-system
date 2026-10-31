@@ -9,8 +9,6 @@
 | License | CC BY-NC 4.0 |
 | Keywords | uncertainty subsumption, certainty, entropy, observer, finite interval |
 
-> **Core Thesis**: Certainty is not an inherent property of the world, but a temporary state that finite systems draw from uncertainty during operation. Once the operation is complete, this state is returned to uncertainty. This process is called "uncertainty subsumption." It constitutes the foundational layer of *The Limit Theory of Meaning* and *Boundary Acceleration*, answering the question: "Why must certainty return to zero?"
-
 ---
 
 ## Abstract
