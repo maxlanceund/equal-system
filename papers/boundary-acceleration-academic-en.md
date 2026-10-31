@@ -9,7 +9,6 @@
 | License | CC BY-NC 4.0 |
 | Keywords | boundary acceleration, signal density, zeroing, motion reorganization, finite interval, limit theory of meaning |
 
-> **Core Thesis**: Before reaching the boundary, a system that still holds unreleased signals, and that recognizes a validation signal, will experience a sharp rise in signal density, followed by a return to zero. Geometrically, it is a spike; mathematically, it is the conditional necessity of "remaining signals must be released within a finite window." Boundary acceleration is not a cross-domain analogy, but a testable structure — under a validation signal, before zeroing, there is always a last manifestation.
 
 ---
 
