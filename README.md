@@ -138,6 +138,14 @@
 | [结构与数据（学术版）](papers/Structure_and_Data_cn.md) | [Structure and Data (Academic Version)](papers/Structure_and_Data_en.md) |
 
 <br>
+
+**Physics Papers / 物理学论文**
+
+| 中文 | English |
+| :--- | :--- |
+| [事件视界处的量子信息擦除：黑洞信息悖论的有限容量本体论模型（学术版）](papers/black-hole-erasure_cn.md) | [Quantum Information Erasure at the Event Horizon: A Finite-Capacity Ontological Model for the Black Hole Information Paradox (Academic Version)](papers/black-hole-erasure_en.md) |
+
+<br>
 <hr>
 <br>
 
