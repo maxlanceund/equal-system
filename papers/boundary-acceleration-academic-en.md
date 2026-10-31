@@ -1,5 +1,3 @@
-# Boundary Acceleration: Signal Compression and Release Before the Boundary
-
 | Item | Content |
 | :--- | :--- |
 | Title | Boundary Acceleration: Signal Compression and Release Before the Boundary |
@@ -9,8 +7,11 @@
 | License | CC BY-NC 4.0 |
 | Keywords | boundary acceleration, signal density, zeroing, motion reorganization, finite interval, limit theory of meaning |
 
-
 ---
+
+<br>
+
+# Boundary Acceleration: Signal Compression and Release Before the Boundary
 
 ## Abstract
 
