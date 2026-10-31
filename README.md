@@ -111,6 +111,7 @@
 | [绝对他者（学术版）](papers/absolute-other-cn.md) | [The Absolute Other (Academic Version)](papers/absolute-other-en.md) |
 | [关系即死亡（学术版）](papers/Relation-Is-Immortality-cn.md) | [Relation Is Death (Academic Version)](papers/Relation-Is-Immortality-en.md) |
 | [存在主义黑洞（学术版）](papers/Existential_Black_Hole-cn.md) | [The Existential Black Hole (Academic Version)](papers/Existential_Black_Hole-en.md) |
+| [死寂均衡（学术版）](papers/dead-equilibrium_cn.md) | [Dead Equilibrium (Academic Version)](papers/dead-equilibrium_en.md) |
 
 <br>
 
@@ -133,7 +134,8 @@
 | [国强与民松（学术版）](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong (Academic Version)](papers/Guoqiang_Minsong_en.md) |
 | [紧绷即底气（学术版）](papers/paper_resilience_zh.md) | [Resilience in Tension (Academic Version)](papers/paper_resilience_en.md) |
 | [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
-| [定力与出清（学术版）](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing (Academic Version)](papers/structural-trap-and-monetary-standoff-en.md) |
+| [定力与出清（学术版）](papers/structural-trap-and-monetary-standoff-cn.md) |
+[Resolve and Clearing (Academic Version)](papers/structural-trap-and-monetary-standoff-en.md) |
 | [结构与数据（学术版）](papers/Structure_and_Data_cn.md) | [Structure and Data (Academic Version)](papers/Structure_and_Data_en.md) |
 
 <br>
