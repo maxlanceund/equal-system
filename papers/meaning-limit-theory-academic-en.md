@@ -1,4 +1,4 @@
-# On the Limits of Meaning: A Verificationist Framework
+
 
 | Item | Content |
 | :--- | :--- |
@@ -9,9 +9,11 @@
 | License | CC BY-NC 4.0 |
 | Keywords | meaning, verificationism, limit, experiential interval, closed-loop operation, internal marker, self-application |
 
-
-
 ---
+
+<br>
+
+# On the Limits of Meaning: A Verificationist Framework
 
 ## Abstract
 
