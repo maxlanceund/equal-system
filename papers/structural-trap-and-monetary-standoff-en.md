@@ -13,7 +13,6 @@
 # Resolve and Clearing: On the Structural Boundaries of Policy Intervention
 ## — An Analysis Based on Balance Sheet Recession and Monetary Transmission Mechanism
 
-
 ---
 
 ## I. Abstract

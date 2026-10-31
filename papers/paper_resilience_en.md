@@ -13,7 +13,6 @@
 # Resilience in Tension: A Narrative Framework for Shock Resilience
 ## — An Exploratory Study Based on Five-Dimensional Fiscal Transmission and Cross-National Comparison
 
-
 ---
 
 ## I. Abstract

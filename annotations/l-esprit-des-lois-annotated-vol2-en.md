@@ -9,7 +9,6 @@
 A Montesquieu  
 B Lanceund
 
-
 ## Ⅰ The Definition of the Three Governments
 
 A:
@@ -23,7 +22,6 @@ Montesquieu's definition has three problems:
 3. Inequality is structural. Republics have republican problems, monarchies have monarchical problems, despotisms have despotic problems. Inequality is not a malfunction—it is how government is built.
 
 He stops at "who rules." I ask: what actually keeps a system running? It is signal flow. It is uninterrupted exchange. It is not definitions.
-
 
 ## Ⅱ Democracy and Suffrage
 
@@ -41,7 +39,6 @@ But his analysis stays at the institutional level:
 
 I ask: no matter who is in charge, what keeps the system running? It is uninterrupted exchange, not electoral rules. Power changes hands, but the structure does not.
 
-
 ## Ⅲ The Structure of Aristocracy
 
 A:
@@ -57,7 +54,6 @@ But the problem is:
 3. "Drawing near" is only a gesture. It does not change the fundamental structure.
 
 Why are the common people always common? Why are the nobles always nobles? That structure remains. Drawing nearer does not change the position.
-
 
 ## Ⅳ Monarchy and the Intermediate Position of the Nobility
 
@@ -75,7 +71,6 @@ But he does not ask:
 
 It is not a chosen function, but an inherited position. He thinks the nobility is a buffer—but the nobility is itself part of the stratified structure.
 
-
 ## Ⅴ Monarchy Does Not Require Virtue
 
 A:
@@ -83,7 +78,6 @@ In monarchies, political affairs are conducted with as little virtue as possible
 
 B:
 This passage has nothing to say against it. Montesquieu observes that monarchy does not need virtue; law takes its place, and the baseness of courtiers is the norm. This is observation, not argument, without hidden assumptions. Pass.
-
 
 ## Ⅵ Honor Takes the Place of Virtue
 
@@ -99,7 +93,6 @@ This passage is fine. Montesquieu says monarchy is driven by honor:
 
 He draws a clear distinction. Pass.
 
-
 ## Ⅶ Despotism Has Nothing to Do with Honor
 
 A:
@@ -107,7 +100,6 @@ The principle of despotic governments is by no means honor. There, all are equal
 
 B:
 This passage is also fine. Despotism and honor have nothing to do with each other. This is factual description, not needing rebuttal. Pass.
-
 
 ## Ⅷ Despotism Is Sustained by Fear
 
@@ -122,7 +114,6 @@ This passage is also correct. Despotism is sustained by fear:
 
 Pure description. Nothing to argue against. Pass.
 
-
 ## Ⅸ The Difference in Obedience
 
 A:
@@ -135,7 +126,6 @@ This passage is accurate:
 2. Moderate obedience is constrained by honor, with room for adjustment.
 
 No need to argue against it. Pass.
-
 
 ## Ⅹ Virtue, Honor, Fear as Ideal States
 
@@ -154,7 +144,6 @@ He defined virtue, honor, and fear as the core principles of the three governmen
 If someone asks, "Does virtue really exist?" he can answer, "I said it ought to exist." But the trouble is: if virtue only "ought to exist" rather than actually exists, then his explanation of the rise and fall of republics using virtue is insufficient—because he is using something that may not exist to explain something that really happened.
 
 He is not wrong. He stopped at a question he could not handle, and closed it with a definition.
-
 
 <p align="right">── Volume II · X entries</p>
 

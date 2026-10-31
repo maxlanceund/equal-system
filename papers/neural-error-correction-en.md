@@ -13,7 +13,6 @@
 # Error-Correcting Code Structure in Neural Networks
 ## — Non-Local Information Distribution, Task-Driven Effective Rank, and the Analogy with Black Holes
 
-
 ---
 
 ## I. Abstract

@@ -13,7 +13,6 @@
 # Strong State, Tired People: Fiscal Intermediation and Structural Transmission
 ## — A Research Agenda
 
-
 ---
 
 ## I. Abstract

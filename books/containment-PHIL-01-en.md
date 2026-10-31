@@ -10,7 +10,6 @@ date: "2026-08-03"
 
 > *This record is not a description of an anomalous object. It is an observation of a structure. The structure continues to operate without external stimulus. It is not located in any specific place — it is present wherever you are reading this.*
 
-
 ## Designation: PHIL-01
 
 ## Class: Under Observation · Uncontained

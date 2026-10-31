@@ -13,10 +13,6 @@
 
 # Geography as Philosophical Constraint: A Theory of Directional Signals
 
-# Geography as Philosophical Constraint: A Theory of Directional Signals
-
-> **Core Thesis**: Geography constitutes a structural constraint on directional signals. Through two channels—**survival compulsion** (material survival pressure) and **command body** (compression of rational reflection space)—it delineates the tendency interval within which directional signals can emerge. Geography does not determine the specific content of directional signals, but it significantly influences their morphological variation across different systems. Appendix A reports a set of large-scale exploratory simulations: at the scale of 10,000 agents, 500 generations, and 50 seeds, disaster frequency and cooperation ratio exhibit a monotonically increasing relationship with extremely small standard deviations, demonstrating that the mechanism is robust within the parameter space.
-
 ---
 
 ## I. Abstract

@@ -13,10 +13,6 @@
 
 # The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy
 
-# The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy
-
-> **Core Thesis**: Socrates was executed by the Athenian democracy through a single, concentrated, identifiable vote; Confucius died a natural death amid the continuous ruin of his political ideals and the loss of his disciples. Both deaths were political—Socrates died from the direct violence of the city, Confucius from the chronic exclusion of the political system. But the temporal structure of violence differed: Socrates faced a concentrated, visible, identifiable violent event; Confucius faced a dispersed, chronic, unidentifiable political exhaustion. **This difference in the temporal structure of violence**—not the simple dichotomy of "political vs. natural"—shaped two different forms of the sense of loss, which in turn shaped two different directions of philosophy.
-
 ---
 
 ## Abstract

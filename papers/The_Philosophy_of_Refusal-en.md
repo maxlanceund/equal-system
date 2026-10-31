@@ -17,8 +17,6 @@
 
 # The Philosophy of Refusal
 
-> **Core Thesis**: When you receive a refusal signal, just give up. No more hesitation. That is the way. This paper argues that "this mind can refuse" is more radical than "this mind is luminous"—the former retains the right to reject any framework, including itself, and achieves an absolute philosophical freedom that depends on neither external validation nor internal stability. Appendix A reports four structural-model experiments: the mutual information of a degenerate channel is exactly zero; termination does not require estimating the probability that the channel is normal, while continuation does; the survival rate of executing refusal is significantly higher than that of not executing; and systems without recognition capacity exhibit the same behavioral trajectory as systems that recognize but do not execute, proving that recognition is a precondition but not a sufficient condition.
-
 ---
 
 ## Abstract

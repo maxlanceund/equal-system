@@ -23,7 +23,6 @@ repository: "https://github.com/maxlanceund/equal-system"
 > *Archived: August 2026*
 > ---
 
-
 ## The Training Entrance
 
 Have you ever felt like your entire life has been following instructions?
@@ -44,14 +43,12 @@ I call it The Imperative.
 
 Training a dog is the entrance to understanding it.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 1
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Training Is Not Just a Metaphor
 
@@ -67,14 +64,12 @@ The first step in training a dog is to make it obey before it even realizes it h
 
 You weren't persuaded. You were placed.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 2
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Where It Appears
 
@@ -94,14 +89,12 @@ Training doesn't appear in just one form. It changes its clothes every time, mak
 
 **In the workplace meeting.** You're in a meeting, you have an idea, but you don't say it. Because everyone else is nodding, and you're afraid your idea will be rejected. You obeyed the instruction that "the majority's voice is more correct than yours" — you hadn't even said your idea, and you had already rejected it yourself.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 3
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Something Ancient
 
@@ -115,14 +108,12 @@ Now you've seen training appear in schools, companies, marriage, and media. But 
 
 Next chapter.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 4
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## The Faces of The Imperative
 
@@ -144,14 +135,12 @@ The Imperative has many faces. But no matter what face it wears, it always says 
 
 That voice — it might not be yours.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 5
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## After Seeing It
 
@@ -165,14 +154,12 @@ But once you recognize The Imperative, you start to trace those voices back to t
 
 After seeing it, you gain a pause. In that silence, you ask a question you never would have asked before: Is this what I want — or what someone else chose for me?
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 6
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Inside the Silence
 
@@ -190,14 +177,12 @@ You stay in the silence. You might feel like you're falling behind. People aroun
 
 Inside the silence, you don't have the answer. But you are present.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 7
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Beginning to Critique
 
@@ -213,14 +198,12 @@ Those "musts" don't come from you. They come from a structure that was running b
 
 After seeing it, you just can't pretend it isn't there anymore.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 8
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Must Obey and Obey Yourself
 
@@ -232,14 +215,12 @@ Now you face two directions. One is "must obey." You hear a command, and you exe
 
 Most people spend their lives executing instructions. They bow to every "must," thinking that's the only way to live. You're standing at that dividing line now.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 9
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## The Cost
 
@@ -255,14 +236,12 @@ Then comes the wave. All the old voices, familiar thoughts, what you once accept
 
 You know you can't go back. You already know where those "musts" come from. You can no longer pretend you're still on that road. Those costs are real — they will surge when you least expect them. And the only thing you can do is keep walking.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 10
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## The Wasteland
 
@@ -276,14 +255,12 @@ You feel a loneliness you've never known. It's not sadness — it's the first ti
 
 You just stand in this open space, feeling your own breath. You've reached a place where you can stand without needing a direction. And as you stand there, you begin to feel: something is moving beneath your feet.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 11
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## The Long Tremor
 
@@ -297,14 +274,12 @@ You'll still hear The Imperative's voice. It won't completely disappear. On some
 
 You're still trembling. But you're no longer afraid of it.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 12
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Taking It Back
 
@@ -318,14 +293,12 @@ You walk out of that room, carrying what is yours. As you step out, you see some
 
 You walk past him. You don't stop. He has seen all he could see. You've walked through the door, taken back what is yours. You continue walking your own path.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 13
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## Who to Listen To?
 
@@ -347,7 +320,6 @@ You don't need a new voice to take the place of The Imperative. You don't need a
 
 Meaning is not far away. It's not at the end. It's not on the map someone else drew for you. It generates only within your own interval, appearing with every closed loop you complete. You can now walk toward your interval. You can read the Limit Theory of Meaning — the complete answer is written there.
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 Chapter 14
@@ -355,13 +327,11 @@ Chapter 14
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
-
 ## Silence
 
 What can be said has been said. The rest belongs to silence.
 
 Meaning is not defined by anyone. The Imperative cannot give you anything beyond meaning — that was only an illusion. The Limit Theory of Meaning has already given you the answer. You are already in your interval.
-
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
@@ -369,7 +339,6 @@ Chapter 15
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">

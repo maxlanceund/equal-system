@@ -14,8 +14,6 @@
 # Signal, Exchange, and System Stability
 ## — An Analysis of Private Property Based on the Limit Theory of Meaning
 
-
-
 ---
 
 ## Abstract

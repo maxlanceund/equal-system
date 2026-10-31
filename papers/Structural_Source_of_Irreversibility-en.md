@@ -13,7 +13,6 @@
 # On the Structural Source of Irreversibility
 ## — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences
 
-
 ---
 
 ## I. Abstract

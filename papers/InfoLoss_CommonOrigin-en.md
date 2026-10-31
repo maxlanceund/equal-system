@@ -13,7 +13,6 @@
 # One Consequence of Information Loss
 ## — On the Common Origin of the Unification Program and the Arrow of Time
 
-
 ---
 
 ## I. Abstract

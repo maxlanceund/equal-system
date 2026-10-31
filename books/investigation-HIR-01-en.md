@@ -7,10 +7,8 @@
 **License**：MIT  
 **Classification**：Public
 
-
 > **Abstract**  
 > This report conducts a structural investigation into whether China can develop capitalism, based on a causal chain derived from modern history. The conclusion is that China cannot take the capitalist path — not as an economic efficiency issue, but as a judgment formed by historical experience. All data cited in this report are drawn from publicly available historical documents, academic research, and official statistical sources. No unverified materials are used.
-
 
 ## Formatting Note
 
@@ -21,18 +19,15 @@ This report uses `>` blockquotes to indicate the following:
 
 Blockquotes are used to improve readability and pacing, and do not alter the meaning of the content.
 
-
 ## 1. Investigation Background and Purpose
 
 China was repeatedly impacted by external forces in modern times. From the Opium War in 1840 to the end of the War of Resistance in 1945, China experienced over a century of upheaval and casualties. During this period, China — a predominantly agricultural nation — faced a world that had already completed industrialization.
 
 This report attempts to answer one question: Can China develop capitalism? This is not an economic policy question, but a question of historical experience. This report examines this proposition by tracing a causal chain — capitalist expansion → opening of Japan → Japanese industrialization → militarism → invasion of China → Chinese casualties → national awakening — to assess whether it holds.
 
-
 ## 2. Investigation Methods and Scope
 
 This report employs a combination of historical document analysis and causal chain deduction. Data sources include the ten-year research findings of the Party History Research Center of the CPC Central Committee, the original text of the Treaty of Shimonoseki, Tao Xingzhi's Diaries, the Japan Statistical Yearbook, East Asian economic history research literature, People's Daily Military Channel, Xinhua History Channel, and other publicly available sources. The time scope covers 1853 (the arrival of the Black Ships) to 1945 (the end of the War of Resistance).
-
 
 ## 3. Investigation Findings
 
@@ -73,7 +68,6 @@ After experiencing a series of impacts, China gradually arrived at the following
 - It had to walk a path different from the logic of capitalist expansion
 
 > The path China walks today was not derived from the capitalist system — it grew out of the struggle against it.
-
 
 ## 4. Analysis and Discussion
 
@@ -123,7 +117,6 @@ Between 1937 and 1940, total U.S. exports to Japan reached USD 986.7 million, of
 
 > Before 1941, the United States continuously exported strategic materials to Japan, "in effect aiding Japan's invasion of China."
 
-
 ## 5. Conclusion
 
 ### 5.1 Observer's Note
@@ -144,7 +137,6 @@ Between 1937 and 1940, total U.S. exports to Japan reached USD 986.7 million, of
 
 > This is not a decision that can be changed through debate. It is a structural judgment based on historical experience.
 
-
 ## 6. References
 
 | No. | Document | Description |
@@ -161,7 +153,6 @@ Between 1937 and 1940, total U.S. exports to Japan reached USD 986.7 million, of
 | 10 | Taipei "National History" archives | Modern China indemnity total data |
 | 11 | People's Daily Military Channel | Pre-Mukden Incident secret understanding |
 | 12 | Xinhua History Channel | U.S. materials export data |
-
 
 ## 7. Appendix: Data Tables
 
@@ -236,7 +227,6 @@ Between 1937 and 1940, total U.S. exports to Japan reached USD 986.7 million, of
 | 1931 | Mukden Incident, Japan occupies Manchuria |
 | 1937 | Marco Polo Bridge Incident, full-scale invasion of China begins |
 | 1945 | Japan surrenders, War of Resistance ends |
-
 
 ---
 **End of Report**

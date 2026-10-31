@@ -36,14 +36,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 这就是这本书要讨论的。它不是一个比喻，它是一个观察。你活在一个被“必须”填满的世界里，那些指令不是来自你的内心，而是来自一个外在的结构——一个通过控制生存来维持服从的结构。我称它为命令体。训狗，就是理解它的入口。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 1 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 训狗不只是比喻
 
@@ -59,14 +57,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 你不是被说服的。你只是被放置进去的。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 2 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 它在哪些地方出现
 
@@ -86,14 +82,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 **在职场上。** 你参加一个会议，你有一个想法，但你没有说。因为你看到其他人都在点头，你怕你的想法会被否定。你服从了“大多数人的声音比你的声音更正确”这个指令——你还没有说出你的想法，你已经替自己否决了它。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 3 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 一个古老的东西
 
@@ -105,14 +99,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 现在你看到了训狗出现在学校、公司、婚姻、媒体里。但所有这些地方的背后，是不是有一个共同的东西？下一章说。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 4 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 命令体的化身
 
@@ -130,14 +122,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 命令体有很多张脸。但无论它用什么面孔，喊的都是同一句话：服从，否则你活不了。那个声音，可能不是你自己的。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 5 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 看见它之后
 
@@ -149,14 +139,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 看见它之后，你会多一个停顿。在沉默里，你会问一个你以前不会问的问题：这是我想要的，还是别人替我选的？
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 6 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 沉默之中
 
@@ -170,14 +158,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 沉默之中，你没有答案。但你在场。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 7 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 开始批判
 
@@ -193,14 +179,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 看见它之后，你只是不能再假装它不存在了。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 8 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 必须服从与服从自己
 
@@ -212,14 +196,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 大多数人一生都在执行指令。他们在“必须”面前低头，以为那就是活着的全部方式。你现在站在那道分界线上。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 9 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 代价
 
@@ -235,14 +217,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 你知道你已经无法走回去了。你已经知道了那些“必须”来自哪里，你不能再假装你还在那条路上了。那些代价是真实的，它们会在你最不设防的时候涌上来。而你唯一能做的，就是继续走。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 10 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 荒原
 
@@ -256,14 +236,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 你只是站在这片空旷的地方，感受自己的呼吸。你已经走到了一个不需要方向也能站立的地方。然后你站在那里，你开始感觉到：脚下的地面有什么东西在动。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 11 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 漫长的战栗
 
@@ -277,14 +255,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 你还在战栗。但你不再害怕它了。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 12 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 夺回
 
@@ -298,14 +274,12 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 你从他身边走过。你没有停下来。他已经看完了能看的，你已经走进了那道门，拿回了你的东西。你继续走你自己的路。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 13 章
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 ## 该听谁的？
 
@@ -327,7 +301,6 @@ repository: "https://github.com/maxlanceund/equal-system"
 
 意义不在远处，它不在终点，它不在别人为你指定的那张地图上。它只在你自己的区间内产生，在每一个闭环完成时出现。你现在可以走向你的区间了。你可以去读《意义极限论》，那里写着完整的答案。
 
-
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
 第 14 章
@@ -335,13 +308,11 @@ repository: "https://github.com/maxlanceund/equal-system"
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
 
-
 ## 沉默
 
 能说的已经说完了。其余部分，归于沉默。
 
 意义不在任何人的定义之中。命令体并不能给你意义之外的东西——那只是一种幻觉。意义极限论已经给了你答案。你已经在你的区间里了。
-
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">
@@ -349,7 +320,6 @@ repository: "https://github.com/maxlanceund/equal-system"
 </p>
 <br>
 <hr style="border:0.5px solid #ddd; width:30%; margin:0;">
-
 
 <br><br>
 <p align="left" style="font-size:0.8em; color:#888;">

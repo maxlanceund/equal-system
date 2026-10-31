@@ -6,13 +6,11 @@
 **Based on**: Limit Theory of Meaning  
 **Status**: Open hypothesis / Continuously expanding
 
-
 ## Abstract
 
 This paper identifies a recurring structure in social systems: a small subset of people whose attention is naturally sharper than those around them, able to pick up early signals that others miss. Yet whenever they try to integrate into a group, the system unconsciously pushes them out. Not because they did anything wrong, but because their frequency does not match—their rhythm of perception is different from the system's default rhythm. This structure appears repeatedly in both disaster warnings and non-disaster domains, spanning 3,000 years across mythology, religion, philosophy, science, art, and politics, yet has never been formally named. This paper describes the structure and explains why it is a necessary cost for the system to maintain its own stability.
 
 > **Note**: The "system" referred to in this paper is a structural concept denoting any human organization, institution, or society—companies, schools, governments, religious groups alike. The system's rejection is not political, but structural. All cases are drawn from public historical records.
-
 
 ## 1. Introduction
 
@@ -25,7 +23,6 @@ These two look unrelated. But they share the same underlying structure. I call i
 
 This structure consists of four parts: **Perceiver exists, Frequency mismatch, System rejection, Survival at the edge**.
 
-
 ## 2. Four characteristics
 
 **Perceivers exist.** In any sufficiently complex human society, a very small proportion (estimated below 5%) of individuals naturally emerge. Their attention is inherently high‑precision and high‑penetration—automatically picking up micro‑expressions, breathing rhythms, and subtle anomalies in the environment. They do not need to actively "observe"; their body is already scanning.
@@ -35,7 +32,6 @@ This structure consists of four parts: **Perceiver exists, Frequency mismatch, S
 **System rejection.** The system cannot do two things at the same time: maintain internal stability and receive external signals. So most of the time, the system chooses to suppress and push out the perceiver. The rejection is unconscious and structural—not because the perceiver did something wrong, but because the system's default receiving port cannot read their signal format.
 
 **Survival at the edge.** The system will not let the perceiver starve, but it will not let them inside either. It leaves a narrow survival path—work that does not require deep integration, just enough pay to get by. The system pushes them out, but keeps them around. Because the system knows: when the environment suddenly changes, this person standing at the edge might be the only one who received the early signal.
-
 
 ## 3. Representative cases (20, all non‑China)
 
@@ -90,7 +86,6 @@ This structure consists of four parts: **Perceiver exists, Frequency mismatch, S
 | 9/11 (2001) | FBI agents, flight instructors | Hijacking leads | 5 opportunities missed | ~3,000 killed |
 | Rise of ISIS (2012–2014) | DIA intelligence analysts | 2012 classified memo accurately predicted ISIS would rise | US government "deliberately disregarded" it | ISIS seized 1/3 of Iraq and Syria, tens of thousands killed, global terrorist wave |
 
-
 ## 4. Common structure
 
 | Dimension | Disaster cases | Non‑disaster cases |
@@ -102,7 +97,6 @@ This structure consists of four parts: **Perceiver exists, Frequency mismatch, S
 | Post‑facto confirmation | Acknowledged after the disaster | Sometimes reassessed by history |
 
 **20 cases, 6 domains, all share the same structure: Perceiver sees → System rejects → Cost.**
-
 
 ## 5. Relation to the Limit Theory of Meaning
 
@@ -120,7 +114,6 @@ Applied to social systems:
 
 In the disaster cases, warnings were ignored because the signals lay outside the system's interval. In the non‑disaster cases, cognition, thought, and aesthetics were rejected because the perception itself lay outside the system's interval. Both sets of cases are footnotes to the Limit Theory of Meaning.
 
-
 ## 6. What would overturn this hypothesis
 
 If you find a system where:
@@ -133,7 +126,6 @@ If you find a system where:
 
 So far, in the 20 cases collected here, the structure holds. If you find it does not hold in other systems, then it is not a universal structure. But as of now, no counterexample has been observed.
 
-
 ## 7. Conclusion
 
 The structure identified in this paper is: **Perceiver exists → Frequency mismatch → System rejection → Survival at the edge (or post‑facto confirmation)**.
@@ -144,12 +136,10 @@ It spans 3,000 years, crossing mythology, plague, nuclear disaster, financial cr
 
 The cost of that acknowledgment is the millions of lives in these 20 cases, and the countless perceivers who were suppressed or eliminated.
 
-
 ## References
 
 1. maxlanceund. (2026). *Limit Theory of Meaning*. Equal System Repository.
 2. maxlanceund. (2026). *The Limited‑Interval Principle*. Equal System Repository.
-
 
 **Suggested citation**:
 

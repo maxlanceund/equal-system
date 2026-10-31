@@ -10,9 +10,6 @@ keywords: [Equal System, post-scarcity, subsistence rights, private property, su
 
 # Equal System: A Social Structure Design for the Post-Scarcity Era
 
-> **Core Thesis**: This paper proposes a new social framework—the Equal System—whose core structure is "shared subsistence rights + exclusive private property rights." The system is designed to remove survival compulsion, so that individuals are no longer locked into a single direction by subsistence needs, while retaining private property as a driver for transcendent pursuits. It is not an idealistic "ought" proposal, but a structural observation of how institutions will naturally adjust as technological conditions change.
-
-
 ## Abstract
 
 This paper proposes a new social framework called the "Equal System." Its core structure is: **shared subsistence rights + exclusive private property rights**.
@@ -22,7 +19,6 @@ The system is designed to address two fundamental problems:
 2. Retain private property as a driver for transcendent pursuits.
 
 This paper presents the complete logical derivation from its philosophical foundation, and elaborates on its institutional structure, technological prerequisites, and transition pathways.
-
 
 ## I. Logical Derivation: From the Limit of Meaning to the Equal System
 
@@ -94,7 +90,6 @@ When the subsistence layer is automatically supplied by the system and the trans
 
 **Derivation**: If the subsistence layer and private layer are clearly separated in function, they can run in parallel within the same system, without interfering with or replacing each other.
 
-
 ## II. Core Principles
 
 The Equal System is built on three core principles:
@@ -104,7 +99,6 @@ The Equal System is built on three core principles:
 2. **Private property rights are inviolable**: All goods, assets, and resources beyond the subsistence level remain within the sphere of private property. Individuals can acquire and accumulate private property through labor, creation, trade, inheritance, and other means.
 
 3. **Separation of subsistence and transcendence**: Subsistence issues are handled by the shared layer; transcendence issues are handled by the private layer. The two layers operate in parallel without interference.
-
 
 ## III. Institutional Structure
 
@@ -127,7 +121,6 @@ The Equal System is built on three core principles:
 | Driving Mechanism | Profit incentives, creativity release, exploratory desire |
 | Functional Positioning | Serves as credentials for "transcendence qualification," not as a tool for "survival exchange" |
 
-
 ## IV. Technological Foundations
 
 The feasibility of the Equal System rests on the following technological trends:
@@ -136,7 +129,6 @@ The feasibility of the Equal System rests on the following technological trends:
 2. **Controlled nuclear fusion**: Unlimited energy pushes the production cost of basic goods toward zero.
 3. **Space resource extraction**: The resource scale of the solar system—and the galaxy—far exceeds that of Earth, radically redefining "scarcity."
 4. **Longevity and life sciences**: Once subsistence is guaranteed, directional signals naturally turn toward the pursuit of "extending the interval."
-
 
 ## V. Comparison with Existing Systems
 
@@ -147,7 +139,6 @@ The feasibility of the Equal System rests on the following technological trends:
 | Directional Signal | Survival competition | Collective planning | Transcendent pursuit |
 | Incentive Mechanism | Profit incentive | Collective goals | Profit incentive + transcendent aspiration |
 | Underlying Assumption | Resource scarcity | Resource scarcity | Scarcity eliminated by technology |
-
 
 ## VI. Responses to Common Objections
 
@@ -163,7 +154,6 @@ At the transcendent level, differences are both reasonable and necessary. The Eq
 
 No. It is not based on "ideal human nature," but on "technological feasibility." If the technological conditions are met, institutions will naturally adjust accordingly.
 
-
 ## VII. Conclusion
 
 The Equal System is not an idealistic "ought" proposal, but a structural observation of how institutions will naturally adjust as technological conditions change.
@@ -174,13 +164,11 @@ It does not promise to eliminate all problems, but it does promise to eliminate 
 
 When subsistence is no longer something that must be earned through labor, the directional signal of human civilization will automatically turn toward farther horizons: space exploration, life extension, and the transcendence of consciousness.
 
-
 ## Note
 
 This design is derived from the "Limit Theory of Meaning" framework and has not yet been validated through large-scale social experimentation. Its feasibility depends on the gradual maturation of technological conditions such as controlled nuclear fusion, AI automation, and space resource extraction.
 
 Its value lies not in "having been realized," but in being "considerable as an operable option in the foreseeable future."
-
 
 **License**: MIT  
 **Repository**: https://github.com/maxlanceund/equal-system

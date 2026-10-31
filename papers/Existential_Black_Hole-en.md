@@ -13,8 +13,6 @@
 
 # The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation
 
-# The Existential Black Hole: Regression Rate and the Failure of Marx's Measure — Based on System Dynamics Simulation
-
 ## Abstract
 
 This paper argues that "the productive forces determine the relations of production" is not a universally valid law, but a local description of a specific historical experience—it possesses only temporality, not equivalence. Through four cross-system empirical counterexamples, this paper demonstrates that after a transformation of the productive forces, the governance structure did not undergo the predicted transformation, but instead expanded or regressed to its default mode. 

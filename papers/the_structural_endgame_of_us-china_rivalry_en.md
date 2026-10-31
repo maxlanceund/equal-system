@@ -13,7 +13,6 @@
 # The Structural Endgame of China and the United States: A Comparative Analysis Under the Five-Dimensional Fiscal Transmission Framework
 ## — With a Note on the Threshold Effect of Institutional Elasticity
 
-
 ---
 
 ## I. Abstract

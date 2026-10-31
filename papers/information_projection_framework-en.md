@@ -13,7 +13,6 @@
 # Information Projection Framework
 ## — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy
 
-
 ---
 
 ## I. Abstract

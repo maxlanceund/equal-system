@@ -10,13 +10,11 @@
 >
 > If you are not a math-savvy reader, feel free to skip the formulas at first. Start from Section 5 "Historical Case Validation" and Section 8 "Postscript," and return to the math later if needed.
 
-
 ## 1. Positioning of the Model
 
 This model is derived from the Perceiver Hypothesis. Its aim is to translate the structural phenomenon of "perceiver rejection by the system" into an operable, testable mathematical form. It does not predict the timing of specific events, but describes the system's behavioral pattern when processing incompatible signals.
 
 This model is falsifiable. If it is shown to be invalid, the Perceiver Hypothesis itself would require revision.
-
 
 ## 2. Core Variable Definitions
 
@@ -27,7 +25,6 @@ This model is falsifiable. If it is shown to be invalid, the Perceiver Hypothesi
 | D_P(T) | The proportion of perceiver signals discarded by the system over the time interval [0, T] |
 | A_P | The probability that the system notices the perceiver's signal (dependent on signal duration) |
 | τ_P | The duration for which the perceiver continuously emits signals |
-
 
 ## 3. Mathematical Definitions
 
@@ -63,7 +60,6 @@ A_P = 1 - exp(-τ_P / τ_0)
 
 where τ_0 is the system's default signal recognition time window.
 
-
 ## 4. Falsification Conditions
 
 This model is falsified under any of the following conditions:
@@ -71,7 +67,6 @@ This model is falsified under any of the following conditions:
 1. **No rejection response**: A system is found that satisfies the definition of "perceiver existence," where the perceiver's signal is fully received by the system and no form of rejection occurs.
 2. **Signal not discarded**: In a system where a disaster clearly occurs, the perceiver's signal is proven to have been normally received and processed by the system, yet the disaster still happens.
 3. **Post-event confirmation fails**: After a disaster, the system fails or refuses to recognize the perceiver's warning signal, and no post-event confirmation occurs.
-
 
 ## 5. Historical Case Validation
 
@@ -166,13 +161,11 @@ Given its status as a global textbook case, Q can be considered **extremely high
 | A_P | ≈0.39 (actually approached 0) | Final warning was cut off |
 | Q | Extremely high (≈0.58–0.9) | Global maritime regulations changed |
 
-
 ## 6. Limitations of the Model
 
 1. This model does not predict the specific time or location of disasters; it only describes the interaction pattern between perceiver signals and the system.
 2. This model is not a causal model. It cannot answer the question, "If the system had received the perceiver's signal, could the disaster have been avoided?"
 3. This model requires parameter calibration in empirical systems.
-
 
 ## 7. Usage Instructions
 
@@ -180,7 +173,6 @@ Given its status as a global textbook case, Q can be considered **extremely high
 2. Monitor the node's anomaly index α_P and rejection intensity R_P.
 3. When α_P, R_P, and D_P exceed preset thresholds, mark the node as "to be tracked."
 4. Do not trigger an alert — only retain the signal for subsequent evaluation.
-
 
 ## 8. Postscript: To Perceivers
 
@@ -196,14 +188,11 @@ If one day the system actually listens to you — that might be the moment you c
 
 — This is why perceivers exist.
 
-
 **I cannot change the world, but I do my best to explain it.**
-
 
 ## 9. Version History
 
 - **1.0** (July 2026): Initial version, based on the Perceiver Hypothesis. This version is a mathematical model draft, not yet empirically tested. Validation or revision in various systems is welcome.
-
 
 **License**: MIT  
 **Repository**: [github.com/maxlanceund/equal-system](https://github.com/maxlanceund/equal-system)  

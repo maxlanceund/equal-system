@@ -62,5 +62,4 @@ Reading the same simple manifesto reduced from **33s (2026-07-21)** to **25s (20
 **Revised conclusion:**
 “Upright” and “flat” are not fixed properties of Chinese or English, but **vocal motor patterns** that can be trained through repetition. Switching cost decreases as the vocal tract consolidates the new pattern. Language acquisition is primarily **motor training**, not knowledge memorization.
 
-
 — First-person experimental record

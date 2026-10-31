@@ -13,7 +13,6 @@
 # Information Loss Rate of Macroscopic Descriptions
 ## — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy
 
-
 ---
 
 ## I. Abstract

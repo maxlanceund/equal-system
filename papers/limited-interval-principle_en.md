@@ -13,8 +13,6 @@
 
 # The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media
 
-> **Core Thesis**: This paper identifies a recurrent structure in language acquisition, short-video attention competition, life courses, and institutional processes — input is pre-screened, signals compete within a finite time window, acceleration occurs before the boundary, and choices are already limited. This structure does not depend on specific content, only on the formal constraints of the system. Through three sets of numerical experiments, this paper demonstrates that the four features are not merely parallel but coupled: signal competition drives option contraction, boundary acceleration drives option contraction, and input screening drives the morphology of acceleration by affecting the system's ability to recognize the boundary. All three coupling chains hold.
-
 ---
 
 ## Abstract

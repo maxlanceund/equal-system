@@ -14,9 +14,6 @@
 # No Father
 ## — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy
 
-
-> **Core Thesis**: Men cannot obtain paternity confirmation equivalent to that of women, because the source of confirmation rights is structurally different between the genders — women acquire direct experiential confirmation through childbirth, while men always rely on external mediators (trust, institutions, technology) to construct confirmation. This difference is not a technical problem, nor merely an epistemological problem, but an ontological structural problem. This paper terms this asymmetry the "gender asymmetry of existential confirmation," and argues that it shapes marital institutions, intergenerational relations, controlling behaviors in intimate relationships, and constitutes a neglected ontological structure. Appendix A reports two sets of structural-model experiments: Experiment 1 shows that anchorless systems shift from verification to control when external mediation becomes unreliable (a phase transition occurring at a noise threshold); Experiment 2 shows that control reduces perceived uncertainty, not true uncertainty — control is an illusion.
-
 ---
 
 ## Abstract
