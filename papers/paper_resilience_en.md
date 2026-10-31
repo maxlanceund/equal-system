@@ -1,7 +1,3 @@
-# Resilience in Tension: A Narrative Framework for Shock Resilience
-
-## — An Exploratory Study Based on Five-Dimensional Fiscal Transmission and Cross-National Comparison
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | Resilience in Tension: A Narrative Framework for Shock Resilience — An Exploratory Study Based on Five-Dimensional Fiscal Transmission and Cross-National Comparison |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-23 (Ninth Edition) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | Resilience in Tension, Internally Absorbed Growth, Fiscal Transmission Framework, External Shock Resilience, Narrative Framework |
+
+---
+
+<br>
+
+# Resilience in Tension: A Narrative Framework for Shock Resilience
+## — An Exploratory Study Based on Five-Dimensional Fiscal Transmission and Cross-National Comparison
+
 
 ---
 

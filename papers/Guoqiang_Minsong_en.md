@@ -1,7 +1,3 @@
-# Strong State, Tired People: Fiscal Intermediation and Structural Transmission
-
-## — A Research Agenda
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | Strong State, Tired People: Fiscal Intermediation and Structural Transmission — A Research Agenda |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-23 (Sixth Edition) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | Strong state and tired people, fiscal intermediation, geographic connection costs, structural transmission, research agenda |
+
+---
+
+<br>
+
+# Strong State, Tired People: Fiscal Intermediation and Structural Transmission
+## — A Research Agenda
+
 
 ---
 

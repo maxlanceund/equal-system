@@ -1,7 +1,3 @@
-# One Consequence of Information Loss
-
-## — On the Common Origin of the Unification Program and the Arrow of Time
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | One Consequence of Information Loss — On the Common Origin of the Unification Program and the Arrow of Time |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-20 |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | Information loss, non-injectivity, arrow of time, unification program, descriptive origin |
+
+---
+
+<br>
+
+# One Consequence of Information Loss
+## — On the Common Origin of the Unification Program and the Arrow of Time
+
 
 ---
 

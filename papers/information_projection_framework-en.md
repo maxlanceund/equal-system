@@ -1,7 +1,3 @@
-# Information Projection Framework
-
-## — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | Information Projection Framework — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-22 (Revised: 2026-09-26, Version 15.0) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | information projection framework, information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks |
+
+---
+
+<br>
+
+# Information Projection Framework
+## — Non-Injectivity, Information Loss Rate, and Interdisciplinary Analogy
+
 
 ---
 

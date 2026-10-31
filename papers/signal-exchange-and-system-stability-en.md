@@ -1,6 +1,3 @@
-# Signal, Exchange, and System Stability
-## — An Analysis of Private Property Based on the Limit Theory of Meaning
-
 | Item | Content |
 | :--- | :--- |
 | Title | Signal, Exchange, and System Stability — An Analysis of Private Property Based on the Limit Theory of Meaning |
@@ -9,6 +6,14 @@
 | Date | 2026-08 |
 | License | CC BY-NC 4.0 |
 | Keywords | signal distribution, exchange continuity, private property, system stability, limit theory of meaning, fairness rupture |
+
+---
+
+<br>
+
+# Signal, Exchange, and System Stability
+## — An Analysis of Private Property Based on the Limit Theory of Meaning
+
 
 
 ---

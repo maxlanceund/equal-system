@@ -1,7 +1,3 @@
-# The Structural Endgame of China and the United States: A Comparative Analysis Under the Five-Dimensional Fiscal Transmission Framework
-
-## — With a Note on the Threshold Effect of Institutional Elasticity
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | The Structural Endgame of China and the United States: A Comparative Analysis Under the Five-Dimensional Fiscal Transmission Framework — With a Note on the Threshold Effect of Institutional Elasticity |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-23 (Fifth Edition) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | China-US structural comparison; Five-dimensional fiscal transmission framework; Internally absorbed; Mixed; Institutional elasticity threshold |
+
+---
+
+<br>
+
+# The Structural Endgame of China and the United States: A Comparative Analysis Under the Five-Dimensional Fiscal Transmission Framework
+## — With a Note on the Threshold Effect of Institutional Elasticity
+
 
 ---
 

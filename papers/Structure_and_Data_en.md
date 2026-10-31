@@ -1,6 +1,3 @@
-# Structure and Data
-## — On the Structural Facts Long Ignored by Economic Data
-
 | Item | Content |
 | :--- | :--- |
 | Title | Structure and Data — On the Structural Facts Long Ignored by Economic Data |
@@ -10,6 +7,14 @@
 | License | CC BY-NC 4.0 |
 | Keywords | structural judgment, measurability hegemony, layered rigidity, structural reproduction, bottom 50% income share, gender structure, power structure, instrumentalization of human beings, China |
 | JEL Classification | D31, D63, O15, J16, D72 |
+
+---
+
+<br>
+
+# Structure and Data
+## — On the Structural Facts Long Ignored by Economic Data
+
 
 **Abstract**: This paper distinguishes two levels: structural judgment and empirical hypothesis. The structural judgment is: "The poor do not possess wealth; the rich possess wealth; the state extracts resources from the majority through taxation, but the direction of redistribution is not determined by the majority; growth does not change this structure." "The structure has not moved" refers to the third layer (budget constraints and exit rights); the first layer (distributional outcomes) is conditionally rigid and can be partially corrected; the second layer (extraction and redistribution) is more rigid. The third layer has two manifest dimensions: gender and power. In the gender dimension, women cannot exit reproduction, and men cannot exit production; in the power dimension, the rules of the lock are set by those with rule-making power. The empirical hypothesis concerns the relationship between "growth × redistribution → bottom 50% share" as measurable proxies. The interaction term is insignificant (t = 1.40), the Bootstrap 95% confidence interval crosses zero, and the coefficient disappears after adding controls; the convergence effect is statistically significant (t = −3.91), with China as a counterexample. These results negate the empirical hypothesis, not the structural judgment. Using aggregated data to negate a pre-aggregation structure is a category error. The role of data is to test proxy variables, not to adjudicate whether a structure exists. Judging "unmeasurable" as "nonexistent" is measurability hegemony; treating data as the end and human beings as the means is the instrumentalization of human beings. The validity of the structural judgment rests on three grounds—logical coherence, the impossibility of macro-level reverse inference, and falsifiability—not on statistical significance. Cross-national data show that the bottom 50% share is shrinking in the US, Germany, Australia, Sweden, and South Korea, while rising in Latin America, the UK, France, Japan, and Canada; China's bottom 50% share fell from 27.0% to 15.0% during 1978–2005 and declined by only another 1.3 percentage points during 2005–2023. Gender structure manifestations: the unpaid labor gender ratio is 1.87 times; women's total labor time is 49 minutes/day more; the unexplained portion of the wage gap is 81.5%; men's unpaid labor is 1 hour 52 minutes/day; men's share in care occupations is 2%–10%; men's concentration in high-risk industries is 78%–85%. Power structure manifestations: decision-making positions, resource allocation power, rule-making power, and discursive power are highly concentrated.
 

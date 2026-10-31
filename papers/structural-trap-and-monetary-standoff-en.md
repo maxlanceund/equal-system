@@ -1,7 +1,3 @@
-# Resolve and Clearing: On the Structural Boundaries of Policy Intervention
-
-## — An Analysis Based on Balance Sheet Recession and Monetary Transmission Mechanism
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | Resolve and Clearing: On the Structural Boundaries of Policy Intervention — An Analysis Based on Balance Sheet Recession and Monetary Transmission Mechanism |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-23 (Third Edition) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | Policy Intervention, Structural Boundaries, Balance Sheet Recession, Monetary Policy, Market Clearing, Macro Aggregation Bias |
+
+---
+
+<br>
+
+# Resolve and Clearing: On the Structural Boundaries of Policy Intervention
+## — An Analysis Based on Balance Sheet Recession and Monetary Transmission Mechanism
+
 
 ---
 

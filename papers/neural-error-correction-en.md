@@ -1,7 +1,3 @@
-# Error-Correcting Code Structure in Neural Networks
-
-## — Non-Local Information Distribution, Task-Driven Effective Rank, and the Analogy with Black Holes
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | Error-Correcting Code Structure in Neural Networks — Non-Local Information Distribution, Task-Driven Effective Rank, and the Analogy with Black Holes |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-26 (Revised: 2026-09-27, Version 3.3) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | error-correcting code, information distribution, conditional entropy, neural networks, holographic principle, quantum error correction, low-rank structure, task-driven, background mode |
+
+---
+
+<br>
+
+# Error-Correcting Code Structure in Neural Networks
+## — Non-Local Information Distribution, Task-Driven Effective Rank, and the Analogy with Black Holes
+
 
 ---
 

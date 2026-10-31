@@ -1,7 +1,3 @@
-# On the Structural Source of Irreversibility
-
-## — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | On the Structural Source of Irreversibility — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-20 |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | aggregation mapping, non-injectivity, irreversibility, coarse-graining, naturalism |
+
+---
+
+<br>
+
+# On the Structural Source of Irreversibility
+## — The Non-Injectivity of Macro-Descriptions and Its Epistemological Consequences
+
 
 ---
 

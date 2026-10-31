@@ -1,7 +1,3 @@
-# Information Loss Rate of Macroscopic Descriptions
-
-## — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy
-
 | Item | Content |
 | :--- | :--- |
 | **Title** | Information Loss Rate of Macroscopic Descriptions — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy |
@@ -9,6 +5,14 @@
 | **Date** | 2026-09-22 (Revised: 2026-09-26, Version 14.0) |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | information loss rate, non-injectivity, rate-distortion theory, unidentifiability, coarse-graining scaling law, finite-size correction, critical phenomena, time-reversal symmetry, Boolean networks, neural networks |
+
+---
+
+<br>
+
+# Information Loss Rate of Macroscopic Descriptions
+## — An Information-Theoretic Explanation of Unidentifiability and Its Interdisciplinary Analogy
+
 
 ---
 
