@@ -10,7 +10,6 @@
 | License | CC BY-NC 4.0 |
 | Keywords | signal distribution, exchange continuity, private property, system stability, limit theory of meaning, fairness rupture |
 
-> **Core Thesis**: The stability of a system does not depend on fairness, but on the continuity of exchange relations. A private property system can maintain long-term operation under conditions of severe signal distribution inequality — not because it is just, but because it is continuous. Unfairness is not a "fault signal" of the system, but one of its operational states. The adjustment signals released at the boundary are sufficient to prevent large-scale synchronized exits, but insufficient to alter the core structure. Appendix A reports numerical verification of the framework's three core hypotheses: the exit-cost threshold (H1), compelled participation (H2), and the self-rescue role of adjustment signals (H3). All three hypotheses are supported.
 
 ---
 
