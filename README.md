@@ -143,7 +143,7 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [事件视界处的量子信息擦除：黑洞信息悖论的有限容量本体论模型（学术版）](papers/black-hole-erasure_cn.md) | [Quantum Information Erasure at the Event Horizon: A Finite-Capacity Ontological Model for the Black Hole Information Paradox (Academic Version)](papers/black-hole-erasure_en.md) |
+| [视界处的量子信息擦除（学术版）](papers/black-hole-erasure_cn.md) | [Quantum Erasure at the Horizon (Academic Version)](papers/black-hole-erasure_en.md) |
 
 <br>
 <hr>
