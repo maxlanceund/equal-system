@@ -286,6 +286,11 @@ Dispersed breakthrough: multiple accounts bleed simultaneously → difficult to 
 
 Dispersed breakthrough collapse is not a gradual process of a single account breaking through first, but a sudden failure after multiple accounts simultaneously approach critical values—the suddenness of failure comes from the lack of a single early warning indicator, not from a larger total amount of damage. Dispersal is not safety; it is accumulation without a single early warning indicator.
 
+![Figure 1 Concentrated vs Dispersed Breakthrough](../art-appreciation/images/fig1_collapse_forms.png)
+
+**Figure 1 Concentrated vs Dispersed Breakthrough: Collapse Forms (schematic, not actual data)**
+The solid red line represents concentrated breakthrough (Japan/Korea): single-account rapid accumulation, visible, cliff-like collapse. The multiple colored lines represent dispersed breakthrough (China): multi-account parallel accumulation, no single warning, but when buffers are exhausted, multiple lines simultaneously approach and break through the threshold, exhibiting a sudden failure.
+
 ### 7.4 Positive Aspects and Conditionality
 
 The framework of this paper is cautionary, but there are also positive aspects in the data that must be honestly presented. **These positive aspects do not negate the framework but limit its scope of application.**
