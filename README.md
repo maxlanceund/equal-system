@@ -136,6 +136,7 @@
 | [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
 | [定力与出清（学术版）](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing (Academic Version)](papers/structural-trap-and-monetary-standoff-en.md) |
 | [结构与数据（学术版）](papers/Structure_and_Data_cn.md) | [Structure and Data (Academic Version)](papers/Structure_and_Data_en.md) |
+| [分散性死均衡（学术版）](papers/dispersed-dead-equilibrium-cn-v1.9.md) | [Dispersed Dead Equilibrium (Academic Version)](papers/dispersed-dead-equilibrium-en-v1.9.md) |
 
 <br>
 
