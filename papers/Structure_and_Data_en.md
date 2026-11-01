@@ -185,6 +185,11 @@ The four mechanisms support each other: the soft-budget-constrained sector needs
 
 ## V. Cross-National Divergence: Two Manifestations of the Same Structure Under Different Institutions
 
+![Figure 2 China's Bottom Share Trajectory and Cross-National Divergence](../art-appreciation/images/fig2_structure_data.png)
+
+**Figure 2 China's Bottom Share Trajectory and Cross-National Divergence (Data sources: WID.world, World Bank Open Data)**
+The left panel shows the drastic contraction of China's bottom 50% income share from 1978 to 2005 (27.0%→15.0%) and its low-level stabilization after 2005 (15.0%→13.7%). The right panel illustrates the stratified manifestation under different institutions from 1995 to 2023—shares contracted in the US, Germany, Sweden, and South Korea, while rising in Latin America and some European countries. Together, the two panels demonstrate that while distributional outcomes (the first layer) can be corrected or worsened under specific institutions, the structural position of the bottom remains difficult to fundamentally reverse when the structure remains unchanged. The following two sections will analyze cross-national divergence (Section V) and the China case (Section VI) in detail.
+
 **What this set of data says**: The same structure, two institutions, two outcomes. The shrinking group (US, Germany, Australia, Sweden, South Korea) is characterized by "flexible labor markets, weak redistribution, weak unions"; the rising group (Latin America, UK, France, Japan, Canada) is characterized by "cash transfers, minimum wages, expansion of public services." The first layer manifests differently under the two institutions; the second and third layers do not move. Only the first layer changes; what does not change is the structure itself.
 
 **Table 1 divides countries into two groups by the direction of share change; readers may look at the groups first, then the numbers.**
