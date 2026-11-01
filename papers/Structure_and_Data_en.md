@@ -708,3 +708,7 @@ The data in this paper come from World Bank Open Data, WID.world, the National B
 - European Central Bank. (2022). Effective inflation rates by income quintile.
 - Tan, Y., Tan, Z., Huang, Y., & Hu, Y. (2017). The investment crowding-out effect of zombie firms: Evidence from Chinese industrial firms. *Economic Research Journal*.
 - Zhong, S. (2026). *On the Structural Sources of Irreversibility: The Non-Injectivity of Macro Descriptions and Its Epistemological Consequences* (Version 29.0). Equal System Repository.
+
+**Suggested Citation (APA Format):**
+
+Zhong, S. (2026). *Structure and Data: On the Structural Facts Long Ignored by Economic Data* (Version 9.0). Equal System Repository.
