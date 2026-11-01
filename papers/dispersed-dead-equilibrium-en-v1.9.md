@@ -10,9 +10,10 @@
 
 ---
 
+<br>
+
 # Dispersed Dead Equilibrium: The Structural Form of Social Reproduction in China and a Comparison with Japan and South Korea
 
----
 
 ## Abstract
 
