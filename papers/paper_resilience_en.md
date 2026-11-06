@@ -212,9 +212,9 @@ China's case shows: **the cost of tension is a low-relaxation baseline; but unde
 
 ### 6.4 Visualization
 
-![Figure 1. Internal Absorption Index and Relaxation Shock Decline](../art-appreciation/images/figure1.png)
+![Figure 1. Internal Absorption Index and Relaxation Shock Decline](../art-appreciation/images/figure1_en.png)
 
-![Figure 2. Institutional Elasticity Index and Relaxation Shock Decline](../art-appreciation/images/figure2.png)
+![Figure 2. Institutional Elasticity Index and Relaxation Shock Decline](../art-appreciation/images/figure2_en.png)
 
 **Note to Figure 1**: The horizontal axis is the internal absorption index; the vertical axis is the relaxation shock decline (%). The orange point is China, the red point is Germany, and the gray points are the remaining 13 countries. The fitted line is an OLS linear trend (R²=0.805, t=7.34). Data source: author's estimates based on ILO, OECD, SIPRI, and IMF database sub-items.
 
