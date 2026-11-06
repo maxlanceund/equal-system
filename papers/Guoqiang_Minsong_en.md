@@ -169,6 +169,18 @@ The binary distinction in this paper is only a starting point.
 
 China possesses none of these three conditions. This is not the result of "sovereign autonomous choice," but a **structural constraint**. However, this judgment requires future research to test.
 
+<br>
+
+![Figure 1: Fiscal Intermediation and Structural Transmission Mechanism Model](../art-appreciation/images/China_Fiscal_Transmission_Model.png)
+
+**Figure 1: Fiscal Intermediation and Structural Transmission Mechanism Model**
+* **Panel A**: Illustrates the four rigid upfront deductions (in abstract proportions) before national GDP is converted into micro-level household welfare.
+* **Panel B**: Contrasts the structural "scissors gap" between Internally Absorbed Growth (China) and Externally Shared Growth (U.S., Germany, Japan) regarding welfare expenditure ratio and geo-connection net burden.
+* **Panel C**: Projects the inverted U-shaped inflection point of China's geo-connection net burden, highlighting the fiscal release window from 2030 to 2035 following the completion of the "Eight Vertical and Eight Horizontal" high-speed rail network.
+* **Data Source**: Author's estimation based on public data from the National Bureau of Statistics (NBS), IMF, OECD, etc.
+
+<br>
+
 ### 5. Methodological Note
 
 **The positioning of this paper is a research agenda, not an empirical paper.** Therefore, this paper does not conduct causal inference or attempt to prove any hypothesis. The methodological strategy is:
