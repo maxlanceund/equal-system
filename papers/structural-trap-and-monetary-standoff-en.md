@@ -403,6 +403,16 @@ This paper argues that this contradiction stems from three structural obstacles:
 
 **Third, macro indicators cannot distinguish "good losses" from "bad losses."** A high number of loss-making enterprises may indicate intense market competition (good) or zombie firms lingering (bad). A low asset-liability ratio may indicate diversified financing channels (good) or inability to borrow (bad). Macro-aggregated data cannot distinguish these fundamentally different micro-level states.
 
+<br>
+
+![Policy Clearance Model](../art-appreciation/images/Policy_Clearance_Model.png)
+**Figure X: Policy Intervention Boundaries and Clearance Dynamics**
+* **Panel A**: The structural price divergence showing asset deflation, PPI contraction, and survival goods inflation.
+* **Panel B**: A visual summary of the 10 regression results. The mix of expected (green), opposite (red), and insignificant (gray) outcomes demonstrates the Macro Aggregation Bias (G = G_good + G_bad), proving macro data cannot separate intervention quality.
+* **Panel C**: Divergent behavioral paths. Hard budget constraints lead to market exit (true clearance), while soft constraints lead to debt rollover and fake survival.
+
+<br>
+
 ### 5. Empirical Conclusion
 
 The empirical section of this paper obtained a **partially supportive, partially non-significant, partially opposite** mixed result. Specifically:
