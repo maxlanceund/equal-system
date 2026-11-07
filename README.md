@@ -137,7 +137,7 @@
 | [定力与出清（学术版）](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing (Academic Version)](papers/structural-trap-and-monetary-standoff-en.md) |
 | [结构与数据（学术版）](papers/Structure_and_Data_cn.md) | [Structure and Data (Academic Version)](papers/Structure_and_Data_en.md) |
 | [分散性死均衡（学术版）](papers/dispersed-dead-equilibrium-cn-v1.9.md) | [Dispersed Dead Equilibrium (Academic Version)](papers/dispersed-dead-equilibrium-en-v1.9.md) |
-
+| [实物资产、货币流向与结构性防御（学术版）](papers/physical-assets-defense-cn.md) | [Physical Assets, Monetary Flow, and Structural Defense (Academic Version)](papers/physical-assets-defense-en.md) |
 <br>
 
 **Physics Papers / 物理学论文**
