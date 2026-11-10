@@ -11,9 +11,7 @@
 
 <br>
 
-# Relation Is Death: From the Emptiness of the Absolute Other to the Absolute Annihilation of the Subject
 
----
 
 # Relation Is Death: From the Emptiness of the Absolute Other to the Absolute Annihilation of the Subject
 
