@@ -17,7 +17,7 @@ The black hole information paradox and the nature of dark energy remain unresolv
 
 ## 1. Erasure Dynamics and Phase Transition Fracture
 
-Based on the Landauer principle, we propose the **Dead-Equilibrium Master Equation** describing the evolution of the system's entanglement entropy \(S_A(t)\):
+Based on the Landauer principle, we propose the **Dead-Equilibrium Master Equation** describing the evolution of the system's entanglement entropy S_A(t):
 
 $$
 \frac{dS_A(t)}{dt} = \kappa \left( \frac{\dot{M}(t)}{S_{BH}} \right) S_A(t)
@@ -40,7 +40,7 @@ $$
 v_{obs} = H_0 D_{obs} \quad \equiv \quad -\dot{r}_{drop}
 $$
 
-**It should be particularly noted** that the "gravitational funnel" in this model corresponds to the evolution of a uniform scale factor \(a(t)\) in comoving coordinates on a macroscopic scale. Since the potential field of the funnel is globally uniform, there is no observable "absolute spatial center." This descent projection manifests as uniform isotropic expansion for any local observer, perfectly compatible with the FLRW metric and explaining the extreme uniformity of the Cosmic Microwave Background (CMB).
+**It should be particularly noted** that the "gravitational funnel" in this model corresponds to the evolution of a uniform scale factor a(t) in comoving coordinates on a macroscopic scale. Since the potential field of the funnel is globally uniform, there is no observable "absolute spatial center." This descent projection manifests as uniform isotropic expansion for any local observer, perfectly compatible with the FLRW metric and explaining the extreme uniformity of the Cosmic Microwave Background (CMB).
 
 ![Cosmic Funnel Illusion](../art-appreciation/images/funnel_illusion.png)
 **Figure 2**: The observed Hubble recession velocity is essentially a metric projection of galaxies accelerating inward along the gravitational funnel.
@@ -64,7 +64,7 @@ $$
 \frac{d\rho}{dt} = -i [H_{eff}, \rho] + \sum_{k} \left( L_k \rho L_k^\dagger - \frac{1}{2} \{L_k^\dagger L_k, \rho\} \right)
 $$
 
-Where \(\rho\) is the system density matrix. As photons propagate through macroscopic space, the equivalent decoherence rate \(\Gamma\) is proportional to the distance \(D\) (\(\Gamma = \gamma D\)). The effective Hamiltonian \(H_{eff}\) includes the global topological correction of the gravitational field.
+Where ρ is the system density matrix. As photons propagate through macroscopic space, the equivalent decoherence rate Γ is proportional to the distance D (Γ = γD). The effective Hamiltonian H_eff includes the global topological correction of the gravitational field.
 
 Under the mean-field approximation, the spacetime topological folding induced by the gravitational field provides a nonlinear feedback. Within the framework of the holographic principle, the extremely high event density near the horizon leads to intense internal entanglement (Scrambling) among environmental subsystems. This causes the environmental operators that originally destroy the entanglement of subsystems A and B to instead "reflect" the entanglement back into the AB system. Considering the saturation limit of quantum purity, the coherence evolution equation is:
 
@@ -72,20 +72,21 @@ $$
 \frac{d\lambda}{dt} = -\gamma D \lambda + \alpha G \lambda (1 - |\lambda|^2)
 $$
 
-Using the mapping relationship between entanglement \(C(t)\) and coherence \(\lambda(t)\), a **nonlinear ordinary differential equation (ODE)** is derived in the macroscopic limit:
+Using the mapping relationship between entanglement C(t) and coherence λ(t), a **nonlinear ordinary differential equation (ODE)** is derived in the macroscopic limit:
 
 $$
 \frac{dC(t)}{dt} = -\gamma D \cdot C(t) + \alpha G \cdot C(t) \cdot (1 - C(t))
 $$
-*(Note: The linear mapping \(C \propto \lambda\) here adopts a phenomenological limit approximation, aiming to extract the macroscopic steady-state characteristics of nonlinear dynamics. Under extreme gravitational limits, the decoherence rate of the high-dimensional Hilbert space becomes nonlinear, and this approximation may deviate. This is also the systematic error that future deep-space experiments need to focus on calibrating.)*
 
-Setting \(dC/dt = 0\), we obtain the steady-state solution and the critical gravitational field \(G_{crit}\):
+*(Note: The linear mapping C ∝ λ here adopts a phenomenological limit approximation, aiming to extract the macroscopic steady-state characteristics of nonlinear dynamics. Under extreme gravitational limits, the decoherence rate of the high-dimensional Hilbert space becomes nonlinear, and this approximation may deviate. This is also the systematic error that future deep-space experiments need to focus on calibrating.)*
+
+Setting dC/dt = 0, we obtain the steady-state solution and the critical gravitational field G_crit:
 
 $$
 C^* = 1 - \frac{\gamma D}{\alpha G}, \quad G_{crit} = \frac{\gamma D}{\alpha}
 $$
 
-**Physical Significance**: In weak gravitational environments (\(G < G_{crit}\)), entanglement is masked by environmental noise; however, under extreme gravity (\(G > G_{crit}\)), entanglement is absolutely protected by topology.
+**Physical Significance**: In weak gravitational environments (G ≪ G_crit), entanglement is masked by environmental noise; however, under extreme gravity (G ≫ G_crit), entanglement is absolutely protected by topology.
 
 ## 5. Fractal Funnel Structure and the Sole Fate
 
@@ -109,15 +110,15 @@ $$
 
 ## 6. Experimental Boundary and Ultimate Verdict
 
-This theory not only provides a philosophical framework but also yields a falsifiable criterion. Traditional physics assumes that information transfer is limited by light-speed delay \(t = d/c\), whereas this theory predicts a bottom-layer global refresh time \(t \equiv 0\).
+This theory not only provides a philosophical framework but also yields a falsifiable criterion. Traditional physics assumes that information transfer is limited by light-speed delay t = d/c, whereas this theory predicts a bottom-layer global refresh time t ≡ 0.
 
 ![Real-Data Verification](../art-appreciation/images/real_data_delay.png)
 **Figure 6: Experimental boundary of the global refresh mechanism and light-speed limit.** 
-The red dashed line represents the delay predicted by mainstream relativity, while the green solid line represents the zero delay predicted by this model. The blue dots represent the current true limits of humanity (1982 Aspect experiment 12m, 2017 Micius satellite 1200km). The Earth's gravitational field is extremely weak (\(G \ll G_{crit}\)), so the green line is a theoretical extrapolation.
+The red dashed line represents the delay predicted by mainstream relativity, while the green solid line represents the zero delay predicted by this model. The blue dots represent the current true limits of humanity (1982 Aspect experiment 12m, 2017 Micius satellite 1200km). The Earth's gravitational field is extremely weak (G ≪ G_crit), so the green line is a theoretical extrapolation.
 
 **Core Mechanism of Experimental Realization and Signal Transmission**: To verify this model in future experiments, the entanglement source must be placed in a strong gravitational potential well (e.g., near a black hole orbit). The protection effect does not stem from the relative time difference between particles, but because the **system as a whole undergoes extreme gravitational redshift relative to the external flat spacetime**. In the experimental architecture, entangled particles must be placed on the same equipotential surface in co-orbital motion to eliminate gravitational tidal decoherence.
 
-**Clarification of Proper Time and Shapiro Delay**: Gravitational redshift (time-freezing effect) is relative to the external observer. For observers within the system, they experience internal proper time \(\tau\). The dynamical evolution of the topological protection mechanism is based on proper time \(\tau\). Furthermore, entanglement measurements completed in a strong gravitational potential well will be severely affected by the **Shapiro Delay** of general relativity when the data is transmitted back to the external flat spacetime. The \(t \equiv 0\) predicted by this model strictly refers to the intrinsic delay of entanglement state refresh within the system's local proper reference frame. Experimental physicists must use local clocks to mark the time near the horizon and strictly deduct the gravitational time delay caused by photons escaping the potential well during post-data analysis to isolate the true global refresh signal. If the intrinsic time measured under this extreme gravitational gradient falls into the green line, the theory is confirmed; if it still follows the red line, the model is falsified.
+**Clarification of Proper Time and Shapiro Delay**: Gravitational redshift (time-freezing effect) is relative to the external observer. For observers within the system, they experience internal proper time τ. The dynamical evolution of the topological protection mechanism is based on proper time τ. Furthermore, entanglement measurements completed in a strong gravitational potential well will be severely affected by the **Shapiro Delay** of general relativity when the data is transmitted back to the external flat spacetime. The t ≡ 0 predicted by this model strictly refers to the intrinsic delay of entanglement state refresh within the system's local proper reference frame. Experimental physicists must use local clocks to mark the time near the horizon and strictly deduct the gravitational time delay caused by photons escaping the potential well during post-data analysis to isolate the true global refresh signal. If the intrinsic time measured under this extreme gravitational gradient falls into the green line, the theory is confirmed; if it still follows the red line, the model is falsified.
 
 ## 7. Conclusion
 
