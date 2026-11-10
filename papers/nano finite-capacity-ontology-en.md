@@ -2,7 +2,7 @@
 | :--- | :--- |
 | Title | Finite-Capacity Ontology: A Unified Funnel Model of Black Holes and the Cosmos |
 | Author | Max Lance |
-| Version | 2.1 |
+| Version | 2.2 |
 | Date | 2026-11-10 |
 | License | CC BY-NC 4.0 |
 | Keywords | Finite-Capacity, Black Hole Information Paradox, Quantum Entanglement, Gravitational Funnel, Dark Energy |
@@ -13,18 +13,9 @@
 
 ## Abstract
 
-The black hole information paradox and the nature of dark energy remain unresolved fundamental conflicts in modern physics. Although the Page curve indicates that microscopic information obeys unitarity, there is a lack of structural explanation for why the system undergoes thermalization and why macroscopic observers cannot recover the information.<br>
+The black hole information paradox and the nature of dark energy remain unresolved fundamental conflicts. This paper proposes the **Finite-Capacity Ontology**. The model assumes the universe and local black holes are "gravitational funnels" with strict maximum capacity. We demonstrate that macroscopic expansion is a geometric projection of centripetal descent; microscopic entanglement is topological zero-distance at the funnel's base; and the system's sole fate is forced formatting and reboot upon saturation.
 
-This paper proposes the **Finite-Capacity Ontology**. This model assumes that the entire universe and its local black holes are essentially "gravitational funnels" with a strict maximum storage capacity. We demonstrate that the macroscopic "accelerated expansion of the universe" is actually a **horizon geometric projection** of the system collapsing along the funnel toward the singularity. Furthermore, microscopic "quantum entanglement" represents a **topological zero-distance direct link** at the singularity at the bottom of the funnel.<br>
-
-We prove that the system does not have an option for "infinite expansion." When the total information entropy \(S_A\) approaches the horizon capacity limit \(S_{BH}\), a global topological phase transition is inevitably triggered, leading to the forced formatting and reboot of the universe.
-
-## 1. Introduction
-
-Mainstream physics attempts to patch information conservation using the holographic principle, but it often ignores the **finite capacity** constraint of the system at macroscopic scales.<br>
-This paper proposes a minimalist ontology: **The universe itself is a super gravitational funnel with finite capacity.**
-
-## 2. Erasure Dynamics and Phase Transition Fracture
+## 1. Erasure Dynamics and Phase Transition Fracture
 
 Based on the Landauer principle, we propose the **Dead-Equilibrium Master Equation** describing the evolution of the system's entanglement entropy \(S_A(t)\):
 
@@ -32,47 +23,62 @@ $$
 \frac{dS_A(t)}{dt} = \kappa \left( \frac{\dot{M}(t)}{S_{BH}} \right) S_A(t)
 $$
 
-When the system approaches the capacity limit (\(S_{BH}\)), the erasure mechanism is activated, causing a cliff-like topological fracture. The information is not destroyed; rather, it is forcibly compressed into an undecodable quantum noise (maximum mixed state).
+When the system approaches the capacity limit, a cliff-like topological phase transition occurs, resulting in forced formatting:
+
+$$
+\lim_{t \to t_{page}} S_A(t) = S_{BH} \quad \Longrightarrow \quad \text{Topological Phase Transition}
+$$
 
 ![Dead Equilibrium Simulation](../art-appreciation/images/dead_equilibrium_simulation.png)
-**Figure 1**: When the system approaches the capacity limit, a cliff-like topological phase transition occurs, resulting in forced formatting.
+**Figure 1**: Cliff-like topological phase transition when approaching capacity limit.
 
-## 3. Macroscopic Geometric Effect: Reinterpreting Dark Energy
+## 2. Macroscopic Geometric Effect: Reinterpreting Dark Energy
 
-Borrowing the fundamental principle of General Relativity: "Spacetime tells matter how to move; matter tells spacetime how to curve."<br>
-In traditional cosmology, galaxies accelerate away from each other due to dark energy. However, in the gravitational funnel ontology, the so-called "spatial expansion" is actually a **relativistic kinematic projection** of matter falling along geodesics in curved spacetime.
+The "spatial expansion" is a **relativistic kinematic projection** of matter falling along geodesics. The observed Hubble recession velocity is equivalent to the centripetal collapse rate:
+
+$$
+v_{obs} = H_0 D_{obs} \quad \equiv \quad -\dot{r}_{drop}
+$$
 
 ![Cosmic Funnel Illusion](../art-appreciation/images/funnel_illusion.png)
-**Figure 2**: The observed Hubble recession velocity (blue dashed line) is essentially a metric projection of galaxies accelerating inward along the gravitational funnel (red solid line). **What we observe as expansion is essentially a centripetal fall.**
+**Figure 2**: Observed Hubble recession velocity is a metric projection of inward funnel collapse.
 
-## 4. Unified Field Theory: Topological Suture of Macro and Micro
+## 3. Unified Field Theory: Topological Suture
 
-Macroscopic relativity is constrained by the speed of light, while microscopic quantum mechanics exhibits non-locality. In the funnel model, they achieve theoretical unification:
-*   **Relativity (Macroscopic)**: Constrains the causal transmission process along the funnel wall, limited by the speed of light.
-*   **Quantum Mechanics (Microscopic)**: Acts at the topological singularity at the bottom of the funnel; because the distance at the bottom is zero, it manifests as instantaneous correlation.
+Macroscopic relativity is limited by the speed of light; microscopic quantum mechanics exhibits non-locality. They are unified in the funnel model:
+
+$$
+\text{Relativity: } ds^2 = 0 \quad \Big| \quad \text{Quantum: } D_{topo} \equiv 0
+$$
 
 ![Unified Field Theory](../art-appreciation/images/unified_theory.png)
-**Figure 3**: Relativity (blue line) propagates along the funnel wall; quantum entanglement (yellow line) achieves a zero-distance direct link at the bottom singularity. They are two projections of the same topological structure in different dimensions.
+**Figure 3**: Relativity propagates along the funnel wall; quantum entanglement achieves zero-distance link at the base singularity.
 
-## 5. Fractal Funnel Structure and the Sole Fate
+## 4. Fractal Funnel Structure and the Sole Fate
 
-The universe maintains macroscopic stability today because we are in a "safe caching zone." Local black holes temporarily buffer the overloaded information, while all causal chains converge toward the global singularity at the bottom.
+The universe is in a "safe caching zone." Causal chains converge toward the global singularity:
+
+$$
+\sum S_{local} \quad \xrightarrow{\text{Gravity Flow}} \quad S_{global}
+$$
 
 ![Fractal Funnel](../art-appreciation/images/fractal_funnel.png)
-**Figure 4**: Local black holes act as "caching zones", where all matter and causal chains eventually converge at the global singularity.
+**Figure 4**: Local black holes act as "caching zones" converging to the global singularity.
 
-Based on the finite-capacity axiom, the system must undergo a capacity-saturated phase transition. The "heat death" state of infinite expansion in traditional thermodynamics does not hold in this model.
+Based on the finite-capacity axiom, the system inevitably triggers a reset and new Big Bang upon saturation:
+
+$$
+\lim_{S_A \to S_{BH}} \mathbb{T}(\Omega) = \mathcal{E}_{noise} \quad \Longrightarrow \quad \text{Big Bang Reboot}
+$$
 
 ![Ultimate Reboot](../art-appreciation/images/fate_cosmic_reset.png)
-**Figure 5**: The ultimate fate of the universe. Local caches (grey dashed lines) continuously accumulate into global entropy (purple line). After hitting the critical red line, the system instantly resets, undergoing a topological phase transition and triggering a new Big Bang at the singularity.
+**Figure 5**: Local caches accumulate to the critical limit, triggering a reset and new Big Bang.
 
-## 6. Conclusion
+## 5. Conclusion
 
-1. **Dark energy is not a real repulsive force**: Galactic recession is a **geometric projection** of the system collapsing along geodesics.
-2. **Quantum non-locality originates from topological connectivity**: Macroscopic space has distance, but in the topological structure at the bottom of the funnel, the distance is identically zero.
-3. **Thermodynamic heat death is unreachable**: A finite-capacity system excludes the possibility of infinite expansion; the sole fate of the universe is the **topological phase transition and reboot** after full capacity.
-
-From the birth and death of macroscopic galaxies to the decay of microscopic particles, everything in this gravitational funnel follows the coldest yet fairest physical laws.
+1. **Dark energy is not a repulsive force**: Galactic recession is a **geometric projection** of geodesic collapse.
+2. **Quantum non-locality originates from topological connectivity**: Distance is zero at the funnel's base topology.
+3. **Thermodynamic heat death is unreachable**: The sole fate is **topological phase transition and reboot** after full capacity.
 
 ## References
 
@@ -86,5 +92,4 @@ From the birth and death of macroscopic galaxies to the decay of microscopic par
 <br>
 
 **Suggested Citation (APA):**
-
-Max Lance (2026). *Finite-Capacity Ontology: A Unified Funnel Model of Black Holes and the Cosmos* (v2.1). Equal System Repository.
+Max Lance (2026). *Finite-Capacity Ontology: A Unified Funnel Model of Black Holes and the Cosmos* (v2.2). Equal System Repository.
