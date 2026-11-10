@@ -1,4 +1,3 @@
-# Equal System  /  平等制
 
 <br>
 
