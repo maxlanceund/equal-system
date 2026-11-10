@@ -145,8 +145,7 @@
 | 中文 | English |
 | :--- | :--- |
 | [黑洞信息擦除模型（学术版）](papers/black-hole-erasure_cn.md) | [Black Hole Erasure Model (Academic Version)](papers/black-hole-erasure_en.md) |
-
-
+| [有限容量本体论（学术版）](papers/finite-capacity-ontology-cn.md) | [Finite-Capacity Ontology (Academic Version)](papers/finite-capacity-ontology-en.md) |
 
 <br>
 <hr>
