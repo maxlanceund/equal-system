@@ -114,17 +114,7 @@
 | [存在主义黑洞（学术版）](papers/Existential_Black_Hole-cn.md) | [The Existential Black Hole (Academic Version)](papers/Existential_Black_Hole-en.md) |
 | [死寂均衡（学术版）](papers/dead-equilibrium_cn.md) | [Dead Equilibrium (Academic Version)](papers/dead-equilibrium_en.md) |
 
-<br>
 
-**Information Projection Framework / 信息投影框架**
-
-| 中文 | English |
-| :--- | :--- |
-| [论不可逆性的结构性来源（学术版）](papers/Structural_Source_of_Irreversibility-cn.md) | [On the Structural Source of Irreversibility (Academic Version)](papers/Structural_Source_of_Irreversibility-en.md) |
-| [信息丢失的一个后果（学术版）](papers/InfoLoss_CommonOrigin-cn.md) | [One Consequence of Information Loss (Academic Version)](papers/InfoLoss_CommonOrigin-en.md) |
-| [宏观描述的信息损失率（学术版）](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-cn.md) | [Information Loss Rate of Macroscopic Descriptions (Academic Version)](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-en.md) |
-| [信息投影框架（学术版）](papers/information_projection_framework-cn.md) | [Information Projection Framework (Academic Version)](papers/information_projection_framework-en.md) |
-| [神经网络中的纠错码结构（学术版）](papers/neural-error-correction-cn.md) | [Error-Correcting Code Structure in Neural Networks (Academic Version)](papers/neural-error-correction-en.md) |
 
 <br>
 
@@ -139,6 +129,19 @@
 | [结构与数据（学术版）](papers/Structure_and_Data_cn.md) | [Structure and Data (Academic Version)](papers/Structure_and_Data_en.md) |
 | [分散性死均衡（学术版）](papers/dispersed-dead-equilibrium-cn-v1.9.md) | [Dispersed Dead Equilibrium (Academic Version)](papers/dispersed-dead-equilibrium-en-v1.9.md) |
 | [实物资产、货币流向与结构性防御（学术版）](papers/physical-assets-defense-cn.md) | [Physical Assets, Monetary Flow, and Structural Defense (Academic Version)](papers/physical-assets-defense-en.md) |
+
+<br>
+
+**Information Projection Framework / 信息投影框架**
+
+| 中文 | English |
+| :--- | :--- |
+| [论不可逆性的结构性来源（学术版）](papers/Structural_Source_of_Irreversibility-cn.md) | [On the Structural Source of Irreversibility (Academic Version)](papers/Structural_Source_of_Irreversibility-en.md) |
+| [信息丢失的一个后果（学术版）](papers/InfoLoss_CommonOrigin-cn.md) | [One Consequence of Information Loss (Academic Version)](papers/InfoLoss_CommonOrigin-en.md) |
+| [宏观描述的信息损失率（学术版）](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-cn.md) | [Information Loss Rate of Macroscopic Descriptions (Academic Version)](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-en.md) |
+| [信息投影框架（学术版）](papers/information_projection_framework-cn.md) | [Information Projection Framework (Academic Version)](papers/information_projection_framework-en.md) |
+| [神经网络中的纠错码结构（学术版）](papers/neural-error-correction-cn.md) | [Error-Correcting Code Structure in Neural Networks (Academic Version)](papers/neural-error-correction-en.md) |
+
 <br>
 
 **Physics Papers / 物理学论文**
