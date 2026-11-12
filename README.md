@@ -150,6 +150,7 @@
 | :--- | :--- |
 | [黑洞信息擦除模型（学术版）](papers/black-hole-erasure_cn.md) | [Black Hole Erasure Model (Academic Version)](papers/black-hole-erasure_en.md) |
 | [有限容量本体论（学术版）](<papers/nano finite-capacity-ontology-cn.md>) | [Finite-Capacity Ontology (Academic Version)](<papers/nano finite-capacity-ontology-en.md>) |
+| [木星引力异常问题（学术版）](papers/jupiter_dilute_core-cn.md) | [Jupiter's Gravity Anomaly (Academic Version)](papers/jupiter_dilute_core-en.md) |
 
 <br>
 <hr>
