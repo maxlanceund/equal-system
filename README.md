@@ -151,6 +151,7 @@
 | [黑洞信息擦除模型（学术版）](papers/black-hole-erasure_cn.md) | [Black Hole Erasure Model (Academic Version)](papers/black-hole-erasure_en.md) |
 | [有限容量本体论（学术版）](<papers/nano finite-capacity-ontology-cn.md>) | [Finite-Capacity Ontology (Academic Version)](<papers/nano finite-capacity-ontology-en.md>) |
 | [木星引力异常问题（学术版）](papers/jupiter_dilute_core-cn.md) | [Jupiter's Gravity Anomaly (Academic Version)](papers/jupiter_dilute_core-en.md) |
+| [中子星与黑洞观测分析（学术版）](papers/neutron_blackhole_analysis-cn.md) | [Observational Analysis of Neutron Stars and Black Holes (Academic Version)](papers/neutron_blackhole_analysis-en.md) |
 
 <br>
 <hr>
