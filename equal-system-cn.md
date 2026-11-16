@@ -8,6 +8,8 @@ license: "MIT"
 keywords: [平等制, 后稀缺时代, 生存保障权, 私有财产权, 生存强制力, 意义极限论]
 ---
 
+<br>
+
 # 平等制：后稀缺时代的社会结构设计
 
 ## 摘要
@@ -170,5 +172,10 @@ AI自动化、核聚变能源、太空资源开采等技术正在使生存资料
 
 它的价值不在于"已经实现"，而在于"在可预见的未来可以作为一项可操作的选择来考虑"。
 
-**许可证**：MIT  
-**仓库**：https://github.com/maxlanceund/equal-system
+## 许可证
+
+MIT  
+
+## 仓库
+
+https://github.com/maxlanceund/equal-system
