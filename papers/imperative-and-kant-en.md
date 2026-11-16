@@ -13,7 +13,6 @@
 
 # The Command Body and Kant: Toward the Empirical Path to Autonomy
 
----
 
 ## Opening
 
