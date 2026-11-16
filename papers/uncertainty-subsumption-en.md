@@ -13,7 +13,7 @@
 
 # Uncertainty Subsumption: The Production, Locking, and Release of Certainty
 
----
+
 
 ## Abstract
 
