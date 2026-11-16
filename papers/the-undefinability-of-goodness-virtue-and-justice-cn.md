@@ -447,4 +447,4 @@ T = 100，每组 20 个 trial。
 
 ## 建议引用
 
-Max Lance. (2026). *善、美德与正义的操作化描述——一种非本质主义的理解框架* (Version 2.1). Equal System Repository.
+Max Lance. (2026). *善、美德与正义的操作化描述：一种非本质主义的理解框架* (Version 2.1). Equal System Repository.
