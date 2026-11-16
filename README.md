@@ -14,7 +14,7 @@
 <hr>
 <br>
 
-## 📖 Monograph / 专著
+## Monograph / 专著
 
 > *"Life is a structural tragedy. The philosopher is the one who sees it clearly, and still has the courage to write this structure out."*
 > 
