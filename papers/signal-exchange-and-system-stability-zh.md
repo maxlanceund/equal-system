@@ -477,4 +477,4 @@
 
 **建议引用（APA格式）：**
 
-Max Lance. (2026). *信号、交换与制度稳定性——一个基于意义极限论的私有制分析* (Version 3.1). Equal System Repository.
+Max Lance. (2026). *信号、交换与制度稳定性：基于意义极限论的私有制分析* (Version 3.1).
