@@ -1,6 +1,6 @@
 | Item | Content |
 | :--- | :--- |
-| Title | An Operational Description of Goodness, Virtue, and Justice — A Non-Essentialist Framework |
+| Title | An Operational Description of Goodness, Virtue, and Justice ：A Non-Essentialist Framework |
 | Author | Max Lance |
 | Version | 2.1 |
 | Date | 2026-08 |
@@ -11,9 +11,8 @@
 
 <br>
 
-# An Operational Description of Goodness, Virtue, and Justice——A Non-Essentialist Framework
+# An Operational Description of Goodness, Virtue, and Justice：A Non-Essentialist Framework
 
----
 
 ## Abstract
 
