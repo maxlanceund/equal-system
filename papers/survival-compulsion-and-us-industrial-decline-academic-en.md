@@ -13,7 +13,6 @@
 
 # Survival Compulsion and U.S. Manufacturing Employment Decline: A Political Economy Causal Reconstruction
 
----
 
 ## I. Abstract
 
