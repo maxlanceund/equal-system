@@ -13,10 +13,6 @@
 
 # The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness
 
----
-
-# The Absolute Other: An Ontological Critique from Genetic Randomness to the Objectification of Consciousness
-
 ## Abstract
 
 Starting from a visceral perplexity about the anime *Mushoku Tensei*, this essay traces four paths—genetic randomness, bodily construction, the genesis of consciousness, and the fictionality of morality—to argue a core proposition: the "self" that humans cling to is not a subject, but an "Absolute Other" pieced together from all externalities (genes, language, society, death) on a particular carrier. The traditional philosophical presupposition of subjectivity—from Plato to Descartes onward—regarding "soul/consciousness/cogito" is hereby thoroughly inverted: consciousness is not the master, but another Other gestated by the body, itself a product of genes. It is labeled as "I," making people defend to the death something that does not belong to them.
