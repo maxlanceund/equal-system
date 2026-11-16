@@ -13,7 +13,6 @@
 
 # The Sense of Loss at the Death of Philosophers: The Special Divergence in the Turning of Eastern and Western Philosophy
 
----
 
 ## Abstract
 
