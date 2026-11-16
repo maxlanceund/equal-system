@@ -13,7 +13,6 @@
 
 # Geography as Philosophical Constraint: A Theory of Directional Signals
 
----
 
 ## I. Abstract
 
