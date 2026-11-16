@@ -13,7 +13,6 @@
 
 # Empirical World, Eternal Truth
 
----
 
 ## Abstract
 
