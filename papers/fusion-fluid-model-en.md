@@ -73,4 +73,6 @@ By re-examining the fluid mechanics of plasma, this paper proposes a geometric a
 2. Adopting a hyperbolic topology combined with a liquid-metal circulating flow boundary can effectively maintain the plasma in a smooth laminar state, significantly extending the energy confinement time.
 3. If future fluid dynamics experiments can resolve MHD Lorentz force drag and liquid-metal corrosion issues, the aforementioned model will provide a clear physical objective for extremely low-cost, minimal-volume compact controlled nuclear fusion.
 
-Suggested Citation (APA format): Max Lance (2026). Fusion Reactor Fluid Model: Based on Catenoid Liquid-Metal Laminar Topology (v1.0). Equal System Repository.
+## Suggested Citation (APA format): 
+
+Max Lance (2026). Fusion Reactor Fluid Model: Based on Catenoid Liquid-Metal Laminar Topology (v1.0). Equal System Repository.
