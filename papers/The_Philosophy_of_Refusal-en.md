@@ -11,13 +11,8 @@
 
 <br>
 
-# The Philosophy of Refusal
-
----
 
 # The Philosophy of Refusal
-
----
 
 ## Abstract
 
