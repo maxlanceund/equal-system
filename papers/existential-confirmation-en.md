@@ -14,7 +14,6 @@
 # No Father
 ## — Existential Confirmation, Gender Asymmetry, and the Fantasy of Certainty in Human Intimacy
 
----
 
 ## Abstract
 
