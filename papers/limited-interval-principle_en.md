@@ -13,7 +13,6 @@
 
 # The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media
 
----
 
 ## Abstract
 
