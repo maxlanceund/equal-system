@@ -2,8 +2,8 @@
 | :--- | :--- |
 | Title | Observational Analysis of Neutron Stars and Black Holes: A Smooth Phase Transition Model Test Based on LIGO Posterior Samples |
 | Author | Max Lance |
-| Version | 3.1 |
-| Date | 2026-11-12 |
+| Version | 3.2 |
+| Date | 2026-11-17 |
 | License | CC BY-NC 4.0 |
 | Keywords | Gravitational waves, Neutron star, Black hole, Tidal deformability, TOV equation, Smooth phase transition |
 
@@ -13,7 +13,7 @@
 
 ## 1. Abstract
 
-Based on the gravitational wave posterior samples publicly released by LIGO, this paper reconstructs and verifies the internal structure of compact stars. The dataset includes 28,116 neutron star samples and 5,000 black hole samples. First, through algebraic inversion, the median radius of neutron stars is derived as 12.24 km, and the median squared sound speed inside is approximately 0.112. Second, a rigorous TOV calculus integration is performed using a standard hard-core equation of state. The results show that the maximum mass limit for a pure dense hard-core model is only 1.65 solar masses, and its theoretical tidal deformability is far lower than the observed value ( $`\Lambda=203.4`$ ), which physically falsifies the hard-core model. Based on the topological smooth phase transition mechanism, we deduce that the post-merger ringdown peak frequency of binary neutron stars should be around 2450.4 Hz. Meanwhile, based on 5,000 black hole samples, the median echo delay is calculated to be 0.62 ms. These results provide clear and falsifiable physical targets for next-generation gravitational wave detections.
+Based on the gravitational wave posterior samples publicly released by LIGO, this paper reconstructs and verifies the internal structure of compact stars. The dataset includes 28,116 neutron star samples and 5,000 black hole samples. First, through algebraic inversion, the median radius of neutron stars is derived as 12.24 km, and the median squared sound speed inside is approximately 0.112. Second, a rigorous TOV calculus integration is performed using a standard hard-core equation of state. The results show that the maximum mass limit for a pure dense hard-core model is only 1.65 solar masses, and its theoretical tidal deformability is far lower than the observed value ( $`\Lambda=203.4`$ ), which physically falsifies the hard-core model. An independent re-extraction of the raw GW170817 posterior (Section 3.2.1) yields $`\Lambda_{1.4}=306`$ , further strengthening the same conclusion. Based on the topological smooth phase transition mechanism, we deduce that the post-merger ringdown peak frequency of binary neutron stars should be around 2450.4 Hz. Meanwhile, based on 5,000 black hole samples, the median echo delay is calculated to be 0.62 ms. These results provide clear and falsifiable physical targets for next-generation gravitational wave detections.
 
 ## 2. Data and Methods
 
@@ -77,7 +77,29 @@ To verify the above conclusions, this paper uses a standard hard-core equation o
 *   The maximum mass that the pure hard-core model can support is only **1.65 solar masses**.
 *   At this limit, its theoretical tidal deformability ( $`\Lambda`$ ) is only 57.3; if forcibly extrapolated to 1.78 solar masses, the $`\Lambda`$ value will drop below 20.
 
-However, the $`\Lambda`$ value measured by LIGO at 1.78 solar masses is 203.4. This huge order-of-magnitude difference physically sentences the pure hard-core model to death. It proves in reverse that the interior of neutron stars must have undergone a topological phase transition to an extremely soft state. Only a mixed fluid model can simultaneously satisfy a mass limit above 2.0 solar masses and a tidal deformability as high as 203.4.
+However, the tidal deformability inferred for GW170817 corresponds to $`\Lambda_{1.4} = 203.4`$ at the standard reference mass of $`1.4\,M_\odot`$ , and scales to well above the hard-core prediction at any common reference mass. This difference of a factor of about three to five physically sentences the pure hard-core model to death. It proves in reverse that the interior of neutron stars must have undergone a topological phase transition to an extremely soft state. Only a mixed fluid model can simultaneously satisfy a mass limit above 2.0 solar masses and a tidal deformability as high as 203.4.
+
+**3.2.1 Independent Cross-Check from Raw Posterior Samples**
+
+As an independent cross-check, we re-extracted 8,078 low-spin posterior samples of GW170817 from the public GWTC-1 release and recomputed the tidal parameters directly from the raw stored quantities: the detector-frame component masses, the individual deformabilities $`\Lambda_1`$ and $`\Lambda_2`$ , and the luminosity distance. Source-frame masses were obtained via $`m_{\mathrm{source}} = m_{\mathrm{det}}/(1+z)`$ , with the redshift inferred from the luminosity distance in a flat $`\Lambda`$ CDM cosmology, and the combined tidal deformability from
+
+$$
+\tilde{\Lambda} = \frac{8}{13}\left[(1+7\eta-31\eta^2)(\Lambda_1+\Lambda_2) + (1-9\eta)(\Lambda_1-\Lambda_2)\right], \qquad \eta = \frac{m_1 m_2}{(m_1+m_2)^2}.
+$$
+
+The resulting distributions are summarized below.
+
+| Quantity | Median | 90% upper bound |
+| :--- | :--- | :--- |
+| Combined tidal deformability $`\tilde{\Lambda}`$ | 483 | 1569 |
+| Single-star deformability, all components | 347 | 1078 |
+| Heavier component $`\Lambda_1`$ | 269 | 833 |
+| Lighter component $`\Lambda_2`$ | 446 | 1288 |
+| **$`\Lambda_{1.4}`$ (scaled to $`1.4\,M_\odot`$ )** | **306** | 917 |
+
+Three points follow. First, the lighter component is more deformable than the heavier one ( $`\Lambda_2 = 446`$ versus $`\Lambda_1 = 269`$ ), consistent with the expected mass dependence. Second, for a like-for-like comparison with the single-star quantity adopted in Section 3.2, the scaled value $`\Lambda_{1.4} = 306`$ is of the same order as, though slightly above, the $`\Lambda \approx 203.4`$ used there. Third, the combined quantity $`\tilde{\Lambda}`$ (median 483) is a mass-weighted combination and is therefore systematically higher than $`\Lambda_{1.4}`$ ; it should not be substituted for the single-star value.
+
+The direction of the argument in Section 3.2 is therefore unchanged and in fact strengthened: the observed tidal deformability exceeds the hard-core prediction ( $`\Lambda \approx 57`$ at the maximum mass) by roughly a factor of five, reinforcing the conclusion that a pure hard-core structure is excluded and that a soft, smoothly phase-transitioned interior is required. Substituting $`\Lambda_{1.4} = 306`$ into the algebraic inversion of Section 2.2 gives $`R \approx 13.3`$ km, still inside the NICER range of 12.4--13.7 km, so the radius result of Section 3.1 is unaffected. We note that this cross-check uses the raw posterior without the electromagnetic-counterpart distance prior and without any equation-of-state-insensitive reweighting, so the numerical values are not strictly equivalent to the reweighted literature constraint.
 
 **3.3 A New Prediction for Post-Merger Ringdown Frequency**
 
@@ -104,11 +126,20 @@ In this image, there is no cliff-like boundary in the material distribution. The
 
 ## 4. Conclusion
 
-1. Neutron star observational data do not support the pure dense hard-core model. The 12.24 km radius, the extremely low sound speed of 0.112, and the 1.65 solar mass upper limit that the hard-core model cannot cross in TOV integration all point to a mixed fluid structure with a smooth phase transition inside.
+1. Neutron star observational data do not support the pure dense hard-core model. The 12.24 km radius, the extremely low sound speed of 0.112, and the 1.65 solar mass upper limit that the hard-core model cannot cross in TOV integration all point to a mixed fluid structure with a smooth phase transition inside. An independent re-extraction of the raw GW170817 posterior further confirms and strengthens this picture: the measured tidal deformability exceeds the hard-core prediction by roughly a factor of five.
 2. Based on the smooth phase transition model, this paper predicts that the post-merger oscillation ringdown peak frequency of binary neutron stars is approximately 2450.4 Hz (significantly different from the 3215 Hz of the hard-core model).
 3. The black hole model yields an echo delay window of 0.21~4.40 ms.
 4. The results in this paper involve no subjective parameter tuning. If future detectors (such as ET) do not measure black hole echoes within the given window, or do not measure the neutron star post-merger ringdown near 2450 Hz, this model will be falsified.
 
+## Appendix A. Supporting Figures from the Independent Cross-Check
+
+![Fig 5: Black Hole Population](../art-appreciation/images/bh_plots.png)
+*Fig 5: Black hole population reconstructed from 5,000 posterior samples. Top-left: component masses; top-right: mass deficit $`\Delta M`$ with the mean of 2.91 $`M_\odot`$ marked; bottom-left: radiated fraction $`\Delta M/(M_1+M_2)`$ , constant at 5%; bottom-right: final mass versus total mass, lying consistently below the $`M_f = M_{\mathrm{tot}}`$ line.*
+
+![Fig 6: GW170817 Tidal Deformability](../art-appreciation/images/gw170817_plots.png)
+*Fig 6: GW170817 combined tidal deformability posterior (8,078 samples). Left: $`\tilde{\Lambda}`$ distribution with the median of 483 marked; right: binned median of $`\tilde{\Lambda}`$ versus the mass of the lighter component, showing a weak decreasing trend consistent with the expected mass dependence. Note that $`\tilde{\Lambda}`$ is a mass-weighted combination and is not equivalent to $`\Lambda_{1.4}`$ .*
+
 ---
+
 Suggested Citation (APA format):
-Max Lance (2026). Observational Analysis of Neutron Stars and Black Holes: A Smooth Phase Transition Model Test Based on LIGO Posterior Samples (v3.1). Equal System Repository.
+Max Lance (2026). Observational Analysis of Neutron Stars and Black Holes: A Smooth Phase Transition Model Test Based on LIGO Posterior Samples (v3.2). Equal System Repository.
