@@ -5,7 +5,6 @@
 | **作者** | Max Lance |
 | **版本** | 1.0 |
 | **日期** | 2026‑08‑23 |
-| **Repository** | https://github.com/maxlanceund/equal‑system |
 | **许可协议** | CC BY‑NC 4.0 |
 | **关键词** | 意义极限论,意义,边界,归零,运动,代价理论,可验证性 |
 
