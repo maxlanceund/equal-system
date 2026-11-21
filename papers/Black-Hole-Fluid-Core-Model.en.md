@@ -1,5 +1,3 @@
-# Black Hole Fluid Core: A Study of Observational Degeneracy for GW190521
-
 | Item | Content |
 | :--- | :--- |
 | Title | Black Hole Fluid Core: A Study of Observational Degeneracy for GW190521 |
@@ -8,6 +6,12 @@
 | Date | 2026‑11‑20 |
 | License | CC BY‑NC 4.0 |
 | Keywords | gravitational wave, black hole, ringdown, quasi‑normal mode, fluid core, observational degeneracy |
+
+---
+
+<br>
+
+# Black Hole Fluid Core: A Study of Observational Degeneracy for GW190521
 
 ## 1. Abstract
 This paper proposes a conjectural black hole fluid core model based on the GW190521 gravitational‑wave event. The classical gravitational singularity is replaced by continuous smooth fluid, and a weak gravitational leakage effect decaying radially outward is assumed inside the horizon. Two models, a uniform‑shift model and an exponentially decaying leakage model, are constructed to quantitatively calculate the frequency shift of the dominant ringdown mode $`(l=2,m=2)`$. The 3σ observational threshold is adopted as the discriminant criterion. The results show that under a 1% perturbation at the inner horizon, the frequency shift in the non‑decay model is $`\Delta f=0.719\ \text{Hz}`$, while the effective shift in the exponential decay model is only $`\Delta f=0.0257\ \text{Hz}`$. Both values are far below the discriminant threshold $`230.84\ \text{Hz}`$. Under current observational precision, strong observational degeneracy exists between this fluid‑core leakage model and the standard Kerr black hole solution. Available data can neither confirm nor rule out this conjecture. Testing such subtle internal leakage effects awaits the next‑generation third‑generation gravitational‑wave detectors.
