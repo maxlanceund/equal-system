@@ -162,9 +162,7 @@
 
 ## Narrative Philosophy / 叙事哲学
 
-> Some ideas can only be told as stories.
-> 
-> 有些思想，只能被讲述为故事。
+<br>
 
 | 中文 | English |
 | :--- | :--- |
@@ -204,9 +202,7 @@
 
 ## Scientific Observations / 科学观测
 
-> Scientific Observations is a series of natural philosophy writings that begin with intuitive experience and attempt to construct logically self-consistent mappings onto physical concepts. They do not seek empirical validation, but remain answerable to existing physical knowledge.
->
-> 科学观测是一组自然哲学写作，以直觉经验为起点，试图在物理概念上构建逻辑自洽的映射。它不寻求实证验证，但接受现有物理知识的约束。
+<br>
 
 | 中文 | English |
 | :--- | :--- |
