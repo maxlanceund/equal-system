@@ -1,6 +1,11 @@
-# The Void Beyond the Narrow Gate: A Cosmic Endgame of the Absolute Other
+# The Void Beyond the Narrow Gate
+
+---
+
+<br>
 
 ## Prologue: The Initial Awakening
+
 Before the universe was swept up in that fanaticism, everything was quiet.
 
 I was a lucid soul drifting on the fringes of mainstream society. I didn't chase after the vanity that required constant prayers to the cloud; instead, I retreated to the local—within lines of cold commands and logic, I built my own digital fortress.
