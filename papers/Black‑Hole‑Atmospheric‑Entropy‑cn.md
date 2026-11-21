@@ -41,8 +41,10 @@ $$
 
 径向扰动满足Regge‑Wheeler一维波动方程
 
+径向扰动满足Regge‑Wheeler一维波动方程。做傅里叶分解 $\Psi(t,r_*) = e^{-i\omega t}\psi(r_*)$，径向方程写为
+
 $$
--\frac{\partial^2 \Psi}{\partial t^2}+\frac{\partial^2 \Psi}{\partial r_*^2}-V_\ell(r_*)\Psi = 0
+\frac{d^2 \psi}{d r_*^2} + \big(\omega^2 - V_\ell(r_*)\big)\psi = 0
 $$
 
 有效势表达式：
@@ -50,6 +52,8 @@ $$
 $$
 V_\ell(r_*) = \left(1-\frac{2M}{r}\right)\left(\frac{\ell(\ell+1)}{r^2}+\frac{2M}{r^3}\right)
 $$
+
+
 
 
 有效势在光子球附近形成势垒，频率低于势垒峰值的模式会发生准俘获。准束缚共振采用复频率描述 $`\omega=\omega_R-i\Gamma/2`$，$`\omega_R`$ 为共振实频率，$`\Gamma`$ 代表隧穿衰减宽度。
