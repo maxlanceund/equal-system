@@ -43,7 +43,7 @@ $$
 径向扰动满足Regge‑Wheeler一维波动方程
 
 $$
-\frac{d^2\psi}{d r_{*}^2}+(\omega^2-V_{\ell}(r_{*}))\psi=0
+\frac{d^2\psi}{d r{*}^2}+(\omega^2-V{\ell}(r{*}))\psi=0
 $$
 
 有效势表达式：
