@@ -39,13 +39,19 @@ $$
 r_{*} = r + 2M\ln\left(\frac{r}{2M}-1\right)
 $$
 
+
 径向扰动满足Regge‑Wheeler一维波动方程
 
-径向扰动满足Regge‑Wheeler一维波动方程。做傅里叶分解 $\Psi(t,r_*) = e^{-i\omega t}\psi(r_*)$，径向方程写为
+$$
+\frac{d^2\psi}{d r_{*}^2}+(\omega^2-V_{\ell}(r_{*}))\psi=0
+$$
+
+有效势表达式：
 
 $$
-\frac{d^2 \psi}{d r_*^2} + \big(\omega^2 - V_\ell(r_*)\big)\psi = 0
+V_\ell(r_*) = \left(1-\frac{2M}{r}\right)\left(\frac{\ell(\ell+1)}{r^2}+\frac{2M}{r^3}\right)
 $$
+
 
 有效势表达式：
 
