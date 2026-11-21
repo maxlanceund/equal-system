@@ -278,4 +278,4 @@
 9. Wittgenstein, L. (1953). *Philosophical Investigations*. Oxford: Blackwell.
 
 ## 建议引用（APA格式）：
-Max Lance. (2026). *论意义的界限：一个可证实主义框架* (Version 3.1).
+Max Lance. (2026). *论意义的界限：一个可证实主义框架* .
