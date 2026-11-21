@@ -1,16 +1,20 @@
----
-title: "意义极限论"
-author: "Max Lance"
-version: "1.0"
-date: "2026-08-23"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "MIT"
-keywords: [意义极限论, 意义, 边界, 归零, 运动, 代价理论, 可验证性]
+
+| 项目 | 内容 |
+| :--- | :--- |
+| **标题** | 意义极限论 |
+| **作者** | Max Lance |
+| **版本** | 1.0 |
+| **日期** | 2026‑08‑23 |
+| **Repository** | https://github.com/maxlanceund/equal‑system |
+| **许可协议** | CC BY‑NC 4.0 |
+| **关键词** | 意义极限论,意义,边界,归零,运动,代价理论,可验证性 |
+
 ---
 
 <br>
 
 # 意义极限论
+
 
 ## 摘要
 
@@ -197,5 +201,4 @@ $$
 
 本框架基于个人的思想路径，而非外部实验或文献。其有效性应由使用者自行验证，而非依赖外部权威。
 
-**许可证**：MIT  
-**仓库**：https://github.com/maxlanceund/equal-system
+
