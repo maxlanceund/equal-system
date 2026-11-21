@@ -36,25 +36,25 @@ $$
 其中 $`Y_{\ell m}`$ 为球谐函数，$`\ell`$ 为角向模数。引入乌龟坐标
 
 $$
-r_* = r + 2M\ln\left(\frac{r}{2M}-1\right)
+r_{*} = r + 2M\ln\left(\frac{r}{2M}-1\right)
 $$
 
 径向扰动满足Regge‑Wheeler一维波动方程
 
 $$
-\left(-\frac{\partial^2}{\partial t^2}+\frac{\partial^2}{\partial r_*^2}-V_\ell(r_*)\right)\Psi = 0
+\left(-\frac{\partial^2}{\partial t^2}+\frac{\partial^2}{\partial r_{*}^2}-V_\ell(r_{*})\right)\Psi = 0
 $$
 
 有效势表达式：
 
 $$
-V_\ell(r_*) = \left(1-\frac{2M}{r}\right)\left(\frac{\ell(\ell+1)}{r^2}+\frac{2M}{r^3}\right)
+V_\ell(r_{*}) = \left(1-\frac{2M}{r}\right)\left(\frac{\ell(\ell+1)}{r^2}+\frac{2M}{r^3}\right)
 $$
 
 有效势在光子球附近形成势垒，频率低于势垒峰值的模式会发生准俘获。准束缚共振采用复频率描述 $`\omega=\omega_R-i\Gamma/2`$，$`\omega_R`$ 为共振实频率，$`\Gamma`$ 代表隧穿衰减宽度。
 
-![图1：Regge‑Wheeler有效势](../art-appreciation/images/rw_potential.png)
-*图1：Regge‑Wheeler有效势 $`V_\ell(r_*)`$，分别对应角向模数 $`\ell=0,1,2`$。势垒形成于光子球附近，可以俘获标量准束缚共振模式，构成近视界热大气的动力学基础。*
+![图1：Regge‑Wheeler有效势](../art-appreciation/images/rw_potential_fig2.png)
+*图1：Regge‑Wheeler有效势 $`V_\ell(r_{*})`$，分别对应角向模数 $`\ell=0,1,2`$。势垒形成于光子球附近，可以俘获标量准束缚共振模式，构成近视界热大气的动力学基础。*
 
 ### 2.2 共振态密度构造
 单个角向通道下窄准束缚共振采用洛伦兹线型描述态密度
@@ -107,7 +107,7 @@ $$
 
 为检验计算结果对外边界的敏感性，引入几何截断厚度 $`\delta_{\rm geo}`$，改变径向积分外边界，观察 $`S_{\rm atm}`$ 的收敛行为。
 
-![图3：热膜熵随几何截断厚度](../art-appreciation/images/film_cutoff.png)
+![图3：热膜熵随几何截断厚度](../art-appreciation/images/two_panel_fixed_nan.png)
 *图3：热膜熵随几何截断厚度 $`\delta_{\rm geo}`$。图中同时给出贝肯斯坦‑霍金熵与总熵，结果表明大气熵对外径向截断不敏感，具备良好收敛性，子附图为近视界热膜物理示意图。*
 
 ### 2.4 黑洞质量扫描方案
