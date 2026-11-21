@@ -94,6 +94,8 @@
 
 <br>
 
+**Philosophy Papers / 哲学论文**
+
 | 中文 | English |
 | :--- | :--- |
 | [意义极限论](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning](papers/meaning-limit-theory-academic-en.md) |
