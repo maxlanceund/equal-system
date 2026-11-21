@@ -43,31 +43,39 @@ $`f_{\rm kerr}=71.903\ \text{Hz}`$，$`Q_{\rm kerr}=2.707`$。
 
 ### 2.3 均匀相对偏移渗漏模型
 构建全局频率偏移模型描述视界渗漏效应：
+
 $$
 f_{\rm leak}= f_{\rm kerr}(1+\varepsilon)
 $$
+
 $`\varepsilon`$ 为渗漏强度参数，$`\varepsilon>0`$ 频率升高，$`\varepsilon<0`$ 频率降低。该模型忽略径向衰减，作为一阶近似模型。
 
 ### 2.4 径向指数衰减弱渗漏模型
 设定渗漏强度仅在视界内壁最大，沿径向指数衰减：
+
 $$
 \varepsilon(r)=\varepsilon_0 \exp\left(-\frac{r-r_+}{\lambda\, r_+}\right)
 $$
+
 - $`\varepsilon_0`$：视界内壁最大渗漏强度
 - $`\lambda`$：无量纲衰减长度
 - $`r_+=\frac{2GM}{c^2}`$：黑洞视界半径
 
 铃宕信号主要响应区域为光子球 $`r_{\rm ph}=1.5\,r_+`$，代入求得有效渗漏系数 $`\varepsilon_{\rm ph}`$，对应观测频率：
+
 $$
 f_{\rm ph}=f_{\rm kerr}(1+\varepsilon_{\rm ph})
 $$
+
 频率偏移定义为：$`\Delta f = |f_{\rm ph}-f_{\rm kerr}|`$。
 
 ### 2.5 观测分辨判定规则
 本文采用3σ统计分辨条件：
+
 $$
 \Delta f > 3\cdot \sigma_f
 $$
+
 其中 $`\sigma_f=692.53\ \text{Hz}`$ 为本事件频率测量1σ误差。
 
 ## 3. 数值结果
