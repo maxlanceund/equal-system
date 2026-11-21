@@ -3,7 +3,7 @@ title: "平等制：后稀缺时代的社会结构设计"
 author: "Max Lance"
 version: "1.0"
 date: "2026-06"
-license:CC BY-NC 4.0
+license:"CC BY-NC 4.0"
 keywords: [平等制, 后稀缺时代, 生存保障权, 私有财产权, 生存强制力, 意义极限论]
 ---
 
