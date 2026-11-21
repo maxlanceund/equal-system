@@ -10,6 +10,7 @@
 <br>
 
 # Thermodynamic Study of Scalar Quasi‑Bound Thermal Atmosphere near the Horizon of Schwarzschild Black Holes
+
 ## 1. Abstract
 The gravitational potential barrier near the photon sphere of a Schwarzschild black hole can trap massless scalar perturbations and form quasi‑bound resonant modes with finite tunneling lifetime. Under continuous thermal excitation from the Hawking thermal bath, dynamical equilibrium is established between mode tunneling decay and thermal population, sustaining a steady‑state near‑horizon scalar thermal atmosphere outside the horizon. Starting from the Regge‑Wheeler perturbation equation, this paper determines resonant frequencies and tunneling decay widths for low‑order angular modes and constructs the resonant density of states of the system. The statistical entropy of the thermal atmosphere is numerically evaluated within Bose statistics, and the dependence of entropy on the outer radial cutoff thickness is examined. By scanning the black‑hole‑mass parameter, we compare the thermal‑atmosphere entropy with the Bekenstein‑Hawking entropy. The numerical results show that quasi‑bound resonances are significantly excited for small‑mass black holes with high Hawking temperature, such that the atmospheric entropy can be comparable to the intrinsic black‑hole entropy. As the black‑hole mass increases, the Hawking temperature drops and thermal excitation is suppressed; the atmospheric entropy accounts for only a small fraction of black‑hole entropy. Our results indicate that quasi‑bound thermal degrees of freedom outside the horizon can contribute non‑negligibly to the total thermodynamic entropy of small black holes.
 
@@ -53,7 +54,7 @@ $$
 
 A potential barrier forms near the photon sphere. Modes with frequencies below the barrier peak undergo quasi‑trapping. Quasi‑bound resonances are described by complex frequencies $`\omega=\omega_R-i\Gamma/2`$, where $`\omega_R`$ is the real resonant frequency and $`\Gamma`$ denotes the tunneling decay width.
 
-![Figure 1: Regge‑Wheeler effective potential](../art-appreciation/images/rw_potential.png)
+![Figure 1: Regge‑Wheeler effective potential](../art-appreciation/images/rw_potential_fig2.png)
 *Figure 1: Regge‑Wheeler effective potential $`V_\ell(r_*)`$ for angular indices $`\ell=0,1,2`$. The potential barrier arises near the photon sphere and traps scalar quasi‑bound resonant modes, forming the dynamical foundation of the near‑horizon thermal atmosphere.*
 
 ### 2.2 Construction of Resonant Density of States
@@ -107,7 +108,7 @@ $$
 
 To test the outer‑boundary sensitivity of our results, we introduce a geometric cutoff thickness $`\delta_{\rm geo}`$ and vary the outer radial integration boundary to examine convergence behavior of $`S_{\rm atm}`$.
 
-![Figure 3: Thermal‑film entropy versus geometric cutoff thickness](../art-appreciation/images/film_cutoff.png)
+![Figure 3: Thermal‑film entropy versus geometric cutoff thickness](../art-appreciation/images/two_panel_fixed_nan.png)
 *Figure 3: Thermal‑film entropy as a function of geometric cutoff thickness $`\delta_{\rm geo}`$. The Bekenstein‑Hawking entropy and total entropy are also plotted. Results show that atmospheric entropy is insensitive to the outer radial cutoff and exhibits good convergence. The inset provides a schematic diagram for the near‑horizon thermal‑film picture.*
 
 ### 2.4 Black‑Hole‑Mass Scanning Scheme
@@ -133,6 +134,7 @@ Small‑mass black holes at $`M\sim0.5`$ possess high Hawking temperature, quasi
 
 ## 4. Model Self‑Consistency and Physical Constraints
 Our model contains several key assumptions and limitations:
+
 1. The thermal atmosphere is a **dynamical steady‑state system**: quasi‑bound modes continuously tunnel into the horizon and infinity; steady‑state balance is maintained via continuous replenishment from the Hawking thermal bath, instead of static bound clouds.
 2. Only massless scalar fields are considered; contributions from vector and spinor fields are omitted.
 3. Only low‑order angular modes $`\ell=0,1,2`$ are adopted. Higher‑angular‑order modes have excessively high resonant frequencies and negligible thermal excitation and are not included.
