@@ -23,7 +23,7 @@ We are not in the past. We are not in the future. We are here, now.
 
 **This is the Equal System.**
 
----
+<br>
 
-**License**: MIT  
-**Full Text**: https://github.com/maxlanceund/equal-system
+**License**:  CC BY-NC 4.0
+
