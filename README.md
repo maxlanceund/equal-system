@@ -153,6 +153,7 @@
 | [木星引力异常问题（学术版）](papers/jupiter_dilute_core-cn.md) | [Jupiter's Gravity Anomaly (Academic Version)](papers/jupiter_dilute_core-en.md) |
 | [中子星与黑洞观测分析（学术版）](papers/neutron_blackhole_analysis-cn.md) | [Observational Analysis of Neutron Stars and Black Holes (Academic Version)](papers/neutron_blackhole_analysis-en.md) |
 | [核聚变反应流体模型（学术版）](papers/fusion-fluid-model-cn.md) | [Fusion Reactor Fluid Model (Academic Version)](papers/fusion-fluid-model-en.md) |
+| [黑洞流体芯模型（学术版）](papers/Black-Hole-Fluid-Core-Model-cn.md) | [Black Hole Fluid Core Model (Academic Version)](papers/Black-Hole-Fluid-Core-Model-en.md) |
 
 <br>
 <hr>
