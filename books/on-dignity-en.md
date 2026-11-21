@@ -194,3 +194,13 @@ Yet my kingdom is within the Kingdom of God.
 ### Epilogue
 
 This book is dedicated solely to philosophy.
+
+<br>
+
+<br>
+
+---
+
+**License**:  CC BY-NC 4.0
+
+
