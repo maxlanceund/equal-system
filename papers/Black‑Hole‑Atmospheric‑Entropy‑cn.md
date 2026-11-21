@@ -42,7 +42,7 @@ $$
 径向扰动满足Regge‑Wheeler一维波动方程
 
 $$
-\left(-\frac{\partial^2}{\partial t^2}+\frac{\partial^2}{\partial r_*^2}-V_\ell(r_*)\right)\Psi = 0
+-\frac{\partial^2 \Psi}{\partial t^2}+\frac{\partial^2 \Psi}{\partial r_*^2}-V_\ell(r_*)\Psi = 0
 $$
 
 有效势表达式：
