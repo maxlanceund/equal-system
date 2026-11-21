@@ -96,23 +96,23 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [意义极限论（学术版）](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning (Academic Version)](papers/meaning-limit-theory-academic-en.md) |
-| [边界加速（学术版）](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration (Academic Version)](papers/boundary-acceleration-academic-en.md) |
-| [不确定性吞没（学术版）](papers/uncertainty-subsumption-cn.md) | [Uncertainty Subsumption (Academic Version)](papers/uncertainty-subsumption-en.md) |
-| [信号、交换与制度稳定性（学术版）](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability (Academic Version)](papers/signal-exchange-and-system-stability-en.md) |
-| [有限区间原则（学术版）](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited-Interval Principle (Academic Version)](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
-| [生存强制力与美国工业衰退（学术版）](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline (Academic Version)](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
-| [存在性确认与性别不对称（学术版）](papers/existential-confirmation-cn.md) | [Existential Confirmation and Gender Asymmetry (Academic Version)](papers/existential-confirmation-en.md) |
-| [善，美德与正义的无定义（学术版）](papers/the-undefinability-of-goodness-virtue-and-justice-cn.md) | [The Undefinability of Goodness, Virtue, and Justice (Academic Version)](papers/the-undefinability-of-goodness-virtue-and-justice-en.md) |
-| [边界之外（学术版）](papers/Beyond-the-Boundary-academic-cn.md) | [Beyond the Boundary (Academic Version)](papers/Beyond-the-Boundary-academic-en.md) |
-| [经验世界，永恒真理（学术版）](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth (Academic Version)](papers/empirical-world-eternal-truth-academic-en.md) |
-| [拒绝哲学论（学术版）](papers/The_Philosophy_of_Refusal-cn.md) | [The Philosophy of Refusal (Academic Version)](papers/The_Philosophy_of_Refusal-en.md) |
-| [地理哲学论（学术版）](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint (Academic Version)](papers/geography-philosophy-en.md) |
-| [哲学家死亡的缺失感（学术版）](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers (Academic Version)](papers/death-of-philosophers-en.md) |
-| [绝对他者（学术版）](papers/absolute-other-cn.md) | [The Absolute Other (Academic Version)](papers/absolute-other-en.md) |
-| [关系即死亡（学术版）](papers/Relation-Is-Immortality-cn.md) | [Relation Is Death (Academic Version)](papers/Relation-Is-Immortality-en.md) |
-| [存在主义黑洞（学术版）](papers/Existential_Black_Hole-cn.md) | [The Existential Black Hole (Academic Version)](papers/Existential_Black_Hole-en.md) |
-| [死寂均衡（学术版）](papers/dead-equilibrium_cn.md) | [Dead Equilibrium (Academic Version)](papers/dead-equilibrium_en.md) |
+| [意义极限论](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning](papers/meaning-limit-theory-academic-en.md) |
+| [边界加速](papers/boundary-acceleration-academic-cn.md) | [Boundary Acceleration](papers/boundary-acceleration-academic-en.md) |
+| [不确定性吞没](papers/uncertainty-subsumption-cn.md) | [Uncertainty Subsumption](papers/uncertainty-subsumption-en.md) |
+| [信号、交换与制度稳定性](papers/signal-exchange-and-system-stability-zh.md) | [Signal, Exchange, and System Stability](papers/signal-exchange-and-system-stability-en.md) |
+| [有限区间原则](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_zh.md) | [Limited‑Interval Principle](https://github.com/maxlanceund/equal-system/blob/main/papers/limited-interval-principle_en.md) |
+| [生存强制力与美国工业衰退](papers/survival-compulsion-and-us-industrial-decline-academic-cn.md) | [Survival Compulsion and U.S. Industrial Decline](papers/survival-compulsion-and-us-industrial-decline-academic-en.md) |
+| [存在性确认与性别不对称](papers/existential-confirmation-cn.md) | [Existential Confirmation and Gender Asymmetry](papers/existential-confirmation-en.md) |
+| [善，美德与正义的无定义](papers/the-undefinability-of-goodness-virtue-and-justice-cn.md) | [The Undefinability of Goodness, Virtue, and Justice](papers/the-undefinability-of-goodness-virtue-and-justice-en.md) |
+| [边界之外](papers/Beyond-the-Boundary-academic-cn.md) | [Beyond the Boundary](papers/Beyond-the-Boundary-academic-en.md) |
+| [经验世界，永恒真理](papers/empirical-world-eternal-truth-academic-cn.md) | [Empirical World, Eternal Truth](papers/empirical-world-eternal-truth-academic-en.md) |
+| [拒绝哲学论](papers/The_Philosophy_of_Refusal-cn.md) | [The Philosophy of Refusal](papers/The_Philosophy_of_Refusal-en.md) |
+| [地理哲学论](papers/geography-philosophy-cn.md) | [Geography as Philosophical Constraint](papers/geography-philosophy-en.md) |
+| [哲学家死亡的缺失感](papers/death-of-philosophers-cn.md) | [The Sense of Loss at the Death of Philosophers](papers/death-of-philosophers-en.md) |
+| [绝对他者](papers/absolute-other-cn.md) | [The Absolute Other](papers/absolute-other-en.md) |
+| [关系即死亡](papers/Relation-Is-Immortality-cn.md) | [Relation Is Death](papers/Relation-Is-Immortality-en.md) |
+| [存在主义黑洞](papers/Existential_Black_Hole-cn.md) | [The Existential Black Hole](papers/Existential_Black_Hole-en.md) |
+| [死寂均衡](papers/dead-equilibrium_cn.md) | [Dead Equilibrium](papers/dead-equilibrium_en.md) |
 
 
 
@@ -122,13 +122,13 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [国强与民松（学术版）](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong (Academic Version)](papers/Guoqiang_Minsong_en.md) |
-| [紧绷即底气（学术版）](papers/paper_resilience_zh.md) | [Resilience in Tension (Academic Version)](papers/paper_resilience_en.md) |
-| [中美结构性终局（学术版）](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry (Academic Version)](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
-| [定力与出清（学术版）](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing (Academic Version)](papers/structural-trap-and-monetary-standoff-en.md) |
-| [结构与数据（学术版）](papers/Structure_and_Data_cn.md) | [Structure and Data (Academic Version)](papers/Structure_and_Data_en.md) |
-| [分散性死均衡（学术版）](papers/dispersed-dead-equilibrium-cn-v1.9.md) | [Dispersed Dead Equilibrium (Academic Version)](papers/dispersed-dead-equilibrium-en-v1.9.md) |
-| [实物资产、货币流向与结构性防御（学术版）](papers/physical-assets-defense-cn.md) | [Physical Assets, Monetary Flow, and Structural Defense (Academic Version)](papers/physical-assets-defense-en.md) |
+| [国强与民松](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong](papers/Guoqiang_Minsong_en.md) |
+| [紧绷即底气](papers/paper_resilience_zh.md) | [Resilience in Tension](papers/paper_resilience_en.md) |
+| [中美结构性终局](papers/the_structural_endgame_of_us‑china_rivalry_cn.md) | [The Structural Endgame of U.S.‑China Rivalry](papers/the_structural_endgame_of_us‑china_rivalry_en.md) |
+| [定力与出清](papers/structural‑trap‑and‑monetary‑standoff‑cn.md) | [Resolve and Clearing](papers/structural‑trap‑and‑monetary‑standoff‑en.md) |
+| [结构与数据](papers/Structure_and_Data_cn.md) | [Structure and Data](papers/Structure_and_Data_en.md) |
+| [分散性死均衡](papers/dispersed‑dead‑equilibrium‑cn‑v1.9.md) | [Dispersed Dead Equilibrium](papers/dispersed‑dead‑equilibrium‑en‑v1.9.md) |
+| [实物资产、货币流向与结构性防御](papers/physical‑assets‑defense‑cn.md) | [Physical Assets, Monetary Flow, and Structural Defense](papers/physical‑assets‑defense‑en.md) |
 
 <br>
 
@@ -136,11 +136,11 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [论不可逆性的结构性来源（学术版）](papers/Structural_Source_of_Irreversibility-cn.md) | [On the Structural Source of Irreversibility (Academic Version)](papers/Structural_Source_of_Irreversibility-en.md) |
-| [信息丢失的一个后果（学术版）](papers/InfoLoss_CommonOrigin-cn.md) | [One Consequence of Information Loss (Academic Version)](papers/InfoLoss_CommonOrigin-en.md) |
-| [宏观描述的信息损失率（学术版）](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-cn.md) | [Information Loss Rate of Macroscopic Descriptions (Academic Version)](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-en.md) |
-| [信息投影框架（学术版）](papers/information_projection_framework-cn.md) | [Information Projection Framework (Academic Version)](papers/information_projection_framework-en.md) |
-| [神经网络中的纠错码结构（学术版）](papers/neural-error-correction-cn.md) | [Error-Correcting Code Structure in Neural Networks (Academic Version)](papers/neural-error-correction-en.md) |
+| [论不可逆性的结构性来源](papers/Structural_Source_of_Irreversibility‑cn.md) | [On the Structural Source of Irreversibility](papers/Structural_Source_of_Irreversibility‑en.md) |
+| [信息丢失的一个后果](papers/InfoLoss_CommonOrigin‑cn.md) | [One Consequence of Information Loss](papers/InfoLoss_CommonOrigin‑en.md) |
+| [宏观描述的信息损失率](papers/Information_Loss_Rate_of_Macroscopic_Descriptions‑cn.md) | [Information Loss Rate of Macroscopic Descriptions](papers/Information_Loss_Rate_of_Macroscopic_Descriptions‑en.md) |
+| [信息投影框架](papers/information_projection_framework‑cn.md) | [Information Projection Framework](papers/information_projection_framework‑en.md) |
+| [神经网络中的纠错码结构](papers/neural‑error‑correction‑cn.md) | [Error‑Correcting Code Structure in Neural Networks](papers/neural‑error‑correction‑en.md) |
 
 <br>
 
@@ -148,13 +148,14 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [黑洞信息擦除模型（学术版）](papers/black-hole-erasure_cn.md) | [Black Hole Erasure Model (Academic Version)](papers/black-hole-erasure_en.md) |
-| [有限容量本体论（学术版）](<papers/nano finite-capacity-ontology-cn.md>) | [Finite-Capacity Ontology (Academic Version)](<papers/nano finite-capacity-ontology-en.md>) |
-| [木星引力异常问题（学术版）](papers/jupiter_dilute_core-cn.md) | [Jupiter's Gravity Anomaly (Academic Version)](papers/jupiter_dilute_core-en.md) |
-| [中子星与黑洞观测分析（学术版）](papers/neutron_blackhole_analysis-cn.md) | [Observational Analysis of Neutron Stars and Black Holes (Academic Version)](papers/neutron_blackhole_analysis-en.md) |
-| [核聚变反应流体模型（学术版）](papers/fusion-fluid-model-cn.md) | [Fusion Reactor Fluid Model (Academic Version)](papers/fusion-fluid-model-en.md) |
-| [黑洞流体芯模型（学术版）](papers/Black-Hole-Fluid-Core-Model.cn.md) | [Black Hole Fluid Core Model (Academic Version)](papers/Black-Hole-Fluid-Core-Model.en.md) |
+| [黑洞信息擦除模型](papers/black‑hole‑erasure_cn.md) | [Black Hole Erasure Model](papers/black‑hole‑erasure_en.md) |
+| [有限容量本体论](<papers/nano finite‑capacity‑ontology‑cn.md>) | [Finite‑Capacity Ontology](<papers/nano finite‑capacity‑ontology‑en.md>) |
+| [木星引力异常问题](papers/jupiter_dilute_core‑cn.md) | [Jupiter's Gravity Anomaly](papers/jupiter_dilute_core‑en.md) |
+| [中子星与黑洞观测分析](papers/neutron_blackhole_analysis‑cn.md) | [Observational Analysis of Neutron Stars and Black Holes](papers/neutron_blackhole_analysis‑en.md) |
+| [核聚变反应流体模型](papers/fusion‑fluid‑model‑cn.md) | [Fusion Reactor Fluid Model](papers/fusion‑fluid‑model‑en.md) |
+| [黑洞流体芯模型](papers/Black‑Hole‑Fluid‑Core‑Model.cn.md) | [Black Hole Fluid Core Model](papers/Black‑Hole‑Fluid‑Core‑Model.en.md) |
 | [史瓦西黑洞热大气](papers/Black‑Hole‑Atmospheric‑Entropy‑cn.md) | [Scalar Quasi‑Bound Thermal Atmosphere](papers/Black‑Hole‑Atmospheric‑Entropy‑en.md) |
+
 
 <br>
 <hr>
