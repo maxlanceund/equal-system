@@ -93,6 +93,7 @@
 *（其他论文请参阅各自文档页的引用信息。）*
 
 <br>
+
 | 中文 | English |
 | :--- | :--- |
 | [意义极限论](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning](papers/meaning-limit-theory-academic-en.md) |
