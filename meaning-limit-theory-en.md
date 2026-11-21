@@ -1,16 +1,18 @@
----
-title: "Limit Theory of Meaning"
-author: "Max Lance"
-version: "1.0"
-date: "2026-08-23"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "MIT"
-keywords: [Limit Theory of Meaning, meaning, boundary, zeroing, motion, cost theory, verifiability]
+| Project | Content |
+| :--- | :--- |
+| **Title** | Limit Theory of Meaning |
+| **Author** | Max Lance |
+| **Version** | 1.0 |
+| **Date** | 2026‑08‑23 |
+| **License** | CC BY‑NC 4.0 |
+| **Keywords** | Limit Theory of Meaning, meaning, boundary, zeroing, motion, cost theory, verifiability |
+
 ---
 
 <br>
 
 # Limit Theory of Meaning
+
 
 ## Abstract
 
