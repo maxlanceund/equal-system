@@ -2,7 +2,7 @@
 | :--- | :--- |
 | **Title** | Physical Assets, Monetary Flow, and Structural Defense: An Analysis of China's Fiscal Path to Cross the "Latin American Trap" |
 | **Author** | Zhong Shanzhen |
-| **Date** | 2026-11-07 (Version 2.0) |
+| **Date** | 2026-11-07 |
 | **License** | CC BY-NC 4.0 |
 | **Keywords** | Latin American Trap, Physical Assets, Monetary Flow, Structural Defense, Internal Absorption Growth |
 
