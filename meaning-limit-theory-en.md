@@ -225,5 +225,3 @@ The rest belongs to silence.
 
 This framework is based on a personal path of thought, not on external experiments or literature. Its validity is to be verified by the user themselves, not by external authority. It is a definitional convention, not a universal claim.
 
-**License**: MIT  
-**Repository**: https://github.com/maxlanceund/equal-system
