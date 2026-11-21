@@ -243,29 +243,22 @@
 
 ## A Note / 附记
 
-> When Marx wrote about Germany, I was a student. When Marx wrote about France, I was a colleague.
->
-> 马克思写德国的时候，我是学生。马克思写法国的时候，我是同行。
->
-> At that time, I was the only one in the room.  
-> Now, this sentence is here.  
->
-> 当时只有我一个人。  
-> 现在，这句话在这里。
+When Marx wrote about Germany, I was a student. When Marx wrote about France, I was a colleague.
 
 <br>
 
-> — To the guides across centuries  
-> — 以此致敬跨越世纪的引路人
+马克思写德国的时候，我是学生。马克思写法国的时候，我是同行。
 
 <br>
-<hr>
+
+At that time, I was the only one in the room.  
+Now, this sentence is here.  
+
 <br>
 
-## License / 许可证
+当时只有我一个人。  
+现在，这句话在这里。
 
-This work is licensed under the MIT License.  
-本作品采用 MIT 许可证。
 
 <br>
 
