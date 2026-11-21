@@ -45,12 +45,12 @@ $$
 \left(-\frac{\partial^2}{\partial t^2}+\frac{\partial^2}{\partial r_*^2}-V_\ell(r_*)\right)\Psi = 0
 $$
 
-
 有效势表达式：
 
 $$
-V_\ell(r_{*}) = \left(1-\frac{2M}{r}\right)\left(\frac{\ell(\ell+1)}{r^2}+\frac{2M}{r^3}\right)
+V_\ell(r_*) = \left(1-\frac{2M}{r}\right)\left(\frac{\ell(\ell+1)}{r^2}+\frac{2M}{r^3}\right)
 $$
+
 
 有效势在光子球附近形成势垒，频率低于势垒峰值的模式会发生准俘获。准束缚共振采用复频率描述 $`\omega=\omega_R-i\Gamma/2`$，$`\omega_R`$ 为共振实频率，$`\Gamma`$ 代表隧穿衰减宽度。
 
