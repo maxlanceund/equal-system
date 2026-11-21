@@ -93,7 +93,6 @@
 *（其他论文请参阅各自文档页的引用信息。）*
 
 <br>
-
 | 中文 | English |
 | :--- | :--- |
 | [意义极限论](papers/meaning-limit-theory-academic-cn.md) | [On the Limits of Meaning](papers/meaning-limit-theory-academic-en.md) |
@@ -155,6 +154,7 @@
 | [核聚变反应流体模型](papers/fusion‑fluid‑model‑cn.md) | [Fusion Reactor Fluid Model](papers/fusion‑fluid‑model‑en.md) |
 | [黑洞流体芯模型](papers/Black‑Hole‑Fluid‑Core‑Model.cn.md) | [Black Hole Fluid Core Model](papers/Black‑Hole‑Fluid‑Core‑Model.en.md) |
 | [史瓦西黑洞热大气](papers/Black‑Hole‑Atmospheric‑Entropy‑cn.md) | [Scalar Quasi‑Bound Thermal Atmosphere](papers/Black‑Hole‑Atmospheric‑Entropy‑en.md) |
+
 
 
 <br>
