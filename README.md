@@ -85,10 +85,6 @@
 
 ## Academic Paper / 学术论文
 
-**Suggested Citation / 建议引用**:
-
-> Lance, Max. (2026).*The Limited-Interval Principle: A Recurrent Structure in Life, Institutions, and Media*. Equal System Repository. https://github.com/maxlanceund/equal-system
-
 *(For other papers, please refer to the specific paper page.)*  
 *（其他论文请参阅各自文档页的引用信息。）*
 
