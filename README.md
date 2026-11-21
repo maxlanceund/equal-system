@@ -16,10 +16,6 @@
 
 ## Monograph / 专著
 
-> *"Life is a structural tragedy. The philosopher is the one who sees it clearly, and still has the courage to write this structure out."*
-> 
-> **人生就是一种结构性的悲哀，而哲学家就是看清这种结构性悲哀，必须依然有勇气去把这个结构写出来的人。**
-
 <br>
 
 ### 1. On Dignity / 《论尊严》
