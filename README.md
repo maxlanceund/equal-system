@@ -121,7 +121,7 @@
 | [结构与数据](papers/Structure_and_Data_cn.md) | [Structure and Data](papers/Structure_and_Data_en.md) |
 | [分散性死均衡](papers/dispersed-dead-equilibrium-cn-v1.9.md) | [Dispersed Dead Equilibrium](papers/dispersed-dead-equilibrium-en-v1.9.md) |
 | [实物资产结构性防御](papers/physical-assets-defense-cn.md) | [Physical‑Asset Structural Defense](papers/physical-assets-defense-en.md) |
-| [古典经济与利率](papers/InterestRatesandtheEconomy‑cn.md) | [Classical Economics and Interest Rates](papers/InterestRatesandtheEconomy‑en.md) |
+| [古典经济与利率](papers/InterestRatesandtheEconomy-cn.md) | [Classical Economics and Interest Rates](papers/InterestRatesandtheEconomy-en.md) |
 
 <br>
 
