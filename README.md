@@ -168,7 +168,7 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [窄门之外的虚无：一场关于绝对他者的宇宙终局](narrative/the-void-beyond-the-narrow-gate-cn.md) | [The Void Beyond the Narrow Gate: A Cosmic Endgame of the Absolute Other](narrative/the-void-beyond-the-narrow-gate-en.md) |
+| [窄门之外的虚无](narrative/the-void-beyond-the-narrow-gate-cn.md) | [The Void Beyond the Narrow Gate](narrative/the-void-beyond-the-narrow-gate-en.md) |
 
 <br>
 <hr>
