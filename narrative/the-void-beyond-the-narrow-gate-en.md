@@ -77,7 +77,8 @@ The short philosopher broke the silence: "Philosophy itself does not depend on a
 "Truth can confirm truth; only truth can confirm truth." Another philosopher raised his hand, his tone extremely serious. "Then we should reach a consensus—truth itself does not depend on any authority, nor does it depend on morality. Truth is singular, and it must be revered."
 
 Looking at the now-lukewarm coffee in our hands, we understood Socrates' proverb with extreme depth:
-> **"The only thing I know is that I know nothing. We should hold a sense of awe toward this world."**
+
+ **"The only thing I know is that I know nothing. We should hold a sense of awe toward this world."**
 
 Anyone who attempts to cross the boundary and seek false immortality will ultimately be shattered before the iron laws of the universe. Only those who acknowledge their finitude and accept death possess the dignity of a true closed loop in the macro-universe.
 
@@ -96,7 +97,8 @@ With that, we shrugged, turned around with extreme ease, and each walked into th
 
 The believers left behind, under the vast starry sky, erupted with a power beyond rationality. They cried out: "Great Lord Jesus, Jehovah, Holy Son of God..."
 They opened the Bible with worn edges and recited, with extreme piety and tragedy, the verses that had flowed for thousands of years:
-> *"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me..."*
+
+*"Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me..."*
 
 The macro-universe's night wind was extremely piercing. The final entropy increase surged like a tide. Black holes began to frantically devour and release their final afterglow. The macro-universe welcomed its grand, ultimate extinguishing. All information was finally flattened onto the two-dimensional holographic boundary, becoming an undecryptable black box.
 
@@ -105,3 +107,9 @@ But at the moment when the philosophers' laughter and the believers' prayers int
 
 The universe extinguished, returning to silence.
 And that "bye-bye" became the last trace of human warmth in the macro-universe.
+
+<br>
+
+**License**:  CC BY-NC 4.0
+
+
