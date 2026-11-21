@@ -241,25 +241,6 @@
 <br>
 
 
-## A Note / 附记
-
-When Marx wrote about Germany, I was a student. When Marx wrote about France, I was a colleague.
-
-<br>
-
-马克思写德国的时候，我是学生。马克思写法国的时候，我是同行。
-
-<br>
-
-At that time, I was the only one in the room.  
-Now, this sentence is here.  
-
-<br>
-
-当时只有我一个人。  
-现在，这句话在这里。
-
-
 <br>
 
 ## Learning English / 学英语
@@ -271,3 +252,9 @@ Now, this sentence is here.
 ## Art Appreciation / 艺术鉴赏
 
 [→ 进入 / Enter](./art-appreciation)
+
+
+
+<br>
+<hr>
+<br>
