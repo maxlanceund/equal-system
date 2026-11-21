@@ -1,16 +1,18 @@
----
-title: "Equal System: A Social Structure Design for the Post-Scarcity Era"
-author: "Max Lance"
-version: "1.0"
-date: "2026-06"
-repository: "https://github.com/maxlanceund/equal-system"
-license: "MIT"
-keywords: [Equal System, post-scarcity, subsistence rights, private property, survival compulsion, Limit Theory of Meaning]
+| Project | Content |
+| :--- | :--- |
+| **Title** | Equal System: A Social Structure Design for the Post‑Scarcity Era |
+| **Author** | Max Lance |
+| **Version** | 1.0 |
+| **Date** | 2026‑06 |
+| **Repository** | https://github.com/maxlanceund/equal‑system |
+| **License** | MIT |
+| **Keywords** | Equal System, post‑scarcity, subsistence rights, private property, survival compulsion, Limit Theory of Meaning |
+
 ---
 
 <br>
 
-# Equal System: A Social Structure Design for the Post-Scarcity Era
+# Equal System: A Social Structure Design for the Post‑Scarcity Era
 
 ## Abstract
 
