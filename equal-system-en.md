@@ -173,7 +173,3 @@ This design is derived from the "Limit Theory of Meaning" framework and has not 
 
 Its value lies not in "having been realized," but in being "considerable as an operable option in the foreseeable future."
 
-## License: 
-MIT  
-## Repository: 
-https://github.com/maxlanceund/equal-system
