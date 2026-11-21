@@ -124,11 +124,11 @@
 | :--- | :--- |
 | [国强与民松](papers/Guoqiang_Minsong_cn.md) | [Guoqiang and Minsong](papers/Guoqiang_Minsong_en.md) |
 | [紧绷即底气](papers/paper_resilience_zh.md) | [Resilience in Tension](papers/paper_resilience_en.md) |
-| [中美结构性终局](papers/the_structural_endgame_of_us‑china_rivalry_cn.md) | [The Structural Endgame of U.S.‑China Rivalry](papers/the_structural_endgame_of_us‑china_rivalry_en.md) |
-| [定力与出清](papers/structural‑trap‑and‑monetary‑standoff‑cn.md) | [Resolve and Clearing](papers/structural‑trap‑and‑monetary‑standoff‑en.md) |
+| [中美结构性终局](papers/the_structural_endgame_of_us-china_rivalry_cn.md) | [The Structural Endgame of U.S.-China Rivalry](papers/the_structural_endgame_of_us-china_rivalry_en.md) |
+| [定力与出清](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing](papers/structural-trap-and-monetary-standoff-en.md) |
 | [结构与数据](papers/Structure_and_Data_cn.md) | [Structure and Data](papers/Structure_and_Data_en.md) |
-| [分散性死均衡](papers/dispersed‑dead‑equilibrium‑cn‑v1.9.md) | [Dispersed Dead Equilibrium](papers/dispersed‑dead‑equilibrium‑en‑v1.9.md) |
-| [实物资产、货币流向与结构性防御](papers/physical‑assets‑defense‑cn.md) | [Physical Assets, Monetary Flow, and Structural Defense](papers/physical‑assets‑defense‑en.md) |
+| [分散性死均衡](papers/dispersed-dead-equilibrium-cn-v1.9.md) | [Dispersed Dead Equilibrium](papers/dispersed-dead-equilibrium-en-v1.9.md) |
+| [实物资产、货币流向与结构性防御](papers/physical-assets-defense-cn.md) | [Physical Assets, Monetary Flow, and Structural Defense](papers/physical-assets-defense-en.md) |
 
 <br>
 
@@ -136,11 +136,11 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [论不可逆性的结构性来源](papers/Structural_Source_of_Irreversibility‑cn.md) | [On the Structural Source of Irreversibility](papers/Structural_Source_of_Irreversibility‑en.md) |
-| [信息丢失的一个后果](papers/InfoLoss_CommonOrigin‑cn.md) | [One Consequence of Information Loss](papers/InfoLoss_CommonOrigin‑en.md) |
-| [宏观描述的信息损失率](papers/Information_Loss_Rate_of_Macroscopic_Descriptions‑cn.md) | [Information Loss Rate of Macroscopic Descriptions](papers/Information_Loss_Rate_of_Macroscopic_Descriptions‑en.md) |
-| [信息投影框架](papers/information_projection_framework‑cn.md) | [Information Projection Framework](papers/information_projection_framework‑en.md) |
-| [神经网络中的纠错码结构](papers/neural‑error‑correction‑cn.md) | [Error‑Correcting Code Structure in Neural Networks](papers/neural‑error‑correction‑en.md) |
+| [论不可逆性的结构性来源](papers/Structural_Source_of_Irreversibility-cn.md) | [On the Structural Source of Irreversibility](papers/Structural_Source_of_Irreversibility-en.md) |
+| [信息丢失的一个后果](papers/InfoLoss_CommonOrigin-cn.md) | [One Consequence of Information Loss](papers/InfoLoss_CommonOrigin-en.md) |
+| [宏观描述的信息损失率](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-cn.md) | [Information Loss Rate of Macroscopic Descriptions](papers/Information_Loss_Rate_of_Macroscopic_Descriptions-en.md) |
+| [信息投影框架](papers/information_projection_framework-cn.md) | [Information Projection Framework](papers/information_projection_framework-en.md) |
+| [神经网络中的纠错码结构](papers/neural-error-correction-cn.md) | [Error‑Correcting Code Structure in Neural Networks](papers/neural-error-correction-en.md) |
 
 <br>
 
@@ -148,13 +148,14 @@
 
 | 中文 | English |
 | :--- | :--- |
-| [黑洞信息擦除模型](papers/black‑hole‑erasure_cn.md) | [Black Hole Erasure Model](papers/black‑hole‑erasure_en.md) |
-| [有限容量本体论](<papers/nano finite‑capacity‑ontology‑cn.md>) | [Finite‑Capacity Ontology](<papers/nano finite‑capacity‑ontology‑en.md>) |
-| [木星引力异常问题](papers/jupiter_dilute_core‑cn.md) | [Jupiter's Gravity Anomaly](papers/jupiter_dilute_core‑en.md) |
-| [中子星与黑洞观测分析](papers/neutron_blackhole_analysis‑cn.md) | [Observational Analysis of Neutron Stars and Black Holes](papers/neutron_blackhole_analysis‑en.md) |
-| [核聚变反应流体模型](papers/fusion‑fluid‑model‑cn.md) | [Fusion Reactor Fluid Model](papers/fusion‑fluid‑model‑en.md) |
-| [黑洞流体芯模型](papers/Black‑Hole‑Fluid‑Core‑Model.cn.md) | [Black Hole Fluid Core Model](papers/Black‑Hole‑Fluid‑Core‑Model.en.md) |
+| [黑洞信息擦除模型](papers/black-hole-erasure_cn.md) | [Black Hole Erasure Model](papers/black-hole-erasure_en.md) |
+| [有限容量本体论](<papers/nano finite-capacity-ontology-cn.md>) | [Finite‑Capacity Ontology](<papers/nano finite-capacity-ontology-en.md>) |
+| [木星引力异常问题](papers/jupiter_dilute_core-cn.md) | [Jupiter's Gravity Anomaly](papers/jupiter_dilute_core-en.md) |
+| [中子星与黑洞观测分析](papers/neutron_blackhole_analysis-cn.md) | [Observational Analysis of Neutron Stars and Black Holes](papers/neutron_blackhole_analysis-en.md) |
+| [核聚变反应流体模型](papers/fusion-fluid-model-cn.md) | [Fusion Reactor Fluid Model](papers/fusion-fluid-model-en.md) |
+| [黑洞流体芯模型](papers/Black-Hole-Fluid-Core-Model.cn.md) | [Black Hole Fluid Core Model](papers/Black‑Hole‑Fluid‑Core‑Model.en.md) |
 | [史瓦西黑洞热大气](papers/Black‑Hole‑Atmospheric‑Entropy‑cn.md) | [Scalar Quasi‑Bound Thermal Atmosphere](papers/Black‑Hole‑Atmospheric‑Entropy‑en.md) |
+
 
 
 
