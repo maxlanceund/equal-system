@@ -4,8 +4,7 @@
 | **Author** | Max Lance |
 | **Version** | 1.0 |
 | **Date** | 2026‑06 |
-| **Repository** | https://github.com/maxlanceund/equal‑system |
-| **License** | MIT |
+| **License** | CC BY-NC 4.0 |
 | **Keywords** | Equal System, post‑scarcity, subsistence rights, private property, survival compulsion, Limit Theory of Meaning |
 
 ---
