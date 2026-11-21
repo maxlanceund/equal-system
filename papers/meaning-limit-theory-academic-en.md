@@ -36,14 +36,6 @@ Drawing on the verificationist insight—that unverifiable propositions are cogn
 Put plainly: meaning arises within a system’s operational interval (typically its lifespan) through completed feedback cycles (input → processing → output → feedback).
 Any claim extending meaning beyond this interval is not negated, but merely undefined—much like asking for the value of a function outside its domain of definition.
 
-This paper is structured as follows.
-Section 2 situates the theory within historical debates over meaning and verifiability.
-Section 3 defines core notions, introducing key distinctions: immediate‑loop / extended‑loop and primary‑meaning / received‑meaning.
-Section 4 derives the theorem and its corollaries.
-Section 5 addresses possible objections, including the case of sacrifice and Mishima Yukio.
-Section 6 draws practical implications for ethics, religion and personal life.
-Section 7 discusses theoretical limitations and open questions.
-Section 8 concludes with "Silence beyond the Boundary".
 
 ---
 
@@ -149,10 +141,12 @@ Does not the act derive its very point from consequences (the child surviving) t
 Does the Limit‑of‑Meaning Thesis render such acts meaningless?
 
 **Reply**: The framework operates on two levels.
+
 (a) **Primary meaning**: at the moment of sacrifice the mother completes an **immediate closed‑loop**.
 She perceives danger, values the child’s life, and carries out the act.
 Meaning is assigned *at that moment* as she receives internal feedback: "I have done what I ought to do".
 This counts as a meaningful operation within the framework.
+
 (b) **Received meaning**: after surviving, the child, together with witnesses, reads this causal trace $`T_r`$ and generates received meaning belonging to their own interval.
 
 Sacrificial acts are therefore not "meaningless".
@@ -278,4 +272,4 @@ No institutional funding has been received.
 9. Wittgenstein, L. (1953). *Philosophical Investigations*. Oxford: Blackwell.
 
 ## Suggested Citation (APA format):
-Max Lance. (2026). *On the Boundaries of Meaning: A Verificationist Framework* (Version 3.1).
+Max Lance. (2026). *On the Boundaries of Meaning: A Verificationist Framework* .
