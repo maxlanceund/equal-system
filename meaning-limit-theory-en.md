@@ -8,6 +8,8 @@ license: "MIT"
 keywords: [Limit Theory of Meaning, meaning, boundary, zeroing, motion, cost theory, verifiability]
 ---
 
+<br>
+
 # Limit Theory of Meaning
 
 ## Abstract
