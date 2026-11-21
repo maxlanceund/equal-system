@@ -45,6 +45,7 @@ $$
 \left(-\frac{\partial^2}{\partial t^2}+\frac{\partial^2}{\partial r_*^2}-V_\ell(r_*)\right)\Psi = 0
 $$
 
+
 有效势表达式：
 
 $$
