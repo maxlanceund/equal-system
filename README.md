@@ -85,8 +85,6 @@
 
 ## Academic Paper / 学术论文
 
-*(For other papers, please refer to the specific paper page.)*  
-*（其他论文请参阅各自文档页的引用信息。）*
 
 <br>
 
@@ -236,59 +234,12 @@
 | :--- | :--- |
 | [感知者信号模型：系统为何忽视预警？](./hypotheses/perceiver-warning-model_cn.md) | [Perceiver Signal Model: Why Systems Ignore Warnings?](./hypotheses/perceiver-warning-model_en.md) |
 
-<br>
-<hr>
-<br>
 
-## Overview / 概述
-
-本仓库包含一套完整的理论体系 —— **平等制**，一个为后稀缺时代设计的社会结构框架。
-
-该体系从 **意义极限哲学论** 推导而来，其核心命题是：
-
-> 意义是有限系统在有限区间内产生的信号。当外部条件发生变化时，意义的结构会随之改变 —— 因此，制度也必须随之调整。
 
 <br>
 <hr>
 <br>
 
-## Intellectual Lineage / 思想源流
-
-This theory stands on the work of the following thinkers:
-本理论站在以下四位思想家的工作之上：
-
-<br>
-
-| Thinker / 思想家 | Contribution / 贡献 |
-| :--- | :--- |
-| **霍布斯 / Hobbes** | 提供了“生存竞争”作为社会底层逻辑的观察。 / Provided the observation of "the war of all against all" as the underlying logic of society. |
-| **马克思 / Marx** | 提供了“劳动异化”作为现代社会结构性病症的诊断。 / Provided the diagnosis of "alienation of labor" as the structural illness of modern society. |
-| **罗素 / Russell** | 提供了逻辑推导的方法 —— 把复杂命题拆解到最小可验证单位。 / Provided the method of logical analysis — breaking complex propositions into verifiable units. |
-| **维特根斯坦 / Wittgenstein** | 提供了“语言边界”的警觉 —— 区分可说的与不可说的。 / Provided the vigilance of "linguistic boundaries" — distinguishing what can be said from what cannot. |
-
-<br>
-
-> Among them, Marx's influence is the greatest. He showed me the central position of "labor" as a structural problem of society — and made me realize that if a thought only describes the world without attempting to change it, it has not yet completed its journey.
->
-> 其中，马克思的影响是最大的。他让我看到了“劳动”作为社会结构性问题的核心位置 —— 也让我意识到：如果只是描述世界，而不试图改变它，思想就还没有走完它的路。
-
-<br>
-
-### But they all stopped at the same point: / 但他们都停在了同一个地方：
-
-> They did not recognize that **"survival compulsion" is the root of alienation** — and that technology (AI automation, nuclear fusion, space resource extraction) is rendering that compulsion obsolete.
->
-> 他们没有意识到 **“生存强制力”才是异化的根源** —— 而技术（AI自动化、核聚变、太空资源开采）正在使这一强制力失去存在基础。
-
-<br>
-
-**Equal System is what happens when these four lines are twisted together under the condition of technological abundance.**
-
-**平等制是这四条线在技术条件下被拧到一起后的自然产物。**
-
-<br>
-<hr>
-<br>
 
 ## A Note / 附记
 
