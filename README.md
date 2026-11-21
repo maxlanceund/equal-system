@@ -128,7 +128,8 @@
 | [定力与出清](papers/structural-trap-and-monetary-standoff-cn.md) | [Resolve and Clearing](papers/structural-trap-and-monetary-standoff-en.md) |
 | [结构与数据](papers/Structure_and_Data_cn.md) | [Structure and Data](papers/Structure_and_Data_en.md) |
 | [分散性死均衡](papers/dispersed-dead-equilibrium-cn-v1.9.md) | [Dispersed Dead Equilibrium](papers/dispersed-dead-equilibrium-en-v1.9.md) |
-| [实物资产、货币流向与结构性防御](papers/physical-assets-defense-cn.md) | [Physical Assets, Monetary Flow, and Structural Defense](papers/physical-assets-defense-en.md) |
+| [实物资产结构性防御](papers/physical-assets-defense-cn.md) | [Physical‑Asset Structural Defense](papers/physical-assets-defense-en.md) |
+
 
 <br>
 
