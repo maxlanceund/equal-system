@@ -104,8 +104,7 @@
 | [关系即死亡](papers/Relation-Is-Immortality-cn.md) | [Relation Is Death](papers/Relation-Is-Immortality-en.md) |
 | [存在主义黑洞](papers/Existential_Black_Hole-cn.md) | [The Existential Black Hole](papers/Existential_Black_Hole-en.md) |
 | [死寂均衡](papers/dead-equilibrium_cn.md) | [Dead Equilibrium](papers/dead-equilibrium_en.md) |
-| [公权力寄生腐蚀模型](papers/Parasitic‑Corrosion‑Model-cn.md) | [A Model of Parasitic Corruption in Public Power](papers/Parasitic‑Corrosion‑Model-en.md) |
-
+| [公权力寄生腐蚀模型](papers/Parasitic‑Corrosion‑Model‑cn.md) | [A Model of Parasitic Corruption in Public Power](papers/Parasitic‑Corrosion‑Model‑en.md) |
 
 <br>
 
