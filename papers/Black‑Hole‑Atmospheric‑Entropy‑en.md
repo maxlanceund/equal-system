@@ -43,9 +43,10 @@ $$
 
 Radial perturbations obey the one‑dimensional Regge‑Wheeler wave equation
 
-$$
+```math
 \frac{d^2\psi}{d r_{*}^2}+(\omega^2-V_{\ell}(r_{*}))\psi=0
-$$
+```
+
 
 The effective potential is given by:
 
