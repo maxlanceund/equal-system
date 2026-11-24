@@ -212,13 +212,20 @@ All KS and Cramér‑von Mises p‑values are effectively zero. This is a stat
 
 ## References
 
-Abedi, J., Dykaar, H., & Afshordi, N. (2017). Echoes from the Abyss: Tentative evidence for Planck‑scale structure at black hole horizons. *Physical Review D*, 96, 082004.
+Abedi, J., Dykaar, H., & Afshordi, N. (2017). Echoes from the Abyss: Tentative evidence for Planck‑scale structure at black hole horizons.*Physical Review D*, 96, 082004.
+
 Abedi, J., & Afshordi, N. (2018). Echoes from the Abyss: a highly spinning black hole remnant for the binary neutron star merger GW170817. arXiv:1803.10454.
+
 Riley, T. E., et al. (2019). A NICER view of PSR J0030+0451: millisecond pulsar parameter estimation. *The Astrophysical Journal Letters*, 887, L21.
+
 Bauswein, A., & Janka, H.-T. (2012). *Physical Review Letters*, 108, 011101.
 Takami, K., Rezzolla, L., & Baiotti, L. (2014). arXiv:1402.6244.
+
 Bernuzzi, S., Dietrich, T., & Nagar, A. (2015). *Physical Review Letters*, 115, 091101.
 Baiotti, L., Rezzolla, L. (2016). arXiv:1607.03540.
+
 Agathos, M., et al. (2020). arXiv:1908.05442.
+
 Abbott, B. P., et al. (LVK Collaboration) (2017). *The Astrophysical Journal Letters*, 851, L16.
+
 Healy, J., & Couto, H. (2022). Numerical‑relativity fitting formulas for binary‑black‑hole remnant properties.
